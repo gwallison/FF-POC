@@ -23,10 +23,11 @@ import pandas as pd
 
 class Read_FF():
     
-    def __init__(self,zname='./sources/currentData.zip',
+    def __init__(self,zname='./sources/currentData.zip',make_pickle=True,
                  picklefn = './tmp/raw_df_pickle.pkl'):
         self.zname = zname
         self.pickle_fn = picklefn
+        self.make_pickle = make_pickle
         self._get_raw_cols_to_import()
         
     def _get_raw_cols_to_import(self):
@@ -74,7 +75,8 @@ class Read_FF():
         final = pd.concat(dflist,sort=True)
         final.reset_index(drop=True,inplace=True) #  single integer as index
         final['ingkey'] = final.index.astype(int) #  create a basic integer index for easier reference
-        final.to_pickle(self.pickle_fn) # stores the entire raw dataframe in a python pickle
+        if self.make_pickle:
+            final.to_pickle(self.pickle_fn) # stores the entire raw dataframe in a python pickle
         return final
         
     def get_raw_pickle(self):

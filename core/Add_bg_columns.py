@@ -14,10 +14,10 @@ class Add_bg_columns():
     translation files (fieldname_xlate.csv) to create the new columns
     """
     
-    def __init__(self,df):
+    def __init__(self,df,sources='./sources/'):
         self.df = df
         self.fields = ['Supplier','OperatorName','StateName']
-        self.masterdir = './sources/'
+        self.masterdir = sources
         
     def _add_cols(self):
         for field in self.fields:
