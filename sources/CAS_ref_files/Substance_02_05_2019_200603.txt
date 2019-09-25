@@ -1,0 +1,550 @@
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:10049-04-4
+FIELD CA Index Name:Chlorine oxide (ClO2)
+FIELD Other Names:Alcide; Alcide allay; Anthium 200; Anthium Dioxcide; Aqua Care; Biologen; Biosukegawa 1000; Biotalk; Carnelron; Chlorine dioxide; Chlorine dioxide (OClO); Chlorine dioxide radical; Chlorine peroxide; Chlorine(IV) oxide; Chloroperoxyl; Chloryl radical; Clidox; Clidox-S; Diklor; Dioxiclear; Doxcide 50; Dura Klor; EZ Flow; FermaSure; Luxianfeng; MicroClear; OcuPure; Oslon; Oxine; Oxine (bactericide); Purite; Purogene; RenNew D; RetarDEX; RetarDEX (oxidizing agent); Selectrocide; Vibrex
+FIELD Formula:Cl O2
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):1333-81-9, 24518-47-6, 56310-06-6, 69049-77-0, 70134-37-1, 72061-90-6, 74296-11-0, 77546-17-9, 77546-18-0, 93085-22-4, 155808-17-6, 744149-53-9, 807261-60-5, 1002158-67-9, 1014743-76-0, 1018807-91-4, 1428979-52-5
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:10043-52-4
+FIELD CA Index Name:Calcium chloride (CaCl2)
+FIELD Other Names:Calcium chloride (8CI); Bovikalc; CalPlus; Calcium dichloride; Calcium(2+) chloride; Calcosan; Calmate R; Calol; Calzina oral; Chrysoxel C 4; Daraccel; Dowflake; Intergravin-orales; Kalgan; Liquidow; Peladow; Stopit; U-Ramin MC
+FIELD Formula:Ca Cl2
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):139468-93-2
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:10043-35-3
+FIELD CA Index Name:Boric acid (H3BO3)
+FIELD Other Names:Basilit B; Boracic acid; Boric acid; Boric acid (B(OH)3); Borofax; Boron trihydroxide; Bushwhacker; CB BORiD; Dia Flea-Mate; Dr.'s 1 Flea Terminator DF; Dr.'s 1 Flea Terminator DFPBO; Dr.'s 1 Flea Terminator DT; Dr.'s 1 Flea Terminator DTPBO; Entimaden; Flea Prufe; NSC 81726; Niban; Niban Granular Bait; Niban-FG; Nitrate balancer; Optibor; Optibor TP; Orthoboric acid; Orthoboric acid (B(OH)3); Orthoboric acid (H3BO3); Roach Away; Roach Prufe; Super Flea Eliminator; Trihydroxyborane
+FIELD Formula:B H3 O3
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):11113-50-1
+FIELD Deleted Registry Number(s):12795-04-9, 30698-98-7, 2253722-08-4
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:10028-22-5
+FIELD CA Index Name:Sulfuric acid, iron(3+) salt (3:2)
+FIELD Other Names:Iron sulfate (Fe2(SO4)3) (7CI); Amersep 5320; Diiron trisulfate; Diiron(3+) sulfate; FS-Pix; Ferric sulfate; Iron persulfate; Iron sesquisulfate; Iron sulfate (2:3); Iron(3+) sulfate; Iron(III) sulfate; PIX 112; PIX 115; PIX 123; Stat Gel; ViscoStat
+FIELD Formula:Fe . 3/2 H2 O4 S
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):497092-38-3, 1299332-62-9
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:9043-30-5
+FIELD CA Index Name:Poly(oxy-1,2-ethanediyl), α-isotridecyl-ω-hydroxy-
+FIELD Other Names:AEO 5-13; Arlypon IT 10; Arlypon IT 10/80; Arlypon IT 16; Arlypon IT 5; Arlypon IT 8; BC 690; Berol 048; C 13E7; Dehscoxid 732; Dispersant 1307; E 1302; E 1303; E 1305; E 1307; E 1309; E 1310; E 1310 (surfactant); E 1312; Emulsifier 1303; Emulsifier 1305; Emulsifier 1307; Emulsifier 1309; Emulsifier 1350; Emulsifier 1370; Ethox 2400; Ethox TDA 9; Ethoxylated isotridecanol; Ethoxylated isotridecyl alcohol; Eusapon S; Exxal F 5716; Fansmax IDA 70; Genapol V 4739; Genapol X; Genapol X 020; Genapol X 030; Genapol X 050; Genapol X 060; Genapol X 080; Genapol X 100; Genapol X 1005; Genapol X 150; Genapol X 360; Genapol X 80; Gezetol 138; HB 1380; Imbentin T 050; Imbentin T 060; Imbentin T 100; Imbentin T 120; Imbentin T 200; Iso-tridecanol polyoxyethylene ether; Isotridecanol ethoxylate; Isotrideceth 15; Leocol TD 120; Leocol TD 150; Leocol TD 50; Leocol TD 90; Leocol TDA 400-75; Lexxiso 1302; Lexxiso 1305; Lutensol T 03; Lutensol TO 10; Lutensol TO 107; Lutensol TO 108; Lutensol TO 109; Lutensol TO 11; Lutensol TO 12; Lutensol TO 129; Lutensol TO 1305; Lutensol TO 1306; Lutensol TO 1307; Lutensol TO 1308; Lutensol TO 1309; Lutensol TO 1312; Lutensol TO 15; Lutensol TO 2; Lutensol TO 20; Lutensol TO 3; Lutensol TO 389; Lutensol TO 5; Lutensol TO 565; Lutensol TO 6; Lutensol TO 65; Lutensol TO 7; Lutensol TO 8; Lutensol TO 82; Lutensol TO 89; Lutensol TO 9; M 0-7; M 0-9; Marlipal 013/40; Marlipal O 13; Marlipal O 13/10; Marlipal O 13/100; Marlipal O 13/120; Marlipal O 13/170; Marlipal O 13/20; Marlipal O 13/200; Marlipal O 13/30; Marlipal O 13/400; Marlipal O 13/50; Marlipal O 13/60; Marlipal O 13/70; Marlipal O 13/79; Marlipal O 13/80; Marlipal O 13/89; Marlipal O 13/90; Marlipal O 13/99; Marlosol TA 3030; Marlosol TA 3050; Marlosol TA 3090; Marlosol TA 90; Multiso 13/120; Multiso 13/90; Nissan Dispanol TOC; Noigen TDS 200D; Noigen TDS 80; Novanit MA; Novel II TDA 10; Novel II TDA 8.5; Novel II TDA 9; Novel II TDA 9.5; Novel TDA 40; Novel TDA 8; PEG isotridecyl ether; Poly(ethylene glycol) mono(isotridecanol) ether; Polyethylene glycol isotridecyl ether; Polyethylene glycol isotridecyl monoether; Polyethylene glycol monoether with isotridecyl alcohol; Polyethylene glycol monoisotridecyl ether; Polyoxyethylene isotridecyl ether; Rhodasurf BC 690; Rhodasurf ROX; Rhodasurf TR 15-40; Rhodasurf TR 25-25; Rokanol IT; Sandozin NRW-LIQ-ALT C; Simulsol OX 1309L; Surfaline OX 1309L; Surfonic TDA 11; Surfonic TDA 15/88; Surfonic TDA 3; Surfonic TDA 8; Surfonic TDA 9; Synperonic 13/10; Synperonic 13/5; Synperonic 13/6.5; T 07; T-DET A 134; TA 400; TA 450; TA 450-75; TA 600; TA 600-75; TA 90; TDA 400-75; TDA 8; TDS 200D; TDS 80; TO 10; TO 12; TO 3; TO 40; TO 5; TO 7; TO 71307; TO 8; TO 81308; TO 91300; TPE 1000; TPE 1000 (surfactant); Tego Alkanol TD 6; Unitol IT 140; Villa 51; Walloxen TR 100; Walloxen TR 16; X 1005
+FIELD Formula:(C2 H4 O)n C13 H28 O
+FIELD Alternate Formula:
+FIELD Class Identifier:Incompletely Defined Substance , Polymer , Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):8076-51-5, 9063-90-5, 53858-87-0, 93357-52-9, 97955-84-5, 112481-34-2, 126730-81-2, 128088-01-7, 128088-02-8, 142901-64-2, 145054-32-6, 165943-41-9, 195395-82-5, 357177-18-5, 558452-92-9, 779349-84-7, 850355-43-0, 856005-68-0, 870083-47-9, 909706-17-8, 1377248-98-0, 1381887-04-2, 1572001-61-6, 1589506-93-3, 1589506-98-8, 1589511-29-4, 2046953-81-3, 2226341-79-1
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:9016-45-9
+FIELD CA Index Name:Poly(oxy-1,2-ethanediyl), α-(nonylphenyl)-ω-hydroxy-
+FIELD Other Names:Glycols, polyethylene, mono(nonylphenyl) ether (8CI); (Nonylphenoxy)polyethylene oxide; A 730; A 730 (surfactant); Ace Clean AD; Adekanol NP 1000; Adekatol NP; Adekatol NP 1000; Adekatol NP 1100; Adekatol NP 638; Adekatol NP 650; Adekatol NP 660; Adekatol NP 675; Adekatol NP 683; Adekatol NP 686; Adekatol NP 690; Adekatol NP 700; Adekatol NP 710; Adekatol NP 720; Adekatol NP 760; Adekatol NP 900; Afilan CVH; Agral; Agral 600; Agral 90; Agral LN; Agral Plus; Agral R; Akyporox NP 105; Akyporox NP 95; Alcosist PN; Alfenol; Alfenol 10; Alfenol 18; Alfenol 22; Alfenol 28; Alfenol 710; Alfenol 8; Alfenol N 8; Alkasurf NP; Alkasurf NP 11; Alkasurf NP 15; Alkasurf NP 8; AlphoX 200; Antarox 897; Antarox CO; Antarox CO 430; Antarox CO 530; Antarox CO 630; Antarox CO 730; Antarox CO 850; Antarox CO 880; Antarox CO 970; Antarox CO 990; Arkopal 130; Arkopal 160; Arkopal 40; Arkopal 60; Arkopal 80; Arkopal 9; Arkopal N; Arkopal N 040; Arkopal N 060; Arkopal N 080; Arkopal N 090; Arkopal N 100; Arkopal N 110; Arkopal N 130; Arkopal N 150; Arkopal N 230; Arkopal N 238; Arkopal N 300; Arkopal N 308; Arkopal N 50; Atmer 508; Auxipon NP; B 315; B 315 (polyoxyalkylene); B 350; BLM; BLM (polymer); Berol 02; Berol 09; Berol 227; Berol 259; Berol 26; Berol 267; Berol 268; Berol 274; Berol 296; Berol WASC; Biefenol N 45; Bioten MK 40; Blaunon N 503; Blaunon N 504; Blaunon N 505; Blaunon N 506; Blaunon N 507; Blaunon N 508; Blaunon N 5085; Blaunon N 509; Blaunon N 5095; Blaunon N 510; Blaunon N 511; Blaunon N 512; Blaunon N 513; Blaunon N 514; Blaunon N 515; Blaunon N 520; Blaunon N 530; Burco APR 95; Burtemul N; CCC jelly; CO 436; CO 520; CO 610; CO 630; CO 710; CO 720; CO 730; CO 887; CO 897; Canasol NF 1000; Carsonon N; Carsonon N 30; Carsonon N 4; Carsonon N 8; Cedepal CO 630; Cedepal CO 710; Cemulsol NP 10; Cemulsol NP 12; Cemulsol NP 5; Cemulsol NP 6; Cemulsol NP 7; Cemulsol NP 8; Cemulsol NP 9; Cemulsol NP-EO 6; Chemax NP 1.5; Chemax NP 9; Chimipal WN 6; Conco NI; Conco NI 190; D 409; DME; DME (polymer); DS 3195; Dehscoxid 771; Dehscoxid 781; Dehydrophen 100; Dikssol W 92; Dispergator BO; Disponil NP 10; Disponil NP 20; Disponil NP 30; Disponil NP 307; Disponil NP 4; Disponil NP 40; Disponil NP 9; Dowfax 9N20; Dowfax 9N5; Dowfax 9N50; Dowfax 9N6; Dowfax 9N9; Dual Spacer B; E 913; EA 170S; EA 80; EMU 02; EMU 09; ENP 150; ENP 95; Egyptol PLM; Eleminol HA 100; Eleminol HA 161; Elfapur N 70; Elfapur N 90; Emalex NP 12; Emalex NP 15; Emalex NP 8.5; Emmon 15332; Empilan NP 20; Empilan NP 8; Empilan NP 9; Emulgator BLM; Emulgator NP 10; Emulgator U 6; Emulgen 309P; Emulgen 70; Emulgen 900; Emulgen 903; Emulgen 904; Emulgen 905; Emulgen 906; Emulgen 909; Emulgen 910; Emulgen 911; Emulgen 913; Emulgen 920; Emulgen 921; Emulgen 92D; Emulgen 930; Emulgen 931; Emulgen 935; Emulgen 950; Emulgen 985; Emulgen 999S; Emulgen PI 20T; Emulgin 1000; Emulgin 600; Emulmin 140; Emulmin 240; Emulsit 100; Emulsit 16; Emulsit 161; Emulsit 25; Emulsit 9; Emulson 20B; Emulson 9B; Esapal NP 90; Ethal NP 10F; Ethal NP 9; Ethoxylated nonylphenol; Ethylan 20; Ethylan 44; Ethylan 55; Ethylan 77; Ethylan BCP; Ethylan BV; Ethylan HA; Ethylan KEO; Ethylan N; Ethylan N 5.5; Ethylan TU; Ethylene oxide-nonylphenol condensate; Ethylene oxide-nonylphenol polymer; Etolat 914; Eumulgin 286; FN 10; FN 20; FN 20 (polyoxyalkylene); FOR 3; Fenopal; Findet 9Q21.5NF; Findet Q 21.5NF; Fixade; Gafac CO 990; Gedepal CO 210; HA 100; HME; Hermoowet; Hostapal CV; Hostapal W; Hyonic NP 40; Hyonic NP 4011; Hyonic NP 60; Hyonic NP 90; Hyonic PE 100; Hyonic PE 120; Hyonic PE 90; Hyoxide AAO; Iconol NP 100 Pastille FD; Iconol NP 20; Iconol NP 40; Iconol NP 50; Iconol NP 6; Iconol NP 70; Iconol NP 9; Igepal 520; Igepal 710; Igepal 720; Igepal BC 14; Igepal BC 16; Igepal BC 17; Igepal BC 4; Igepal BC 40; Igepal BC 5; Igepal BC 6; Igepal BC 8; Igepal BC 8/14; Igepal CO; Igepal CO 210; Igepal CO 220; Igepal CO 30; Igepal CO 430; Igepal CO 436; Igepal CO 463; Igepal CO 520; Igepal CO 530; Igepal CO 6030; Igepal CO 610; Igepal CO 620; Igepal CO 630; Igepal CO 660; Igepal CO 710; Igepal CO 720; Igepal CO 730; Igepal CO 850; Igepal CO 880; Igepal CO 887; Igepal CO 890; Igepal CO 897; Igepal CO 970; Igepal CO 977; Igepal CO 987; Igepal CO 990; Igepal CO 997; Igepal CTA 639W; Igepal LO 997; Igepal NP 10; Igepal NP 12; Igepal NP 6; Igeral ES; Imbentin; Imbentin 180; Imbentin N 52; Imbentin N 63; Imbentine; Indulin XD 70; Intrapol LTN; KENON 10; KENON 30; KENON 40; KENON 9; Kemonic 909; Kumiten; Lerolat N; Lerolat N 300; Levelan P 208; Libsorb; Lipal 9N; Liponox NC 130; Liponox NC 200; Liponox NC 300; Liponox NC 300F; Liponox NC 38; Liponox NC 500F; Liponox NC 60; Liponox NC 86; Liponox NC 95; Liponox NCA; Liponox NCD; Liponox NCG; Liponox NCH; Liponox NCI; Liponox NCM; Lissapol N; Lissapol NX; Lissapol NXP 10; Lissapol TN 450; Lubrol APN 5; Lubrol L; Lubrol N; Lubrol N 13; Lutensol AP 10; Lutensol AP 14; Lutensol AP 20; Lutensol AP 6; Lutensol AP 9; Lutensol NP 10; M 812; MYN 108; Macol NP; Macol NP 4; Macol NP 6; Macol NP 9; Macol NP 9.5; Makon; Makon 10; Makon 12; Makon 14; Makon 30; Makon 4; Makon 6; Makon 8; Marlasol 100; Marlophen; Marlophen 810; Marlophen 812; Marlophen 83; Marlophen 88; Marlophen 89; Mergital OP 2; Meriten FN 10; Meriten NF 9; Merpoxen 230; Merpoxen ON; Mono(nonylphenyl)polyethylene glycol; Monopol 1020; Monopol NP 1019; Monopol NP 1025; Mylura; N 100; N 101; N 308; N 510; NF 16; NF 4; NF 6; NF 6 (detergent); NF-PEG; NOP 9; NP; NP (nonionic surfactant); NP 10; NP 100; NP 1000; NP 1018; NP 11; NP 12; NP 13; NP 14; NP 15; NP 15 (defoamer); NP 16; NP 17; NP 18; NP 18 (polyether); NP 18PTX; NP 18TX; NP 2; NP 20; NP 21; NP 25; NP 3; NP 30; NP 307; NP 35; NP 4; NP 40; NP 40F; NP 40S; NP 5; NP 5 Igepal CO 520; NP 50; NP 6; NP 660; NP 695; NP 7; NP 7 (surfactant); NP 7.5; NP 70; NP 70 (surfactant); NP 700; NP 8; NP 80; NP 85; NP 9; NP 9.5; NP 90; NP 936; NP-EOA 70; NPE 10; NPE 110; NPE 14; NPE 15; NPE 20; NPE 30; NPE 40; NPE 6; NPE 70; NPE 901; NPEO10; NPEO20; NPEO30; NPEO40; NS 202; NS 204.5; NS 2045; NS 205.5; NS 206; NS 208.5; NS 215; NS 220; NS 230; NS 230-60; NS 240; NS 270; Nalco 5595; Nalco 5596; Nalco 5599; Nemol K 1030; Nemol K 1032; Nemol K 1033; Nemol K 1035; Nemol K 2030; Nemol K 3030; Nemol K 34; Nemol K 36; Nemol K 38; Nemol K 39; Nemol K 539; Neonol 12; Neonol AF 8-10; Neonol SNO 3B; Neutronyx 640; Neutronyx 656; Neutronyx 676; Newcol 1568; Newcol 504; Newcol 506; Newcol 509; Newcol 516; Newcol 520; Newcol 526; Newcol 560; Newcol 561H; Newcol 562; Newcol 564; Newcol 568; Nezhegol; Nikkol NP; Nikkol NP 10; Nikkol NP 100; Nikkol NP 15; Nikkol NP 18; Nikkol NP 18TX; Nikkol NP 2; Nikkol NP 20; Nikkol NP 5; Nikkol NP 7.5; Nissan Nonion NS; Nissan Nonion NS 12; Nissan Nonion NS 202; Nissan Nonion NS 202S; Nissan Nonion NS 203; Nissan Nonion NS 204.5; Nissan Nonion NS 2045; Nissan Nonion NS 206; Nissan Nonion NS 208.5; Nissan Nonion NS 210; Nissan Nonion NS 215; Nissan Nonion NS 220; Nissan Nonion NS 230; Nissan Nonion NS 230-60; Nissan Nonion NS 270; Nissan Nonion NS 402; Nodox 4; Nofox 9; Noigen E 120; Noigen EA 130T; Noigen EA 150; Noigen EA 170S; Noigen EA 50; Noigen EA 70; Noigen EA 80; Noigen EA 80E; Noigen EM 230D; Noigen EM 250; Noigen RA 80; Nonal 205; Nonal 206; Nonal 208; Nonal 210; Nonal 212; Nonal 214; Nonal 530; Nonaril 910; Nonaril 930; Nonfix 2; Nonfix 5; Nonfix 6; Nonfix 9; Nonidet NP 40; Nonidet NP 50; Nonidet P 40 substitute; Nonidet P 80; Nonio-light PN 12; Nonio-light PN 4; Nonio-light PN 6; Nonion NS; Nonion NS 202; Nonion NS 202S; Nonion NS 203; Nonion NS 204.5; Nonion NS 2045; Nonion NS 206; Nonion NS 208.5; Nonion NS 210; Nonion NS 212; Nonion NS 215; Nonion NS 220; Nonion NS 230; Nonion NS 230-60; Nonion NS 240; Nonion NS 270; Nonionik NI; Nonipol; Nonipol 100; Nonipol 110; Nonipol 120; Nonipol 130; Nonipol 140; Nonipol 160; Nonipol 20; Nonipol 200; Nonipol 300; Nonipol 40; Nonipol 400; Nonipol 45; Nonipol 500; Nonipol 55; Nonipol 6; Nonipol 60; Nonipol 70; Nonipol 80; Nonipol 800; Nonipol 85; Nonipol 90; Nonipol 95; Nonylphenol ethoxylate; Nonylphenol ethylene oxide condensate; Nonylphenol polyethylene glycol ether; Nonylphenol polyethylene oxide; Nonylphenol polyoxyethylene ether; Nonylphenoxy polyethoxy ethanol; Nonylphenoxypoly(ethyleneoxy)ethanol; Nonylphenoxypoly(ethylenoxy)ethanol; Nonylphenoxypoly(oxyethylene)ethanol; Nonylphenyl ethoxylate; Nonylphenyl polyethylene glycol ether; Nonylphenyl polyoxyethylene ether; Noregal LC 4 Conc.; ON 10; OP 13; OP 2; OP 50; OP 70; Oxyethylated nonylphenol; Oxyethylene nonylphenyl ether; P 10; P 10 (emulsifier); PBI Spreader; PEG nonylphenyl ether; PEN 88; PX 10; PX 10 (emulsifier); Pannox 122A; Pannox 30; Penerol NP 10; Penerol NP 16; Penerol NP 7; Penetrax; Peretex 1232; Phenol, nonyl-, ethoxylate; Phenoxol 9/18; Phenoxol 9/20; Pionin D 409; Pionin D 414; Poly(ethylene oxide) nonylphenyl ether; Poly(oxyethylene) nonylphenol ether; Poly(oxyethylene) nonylphenyl ether; Poly-Tergent B; Poly-Tergent B 150; Poly-Tergent B 200; Poly-Tergent B 300; Poly-Tergent B 350; Polyethoxylated nonylphenol; Polyethylene glycol mono(nonylphenol) ether; Polyethylene glycol mono(nonylphenyl) ether; Polyethylene glycol nonylphenol ether; Polyethylene glycol nonylphenyl ether; Polyethylene glycol nonylphenyl monoether; Polyethyleneoxide mono(nonylphenyl) ether; Polyoxyethylated nonylphenol; Polyoxyethylene glycol nonylphenyl ether; Polyoxyethylene monononylphenyl ether; Polyoxyethylene(15) nonylphenyl ether; Polyoxyethylene(20) nonylphenyl ether; Polyoxyethylene(40) nonylphenyl ether; Polypol; Polystep F 10NP40; Polystep F 3; Polystep F 4; Polystep F 5; Polystep F 6; Polystep F 8; Polystep F 8NP20; Polystep F 9; Prevocell N 10; Prevocell N 11; Prevocell N 12; Prevocell N 20; Prevocell N 30; Prevocell N 5.5; Prevocell N 55; Prevocell W-OF 100; R 40; R 40 (polyether); R 95; R 95 (polyether); RA 80; Remcopal N 4100; Remcopal N 9-1001; Remcopal NP 30; Rendells suppository; Renex 100; Renex 1000; Renex 110; Renex 230; Renex 300; Renex 40; Renex 647; Renex 648; Renex 650; Renex 678; Renex 679; Renex 682; Renex 688; Renex 690; Renex 697; Renex 698; Renex 80; Renex 95; Retzanol NP 100; Rewopal HV 10; Rewopal HV 25; Rewopal HV 5; Rewopal NP 10; Rexol 25/10; Rexol 25/15; Rexol 25/4; Rexol 25/7; Rexol 25/9; Rexol 25J; Rheomix 610P; Rhodadasnif NP; Rhodiasurf NP 9; Rikemal A 23; Rioklen NF 10; Rioklen NF 9; Rohagal 12N; S 910; S 910 (surfactant); SA 1; SEM 35N; SER-AD FN 1566; SNO 3B; SNO 4D; Sanfresh 850; Sapal; Scourol 900; Serdox NNP; Serdox NNP 1.5; Serdox NNP 10; Serdox NNP 12; Serdox NNP 15; Serdox NNP 20; Serdox NNP 4; Serdox NNP 7; Serdox NNP 8; Serdox NNP 8.5; Simulsol 630; Simulsol 830NP; Sinnopal NP; Sinnopal NP 307; Siponic NP; Siponic NP 9; Slovafol; Slovafol 903; Slovafol 905; Slovafol 906; Slovafol 909; Slovafol 90S; Slovafol 910; Slovafol 915; Slovafol 920; Slovafol A; Slovafol X; Slovasol 903; Solar NF; Soprophor BC 10; Soprophor BC 17; Soprophor BC 2; Soprophor BC 20; Soprophor BC 4; Soprophor BC 40; Soprophor BC 6; Soprophor BS 10; Soprophor NP 10; Sorpol 3105; Steinapal HV; Steinapal HV 10; Steinapal HV 14; Steinapal HV 25; Steinapal HV 3; Steinapal HV 4; Steinapal HV 5; Steinapal HV 8; Steinapal HV 9; Sterling NP 10; Sterox ND; Stokolan NS 9; Sunaptol NP 55; Sunmorl N 300; Sunmorl N 95SM; Sunmorl X 1; Surf Ac N 0120; Surf Ac N 040; Surfacpol 906; Surfonic 40; Surfonic 60; Surfonic N; Surfonic N 1; Surfonic N 10; Surfonic N 100; Surfonic N 1000; Surfonic N 102; Surfonic N 106; Surfonic N 120; Surfonic N 150; Surfonic N 200; Surfonic N 300; Surfonic N 31.5; Surfonic N 40; Surfonic N 400; Surfonic N 550; Surfonic N 60; Surfonic N 700; Surfonic N 75; Surfonic N 800; Surfonic N 85; Surfonic N 95; Syn Fac 905; Syn Fac N 95; Synperonic N; Synperonic N 8; Synperonic NP; Synperonic NP 10; Synperonic NP 12; Synperonic NP 13; Synperonic NP 15; Synperonic NP 20; Synperonic NP 30; Synperonic NP 4; Synperonic NP 40; Synperonic NP 5; Synperonic NP 50; Synperonic NP 6; Synperonic NP 6-20; Synperonic NP 8; Synperonic NP 9; Synperonic NX; Synperonic NXP; Synthrapol N; Syntopon C; T-DET N; T-DET N 10.5; T-DET N 100; T-DET N 12; T-DET N 14; T-DET N 20; T-DET N 4; T-DET N 507; T-DET N 6; T-DET N 9.5; T-Det N 30; T-Det N 50; TN 111; TN 111 (polymer); TN 450; TX 10; TX 100; TX 12; TX 15; TX 3; TX 4; TX 4 (surfactant); TX 5; TX 50; TX 50 (surfactant); TX 6; TX 7; TX 9; Tensioactiv NF 10; Tensioactiv NF 6; Tenzilin 080; Tenzilin FN 65; Tergitol 9.5; Tergitol N 4; Tergitol N 8; Tergitol NO 10; Tergitol NP; Tergitol NP 10; Tergitol NP 101; Tergitol NP 12; Tergitol NP 13; Tergitol NP 14; Tergitol NP 15; Tergitol NP 27; Tergitol NP 30; Tergitol NP 33; Tergitol NP 35; Tergitol NP 4; Tergitol NP 40; Tergitol NP 6; Tergitol NP 7; Tergitol NP 70; Tergitol NP 8; Tergitol NP 9; Tergitol NP 9.5; Tergitol NPX; Tergitol TH; Tergitol TNP 10; Tergitol TP 9; Teric GN; Teric GN 5; Teric GN 8; Teric GN 9; Teric N; Teric N 10; Teric N 100; Teric N 12; Teric N 13; Teric N 15; Teric N 2; Teric N 30; Teric N 300; Teric N 40; Teric N 450; Teric N 5; Teric N 8; Teric N 9; Texofor FN 6; Texofor FN 8; Triton CO 630; Triton N; Triton N 100; Triton N 101; Triton N 111; Triton N 128; Triton N 150; Triton N 302; Triton N 401; Triton N 42; Triton N 57; Triton N 60; Triton N 998; Trycol 6940; Trycol 6954; Trycol 6961; Trycol 6964; Trycol 6968; Trycol 6969; Trycol 6970; Trycol 6974; Trycol NP 30; Trycol NP 40; Ucefal DCN; Ultranex NP 100; Ultranex NP 1000; Ultranex NP 150; Ultranex NP 40; Ultranex NP 50; Ultranex NP 500; Ultranex NP 80; Ultranex NP 95; Unitop 100; Unitop 50; Value 3706; Varonic N 30-7; Varonic N 6; Veranol H 10; Veranol N 10; Vibnon 45; Wasc; Wellaid 711W; Weranol H 10; Witconate NP 120; Witconol NP 100; Witconol NP 120; Witconol NP 40; Witconol NP 60; Witconol NP 80; X 6; X 6 (surfactant); YF 6500; α-(Nonylphenyl)-ω-hydroxypoly(oxy-1,2-ethanediyl); α-(Nonylphenyl)-ω-hydroxypolyoxyethylene; ω-Hydroxy-α-(nonylphenyl)poly(oxy-1,2-ethanediyl)
+FIELD Formula:(C2 H4 O)n C15 H24 O
+FIELD Alternate Formula:
+FIELD Class Identifier:Incompletely Defined Substance , Polymer , Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):9021-03-8, 9067-50-9, 11098-16-1, 11103-60-9, 11107-93-0, 12767-68-9, 12789-12-7, 12790-67-9, 25640-88-4, 27288-14-8, 28136-10-9, 29594-36-3, 30676-83-6, 32196-52-4, 37187-23-8, 37210-94-9, 37230-99-2, 37280-80-1, 37291-67-1, 37336-52-0, 39289-57-1, 39316-45-5, 39316-73-9, 39346-85-5, 39373-71-2, 39392-83-1, 39393-36-7, 39421-49-3, 39453-05-9, 39454-98-3, 39475-46-2, 42617-03-8, 50855-29-3, 50934-84-4, 51059-97-3, 51609-19-9, 51668-51-0, 51938-59-1, 51938-60-4, 52012-43-8, 52038-46-7, 52051-49-7, 52434-07-8, 52440-03-6, 52440-78-5, 52440-94-5, 52504-18-4, 52504-19-5, 52683-07-5, 53125-17-0, 53529-49-0, 53663-55-1, 53763-35-2, 53763-36-3, 54174-36-6, 54985-54-5, 55126-80-2, 55838-69-2, 56590-96-6, 57308-02-8, 57571-69-4, 59330-69-7, 60098-67-1, 60476-27-9, 61614-07-1, 61840-55-9, 62169-44-2, 62229-21-4, 62229-24-7, 62229-29-2, 63440-03-9, 63798-88-9, 64296-14-6, 64940-97-2, 65035-40-7, 65035-41-8, 65777-14-2, 66525-84-6, 67053-58-1, 72847-44-0, 72847-45-1, 74434-41-6, 74656-63-6, 74749-71-6, 75882-09-6, 76829-05-5, 77271-60-4, 80341-59-9, 80966-32-1, 81296-82-4, 83271-48-1, 90452-81-6, 93095-76-2, 95828-59-4, 96231-61-7, 96957-64-1, 96958-17-7, 96958-28-0, 99402-83-2, 99531-82-5, 102188-45-4, 103939-37-3, 105269-88-3, 106152-98-1, 107231-62-9, 111623-62-2, 112509-36-1, 114101-89-2, 116711-78-5, 123019-34-1, 123068-21-3, 124057-60-9, 137263-06-0, 139281-67-7, 141490-14-4, 142985-89-5, 143929-07-1, 167140-06-9, 172521-16-3, 188612-23-9, 190856-87-2, 202936-22-9, 205577-03-3, 226225-58-7, 226225-59-8, 286015-24-5, 286015-28-9, 376647-33-5, 441352-55-2, 441352-56-3, 441352-57-4, 441352-58-5, 441352-59-6, 509171-19-1, 623588-93-2, 874461-43-5, 933050-99-8, 942205-98-3, 1163687-50-0, 1202388-20-2, 1202388-26-8, 1809431-45-5, 1809431-82-0, 1943678-94-1, 2091900-73-9, 2096976-67-7
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:9014-93-1
+FIELD CA Index Name:Poly(oxy-1,2-ethanediyl), α-(dinonylphenyl)-ω-hydroxy-
+FIELD Other Names:Antarox DM 430; Antarox DM 970; Berol 272; Chemax DNP 150; DNP 15; DNP 5.3; DNP 8; Dinaryl 16; Dinonylphenol-ethylene oxide adduct; Dinonylphenyl polyoxyethylene; Emery DNP 8; Emmon 15323; Ethoxylated dinonylphenol; Iconol DNP 150; Igepal DM 530; Igepal DM 710; Igepal DM 730; Igepal DM 880; Igepal DM 970; Macol DNP 10; Macol DNP 150; Marlophen DNP 30; Nonal 420; Nonipol D 160; Nonyl nonoxynol 10; OK 216; Poly(oxyethylene) mono(dinonylphenyl) ether; Polyethylene glycol dinonylphenyl ether; Polyethylene glycol mono(dinonylphenyl) ether; Polyoxyethylene dinonylphenyl ether; Surfonic DNP 100; Surfonic DNP 40; Teric DN; Triton X 207; Trycol 6985; XOF 318; antarox DM; α-(Dinonylphenyl)-ω-hydroxypoly(oxy-1,2-ethanediyl)
+FIELD Formula:(C2 H4 O)n C24 H42 O
+FIELD Alternate Formula:
+FIELD Class Identifier:Incompletely Defined Substance , Polymer , Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):39454-86-9, 52229-84-2, 116464-05-2, 116466-20-7, 134191-64-3
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:9004-96-0
+FIELD CA Index Name:Poly(oxy-1,2-ethanediyl), α-[(9Z)-1-oxo-9-octadecen-1-yl]-ω-hydroxy-
+FIELD Other Names:Glycols, polyethylene, monooleate (8CI); Poly(oxy-1,2-ethanediyl), α-(1-oxo-9-octadecenyl)-ω-hydroxy-, (Z)-; Poly(oxy-1,2-ethanediyl), α-[(9Z)-1-oxo-9-octadecenyl]-ω-hydroxy- (9CI); Oleic acid, monoester with polyethylene glycol (8CI); A 105; A 110; A 110 (surfactant); A 115; Adeka Estol OEG 204; Agnique PEG 400MO; Akyporox O 50; Alkamuls 400MO; Alkamuls A; Alkamuls A 2; Alkasurf O 14; Alkasurf O 75-9; Atlas G 2140; Atlas G 2141; Atlas G 2142; Atlas G 2143; Atlas G 2144; Atlas G 5507; Atlas G 5511; Blaunon EN 1507; Blaunon O 200SA; Blaunon O 600SA; Blaunon O 700SA; CRL 1337; Cemulsol 1050; Cemulsol A; Cemulsol C 105; Cemulsol D 8; Chemax E 400MO; Chemester 300OC; Chimipon OCD; Cithrol 2MO; Cithrol PO; Crodet O 100; Crodet O 40; Crodet O 6; Dyapol G; E2; EE 374; EN 1507; EN 1511; ES 120; Emalex 218; Emalex OE 1; Emalex OE 10; Emanon 4110; Emanon 4115; Emcol H 2A; Emcol H 31A; Emerest 2624; Emerest 2646; Emerest 2660; Empilan BP 100; Empilan BQ 100; Emulan A; Emulphor 24; Emulphor A; Emulphor VN 430; Estax 38 S.F; Estax 38SE; Ethofat O; Ethofat O 15; Ethofat O 20; Ethox MO 14; Ethox MO 5; Ethox MO 9; Ethoxylated oleic acid; Ethylan A 2; Ethylan A 3; Ethylan A 4; Ethylan A 6; Ethylene oxide-oleic acid adduct; Extrex P 60; G 2142; G 2143; G 2144; G 5507; H 2A; H 3549A; Hamadol OD 600; ITRI-PH 02; Interwet 33; Ionet MO 200; Ionet MO 400; Ionet MO 600; Ionet PO 600; KEOL 15; Kessco PEG 1000MO; Kessco PEG 400MO; Konion MO 14; Koremul OA 9; Lannagol LF; Ligalub PEG 400MO; Lionon MO 60; Lipal 300W; Lipal 30W; Lipal 400OL; Lipo-Peg 4O; MO 600; MYO 2; Macrogol oleate; Macrogol oleate 600; Mapeg 200; Mapeg 200MO; Mapeg 400; Mapeg 400MO; Mapeg 600; Mapeg 600MO; Marlosol OL 15; Marlosol OL 7; Mergital OA 6; Monooleate ester of polyethylene glycol; Newcol 170; Nikkol MYO 10; Nikkol MYO 10V; Nikkol MYO 2; Nissan Nonion O 2; Nissan Nonion O 3; Nissan Nonion O 4; Nissan Nonion O 5; Nissan Nonion O 6; Noigen ES 120; Noigen ES 129; Noigen ES 129D; Noigen ES 140; Noigen ES 149; Noigen ES 149D; Noigen ES 160; Noigen ES 169; Noigen ES 169D; Noigen ES 90; Noigen ES 99; Noigen ES 99D; Noigen ET 189; Nonex 25; Nonex 30; Nonex 52; Nonex 64; Nonion 0-4; Nonion O 2; Nonion O 4; Nonion O 6; Nonisol 200; Nopalcol 1O; Nopalcol 4O; Nopalcol 6O; O 200SA; OE 1; OE 6; OK 7; Oleic acid poly(oxyethylene) ester; Oleopal 1; Oleox 3; Oleox 5; Oleox 6; Oleox 7; Olepal I; Olepal III; PE 2; PE 2 (oleate); PEG 1000MO; PEG 200 oleate; PEG 200MO; PEG 300 monooleate; PEG 400MO; PEG 400MS; PEG 600MO; PEG 75 oleate; PEG monooleate; PEG oleate; PEG-20 Oleate; PEG-32 Oleate; PEG-400 monoester with oleic acid; PEG-400 oleate; PEG-6 Oleate; POOA; Pegnol O 14; Pegnol O 6; Pegosperse 400MO; Peretex E 451D; Pionin D 2507A; Plasthall CPH 41N; Poly(ethylene glycol) oleic acid ester; Poly(ethylene oxide) oleate; Poly(oxyethylene) glycol monooleate; Poly(oxyethylene) monooleate; Poly(oxyethylene) oleate; Poly(oxyethylene) oleic acid ester; Polyethylene glycol monooleate; Polyethylene glycol oleate; Polyethylene oxide monooleate; Polyglycol monooleate; Polyglycol oleate; Polynon O 44; Polyoxyethylene ether oleate; Polyoxyethylene monooleic acid ester; Prodhyphore B; Radiasurf 7402; Radiasurf 7403; Radiasurf 7404; Rikemal OE 809; Rokacet O 7; S 1006; S 1132; Serdox NOG 264; Serdox NOG 440; Serdox NOG 600; Serdox NOG 880; Slovasol A; Standapol 2660; Surfonic E 400MO; Teric OF 6; Texafor M 6; Tilol 165; Trydet OA 7; Unichema A; Unisol 4-0; Wardol X; Witco 31; Witconol H 31A; Witconol H 35A; X 539R
+FIELD Formula:(C2 H4 O)n C18 H34 O2
+FIELD Alternate Formula:
+FIELD Class Identifier:Polymer , Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):1341-62-4, 8013-78-3, 8051-25-0, 9007-68-5, 12772-84-8, 12789-13-8, 37223-98-6, 37223-99-7, 37330-99-7, 39316-40-0, 41139-27-9, 52504-20-8, 55126-82-4, 55945-62-5, 67775-15-9, 82905-19-9, 103939-39-5, 141927-22-2, 187620-03-7, 914926-86-6, 1356488-85-1, 1393489-61-6, 1422656-94-7, 1887122-56-6
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:9004-67-5
+FIELD CA Index Name:Cellulose, methyl ether
+FIELD Other Names:Adulsin; Anyaddy MC 40H; Avicel SG; Bagolax; Benecel 143HR; Benecel A 15; Benecel A 40M; Benecel M 0; Benecel M 011; Benecel M 02; Benecel M 021; Benecel M 043; Benecel MC 4000PS; Benecel MO 42; Bufapto Methalose; Bulkaloid; Celacol M; Celacol M 20; Celacol M 20P; Celacol M 2500; Celacol M 450; Celacol MM; Celacol MM 10P; Celacol MMPR; Celacol WA; Cellapret; Cellogran; Cellothyl; Cellulose methylate; Cellumeth; Cesca C 8556; Cesca MC 25S; Cesca MC 400; Cethylose; Cethytin; Citrucel; Cologel; Culminal 2000; Culminal K 42; Culminal MC; Culminal MC 2000; Culminal MC 25S; Culminal MC 3000P; Culminal MC 3000PR; Culminal MC 40; Culminal MC 6OS; Culminal MC 7000PF; Daicel 170; E 461; EMP-H; Edisol M; F 50; FNIC 6701; Hi-SM 4000; Hi-Sunrose H 755; Hydrolose; M 043; M 0512-100G; M 100; M 100 (cellulose derivative); M 15; M 15 (cellulose derivative); M 450; M 7140; MC 20000S; MC 3000P; MC 40; MC 4000cP; MC 40H; MC 90SH30000; MC-A 4C; MC-A 4M; MCE 1500; MCE 400; MCE 4000; MCO 8000; MM 20P; MMTs-BTR; MS 400; MT 400; MTs; MTs (cellulose derivative); MTs 100; MTs 16; Marpolose 60SH50; Marpolose 90MP10000; Marpolose 90MP30000; Marpolose Ace; Marpolose EM 2000; Marpolose EM 400; Marpolose M 10000; Marpolose M 25; Marpolose M 400; Marpolose M 4000; Marpolose PS; Marpozol M 25; Mecellose; Mecellose FMC 22501; Mecellose FMC 60150; Mellose; Methocel 10; Methocel 240; Methocel 400; Methocel 4000CPS; Methocel 400CPS; Methocel 4C; Methocel 64625; Methocel A; Methocel A 100; Methocel A 125LV; Methocel A 15; Methocel A 15C; Methocel A 15C Premium; Methocel A 15FG; Methocel A 15LV; Methocel A 15LV Premium; Methocel A 40M; Methocel A 40M-FG; Methocel A 4C; Methocel A 4C Premium; Methocel A 4C-FG; Methocel A 4M; Methocel A 4M Premium; Methocel A 4M-FG; Methocel A 50; Methocel AC Premium; Methocel CHG; Methocel Fluka 64625; Methocel HPM 500DS; Methocel HPM 50DS; Methocel MC; Methocel MC 25; Methocel MC 4000; Methocel MC 8000; Methocel MX; Methocel Premium A 4000; Methocel SG-A 150FG; Methocel SG-A 50MFG; Methocel SGA 7C; Methocel SM 100; Methocel ST 65HG50; Methoxycellulose; Methulose; Methyl Cel A 43; Methyl cellulose ether; Methylan Normal; Methylan SP; Methylcellulose; Metolose 4000; Metolose 60SM25; Metolose M 15; Metolose MC 60S; Metolose MC 8000; Metolose MCE 100; Metolose MCE 15; Metolose MCE 1500; Metolose MCE 25; Metolose MCE 4; Metolose MCE 400; Metolose MCE 4000; Metolose MS; Metolose SBP 30501; Metolose SCH 300L; Metolose SH 100; Metolose SM; Metolose SM 1; Metolose SM 100; Metolose SM 10000; Metolose SM 15; Metolose SM 1500; Metolose SM 25; Metolose SM 4; Metolose SM 400; Metolose SM 4000; Metolose SM 65-15; Metolose SM 800; Metolose SM 8000; Metolose SR; Napolone; Nicel; O-Methylcellulose; Probe D; Rhomellose; SBQ 30000PE; SGA 7C; SM 100; SM 10000; SM 100000; SM 15; SM 15 (polysaccharide); SM 25; SM 25 (polysaccharide); SM 4; SM 400; SM 4000; SM 8000; SMC 25; SP-G; SP-G (thickener); Serander YB 111A; Serander YB 152A; Syncelose; Ticacel HV; Ticacel LV; Tylopur C 30; Tylose 444; Tylose A 4S; Tylose M 2000; Tylose MC 6000P; Tylose MF; Tylose SAP; Tylose SL; Tylose SL 100; Tylose SL 400; Tylose SL 600; Tylose TWA; V 32; V 32 (cellulose derivative); Viscol; Viscontran L 52; Viscontran MC 400; Viscosol; Viskontran MC 10S; Vivapur MC-A 4M; Walocel M; Walocel M 20678; Walsroder MC 20000S; XT 6000
+FIELD Formula:C H4 O . x Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):39384-65-1, 53568-34-6, 71812-19-6, 88402-84-0, 99638-59-2, 730985-58-7, 2098627-58-6
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:9003-35-4
+FIELD CA Index Name:Phenol, polymer with formaldehyde
+FIELD Other Names:020-210-75SK; 1000WS; 101M; 101M (phenolic resin); 13B122; 18U; 1940H; 1H-Imidazole, 2-phenyl-, polymer with formaldehyde and phenol; 2E4MZ-CN-Phenolic resin 2130 copolymer; 2P1000; 337T28; 386ST; 550PL; 6KKh1B; 7510P; 80FU; 80FV; A 407-901; ACL 141; AF 3T; AG; AG (phenolic resin); AG 4B; AG 4C; AG 4S; AG 4V; AG 4V (phenolic resin); AG 4W; AMCR 01; AML Resin AMCR 01; AST 2A; ATF 1; ATF 1 (phenolic resin); ATM 1; ATM 10; ATM 1T; ATM 2; ATM 2 (phenolic resin); AV Lite; AV Lite 450M; AW 1; AW 1 (binder); Abifen 130D; Ablaphene RA 101; Ablaphene RS 101; Acme Flow 2012; Acme Super Set 970; Aerofix N; Aerophene 0808; Akrochem P 86; Albertol 626L; Alnovol 320K; Alnovol 844K; Alnovol PN 320; Alnovol PN 350; Alnovol PN 429; Alnovol PN 430; Alnovol PN 844; Alpit; Amberol T 137; Amres 5581; Apinee 80R; Araldite K 6; Arofene 700; Arofene 72155; Arofene 8426ME63; Arrotex 2035; Arzamit 5; Askocure 300EP3901; Atanor R 435; Atanor R 619; Avecure 330; BB 062; BB 143; BB 634; BCW 2022; BD 909; BF 01; BF 4N; BFOS; BKS 2600; BKS 316; BLS; BLS (polymer); BLS 2700; BLS 362; BPR 572A; BRG 555; BRG 556; BRG 557; BRG 559; BRG 85; BRL 2741; BRL 2760; BRLY 1215; BRN 2120; BRPA 5570; BRPE 4035; BRR 5555; BRWE 5555; BRWE 5853; BRZ 7541; BSL; BSL (phenolic resin); BV 01; BZh 1; BZh 1 (phenolic resin); BZh 1-4559-71; BZh 2; BZh 3; BZh 3A; BZh 4; BZh 6; BZh 8; Bakelite; Bakelite 1003; Bakelite 1279HW; Bakelite 1842HW; Bakelite 207; Bakelite 221834; Bakelite 222; Bakelite 2432; Bakelite 2506HW; Bakelite 3087; Bakelite 433; Bakelite 7716; Bakelite 881712; Bakelite 882712; Bakelite 887912; Bakelite 8978FL; Bakelite 92055; Bakelite 92113; Bakelite BB 7/138; Bakelite BLS 2700; Bakelite BRL 1100; Bakelite BRL 2760; Bakelite BRRE 5833; Bakelite BRZ 7541; Bakelite CKR 2400; Bakelite LB-SP; Bakelite LBS 5; Bakelite LG 724; Bakelite PF 0790K01; Bakelite PF 1804PS; Bakelite PF 6520LB; Bakelite R 10840; Bakelite R 10993; Bakelite R 19595; Bakelite R 5468/1; Bakelite SP 222-14/17; Bakelite SP 222-18/26; Bakelite SP 222-25/40; Bakelite SW 361; Bakelite TP; Baqphen 4051-3; Basyntan M; Bellpearl R 800; Bellpearl R 900; Bellpearl S 890; Bellpearl S 930; Bellpearl S 970; Bornum 6101; Borofen B 1606A; Borofen BPF 70; Borofen DL 702; Borofen DX 26; Borofen DX 30; CB 050; CB 050 (conductive polymer); CB 8081; CD 208-34A; CD 208-34B; CP 152C; CR 4871D; CR 9357; CS 100; CS 100 (phenolic resin); CTL 91LD; Caproplast; Carbolic acid-formaldehyde copolymer; Casconol PF 1555; Cascophen 1701; Cascophen 1770TO3; Cascophen 3128M; Cascophen 433-156; Cascophen 54774TJ; Cascophen AL 5309; Cascophen BCW 2021; Cascophen BD 4503; Cascophen BD 4507; Cascophen BD 4509; Cascophen C 271; Cascophen GD 3-146; Cascophen GD 3-147; Cascophen O 303D; Cascophen OS 703A; Cascophen OS 707; Cascophen P 6619; Cascophen PB 306; Cascophen PC 100; Cascophen PR 511; Cascophen SLPF 55V2; Cascophen SP 5300D; Cascophen SP 5520D; Cascophen W 166; Cascophen W 3154; Cascophen W 91B; Cellobond 85S; Cellobond J 1002G; Cellobond J 1006W; Cellobond J 1010; Cellobond J 1990/60; Cellobond J 2015A; Cellobond PA 2276; Cerac 303; Cerac 312; Cerac 6010; Chem-Rez 480; Chem-Set 700P; Chembond Cerac 312; Chemplex 775; Colloid 8440; Corephenit; Corephenit HB; Corephenit HBZ; Corrodur 7839; D 17; D 17 (polymer); DN; DPK; DS 9-2816; DSV 4-2R2M; DSV 4R2M; Delta Kure Resin; Dorolac IX; Durez 12686; Durez 12687; Durez 12704; Durez 12763; Durez 14000; Durez 175; Durez 29095; Durez 50000; Durez 7421A; Durez 7716; Durez PR311; Durite 1731; Durite SC 830A; Durite SD 1731; Durite SD 446A; Durite SD 672D; Duroplast 9001; Dynea 1355F; Dynea 1385C; Dynea 13B410; Dynea 13D036; Dynea 4976PF; Dynea E 97783; Dynosol S 175; E 1-340-02; E 12; E 12 (phenolic resin); E 14; E 14 (phenolic resin); E 2-330-02; E 39-0127-48; E 97783; EG-FF; ES 31B2; EX 262E; Ebolit FF; Ekoakoru; Epicure DX 200N60; F 110; F 110 (polymer); F 20; F 20 (phenolic resin); F 24; F 24 (phenolic resin); F 2450; F 47; F 47 (polymer); F 50; F 50 (phenolic resin); F 5215; F 5238; F 5243; F 5245; F 5250; F 6-337-67; FD 14; FDP; FDU 14; FDU 15; FF 65S; FFB; FFB (phenolic resin); FFK 39; FFO 1; FFO 2; FFR; FFS 01; FFS 79; FFS-K 124; FK 161; FK 20; FK 24A; FK 74; FK 75; FKP; FL; FL (phenolic resin); FL 03K; FL 1; FL 1 (phenolic resin); FL 2; FL 2 (phenolic resin); FL 5111; FL 5280; FNSL; FO 64; FO 80; FP-B; FP-RN 7; FPF 1F; FPF 1M; FPR 520; FRA; FRD 5002; FRJ 425; FRP; FRP (polymer); FRP 1A; FRP 5; FRV; FRV 1; FRV 1 (phenolic resin); FRV 1A; FRV 4; FRV-EM; FS 117; FSF 65; FSJ-III; FUT; FX 101; Fenakol 43; Fenochem 35; Fenoform 12P; Fenoform 1H/P; Fenoform 31-14P; Fenokol; Fenokol 35; Fenokol 40; Fenokol 43; Fenokol A; Fenokol UA; Fenolit 43; Fenolit R 1; Fenolit TL 706; Fenolit TL 706/3; Fenopreg; Fenotam GR 326; Fenoterm; Fiberite CMXR 6055; Fiberite K 641; Fiberite MXB 360; Fiberite MXG 6070; Finetex PF 20; Formaldehyde, polymer with phenol; Formaldehyde, polymer with phenol and 2-phenyl-1H-imidazole; Formaldehyde-phenol copolymer; Formaldehyde-phenol polymer; Formaldehyde-phenol resin; Formaldehyde-phenol-2-phenylimidazole copolymer; Formalin-phenol copolymer; Foundrez 23-703; Foundrez 96-880; GIPK 114; GP 144D64; GP 155C42; GP 169C21 Resi-Bond; GP 2037; GP 205C; GP 2074; GP 2804; GP 3110; GP 3121; GP 3195; GP 4445; GP 486G34; GP 5102; GP 5137; GP 5236; GP 5415; GP 5479; GP 548G51; GP 553; GP 5778; GP 5779; GP 5833; GP 594G04; GP 6777; GP-RPPY 5757; GP-RPPY 5779; GPR 5815; GSP 32; GSP 32 (phenolic resin); GSP 400; Gascofix NY; Gumifen 11; H 1S; H 41N; HF 1; HF 1 (phenolic resin); HF 1M; HF 3; HN 7310A; HP 203N; HP 401SD; HP 607N; HPC 51; HPN-X; HRJ 11482; HRJ 1166; HRJ 11722; HRJ 12362; HRJ 12700; HRJ 12952; HRJ 2210; HRJ 652; HW 1842; HX 5211PF; HY 2000; Haveg AF; Haveg H 41N; Heresite; Hitanol 3013; Hitanol 4020; Hitanol HP 607N; I 21-22; IB 215; IF; IF (polymer); IMC Self-Set 130; ITD 320Z; IZ 6635; Iditol (polymer); Iditol Extra; Imprezin 01; Interac 1168; Ironsides 1111; Isocure LF 305; J 1008H; J 1011H; J 325; J 60/2325L; J 871; JA 10; JDW 1; JDW 2; JDW 3; K 124-38; K 124P50; K 15-2; K 17-2; K 18; K 18 (polymer); K 18-2; K 18-2FG; K 21-22; K 266; K 4; K 4 (phenolic resin); K 48; K 48 (phenolic resin); K 50; K 50 (phenolic resin); K 6; K 6 (polymer); K 641; KAST-V; KDFF; KF 74; KHD III; KNB 100PL; KPD-L 777; KPE-F 2000; KPH-F 2001; KPH-F 2002; KRD-HM 2; Kaproplast; Kaproplast KS; Kaproplast KSG; Kauresin 250; Kemfix HB 96/200; Kerite; Kerite (polymer); Koroset; Koroset A; Kreodur; L 252G; L 998; LAF 1; LARS; LARS 5; LATOS 31; LB 2; LB 2 (binder); LB 21; LBR 6; LBS; LBS 1; LBS 1 (polymer); LBS 16; LBS 20; LBS 29; LBS 3; LBS 3 (polymer); LBS 4; LBS 9; LG 724; LPF 101K2; LT; LT (polymer); LV 70S; Lignofen 15/2; Longlife 1120; M 0; M 1; M 1 (phenolic resin); M 2; MA 15; MDPV; MER 7930; MILR 9299-II; MNG-FF; MP 120; MP 120 (phenolic resin); MP 120H; MP 120HH; MPC-R; MPC-S; MPD 8515; MR 800N; MS 7814; MXB 360; MY 106; Metallogen AT 3; Methylon 11; Mitsui Toatsu 1000; Mitsui Toatsu 2000; Mitsui Toatsu 3000; Modofen 53; Modofen 54S; Modofen 56; Muromac WAP 9211; N 101; N 101 (phenolic resin); N 1320; N 16; N 16 (novolak); NKTV-A 62; NOB 246; NRV 125; NS; NS (resin); NSB 146; NSB 153; NTK 246; NVG 2000; Neoresin PX 310; Neosyn CPP 48; Netbond FRB; Noburit HH; Novaset 735; Novogen P 40; Novokol E 15; Novolac Z; Novolak 1000; Novolak 18; Novolak 18u; Novolak 2000; Novolak 70; Novolak EXP-E 069; Novolak LG 724; O 122; O 20-210-75SK; O 203; O 250; O 250 (polymer); O 251; O 3-010-02; OCF-RE 131; OF 1; OF 1 (phenolic resin); OFPR 2; OFPR-II; Oktofor O; Oshika Resin D 100; Oshika Resin D 17; Oshika Resin PB 1310; P 180; P 3-1; P 42; P 42 (phenolic resin); P 5-2; P 65; P 65 (polymer); P 963; PA 2276; PB 2V; PF 0235DP; PF 109; PF 162510; PF 16L510; PF 190080; PF 2; PF 2-0823; PF 201; PF 2512; PF 270; PF 307; PF 328; PF 329; PF 330; PF 336; PF 541; PF 544; PF 750; PF 76; PF 785; PF 8010; PFC 04; PG 700; PG 700 (phenolic resin); PH 4055; PHS 600; PI 260; PL 2207; PL 2211; PL 2640; PL 2975; PL 3812D; PM 932; PN; PN (phenolic resin); PN 152; PN 154; PN 320; PN 430; PN 46; PN 80; PN 80 (phenolic resin); PR 100; PR 100 (phenolic resin); PR 217; PR 281; PR 285; PR 311; PR 50235; PR 50716; PR 50731; PR 51470; PR 53120; PR 940; PRN 1200; PS 2176; PS 2178; PS 2207; PS 2607; PS 4113; PSF 4224; PSF 4261; PSK 2320; PSM 2207; PSM 2240A; PSM 4261; PSM 4448; PZR; Paraformaldehyde-phenol copolymer; Peracit 4536K; Peracit 5042; Peracit 5044; Peracit 5046; Peracit 5048; Peracit 5061; Peracit A 177; Phenalloy 2870; Phenodur 217; Phenodur PR 101; Phenodur PR 121; Phenodur PR 141; Phenodur PR 217; Phenodur PR 281; Phenodur PR 285; Phenodur PR 373; Phenodur PR 612/80B; Phenodur PR 722; Phenodur PR 897; Phenodur VPW 9340; Phenol, polymer with formaldehyde and 2-phenyl-1H-imidazole; Phenol-formaldehyde condensate; Phenol-formaldehyde copolymer; Phenol-formaldehyde polymer; Phenol-formaldehyde resin; Phenol-formalin copolymer; Phenol-paraformaldehyde copolymer; Phenolbil; Phenolic resin 2123; Phenolic resin 2130; Phenolic resins, phenol-formaldehyde copolymers; Phenolite 5010; Phenolite J 235; Phenolite J 325; Phenolite PE 203; Phenolite PE 205; Phenolite TD 2090-60M; Phenolite TD 2090P; Phenolite TD 2093; Phenolite TD 2254; Phenolite TD 4304; Phenorez PB 71DA; Phenoset 5001; Plastasol L 47; Plastasol L 47N; Plastatherm 2355; Plenco 11936; Plenco 11956; Plenco 12631; Plenco 14695; Plenco 21483; Plenco 402; Plenco 650; Pli-O-Phen J 325; Plyophen 5010; Plyophen J 303; Plyophen J 325; Plyophen TD 2093; Plyophen TD 2254; Plyophen TD 2302; Plyophen TD 2307; Polofen F 1; Polofen FE 18-1; Polofen FF 1WHG; Pololit E; Poltec 2; Poly[[(phenylmethoxy)phenylene]methylene]; Polycol N; Porofen F 1-36; Porofen FF 1; Porofen FSzG 2; Porofen S; Prefere 13B024; Prefere 14J021; Prefere 16J536; Prefere 4976; Prefere 70-7012L; Prefere 70-7530L; Prefere 72-6410M; Printan G; R 10993; R 17620; R 1974; R 2; R 2 (phenolic resin); R 300; R 300 (phenolic resin); R 330; R 330 (phenolic resin); R 435; R 472; R 619; R 8210; R 8821/1; RA 101; RA 51; RB 125S; RCI 25-114; RFL 3; RFN 60; RI 4009; RL 43003; RL 628; RN 7; RN 7 (phenolic resin); RP 902; RP 912; RSF; RSF 014; RSF 3040; RSF 3043; Renoterm 67; Resi-Bond 6773; Resi-Lam GP 5236; Resi-Stran; Resi-Stran 240C11; Resibond GP 169C21; Resin 2162; Resin 2173F; Resin LARS; Resine 75-30; Resinox 594; Resinox 7280; Resinox 753; Resinox 773; Resinox SD 7280; Resital 6358/1; Resitop LVR 8210; Resitop PL 2207; Resitop PL 2211; Resitop PL 4646; Resitop PL 4667; Resitop PL 4708; Resitop PS 2607; Resitop PSF 4224; Resitop PSF 4261; Resitop PSK 2225; Resitop PSK 2320; Resitop PSK 4261; Resitop PSK 4300; Resitop PSM 4228; Resitop PSM 4261; Resitop PSM 6820; Resitop RSF 4261; Reslink GTC 50; Resol 300; Resol 472; Resol A; Resopen; Resophene 71DAS; Resorciphen 2074A2026B; Retinaks FK 16L; Retinaks FK 24a; Retinax FK 16L; Retinax FK 24A; ReziCure 3057; Rezine 75-30; Rezocel; Rezocol; Rezofen CS; Rezokol; Rezopen; Rezotsel; Rhenosin RB; Ribetak R 7515P; Rousselot 75.00; Rousselot 7515; Rutaphen GC 75; S 1; S 1 (phenolic resin); S 1-25; S 191; S 205; SBS; SBS (phenolic resin); SBS 1; SBS 1 (phenolic resin); SBS 11; SD 140; SD 1708; SD 1731; SD 672D; SD 909A; SF 010; SF 010A; SF 010M; SF 011; SF 0112; SF 0112A; SF 0113; SF 0116F; SF 0119; SF 012; SF 014; SF 015; SF 015M; SF 022; SF 030A; SF 100; SF 100 (phenolic resin); SF 104; SF 121; SF 14; SF 14 (polymer); SF 141S; SF 241; SF 260; SF 262; SF 29; SF 29 (phenolic resin); SF 3021; SF 3021K; SF 3021s; SF 3024B; SF 3024B20; SF 339; SF 341; SF 381; SF 381 (phenolic resin); SF 480; SF 50; SF 50 (phenolic resin); SFF 3031; SFK 2; SFKh; SFKh 3013; SFN 2; SFO 1; SFP; SFP (polymer); SFP 011; SFP 0119A; SFP 011A; SFP 011L; SFP 012A; SFP 015A; SFP 118; SFP 470; SFZ 3013VL; SFZ 3014; SFZh; SFZh 301; SFZh 3011; SFZh 3012; SFZh 3013; SFZh 3014; SFZh 3016; SFZh 302; SFZh 3024; SFZh 3027; SFZh 3027B; SFZh 3031; SFZh 3032; SFZh 3037; SFZh 304; SFZh 305; SFZh 306; SFZh 3061; SFZh 3066; SFZh 309; SFZh 3102; SFZh 323; SFZh 339; SG 3100; SH 1098; SK 3; SK 3 (phenolic resin); SL 2005; SLK 621; SMD 30207; SNK 2-27; SP 18; SP 18 (polymer); SP 2611; SP 342-02; SP 690; SP 8855; SPF 011L; SPF 012; SPLBS 1; SPWC 190054PF; ST 1138; STEF; STF 2; STN 150; SVF 3; Santolink EB 560; Selphen OG 1000; Selphen OG 2000; Shonol BKS 316; Shonol BKS 377F; Shonol BRG 555; Shonol BRG 556; Shonol BRG 557; Shonol BRG 559; Shonol BRN 2120; Shonol BRP 572A; Shonol PCL 681; Si 14E; Sinotherm 8426; Sintek 2; Sirfen 1025; Sirfen 1027; Sirfen N 3; Sumilit HPN-X; Sumilit PC 1; Sumilit PR 1050; Sumilit PR 10694; Sumilit PR 217; Sumilit PR 311; Sumilit PR 50235; Sumilit PR 50622; Sumilit PR 5064; Sumilit PR 50716; Sumilit PR 50731; Sumilit PR 51470; Sumilit PR 9300; Sumilit PR 940; Sumilit PR-Q 121; Sumilit PR-Q 221; Sumilit Resin PR 311; Sumilit Resin PR 50235; Sumilit Resin PR 50622; Sumilit Resin PR 50731; Sumilit Resin PR 51470; Sumilite PR 217; Sumilite Resin PR 217; Sumilite Resin PR 50716; Sumilite Resin PR 51470; Sumilite Resin PR 940; Sumiresin PR 50235; SuperEko NFC; Suspendol PPK; Sylvic DUO-A 133; T 110; T 110 (phenolic resin); T 214; T 214 (phenolic resin); T 250; T 266; T 77; T 77 (phenolic resin); TD 2090-60M; TD 2093; TD 2254; TD 2307; TD 4304; TR 18176; TS; TS (resin); TSKGS 75-90; TSP-F; Tackirol 160; Tamanol 745; Tamanol 758; Tamanol P 180; Tamanol PA; Tegocoll DO 1; Tegocoll DO 2; Tegofilm M 12B; Tembec CL 300; Textolite KAST-V; Tilen A; TsNIIF; Tungophen B; U 1-307-07; U 2-301-07; U-Loid PL 250; U-Loid PL 281; U-Loid PL 283; UBF; UBF (phenolic resin); UKF; UTF 1; UVF 3; UVS 10T; UVS 350T; Ucar BKR 2620; Ucar CK 1635; Ucar GP 5200; Umacol B; Umaform 116; Umaform B 115; Umaform B 116; Umaform B 118; Umaform F; Umaform LE; Umaform LV 1; Umaform MVU; Umaform TVD; Unilam ABT; Univeks C; Uranol L 9; Uravar 75778; Uravar L 9; VFT; VGS 18; VIAM-B; VIAM-B 3; VKh 1-090-34; VP 13N; VP 24N; VP 300N; VRB; VW 65059; Varcum 22-655; Varcum 24-655; Varcum 2406; Varcum 29219; Varcum 29703; Varcum 5485; Varcum TD 2090P; Varcum TD 2090P, homopolymer; Varcum TD 2093; Vilares 5; Voloknit VL 2; Vulkadur A; Vulkadur RB; Vx 2-090-68; Vx 4-080-34; W 1601; W 166F; W 31-131C; W 31-46B; W 31-54B; W 3154; W 800C; WR 36AS; WR 40; WR 40AS; WR-AS; WoodWeld GP 145C48; WoodWeld GP 190073; Woodweld 190080; X 34-45DF006; XR 14277A; XR 4364; Zh 13-010-89; Zh 2-010-60; Zh 5-010-78; ZhB; ZhN; ZkN
+FIELD Formula:(C6 H6 O . C H2 O)x
+FIELD Alternate Formula:
+FIELD Class Identifier:Polymer , Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):9038-25-9, 9048-48-0, 9048-61-7, 9049-60-9, 9050-10-6, 9050-11-7, 9050-66-2, 9073-89-6, 9079-79-2, 9082-36-4, 9082-37-5, 9087-36-9, 9087-71-2, 11120-43-7, 11138-48-0, 12619-76-0, 12773-09-0, 12773-11-4, 12773-12-5, 12773-14-7, 12798-23-1, 37187-19-2, 37191-60-9, 37209-25-9, 37211-56-6, 37218-05-6, 37260-15-4, 37281-00-8, 37281-33-7, 37291-51-3, 37328-79-3, 37331-31-0, 37331-34-3, 37336-53-1, 37339-83-6, 39277-48-0, 39284-11-2, 39284-12-3, 39284-17-8, 39320-26-8, 39339-94-1, 39382-13-3, 39389-44-1, 39389-57-6, 39412-69-6, 39423-38-6, 39435-45-5, 50642-82-5, 50642-83-6, 50809-13-7, 50809-44-4, 50922-32-2, 51108-93-1, 51358-41-9, 51426-07-4, 51540-79-5, 51812-00-1, 51888-99-4, 52038-54-7, 52038-55-8, 52229-83-1, 52276-50-3, 52433-93-9, 53237-77-7, 53523-20-9, 53571-85-0, 53800-73-0, 53986-85-9, 54174-24-2, 55126-07-3, 55126-53-9, 55799-50-3, 57608-76-1, 57851-91-9, 58250-18-3, 58318-30-2, 59029-77-5, 59764-46-4, 60476-15-5, 60617-31-4, 61162-32-1, 61840-47-9, 62996-09-2, 63799-27-9, 64093-71-6, 65035-27-0, 65324-69-8, 65381-55-7, 65430-77-5, 67775-26-2, 67775-27-3, 67775-28-4, 67775-29-5, 68040-01-7, 69073-18-3, 69106-52-1, 69279-87-4, 69345-00-2, 69494-40-2, 69772-46-9, 70226-36-7, 70323-28-3, 71077-79-7, 72270-48-5, 73560-33-5, 73699-75-9, 74092-44-7, 74900-13-3, 75882-39-2, 79468-82-9, 80400-11-9, 82115-83-1, 82375-98-2, 82785-50-0, 82851-99-8, 84069-62-5, 84136-19-6, 84503-72-0, 84684-10-6, 85411-27-4, 86003-96-5, 86243-63-2, 86297-83-8, 87915-86-4, 88161-89-1, 88747-54-0, 90250-02-5, 95032-38-5, 96230-44-3, 97599-27-4, 99401-12-4, 99676-06-9, 100919-45-7, 101484-09-7, 103598-71-6, 103735-96-2, 104041-95-4, 104041-96-5, 104708-68-1, 105634-75-1, 107231-31-2, 107248-34-0, 107339-18-4, 108066-67-7, 109945-82-6, 111565-41-4, 111566-49-5, 112955-72-3, 113255-58-6, 113355-90-1, 113451-34-6, 114013-78-4, 114512-96-8, 115566-67-1, 115727-60-1, 117925-67-4, 118550-44-0, 119166-75-5, 123896-31-1, 124365-50-0, 125524-52-9, 126879-05-8, 128415-73-6, 130501-39-2, 135151-82-5, 137398-63-1, 139690-92-9, 142369-02-6, 142582-76-1, 148057-94-7, 152742-69-3, 157321-45-4, 163649-32-9, 165039-55-4, 171402-43-0, 172307-85-6, 174593-62-5, 180189-89-3, 202421-30-5, 227316-00-9, 259746-92-4, 262358-41-8, 264918-74-3, 293300-82-0, 305798-25-8, 316805-83-1, 319482-35-4, 333304-30-6, 491576-78-4, 491610-09-4, 537006-16-9, 777071-53-1, 842143-46-8, 1017595-08-2, 1061634-82-9, 1061635-06-0, 1061635-92-4, 1161834-65-6, 1187363-80-9, 1276683-17-0, 1715945-24-6, 1820793-16-5, 1821114-17-3, 1881245-15-3, 2015955-55-0, 2086293-81-2, 2131748-14-4, 2180992-35-0, 2247367-03-7
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:9003-11-6
+FIELD CA Index Name:Oxirane, 2-methyl-, polymer with oxirane
+FIELD Other Names:Glycols, polyethylene-polypropylene (8CI); Oxirane, methyl-, polymer with oxirane (9CI); Propylene oxide, polymer with ethylene oxide (6CI); Oxirane, polymer with methyloxirane (9CI); 333E; 50MB-26X; 75H380000; 75HB1440; 80DE40U; Acclaim 2200N; Actcol ED 36; Actcol ED 56; Actcol MF 12; Actcol MF 18; Actcol NF 04; Actinol P 3035; Adeka Carpol MH 150; Adeka Carpol MH 500; Adeka Carpol PH 2000; Adeka L 31; Adeka PR 2008; Adeka PR 3007; Adeka PR 5007; Adeka Polyether PR 5007; Adekanol L 34; Adekanol L 62; Adekanol NP 1200; Agnique ED 0001; Alcox EP 10; Alcox EP 20; Alkan 416; Alkox EP 10; Alkox EP 1010N; Alkox EP 10X; Alkox EP 20; Alkox EP 20X; Antifoam P 21; Atlas SF 131; BPE 1500; BSP 5000; Balab 615; Berol 370; Berol 374; Berol TVM 370; Blaunon EP 1461; Blaunon P 172; Blaunon P 201; Bloatguard; Breox 50A1000; Breox 50A225; Breox 50A50; Breox 75W270; Breox 75W55000; Breox PAG 50A1000; C 310B; CE; CF 0802; CMC 252; CP 1000; CP 1000 (polyoxyalkylene); CP 1000L; CP 2000; CP 2000 (glycol); CP 2000L; CS-DF 900; Caradol ED 52-03; Carpol 2040; Carpol 2050; Clerol PLB 847; D 10; D 21/700; DDL 400; DE 1; DE 1 (demulsifier); DEP 4000E; DP 6000E; DR 4500; Daltocel F 3001; Desmophen 7100; Desmophen L 2830; Dezemulsionat E 96; Disfoam CC 222; ED 36; EL 551; EP 1660; EP 20; Emkalyx EP 64; Emkalyx L 101; Emkarox VG 1051W; Emkarox VG 217W; Emkarox VG 379W; Emkarox VG 650W; Emulgen PP; Emulgen PP 150; Emulgen PP 250; Emulgen PP 290; Epan 70; Epan 742; Epan U 102; Epan U 180; Epoxyethane-epoxypropane copolymer; Ethylene glycol polyethylene-polypropylene glycol ether (1:2); Ethylene glycol-propylene glycol copolymer; Ethylene glycol-propylene glycol polymer; Ethylene oxide-1,2-propylene oxide copolymer; Ethylene oxide-propylene oxide copolymer; Ethylene oxide-propylene oxide copolymer ethylene glycol ether; Ethylene oxide-propylene oxide copolymer, ethylene glycol ether (2:1); Excenol 2026T; Excenol 3040; Exocorpol; FT 257; GPE 2035; Genapol PF; Genapol PF 10; Genapol PF 20; Genapol PFIO; Gran Up US 30; HB 126; Hiflex 604; Hiflex D 300; Hiflex DR 4500; Hilube D 550; Hilube TB 1120; IBY 2; Industrol N 3; Jeffol PPG 3706; Jeffox FF 200; Jeffox PPG 2000; K-HN 8200; KRE 15; KWC-Q; Konion DR 802; Koremul LX 94; L 5050; LF 40; LF 40 (polyether); LF 62; LF 62 (polyether); Laprol 1502-2-70; Laprol 1601; Laprol 2402C; Laprol 4202-2B30; Laprol 5002-2B30; Laprol D 10; Lupranol 2020; Lupranol 2022; Lupranol VP 9243; M 90/20; M-RPE 1293; MAG 540-90DT; MM 8750; MST 188; Magcyl; Mazu DF 204; Methyloxirane-oxirane copolymer; Methyloxirane-oxirane polymer; Monolan 12000E80; Monolan PB; Multranol 9111; Multranol 9182; N 480; ND 8; NSC 63908; Nalco PP 10-3340; Nalco SPF-WTB 33; Newcol 3280; Newpol PE 34; Nissan Disfoam CC 222; Nissan Nonion A 10R; Nissan Unilube 25DE; Nissan Unilube 30DP3B; Nissan Unilube 50DE25; Nissan Unilube 50MB168X; Nissan Unilube 50MB26X; Nissan Unilube 50TG32U; Nissan Unilube 60DP5B; Nissan Unilube 750DE2620; Nissan Unilube 75DE170; Nissan Unilube 75DE5000; Nissan Unilube 80DE120U; Nissan Unilube 80DE40E; Nissan Unilube 80DE40U; Nissan Unilube DE 60; Nixolen; Nixolen NS 4; Nixolen SL 19; Nixolen SL 2; Nixolen SL 8; Nixolen VS 13; Nixolen VS 2600; Nixolen VS 40; Nonion A 10R; Novanik 3010; Nutek 7C; OHV 112; OHV 168.2; OHV 56.1; OHV 84.1; Oligoether L 1502-2-30; Oxalgon; Oxilube 50/150; Oxilube 50000; Oxirane-methyloxirane copolymer; Oxirane-methyloxirane polymer; Oxirane-propylene oxide copolymer; Oxyethylene-oxypropylene copolymer; Oxyethylene-oxypropylene polymer; Oxypropylene-oxyethylene copolymer; Oxypropylene-oxypropylene copolymer; PAG; PAG 1; PAG 1 (polyglycol); PAG 2; PEG 600PR; PEG-PPG copolymer; PEP 101; PF 10; PF 20; PF 732; PF 80; PPG Diol 3000EO; PR 3007; PR 5007; PR 600; PRO 21; PS 072; Pepol AS 053X; Pluracare L 4370; Pluracol 686; Pluracol V; Pluradyne FL 11; Plurasafe WT 9000H; Pluriol A 2600PE; Pluriol A 4000PE; Pluriol L 64; Pluriol SC 9361; Poloxalcol; Poloxalene; Poloxalene 2930; Poloxalene L 64; Poloxalkol; Poly(oxyethylene) poly(oxypropylene) glycol; Poly(oxyethylene)-poly(oxypropylene) polymer; Poly(propylene oxide-ethylene oxide); Poly-G 55NTP; Poly-G WT 90000; Poly-G WT 9150; Polyethylene oxide-polypropylene oxide; Polyethylene oxide-polypropylene oxide copolymer; Polyethylene-polypropylene glycol; Polyethylene-propylene glycol diethylene glycol ether; Polyglycol D 21/150; Polyglycol EP 530; Polyglycol SD 301; Polyglykol D 21/700; Polyglykol PR 600; Polylon 13-5; Polyoxyethylenated poly(oxypropylene); Polyoxyethylene oxypropylene; Polyoxyethylene-polyoxypropylene; Polyoxyethylene-polyoxypropylene copolymer; Polyoxyethylene-polyoxypropylene polymer; Polyoxyethylenepropylene glycol ether; Polyoxypropylene-polyoxyethylene copolymer; Polypropylene glycol-ethylene oxide copolymer; Pr 168; Prevocell EO; Proksanol; Propylene glycol-ethylene glycol copolymer; Propylene oxide-ethylene oxide copolymer; Propylene oxide-ethylene oxide polymer; Propylene oxide-oxirane copolymer; Propylene oxide-propylene glycol- ethylene oxide copolymer; Proxanol; Proxanol 158; Proxanol 168; Proxanol 186; Proxanol 224; Proxanol 228; Proxanol P 168; Proxanol TsL 3; RC 102; Regulaid; Rokopol 30P9; Rokopol D 1012E; Rokopol PE 40; SBU 0319; SDT 06E; SKF 18667; Sannix PE 75; Separol 29; Separol WF 34; Separol WF 41; Sinoponic P-PE 64; Sipol L 61; Slovanik; Slovanik 1070/7; Slovanik 610; Slovanik 630; Slovanik 660; Slovanik M; Slovanik M 340; Slovanik PV 670; Slovanik T 310; Slovanik T 320; Slovanik T 630; Supronic B 50; Supronic B 75; Supronic E 400; Supronic E 800; Surflo HS 1; Surfonic D 500; Synalox 40D100; Synalox 40D300; Synalox 40D700; Synthionic 80-20; Systol T 154; TPE 1000; TVM 370; Takelac XLR 51; Tdiol 1000; Tdiol 2000; Teric PE; Teric PE 40; Teric PE 60; Teric PE 61; Teric PE 62; Teric PE 68; Teric PE 70; TsL 431; Ucon 25H; Ucon 75H; Ucon 75H1400; Ucon 75H450; Ucon 75H90000; Unilube 50DE25; Unilube 50MB168X; Unilube 50MB26X; Unilube 75DE5000; Unilube 80DE120U; Unilube 80DE40U; Upol U; Velvetol OE 2NT1; Vepoloxamer; Voranol 222-056; Voranol 5287; Voranol P 2001; WL 1590; WS 661; Wyandotte 7135; X 423; X 427; XD 8379; XUS 15176; Yukol 4813; Z 4; Z 4 (demulsifier); ZS 2185; ZSN 8100; ZSP 8100L; Zeospan 8100L; poly(oxyethylene-oxypropylene) ether; α-Hydro-ω-hydroxy-poly(oxyethylene)-poly(oxypropylene)
+FIELD Formula:(C3 H6 O . C2 H4 O)x
+FIELD Alternate Formula:
+FIELD Class Identifier:Polymer , Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):31566-75-3, 53637-25-5, 63466-93-3, 65395-10-0
+FIELD Deleted Registry Number(s):9003-12-7, 9009-02-3, 9009-03-4, 9009-04-5, 9009-05-6, 9009-06-7, 9010-49-5, 9010-97-3, 9015-66-1, 9050-44-6, 9061-69-2, 9067-43-0, 12676-40-3, 12772-49-5, 30600-73-8, 37211-19-1, 37211-20-4, 37211-21-5, 37211-22-6, 37211-23-7, 37211-24-8, 37221-18-4, 37265-39-7, 37307-38-3, 37331-16-1, 37331-17-2, 37341-81-4, 39277-80-0, 39316-56-8, 39316-57-9, 39364-13-1, 39387-54-7, 50643-24-8, 51312-31-3, 51569-27-8, 53637-72-2, 56730-46-2, 57219-38-2, 57571-70-7, 57971-91-2, 58968-65-3, 59494-33-6, 59794-22-8, 60328-61-2, 60407-69-4, 60976-75-2, 64940-96-1, 65187-10-2, 65380-70-3, 66746-25-6, 69070-95-7, 69256-70-8, 70213-25-1, 70644-95-0, 71343-56-1, 72319-37-0, 73158-62-0, 76050-76-5, 76364-46-0, 77448-18-1, 77752-09-1, 81180-56-5, 84931-05-5, 86249-84-5, 86304-35-0, 87912-55-8, 87912-56-9, 91858-59-2, 98932-37-7, 106717-66-2, 124057-63-2, 125523-27-5, 162627-00-1, 163032-64-2, 163063-49-8, 167267-50-7, 168018-54-0, 170779-86-9, 172306-19-3, 186673-37-0, 190735-22-9, 208342-25-0, 209682-92-8, 231627-80-8, 232598-91-3, 250780-00-8, 254903-86-1, 291775-89-8, 374624-82-5, 452069-47-5, 472960-66-0, 570369-25-4, 634588-40-2, 778599-53-4, 797786-13-1, 862582-70-5, 877037-78-0, 905305-59-1, 1087262-79-0, 1214718-60-1, 1220390-47-5, 1354714-46-7, 1359884-87-9, 1407593-02-5, 1426233-29-5, 1430143-53-5, 1700656-07-0, 1818351-41-5, 1851281-18-9, 1870006-85-1, 2172821-14-4
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:9003-06-9
+FIELD CA Index Name:2-Propenoic acid, polymer with 2-propenamide
+FIELD Other Names:Acrylamide, polymer with acrylic acid (6CI); Acrylic acid, polymer with acrylamide (8CI); 2-Propenamide, polymer with 2-propenoic acid (9CI); AP 15; AP 15 (polymer); APAM 8701; Accostrength 72; Acrylamide-acrylic acid copolymer; Acrylamide-acrylic acid polymer; Acrylamide-acrylic acid resin; Acrylate-acrylamide copolymer; Acrylic acid copolymer with acrylamide; Acrylic acid-acrylamide copolymer; Acrylic acid-acrylamide polymer; Acrylic acid-propenamide copolymer; Acrysol 51; Alcapsol 144; Alcomer 120L; Alcosorb AB 3EC; Alcotac CB 6; Amerfloc 5270; Aspiro P 4201; BZA 40L; Betz 1138; Collacral HP; Cyanamer P 21; Cyanamer P 26; Cyanatrol 930; Cyanatrol 940; Cyanatrol 950; Cyanatrol 960; DCA 155; Diafloc AP 517C; E 147; Eka DS 84; Ferrocryl 8723; Flocogil AD 37; Flopam FP 3630S; FlowPro 9120; Hamacoat P-Z 300; Hercobond 2000; Hisobead; Hydraid 7736; Hypersperse A 1; Jayfloc 808; Luquasorb AF 2; M 1201; M 530; M 530 (acrylic polymer); Magnafloc 3127; Nalco 623; Nalco 8677 Plus; Nalco 9SS068; Nalco D 4047; Nisshin Furokku B 2133; PAA 1; PAA 2; PPD-M 5066; Polinap SM; Poly(acrylamide-acrylic acid); Poly(acrylamide-co-acrylic acid); Poly(acrylic acid-acrylamide); PolyAcryl Carrier; Polymaster R 623S; Praestol 2350; Praestol 2995; R 1144; Sansapol AM; Stockosorb 300K; Stockosorb 400F; Sumirez A 215; T 140; T 140 (acrylic polymer); Texipol 63-903; WAS 590
+FIELD Formula:(C3 H5 N O . C3 H4 O2)x
+FIELD Alternate Formula:
+FIELD Class Identifier:Polymer , Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):30174-65-3, 51004-31-0, 70304-41-5, 87347-69-1, 135152-98-6, 139202-68-9, 216304-93-7, 220355-99-7, 640265-71-0, 727991-47-1, 927174-83-2, 1256490-81-9, 1549845-09-1, 1942011-51-9, 2137050-48-5
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:7789-38-0
+FIELD CA Index Name:Bromic acid, sodium salt (1:1)
+FIELD Other Names:Bromic acid, sodium salt (8CI,9CI); Neutralizer K 126; Neutralizer K 140; Neutralizer K 938; Sodium bromate; Sodium bromate (NaBrO3)
+FIELD Formula:Br H O3 . Na
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):38869-75-9, 38869-76-0
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:7783-20-2
+FIELD CA Index Name:Sulfuric acid ammonium salt (1:2)
+FIELD Other Names:Sulfuric acid diammonium salt (8CI,9CI); Ammonium sulfate (2:1); Actimaster AMS; Ammonium sulfate; Ammonium sulfate ((NH4)2SO4); Ammonium sulphate; Busan 1215; Coaltrol LPA 40; Diammonium sulfate; Diammonium sulphate; Dolamin; Nonnen R 999-10; Oxamine 6150; Para-Go; Sulfuric acid, diammonium salt; Tasker Clear
+FIELD Formula:H3 N . 1/2 H2 O4 S
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):44071-93-4, 57973-73-6, 64006-53-7, 82168-61-4, 122364-22-1, 122393-13-9, 428816-32-4
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:7772-98-7
+FIELD CA Index Name:Thiosulfuric acid (H2S2O3), sodium salt (1:2)
+FIELD Other Names:Thiosulfuric acid (H2S2O3), disodium salt (9CI); Thiosulfuric acid, disodium salt (8CI); Ametox; Antichlor; Chlorine Control; Chlorine Cure; Declor-It; Desilube 88; Disodium thiosulfate; Disodium thiosulphate; Hypo; S-Hydril; Sodium hyposulfite; Sodium oxide sulfide (Na2S2O3); Sodium thiosulfate; Sodium thiosulfate (Na2S2O3); Sodium thiosulfate anhydrous; Sodium thiosulphate; Sodothiol; Sulfactol; Sulfothiorine
+FIELD Formula:H2 O3 S2 . 2 Na
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):13773-27-8, 220945-47-1, 1374442-73-5
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:7758-98-7
+FIELD CA Index Name:Sulfuric acid copper(2+) salt (1:1)
+FIELD Other Names:Copper(2+) sulfate (1:1); Baijunling; Black blue stone; Blue Copper; Blue stone; Blue vitriol; Bluestone; Copper monosulfate; Copper sulfate; Copper sulfate (1:1); Copper sulfate (CuSO4); Copper(2+) sulfate; Copper(II) sulfate; Cuivrol; Cupric sulfate; Cupric sulfate anhydrous; Cupric sulphate; Delcup; EarthTec; Hylinec; Incracide 10A; Incracide E 51; MAC 570; Mastercop; Monocopper sulfate; Reducer Cu; Roman vitriol; Sulfuric acid, copper(2+) salt (1:1); Upinorg
+FIELD Formula:Cu . H2 O4 S
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):139939-69-8
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:7758-19-2
+FIELD CA Index Name:Chlorous acid, sodium salt (1:1)
+FIELD Other Names:Chlorous acid, sodium salt (8CI,9CI); Alcide LD; Chloro-Clean; Chloro-Clean (chlorite); Dioxychlor; Neo Silox D; Silbrite 25; Silbrite 80; Sodium chlorite; Textone
+FIELD Formula:Cl H O2 . Na
+FIELD Alternate Formula:
+FIELD Class Identifier:
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):66554-51-6, 1352826-56-2
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:7757-83-7
+FIELD CA Index Name:Sulfurous acid, sodium salt (1:2)
+FIELD Other Names:Sulfurous acid, disodium salt (8CI,9CI); Anhydrous sodium sulfite; Disodium sulfite; Disodium sulfite (Na2SO3); E 221; S-WAT; Sodium sulfite; Sodium sulfite (Na2SO3); Sodium sulfite anhydrous
+FIELD Formula:H2 O3 S . 2 Na
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):10579-83-6
+FIELD Deleted Registry Number(s):68135-69-3
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:7757-82-6
+FIELD CA Index Name:Sulfuric acid sodium salt (1:2)
+FIELD Other Names:Sulfuric acid disodium salt (8CI,9CI); Sodium sulfate (2:1); 3ED; A 12; A 12 (sulfate); A 6; A 6 (salt); Bisodium sulfate; Detergent White Speckle; Dibasic sodium sulfate; Disodium monosulfate; Disodium sulfate; Disodium sulphate; Kemsol; Na-G 0; Na-G 1; Salt cake; Sodium sulfate; Sodium sulfate (Na2SO4); Sodium sulfate anhydrous; Sodium sulphate; Sulfuric acid, disodium salt; T 350; T 350 (sulfate)
+FIELD Formula:H2 O4 S . 2 Na
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):15124-09-1
+FIELD Deleted Registry Number(s):1337-28-6, 856314-01-7, 1079994-54-9
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:7727-37-9
+FIELD CA Index Name:Nitrogen
+FIELD Other Names:Diatomic nitrogen; Dinitrogen; Molecular nitrogen; Nitrogen (N2); Nitrogen gas; Nitrogen nutrition (plant); Nitrogen-14
+FIELD Formula:N2
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):93037-13-9, 156457-45-3, 161728-27-4, 263005-65-8, 745765-07-5, 778548-56-4, 794449-54-0, 882528-56-5, 951778-24-8, 1119449-41-0, 1384252-82-7, 2194529-25-2
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:7727-21-1
+FIELD CA Index Name:Peroxydisulfuric acid ([(HO)S(O)2]2O2), potassium salt (1:2)
+FIELD Other Names:Peroxydisulfuric acid ([(HO)S(O)2]2O2), dipotassium salt (9CI); Anthion; Dipotassium peroxodisulfate; Dipotassium peroxydisulfate; Dipotassium persulfate; F 210 Hygisept; K2S2O8; Potassium dipersulfate; Potassium peroxydisulfate; Potassium peroxydisulfate (K2(S2O8)); Potassium peroxydisulphate; Potassium persulfate; Virkon S
+FIELD Formula:H2 O8 S2 . 2 K
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):106015-10-5, 1001387-46-7, 1669428-35-6, 1801437-22-8, 2040915-35-1
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:7722-84-1
+FIELD CA Index Name:Hydrogen peroxide (H2O2)
+FIELD Other Names:Hydrogen peroxide (8CI); 1: PN: WO2018019707 SEQID: 2 claimed sequence; Adeka Super EL; Albone; Albone 35; Albone DS; Anti-Keim 50; Arion Cronos; Asepticper; B-Cap 35; B-Cap 50; Baquashock; CIX; Clarigel Gold; Corega Extradent; Crest whitestrips; Crestal Whitestrips; Crystacide; Day White; Dentasept; Deslime LP; Dezinbak Super; Dioxy 100L; EcoClearProx; Hioxyl; Hipox; Hybrite; Hydrogen dioxide; Inhibine; Interox Paramove 50; Interox ST 50; Interox ST 60; Lase Peroxide; Lensan A; M 70; M 70 (peroxide); Magic Bleaching; Metrokur; Mirasept; NSC 19892; Neoseptal D; Nite White Excel 2; Odosat D; Opalescence BOOST; Opalescence Boost PF; Opalescence Xtra; Opalescence Xtra Boost; OxiDate; Oxidol; Oxigenal; Oxydol; Oxyfull; Oxysept; Oxysept Comfort; Oxysept I; Pegasyl; Perhidrol; Perhydrol; Perone; Peroxaan; Peroxclean; Peroxy-Blend PB 31; Peroxy-Blend PB 33; Poladay; Quasar Brite; Select Bleach; Superoxol; T-Stuff; TerraClean; Virox; Whiteness HP; Whiteness HP Maxx; Whiteness HP/FGM; Whitespeed; Xtra White; ZOOM 2; Zerosil
+FIELD Formula:H2 O2
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):8007-30-5, 37355-84-3, 66554-50-5, 97929-73-2, 218625-72-0
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:7681-82-5
+FIELD CA Index Name:Sodium iodide (NaI)
+FIELD Other Names:Sodium iodide (8CI); Anayodin; Ioduril; NSC 77388; Sodium monoiodide; Soiodin
+FIELD Formula:I Na
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):59216-98-7, 61456-04-0
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:7681-11-0
+FIELD CA Index Name:Potassium iodide (KI)
+FIELD Other Names:Antistrumin; Asmofug E; Ceoiodin; Iod-active; Iodomarin; Iodostin; Jodid; K1-N; Kaiod; Kalium iodidum; Knollide; NSC 77362; Pherajod; Potassium iodide; Potassium monoiodide; Thyro-Block; Thyrojod; Zeoiodine
+FIELD Formula:I K
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):39448-53-8, 59216-96-5, 61456-02-8, 106449-25-6
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:7664-41-7
+FIELD CA Index Name:Ammonia
+FIELD Other Names:Ammonia gas; Ammonia-14N; Busan 1474; Nitro-Sil; R 717; R 717 (ammonia); Refrigerent R717; Spirit of Hartshorn
+FIELD Formula:H3 N
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):8007-57-6, 208990-07-2, 214478-05-4, 558443-52-0, 1026405-88-8
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+

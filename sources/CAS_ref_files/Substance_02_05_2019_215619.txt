@@ -1,0 +1,550 @@
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:876065-86-0
+FIELD CA Index Name:Alcohols, C2-33, manuf. of, by-products from, overheads
+FIELD Other Names:
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Manual Registration , Concept
+FIELD Editor Note(s):
+FIELD Definition Field:The by-products obtained as solvent stripper overheads after removal of non-alkoxide components during the manufacture of alcohols from ethylene by the Ziegler process.   It consists predominantly of paraffins, olefins, naphthenes and esters having carbon numbers in the range C2-34 and melting in the range of approximately -17.5°C to -4.1°C (0.5°F to 24.6°F).
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:CAS Client Services
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:875141-56-3
+FIELD CA Index Name:Imides, from C24-28-α-alkenes-maleic anhydride polymer and hydrogenated tallow alkyl amines
+FIELD Other Names:
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Polymer , Manual Registration , Concept
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:CAS Client Services
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:848301-67-7
+FIELD CA Index Name:Distillates (Fischer-Tropsch), C8-26-branched and linear
+FIELD Other Names:
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Manual Registration , Concept
+FIELD Editor Note(s):
+FIELD Definition Field:A complex combination of hydrocarbons obtained from a feedstock derived from the catalytic hydrogenation of carbon monoxide (the Fischer-Tropsch Process), optionally followed by one or more of the following processes: hydrotreatment, hydroisomerization,  hydrocracking.  It consists predominantly of branched and linear aliphatic hydrocarbons having carbon numbers in the range of C8 to C26 and boiling in the range of approximately 120°C to 380°C (248°F to 716°F).
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:CAS Client Services
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:90218-35-2
+FIELD CA Index Name:Benzenesulfonic acid, dodecyl-, branched, compds. with 2-propanamine
+FIELD Other Names:
+FIELD Formula:C3 H9 N . Unspecified
+FIELD Alternate Formula:Unspecified
+FIELD Class Identifier:Manual Registration , Generic Registration
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:European Union (EU)
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:90194-13-1
+FIELD CA Index Name:Benzenemethanaminium, N-(3-aminopropyl)-N,N-dimethyl-, N-soya acyl derivs., chlorides
+FIELD Other Names:
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Manual Registration , Generic Registration
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:European Union (EU)
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:87246-72-8
+FIELD CA Index Name:D-Glucitol, 1-deoxy-1-[methyl(1-oxododecyl)amino]-
+FIELD Other Names:Dodecanamide, N-methyl-N-(D-gluco-2,3,4,5,6-pentahydroxyhexyl)- (6CI,7CI); 1-Deoxy-1-[methyl(1-oxododecyl)amino]-D-glucitol; GL 12; GL 12 (carbohydrate); HXL 7658; Lauric acid N-methylglucamide; MEGA 12; N-(D-Glucityl)-N-methyllauramide; N-Dodecanoyl-N-methylglucamine; N-Lauroyl-N-methylglucamide; N-Lauroyl-N-methylglucamine; N-Methyl-N-dodecanoylglucamine
+FIELD Formula:C19 H39 N O6
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):5990-07-8, 135897-50-6, 202074-04-2
+FIELD Source of Registration:European Union (EU)
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:85865-69-6
+FIELD CA Index Name:Fatty acids, C16-18, iso-Bu esters
+FIELD Other Names:
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Manual Registration , Concept
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:European Union (EU)
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:85566-12-7
+FIELD CA Index Name:Alcohols, C8-10
+FIELD Other Names:Alfol 810; C8-10 alcohols; C8-10 alcs.; CO 1055; Conden Liniol 810; Elocol C 0810; Emtrol 1630B; Epal 810; Lincol 810; Lorol C 8-10; Lorol C8/C10; Nafol 810D; Sprout-Off
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Component , Manual Registration , Concept
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):66988-15-6
+FIELD Source of Registration:European Union (EU)
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:85536-14-7
+FIELD CA Index Name:Benzenesulfonic acid, 4-C10-13-sec-alkyl derivs.
+FIELD Other Names:
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Manual Registration , Generic Registration
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:European Union (EU)
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:85409-23-0
+FIELD CA Index Name:Quaternary ammonium compounds, C12-14-alkyl[(ethylphenyl)methyl]dimethyl, chlorides
+FIELD Other Names:Alkylbenzyldimethylammonium chlorides, C12-14-alkyl[(ethylphenyl)methyl]dimethyl; C12-14-alkyl(ethylbenzyl)dimethylammonium chlorides; C12-14-alkyl[(ethylphenyl)methyl]dimethylammonium chlorides; C12-14-alkyldimethylethylbenzylammonium chlorides; Quaternary ammonium compds., C12-14-alkyldimethyl[(ethylphenyl)methyl], chlorides
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Manual Registration , Concept
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:European Union (EU)
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:84012-43-1
+FIELD CA Index Name:Walnut, Juglans regia, ext.
+FIELD Other Names:Juglans regia ext.
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Manual Registration , Concept
+FIELD Editor Note(s):
+FIELD Definition Field:Extractives and their physically modified derivatives such as tinctures, concretes, absolutes, essential oils, oleoresins, terpenes, terpene-free fractions, distillates, residues, etc., obtained from Juglans regia, Juglandaceae.
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):84604-00-2
+FIELD Source of Registration:European Union (EU)
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:9049-71-2
+FIELD CA Index Name:Poly[oxy(methyl-1,2-ethanediyl)], α-hydro-ω-hydroxy-, ether with β-D-fructofuranosyl α-D-glucopyranoside
+FIELD Other Names:Actcol 55-490; Adeka Carpol SC 800; Adeka Polyether SC 1000; Adeka Polyol R 395; Adeka R 395; Adeka SC 1000; Adeka SC 1001; Adeka SC 800; EL 455S; Excenol 455S; Excenol EL 455S; HP 290; HP 290 (polymer); HS 209; HS 209 (carbohydrate); L 1258; Laprol 1258; Laprol ES 564; NJ 8250; PPG 490; Polyol RS 450; Polyoxypropylated sucrose; Polyoxypropylene sucrose polyether; Polypropylene glycol cane sugar ether; Polypropylene glycol ether with sucrose; Polypropylene glycol sucrose ether; Polyur A 01; Propoxylated Sannix RP 410A; Propoxylated granulated sugar; Propoxylated sucrose; Propoxysucrose; Propylan RF 132; Propylene oxide polymer ether with sucrose; Propylene oxide-sucrose copolymer; Propylene oxide-sucrose polyether; Propylene oxide-sucrose polymer; RS 350; Rokopol RF 33; SC 1000; SC 800; SP 450; SU 450; Sannix RP 410A; Slovaprop T 450; Sucrose polypropylene glycol ether; Sucrose-propylene oxide polymer; TSE 380; Voranol 350; Voranol 440; Voranol RS 350; Voranol RS 375; Voranol RS 450; Voranol RS 530
+FIELD Formula:C12 H22 O11 . x (C3 H6 O)n H2 O
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):26499-21-8, 29192-34-5, 33409-60-8, 37189-48-3, 37341-94-9, 39283-30-2, 39393-13-0, 53789-34-7, 61969-60-6, 63345-90-4, 64083-33-6, 75139-18-3, 103513-11-7, 135211-03-9, 166091-23-2, 167545-55-3, 208852-18-0, 287473-99-8, 1259552-55-0
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:9035-69-2
+FIELD CA Index Name:Cellulose, diacetate
+FIELD Other Names:Cellulose diacetate; AC 1760; Acepal 1700H; Acetate Flake L 70; Acetate Flake L-AC; Althane A 18; Altrex 140G; Asechi 22; Asechi 35; Asechi L 70; Bexfilm U-ID; Biocell; Biocellat; Bioceta 6V30S-T29-12; CA 394-60S; CA 398-3; CA 398-30L; CDA; CDA 5770; DE 250; Daicel L 20; Daicel L 40; Daicel L 50; Daicel L 70; Daicel LM 80; Daicel LT 3; Diacetyl cellulose; Eastman CA 398-3; Enka 1041; Fuji Tac D; L 20; L 40; L 40S; L 50; L 70; LM 80; LT 40; LT 40 (cellulose derivative); LT 50; MGH; MI Flake; Mycel CDA 5770; VRR 124; XK 10
+FIELD Formula:C2 H4 O2 . 1/2 Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):157090-22-7, 207004-55-5, 248587-59-9, 1260070-02-7
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:9032-92-2
+FIELD CA Index Name:Glycosidase
+FIELD Other Names:Citolase M-102; Diglycosidase; Fecalase; Glycohydrolase; Glycolipid hydrolase; Glycosidases; Glycoside hydrolase; Glycosyl hydrolase; Glycosylase; Glycosylases; N-Glycosidase; O-Glycosidase
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Manual Registration
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):9037-58-5
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:9016-88-0
+FIELD CA Index Name:1,4-Benzenedicarboxylic acid, polymer with 1,2-ethanediol and α-hydro-ω-hydroxypoly(oxy-1,2-ethanediyl)
+FIELD Other Names:Terephthalic acid, polyester with ethylene glycol and polyethylene glycol (8CI); 1,2-Ethanediol, polymer with 1,4-benzenedicarboxylic acid and α-hydro-ω-hydroxypoly(oxy-1,2-ethanediyl) (9CI); Poly(oxy-1,2-ethanediyl), α-hydro-ω-hydroxy-, polymer with 1,4-benzenedicarboxylic acid and 1,2-ethanediol (9CI); Ethylene glycol-PEG 600-terephthalic acid copolymer; Ethylene glycol-polyethylene glycol-terephthalic acid copolymer; Ethylene glycol-polyethylene glycol-terephthalic acid polymer; Ethylene glycol-terephthalic acid-polyethylene glycol copolymer; Ethylene terephthalate-poly(oxyethylene) glycol copolymer; Poly(oxyethylene)-ethylene terephthalate copolymer; Polyethylene glycol-ethylene glycol-terephthalic acid copolymer; Polyethylene glycol-ethylene glycol-terephthalic acid polymer; Polyethylene glycol-ethylene terephthalate copolymer; Polyethylene glycol-poly(ethylene terephthalate) polymer; Polyethylene terephthalate-polyethylene glycol copolymer; Terephthalic acid-ethylene glycol-polyethylene glycol copolymer; Unitherm 170
+FIELD Formula:(C8 H6 O4 . C2 H6 O2 . (C2 H4 O)n H2 O)x
+FIELD Alternate Formula:
+FIELD Class Identifier:Polymer
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):37282-11-4, 39468-07-0, 73612-93-8, 82030-88-4
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:9012-54-8
+FIELD CA Index Name:Cellulase
+FIELD Other Names:β-1,4-Endoglucanase; 1,4-β Glycanases; 1,4-β-D-Endoglucanase; 1,4-β-D-Endoglucanases; 1,4-β-D-Glucan 4 glucanohydrolases; 1,4-β-D-Glucan 4-glucanohydrolase; 1,4-β-D-Glucan endoglucanase; 1,4-β-D-Glucan endoglucanases; 1,4-β-Glycanase; 8000L; 800NSK; ACCF 4740; ACE 70; ACLA; AE 202; AUS 0301; Accel Forte H; Accelerase 1000; Accellerase; Acidic Cellulase AE 202; Acremozyme; Alkali cellulase; Alkali cellulases; AlternaFuel 200P; Asperozym; Auxilase; Avicelase; Avicelase I; B 963; BF 1600; BP 96; Bacillozym; Bactosol BW; Bactosol CA; Bactosol CNX; Bactosol JA; Bactosol JN; Bakezyme X-Pan; Bakezyme XE; Beizym UL; Biocellulase; Biocellulase A; Biocellulase AZ; Biocons New; Biosoft; Biostar DJ New; Biotouch C 25; Biotouch C 29; Biotouch C 700; Biotouch DCL; Biotouch FCL 75; Biotouch L; Biowash-L; CG 220; CG 220 Cellulase; CM 40; CN 1000; CX 7L; Carezyme; Carezyme 1000L; Carezyme 4500; Carezyme 4500L; Carezyme 4500T; Carezyme 900T; Carezyme Premium; Carezyme Premium 4500L; Cartazyme MCX; Cattle-Ase C; Cattle-Ase HR; Cease; Cel12A; Cellic CTec 2; Cellic CTec II; Cellic Ctec; Cellodextrinase; Cellosoft Conc. L; Celloviridin G20KH; Celloviridine; Celloviridine G20X; Cellsoft L; CelluSeb-TL; Celluclast; Celluclast 1.5FG; Celluclast 1.5FP; Celluclast 1.5L; Celluclast 1.5LFG; Celluclast 2.0L; Celluclast 250L; Celluclast 2L; Celluclast AP 3; Celluclast BG; Celluclean; Celluclean 4500 T; Celluclean 5.0L; Celluclean 5.0T; Celluclean 5000L; Celluclean 5T; Cellulaizer DX; Cellulas R 10; Cellulase 13L; Cellulase 2000 L; Cellulase 2322; Cellulase 2730; Cellulase 3 Amano; Cellulase 4000; Cellulase A; Cellulase A 3; Cellulase A 5000L; Cellulase A Amano 3; Cellulase AE 80; Cellulase AP 3; Cellulase Amano 3; Cellulase C 8546; Cellulase CO13P; Cellulase CTP-LB3; Cellulase Ctec 2; Cellulase Cx; Cellulase DS; Cellulase E-CEL; Cellulase E4; Cellulase EG III; Cellulase F; Cellulase GODO-TCF; Cellulase H; Cellulase K 344; Cellulase K 425; Cellulase KN; Cellulase ML; Cellulase Nagase; Cellulase Ononzuka 3S; Cellulase Onozuka; Cellulase Onozuka 3S; Cellulase Onozuka R 10; Cellulase SS; Cellulase T; Cellulase T Amano 4; Cellulase T4; Cellulase TL 1000; Cellulase TP 2; Cellulase Tv; Cellulase XL-531; Cellulase XP 425; Cellulase Y 2NC; Cellulase Y-NC; Cellulase YC; Cellulases; Cellulast 1.5L; Cellulizer HT; Cellulizer NR; Cellulose A Amano 3; Cellulosin AL; Cellulosin AP; Cellulosin PEL; Cellulosin T3; Cellulox A; Cellulox F; Cellulyser; Cellulysin; Cellulyve 50L; Cellulyve 50LC; Cellulyve AN 3500; Cellulyve TR 400; Cellulyve Tr 300G; Cellulyve Tr 340G; Cellusoft; Cellusoft AP; Cellusoft APL; Cellusoft CR; Cellusoft Combi; Cellusoft L; Cellusoft Plus; Cellusoft Plus L; Cellusoft UL; Cellusoft Ultra L; Cellustar; Celluzyme; Celluzyme 0.1T; Celluzyme 0.7; Celluzyme 0.7T; Celluzyme 1500T; Celluzyme 8T; Celluzyme CL; Celluzyme MX; Cellzyme; Cellzyme 2400T; Cooper cellulase; Cx-cellulase; DM 206; DM 8628; DP 420; Denabride LBG; DeniMax 3625; Denifade; Denimax 16000L; Denimax 301S; Denimax 302S; Denimax 362S; Denimax 601S; Denimax 991L; Denimax 991S; Denimax 992L; Denimax T; Denimax XT; Denpill 66L; Denwash TP; Denyclean G; Denykem A 400XY; Deterzyme CL 5; Driserase; E.C. 3.2.1.4; EG III cellulase; Econase CE; Ecostone; Ecostone C 1; Ecostone L; Ecostone L 350; Ecostone N400; Enchiron CM 10; Enchiron CM 40L; Enchiron MIT; Enchiron S KTL; Endo A; Endo-1,4-β-D-glucanase; Endo-1,4-β-D-glucanases; Endo-1,4-β-glucanase; Endo-1,4-β-glucanases; Endo-β-1,4-D-glucanase; Endo-β-1,4-glucanase; Endocellulase; Endoglucanase 3; Endoglucanase Cel12A; Endoglucanase CelD; Endoglucanase D; Endoglucanase E; Endoglucanase E1; Endoglucanase E'; Endoglucanase F; Endoglucanase G; Endoglucanase H; Endoglucanase I; Endoglucanase III; Endoglucanase K; Endoglucanase S; Endoglucanase V; Endoglucanase Z; Endolase; Endolase 3.0T; Endolase 5000L; Enzeco CEP; Enzeco cellulase FG; Enzylon CA 40; Enzylon CM; Enzylon CM 10; Enzylon CM 20L; Enzylon CM 30; Enzylon CM 40L; Enzylon GK 200; Enzylon MCH; Enzylon MIT; Enzyme C; Eurolan NC; Ezysoft APEX; Ezysoft L Soft; Fellulase; FiberCare R; FiberZyme G 200; FiberZyme LBR; Fibercare; Fibrilase; Fibrilase HDL; Filter paper cellulase; Filter paper cellulase (Fpase); Forylase CE; Forylase SW 5056; Forylase SW150; Forylase SWGR; Fpase; GC 200; GC 220; GC 220 (enzyme); GC 440; Gempil 4L Connect; Genencor 150L; Glycoside hydrolase family 7; Godo TCF; Godo TCL; Godo TLC; HT 970/W; Hostazym C; Hostazym C 100; Hostazym Suis; IndiAge 44L; IndiAge RFW; IndiAge Super GX Plus; IndiAge Super L; Indiage Max L; Indiage Neutra G; Iogen DP-140; Iogen DP-802; KAC 1500B; KAC 500; KAC cellulase; KRX 2800; Kojizyme F; LAMINEX C2K; LAMINEX Super 3G; Laminex BG; Laminex Super; Lerkamzyme AE; Lerkamzyme L 2000; Lerkamzyme LC-N 8; Macerozyme R 10; Maxazyme; Maxazyme CL 2000; Meicelase; Meicelase CEP; Meicelase CEPB-5041; Meicelase CM 8B; Meiji Cellulase ENM 3064; Meiji Cellulase HEP 100; Meisellase; Multifect B-GC Extra; Multifect CX; Multifect CX 10L; Multifect CX 13; Multifect CX 13L; Multifect CX 2000L; NS 44022; NS 50013; NS 51081; Neutrox BDN 100; Novatex THN 20L; Novo SP 342; Novoprime 838; Novoprime A 966; Novoprime B 959; Novoprime B 969; Novozym 181; Novozym 22C; Novozyme 181; Novozyme 342; Novozyme 476; Novozyme 50013; Novozyme 51064; Novozyme 613; Novozyme NS 50052; OP 8800; OP 8800 (cellulose); OPTIFLOW RC 2.0; Onozuka 12S; Onozuka 3S; Onozuka FA; Onozuka P 500; Onozuka R 10; Onozuka RS; Onozuka SS; Optimase CX 15L; Optimase CX 40L; Optimase CX 55L; Optimase CX 7L; P 200; Palkostone Ultra; Pancelase BR; Pancellase SS; Pectinex AFT L 4; Penenzim NE; Pergalase 7547; Pergalase A 40; Pergalase FL 60; Perizym BJ; Perizym GBL; Perizym LYO; Polymin PR8336; Primafast 100; Primafast 200; Primafast Luna CL; Primafast Luna RL; Primafast SGL; Puradax EG 7000L; Puradax EG-L; Puradax HA; Puradax HA 1200E; Puradax HA 400E; RF 93; RF 93 (enzyme); Rakucel RM 600; Rapidase 9325; Renozyme; Rocksoft NCE EA; Roglyr 1538; Roglyr 1539; Roglyr Bio 1535; Roglyr Bio 1536; Roglyr Ultra 97655; Rohalase 7069; Rohapect CM; Rucolase; Rucolase JEX; Rucolase ZEK; Rucolase ZEL; Rucolase ZLI; SD 05; SKD 808; SP 227; SP 227 (enzyme); SP 359; SP 424; SP 431; SP 640; Sacchari-SEB-C6; Sclase C; Selsoft L; Serzym 50; Spezyme AO 3117; Spezyme CE; Spezyme FP 100; Spezyme GC 220; Spezyme SP; Stonezyme P; Sucrase C; SukaCell-N.CONC; Sumitime C; Sumizyme AC 1; Sumizyme ACH; Sumizyme SNX; Super Bio K 80; Super GX plus; T 50 (cellulase); TZ 25; Tenzym 100W; UTA 8; UTA 8104; Unikzyme C 20; Validase TR; Valumax A356; Valumax A828; Vesselex; ViscoStar 150L; Viscoferm; Wuxi I; Wuxi II; XWS G-1; ZSL 1300; Zekabon; Zimet 43/802; Zimet 43/803; Zimet 43/804; endo-1,4-β-D-Endoglucanase; β-1,4-D-Endoglucanase; β-1,4-D-Endoglucanase; β-1,4-Endoglucan hydrolase; β-1,4-Endoglucan hydrolases; β-1,4-Endoglucanases; β-1,4-Glucanase; β-1,4-Glucanases; β-1,4-Glycanase; β-1,4-Glycanases
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Component , Manual Registration
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):9037-40-5, 143296-48-4, 145172-25-4, 149718-64-9, 152443-09-9, 160995-61-9, 179530-34-8, 214975-89-0, 881098-86-8, 2242562-77-0
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:9006-65-9
+FIELD CA Index Name:Dimethicone
+FIELD Other Names:BY 22-050; Belsil DM 1; Belsil DM 1 Plus; Belsil DM 100; Belsil DM 1000; Belsil DM 200; Belsil DM 35; Belsil DM 5; Clearocast 100; DC 100-350CS; DC 1132; DC 1428; DC 1618; DC 1664; DC 200 Fluid; DC 200-100cS; DC 200-10cS; DC 5-2117; DC 5-7137; DMF 5CS; Dimethicone 245; Dimethicone 350; Dimethicone 5CS; Dimethisil DM 20; Dimeticone; Dow Corning 100-350CS; Dow Corning 1132; Dow Corning 1413; Dow Corning 1618; Dow Corning 1664; Dow Corning 200 Fluid 350 c/s; Dow Corning 200 Fluid 5cSt; Dow Corning 200/100 cSt Fluid; Dow Corning 200/10CST; Dow Corning 200/5 cst; Dow Corning 365; Dow Corning 365 Dimethicone NF Emulsion; Dow Corning 5-2117; Dow Corning 5-7137; Dow Corning 5-7139; E 1049; EY 22-067; Gransil 530; HL 88; HL 999; HZ 201; Hedrin; Jeesile 110; KF 96A50CS; KHS 7; KM 910; M 620; Mirasil DM 20; Mirasil DM 300000; Mirasil DM 350; Mirasil DME 2; Mirasil DME 30; Momentive SE 30 Gum; NYDA; NYDA sensitiv; PMX 200; SH 200C10CS-JASU; Silicone Fluid 350; Silkonoel AK 500; TSF 451-1MA; Viscasil 330000; Viscasil 330M; Viscasil 5M; Visosal 330M; Wacker-Belsil DM 1 Plus; Xiameter 300; Xiameter MEM 1664; Xiameter PMX 200
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Polymer , Component , Manual Registration
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):1133042-33-7, 1903778-83-5, 2056106-62-6, 2095814-32-5, 2098353-89-8
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:9005-67-8
+FIELD CA Index Name:Sorbitan, monooctadecanoate, poly(oxy-1,2-ethanediyl) derivs.
+FIELD Other Names:Sorbitan, monostearate, polyoxyethylene derivs. (8CI); Admul T 60K; Ahco DFS 100; Ahco DFS 149; Armotan PMS 20; Atlas G 1036; Crill 8; Crill 9; Crill S 8; Crillet 3; Crillet 31; Disponil SMS 120F1; Drewpone 60; Durfax 60K; E 435; Emasol 3130; Emasol S 120V; Emerest 2654; Emsorb 6905; Emsorb 6906; Ethoxylated sorbitan monostearate; Ethsorbox S; Eumulgin SMS 20; Glycosperse S 20; Ionet T 60C; Kaopan TW-S 120; Kolliphor PS 60; Kotilen S 1; Lamesorb SMS 20; Lumisorb PSMS 20; MS 55F; Montanox 60; Montanox 60DF; Newcol 65; Nikkol TS 10; Nikkol TS 106; Nikkol TS 106V; Nikkol TS 10MV; Nikkol TS 10V; Nissan Nonion ST 202; Nissan Nonion ST 220; Nissan Nonion ST 221; Nissan Nonion STN 201.5; Nonio-light TWS 13; Nonion ST 220; Nonion ST 221; PEG sorbitan monostearate; POE sorbitan monostearate; Pegnol T 60; Pionin D 944; Polisorbac 80; Poly(oxyethylene) sorbitol monostearate; Poly(oxyethylene)sorbitan monostearate; Polyethylene glycol sorbitan monostearate; Polyethylene glycol sorbitan monostearate ether; Polyethylene sorbitan monostearate; Polyoxyethylene sorbitan ether monostearate; Polyoxyethylene sorbitan monooctadecanoate; Polyoxyethylene sorbitan monostearate; Polyoxyethylene sorbitan monostearic acid ester; Polyoxyethylene sorbitan stearate; Polysorbate 60; Polysorbate 60PH; Polysorbate 61; Propoxylated sorbitol monostearate; Rheodol Super TW-S 120; Rheodol TW 120V; Rheodol TW-S 106; Rheodol TW-S 106V; Rheodol TW-S 120; Rheodol TW-S 120V; Rokwinol 60; ST 220; Silvan T 60; Sorbimacrogol stearate 300; Sorbital S 20; Sorbitan monostearate polyethylene glycol ether; Sorbitan monostearate polyoxyethylene ether; Sorbitan polyethoxy monostearate; Sorbon T 60; Sorgen TW 60; Sorgen TW 60F; T 60; T 60C; T-MAZ 60K; T-MAZ 61; TS 10; TS 106; TS 106V; TS 10MV; TS 10V; TW-S 106; TW-S 106SV; TW-S 120; Tandem 552; Tego SMS 60; Tvin 60; Tween 18:0; Tween 60; Tween 60V; Tween 61; Veremul T 60E435; Vykamol Sorbitol 8B; Wilsurf TF 60
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Polymer , Component , Manual Registration
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):1340-82-5, 9011-31-8, 9015-59-2, 9087-92-7, 64696-12-4, 69431-67-0, 91727-27-4, 93906-96-8, 127313-74-0, 136032-14-9, 141704-73-6, 180473-24-9, 902145-49-7, 1014699-55-8, 1129451-61-1, 1176304-49-6, 1196790-24-5, 1241391-69-4
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:9004-64-2
+FIELD CA Index Name:Cellulose, 2-hydroxypropyl ether
+FIELD Other Names:2-Hydroxypropyl cellulose; AeroWhip; AeroWhip 630; AeroWhip 640; Aqualon Klucel L; Cellulose hydroxypropyl ether; Celny H; Celny HPC-L; Celny HPC-M; Celny HPC-SSL; Celny L; Celny M; Celny SL; Celny SSL; Celny SSL-SFP; E 463; G 4000HXL; H 0386; H 0473; H 0474; H 0475; HPC; HPC-E; HPC-E (cellulose derivative); HPC-EF-G; HPC-H; HPC-HF; HPC-L; HPC-L 100M; HPC-L-FP; HPC-LE-G; HPC-LG; HPC-LR; HPC-M; HPC-MF; HPC-MG; HPC-S; HPC-S (cellulose derivative); HPC-SFP; HPC-SL; HPC-SSL; HPC-SSL-SFP; Hydroxypropyl cellulose; Hydroxypropyl cellulose ether; Hydroxypropyl ether of cellulose; Hyprolose; JK 491; K 8913; K 9113; Klucel; Klucel E; Klucel EF; Klucel ELF; Klucel EXF; Klucel G; Klucel GF; Klucel H; Klucel HF; Klucel HF Pharm; Klucel HIND; Klucel HXF; Klucel J; Klucel JF; Klucel L; Klucel LF; Klucel LF RM 822; Klucel M; Klucel M-CS; Klucel MF; Klucel Nutra D; L-HPC; L-HPC 11; L-HPC 32W; L-HPC LH 11; L-HPC-LH 21; L-HPC-LH 22; L-HPC-LH 31; L-HPC-LH 41; L-HPC-LH-B 1; L-HPC-NBD 022; L-HPCLH 10; LH 11; LH 20; LH 20 (cellulose derivative); LH 21; LH 22; LH 31; LH 32; LH 33; LH-B 1; LHPC 20; LHPC 21; Lacrisert; Lodicel LDC-H; NBD 020; NBD 021; NBD 022; NBD 22; Nisso H; Nisso HPC; Nisso HPC-H; Nisso HPC-L; Nisso HPC-M; Nisso HPC-SL; Nisso HPC-SSL; Nisso M; O-(2-Hydroxypropyl)cellulose; O-(Hydroxypropyl)cellulose; Oxypropylated cellulose; PM 50; PM 50 (polymer); R 1000; R 1000 (cellulose derivative)
+FIELD Formula:C3 H8 O2 . x Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):9076-24-8, 65742-73-6, 78214-41-2, 150873-09-9, 173523-78-9, 192006-47-6, 193561-69-2, 210920-15-3, 686343-47-5, 927888-04-8, 936102-79-3, 1374408-53-3, 1431958-25-6, 1610923-54-0, 2169285-63-4
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:9004-59-5
+FIELD CA Index Name:Cellulose, ethyl methyl ether
+FIELD Other Names:Celacol EM; Cellocol EM; Cellofas A; Cellofas WLD; E 465; Edifas A; Edifas Grade A; Ethyl methyl cellulose; Ethyl methyl cellulose ether; Methyl ethyl cellulose
+FIELD Formula:C2 H6 O . x C H4 O . x Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:9004-34-6
+FIELD CA Index Name:Cellulose
+FIELD Other Names:10W; 2931-1M; 310697-500G; 32000S; 3mAQUACEL; 402-2B; 402KS; A 17730; Accel 101; Accuwipe; Advantec D; Advice DP 27; Ahlstrom 939; Alicell LV; Alistaple 1168; Alpha Cel BH 100; Alpha Cel BH 200; Alpha Cel BH 300; Alpha Cel C 10; Alpha Cel C 10SS; Alpha Cel C 40; Alpha Cel PB 25; Alpha-Cel BH 600/20; Alphafloc; Alwall Plus 15; Amicon S 10Y1; Arbocel; Arbocel 5FT; Arbocel A 300; Arbocel B 00; Arbocel B 3000; Arbocel B 600; Arbocel B 600/30; Arbocel B 800; Arbocel B 820C; Arbocel BC 1000; Arbocel BC 200; Arbocel BE 30/600; Arbocel BE 600; Arbocel BE 600-10TG; Arbocel BE 600/10; Arbocel BE 600/20; Arbocel BE 600/30; Arbocel BE 800; Arbocel BEM; Arbocel BFC 200; Arbocel BWW 40; Arbocel C 100; Arbocel C 320; Arbocel C 750; Arbocel CW 630; Arbocel DC 1000; Arbocel FD 00; Arbocel FD 40; Arbocel FD 600/30; Arbocel FDC 200; Arbocel FDY 600; Arbocel FDY 660; Arbocel FIC 200; Arbocel FT 4; Arbocel FT 40; Arbocel FT 400; Arbocel FT 600; Arbocel FT 600/30H; Arbocel G 350; Arbocel LZ 51; Arbocel M 80; Arbocel M 80P; Arbocel MF 40-7; Arbocel MF 40/10; Arbocel MF 40/100; Arbocel MF 40/7; Arbocel P 290; Arbocel P 350; Arbocel TF 0406; Arbocel TF 30HG; Arbocel TP 40; Arbocel UFC 100; Arbocel UFC-C 3; Arbocel UFC-M 8; Arbocel ZZ 40; Ariacel A 150; Armorib LS; Avicel; Avicel 101; Avicel 101 MCC; Avicel 102; Avicel 102330; Avicel 102331; Avicel 112; Avicel 2330; Avicel 2331; Avicel 591F; Avicel 955; Avicel AC 4125; Avicel CF 11; Avicel E 200; Avicel F 05; Avicel F 20; Avicel FD 100; Avicel FD 101; Avicel FD-F 20; Avicel GP 1030; Avicel GP 7210; Avicel HP 101; Avicel LM 310; Avicel M 06; Avicel M 101; Avicel M 15; Avicel M 25; Avicel NT 020; Avicel NT 050; Avicel PA 200; Avicel PC 611; Avicel PH; Avicel PH 101; Avicel PH 101NF; Avicel PH 102; Avicel PH 102SCG; Avicel PH 103; Avicel PH 105; Avicel PH 112; Avicel PH 113; Avicel PH 200; Avicel PH 202; Avicel PH 301; Avicel PH 302; Avicel PH-F 10; Avicel PH-F 20; Avicel PH-M 06; Avicel PH-M 15; Avicel PH-M 25; Avicel R; Avicel RCS 91; Avicel SF; Avicel SP; Avicel TG 101; Avicel TG 101L; Avicel TG-D; Avicel TG-F 05; Avicel TG-F 20; BE 600-10TG; BGB Natural; BH 100; BH 40; BH 40 (cellulose); BH 600/20 α-Cel; BMa 10002; Bacell 569; Bahia SP; Bellfine D 10; BiNF-I-S; BiNFi-s AMA 100; BiNFi-s AMa 10002; BiNFi-s BMa 10002; BiNFi-s FMa 10002; BiNFi-s FMa 10005; BiNFi-s IMA 100; BiNFi-s IMa 10002; BiNFi-s NFo 10002; BiNFi-s NMa 10002; BiNFi-s WMa 100; BiNFi-s WMa 10002; BiNFi-s WMa 10005; BioPlus L; Borregaard 1200; Borregard Derivative HV; Borregard Derivative VHV; C 005F; C 010F; C 030; C 104843; C 10583; C 30FM; C 8002; CA 107; CA 107-4W; CC 41; CF 1; CF 1 (polysaccharide); CF 11; CFLL; CL 611; CNC-C; CP 102Y; CP 60; CPB 06; CR 1654; CRV; CRV (polysaccharide); Celgum C 91; Celish; Celish 100F; Celish 100G; Celish 100L; Celish FD 1000; Celish FD 100E; Celish FD 100G; Celish FD 200L; Celish KY 100G; Celish KY 100GE; Celish KY 100L; Celish KY 100OG; Celish KY 100S; Celish KY 110G; Celish KY 110N; Celish PC 110S; Cell-U-Sorb; Celldone 200; Cellets; Cellets 1000; Cellets 700; Cellex MX; Cellflow C 25; Cellodinne 4M; Cellspon; Celluflow; Celluflow C 15; Celluflow C 25; Cellufluxx F 15; Cellulo Beads D 50; Cellulobeads D 10; Cellulobeads D 100; Cellulobeads D 200; Cellulobeads D 30; Cellulobeads D 5; Cellulobeads D 50; Cellulobeads USF; Celluloflake; Cellulose 248; Cellulose CF 11; Cellulose Nanocrystal; Cellulose Neo C91; Cellulose crystalline; Cellulose crystalline avicel; Cellulosebeads D 100; Cellunier F; Celpac 50; Celphere 102; Celphere 203; Celphere CP 102; Celphere CP 102Y; Celphere CP 203; Celphere CP 305; Celphere CP 507; Celphere CP 507JPE; Celphere SCP 100; Celufi; Cemirom; Ceolus; Ceolus DX 2; Ceolus F 7A; Ceolus FD 101; Ceolus FD 301; Ceolus FD-F 20; Ceolus KG 1000; Ceolus KG 801; Ceolus KG 802; Ceolus PH 101; Ceolus PH 102; Ceolus PH 200; Ceolus PH 30; Ceolus PH 301; Ceolus PH 302; Ceolus PH-F 20JP; Ceolus RC 591S; Ceolus RC 81N; Ceolus SC 700; Ceolus SC 701; Ceolus SC 900; Ceolus SC 900S; Ceolus SC-N 42; Ceolus SC-N 43; Ceolus ST 02; Ceolus ST 100; Ceolus ST 2; Ceolus TG; Ceolus TG 101; Ceolus TGF 20; Ceolus UF 702; Ceolus UF 711; Ceolus UF-F 702; Ceolus UF-F 711; Ceoluscream; Ceoluscream FP 03; Cepo; Cepo CFM; Cepo S 20; Cepo S 40; Chromedia CC 31; Chromedia CF 11; Comprecel; Comprecel 101QD; Comprecel 105QD; Comprecel M 101; Comprecel M 102; Comprecel S 101; Cotton Cellulose Powder 100-200 mesh; Courcel 172; CreaClear CC 200LS; CreaMix TC 1004; Crystalline cellulose; Cuoxam DP 454; Cupricellulose; D 10; D 10 (cellulose); DP 320; DP 686; DP 900; DPCu 280; DPW 4580; Daicel 500; Diacel 75; Diacel-CF/S; Dissolving Pulp NSPP 2; Divicell; Drylap; E 140; E 140 (fiber); E 460; EFTec L 010-4; ER 5.2M; EX 9560; Elcema F 150; Elcema G 250; Elcema P 020; Elcema P 050; Elcema P 100; Emcocel; Emcocel 50M; Emcocel 90; Emcocel 90M; Emcocel HD 90; Emcocel LP 200; Emcocel LP 2000; Emcocel SP 15; Endurance MCC-VE 050; Ethispheres; Excel 110; FD 40; FD 600/30; FEZ 1167; FMa 10002; Fibra-Cel BH 100; Filmtec RC 70PP; Filtacel 450; Filtracel EFC 900CT; Filtracel EFC 950; Filtracel EFC 950C; Filtracel EFC 950C-Plus; Flocel 101; Fluff Pulp ARC 48000GP; Fresenius D 6; Funacel; Funacel II; G 3095-10; Golden Isles Fluff Pulp 420HD; Golden Isles Fluff Pulp 4823; Golden Isles Fluff Pulp Gr. 4823; Golden Isles Fluff Pulp Gr. 4881; Granocell 2000; Grinsted MCC; Growdex; HBR 30000; HE 100000; HE 80000; HK 4897; HM 30; HS 10000YP2; HT-K 100000S; Hahnflock HL 200/30; Heated E 50M; Helmcel 100; Heweten 10; Heweten 101; Heweten 102; Heweten 12; Heweten 40; Hightcel 90M; Homogen 1610; IMa 10002; Innofresh; JELUCEL HM 30; Jelucel HM 200; Jelucel OF 300; Jelucel PF 30; Jelucel PF 90; KC 400; KC Flock; KC Flock 100; KC Flock 200; KC Flock 300; KC Flock 400; KC Flock 400G; KC Flock 50GK; KC Flock ST 100; KC Flock W 100; KC Flock W 100G; KC Flock W 100GK; KC Flock W 10MG; KC Flock W 10MG2; KC Flock W 200; KC Flock W 200G; KC Flock W 250; KC Flock W 300; KC Flock W 300G; KC Flock W 4; KC Flock W 400; KC Flock W 400G; KC Flock W 400Y; KC Flock W 50; KC Flock W 50G; KC Flock W 50GK; KC Flock W 50S; KC Flock W-GK; KC Flock Y 400; KC-Flock W 06MG; KCFW 100; KG 802; KMC 2010; KS 160; KS 160 (cellulose); KS 60; KS 60 (cellulose); KU 4UAH; KY 100G; KY 100S; KZO 3; Kac; Kayocel 55HC; Kexlan CNC; Kingcot; L 20; L 20 (cellulose); L-SF; LA 01; LCNF 45; Lattice NT; Lattice NT 006; Lattice NT 013; Lattice NT 020; Lattice NT 100; Lattice NT 20; Lattice NTC; Lattice NTC 50; Lattice NTC 80; Lyocell L 010-4; M 100; M 950; MA 40000S; MC 101; MC 101 (polysaccharide); MCC 102; MCC SANAQ 102L; MCC Sanaq 102G; MCC-PH 200; MFC-P 0011; MFC-P 1011; MFTs-I; MFTs-V; MN 100; MN 300HR; MN-C; MN-Cellulose; MN-P; Maikurokyaria; Matricel alpha 450; Micro Fibril Cellulose; Microcel MC 101; Microcel MC 102; Microcel MC 500; Microcell 102; Microcube FN-S 03; Microquick WC 595; Ming Tai; N Drill HB; NB 480; ND 416; NFC 100-5; NK 20; NKME 20; NP-Fiber W 06MG; NSPP 2; NTC 61; NanoCell; Nanoskin; Nanoworp; Nasaleze; Natromouse; NatureFlex 42NP; Neo C 91; Neocel; Neocel C91; Nymoella AB; Omnicel 102; PC 107YR; PH 101; PH 102; PH 105; PH 302; PH-F 20JP; PMK 15ZS; Perlcellulose; Perloza MG; Perloza MT 100; Perloza MT 200; Perloza MT 50; Perloza MT 750; Pharmacel 101; Pharmacel ph 102; Plastics, cellulosic; Polycell GShchS; Polycell PC; Polycell PTz; Porosanier J; Prime 2500; Prosolv 90M; ProteoChrom Cellulose; ProteoChrom HPTLC Cellulose; Pulp Powder W 400; Pulp-Flock W 1; Pulp-Flock W 4; Pulp-Flock W 5; Pyrocellulose; QD 300; QP 100; RC 60; RC 70PP; RC beads S-type; RC-N 30; RM 8495; RNP 2; Rayfloc XJ; Rayonex F; Rayonex P; Rayophane; Rayweb Q; Recephere; Rehocel 1200; Rexcel; Rheocrysta C 2SP; Rheocrysta I 2SP; S 105; S 105 (polysaccharide); S 10Y1; S 1Y3; S 320; S 320 (cellulose); S-MFC; SC 900; SF 107-1; Sai Lyo 556; Saiccor; Sanacel 150; Sanacel 90; Sanartist H-PN; Sanartist HP-G; Sekicel DC; Serisew FD 100S; Serufia CP 203; Serufia CP 305; Serufia CP 507; Serutoppu S 1; Serutoppu S 2; Serutoppu S 3; Serutoppu S 4; Serutoppu S 5; Sigamacell 20; Sigmacell; Sigmacell 100; Sigmacell 101; Sigmacell 20; Sigmacell 50; Snowleaf CL; Solk-floc 900; Solka Floc 40NF; Solka-Floc; Solka-Floc 200EZ; Solka-Floc 300; Solka-Floc 300FCC; Solka-Floc 40; Solka-Floc 60; Solka-Floc 900FCC; Solka-Floc BW; Solka-Floc BW 100; Solka-Floc BW 20; Solka-Floc BW 200; Solka-Floc BW 200NF; Solka-Floc BW 2030; Solka-Floc BW 300; Solka-Floc BW 300FCC; Solka-Floc BW 40; Solka-Floc C 100; Solka-Floc SW 40; Solka-fil; Solucell; Solucell 1175; Solucell 250; Solucell 270; Solucell 400; Solucell 500; Somicel F; Somicel Z; Spartose OM 22; Sulfite cellulose; TF 1500PH; TF 40; TF 40-35; TF 4030; TF 4035; TF 4425; TF 4530; TF 4840; Tabulose; Tabulose 101; Tabulose O 500; Technocel 100; Technocel 150; Technocel 150D; Technocel 150DM; Technocel 30; Technocel 300BL; Technocel 40; Technocel 50F; Technocel 75; Temsolv; Tencel CP 10; TerraCel 10J; Thermocell; Tomcel T; Tomofan; ToyoRoshi B; Transorb; Tricacel 100; Tunicin; Tylopur; U 702; UF 702; UF-F 711; UFC; UFC 100; UICEL-A/102; Ultracel; Ultraether F; UniFiber; Unimac MG 200; V 65; V 65 (polysaccharide); V 81; VIS TOP D 1904; VIS TOP D 1963; VIS TOP D 4166; Viscokraft 389; Viscopearl; Viscopearl A; Viscopearl AD 3300; Viscopearl AH 2050L; Viscopearl AH 2050L-WF; Viscopearl AH 2050L-WK; Viscopearl AH 4050L; Viscopearl AZ 4200CC; Viscopearl Mini; Visking; Visking 18/32; Viskokraft 389; Vitacel BZN 600/30PH; Vitacel CS 20FC; Vitacel CS 300FC; Vitacel L 10; Vitacel L 600-20; Vitacel MCG 0018; Vivacel 101; Vivacel 102; Vivapor 101P; Vivapur 101; Vivapur 102; Vivapur 103; Vivapur 105; Vivapur 12; Vivapur 200; Vivapur 301; Vivapur 302; Vivapur CS 4FM; Vivapur CS 9FM; Vivapur MCG 500F; Vivapur MCG 591; Vivapur MCG 591F; Vivapur MCG 611; Vivapur PH 101; Vizorb 3042; Vizorb 3905; W 06MG; W 100; W 100G; W 100GK; W 100Y; W 10MG; W 200Y; W 250; W 300G; W 4; W 4 (cellulose); W 400; W 400G; W 400M; W 50GK; WG 06MG; WG 10MG2; WJ 103; WMa 10002; WeedGuardPlus; Whatman 41; Whatman 42; Whatman CC 31; Whatman CF 11; YM 10F; YM 300; ZA 48; Zeolas cream; α-Cel BH 600/20; α-Cellulose; β-Amylose
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Polymer , Component , Manual Registration
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):9012-19-5, 9037-50-7, 9076-30-6, 12656-52-9, 39394-43-9, 51395-76-7, 58968-67-5, 61991-21-7, 61991-22-8, 67016-75-5, 67016-76-6, 68073-05-2, 70225-79-5, 74623-16-8, 75398-83-3, 77907-70-1, 84503-75-3, 89468-66-6, 99331-82-5, 137261-76-8, 152231-69-1, 189398-86-5, 209533-95-9, 231290-83-8, 324745-49-5, 358787-62-9, 906542-14-1, 1161712-52-2, 1374408-52-2, 1621420-37-8, 1873279-80-1, 2095812-59-0, 2243384-02-1, 2243384-04-3
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:9002-92-0
+FIELD CA Index Name:Poly(oxy-1,2-ethanediyl), α-dodecyl-ω-hydroxy-
+FIELD Other Names:Glycols, polyethylene, monododecyl ether (8CI); Dodecyl alcohol, monoether with polyethylene glycol (8CI); 40L; 40L (polyether); AEO 03; AEO 3; Actinol L 3; Actinol L 5; Actinol L 7; Adeka Carpol MBF 100; Adekatol LA 1275; Adekatol LA 50; Adekatol LA 775; Adekatol LA 875; Adekatol LA 975; Adekatol LB 103; Aduxol LH 05; Aethoxysklerol; Aetoxisclerol; Agrimul NRE-C12 EO5; Akyporox RLM 160; Akyporox RLM 22; Akyporox RLM 230; Akyporox RLM 40; Aldosperse L 9; Alkasurf LAN 1; Alkasurf LAN 3; Anapoe 35; Arapol 0712; Arylpon F; Atlas G 2133; Atlas G 3705; Atlas G 3707; Atlas G 4829; Atmer 135; B 205; BL 2; BL 21; BL 4.2; BL 9; BL 9 (polyglycol); BL 9EX; BYK 187; Base LP 12; Bio-Soft EC 690; Blaunon 1515; Blaunon EL 1502.2; Blaunon EL 1503P; Blaunon EL 1505; Blaunon EL 1505P; Blaunon EL 1507; Blaunon EL 1509; Blaunon EL 1509P; Blaunon EL 1519P; Blaunon EL 1521; Blaunon EL 1530; Blaunon EL 1540P; Blaunon EL-15022.2; Brij 22; Brij 23; Brij 30; Brij 30ICI; Brij 30P4391; Brij 30SP; Brij 35; Brij 35L; Brij 35P; Brij 35P Nena; Brij 36T; Brij 4; Brij L 23; Brij L 3; Brij L 4; Brij L 4LQ; Brij L 4LQ-SG; Calgene 40L; Canasol BJ 35; Carsonol L 2; Carsonol L 3; Chemal LA 23; Chemal LA 4; Chimipal AE 3; Cimagel; Conion 275-100; Conion 275-20; Conion 275-30; Conion 275-80; Conion 275-90; Conion 2P80; Conol 20DK; D 10; D 10 (German surfactant); DDAE 5; DEPEG; DKS-NL 100; DKS-NL 110; DKS-NL 15; DKS-NL 150; DKS-NL 180; DKS-NL 250; DKS-NL 30; DKS-NL 450; DKS-NL 50; DKS-NL 60; DKS-NL 600; DKS-NL 70; DKS-NL 80; DKS-NL 850; DKS-NL 90; DKS-NL-Dash 400; DSK-NL 15; DSK-NL 600; Decanol 5EO; Dehydol LS 2HN; Dehydol LS 9.5; Disperbyk 187; Disponil 1080; Disponil 3065; Disponil LS 10; Disponil LS 500; Do 9; Dobanol 1-3; Dobanox 23E; Dodecyl alcohol polyoxyethylene ether; Dodecyl poly(oxyethylene) ether; ELA 7; EM 150; EM 150 (polyether); EM 750; ET 102; ET 170; Ecolat KB 7; Eleminol NL 100; Emal 108; Emalex 703; Emalex 705; Emalex 707; Emalex 709; Emalex 710; Emalex 712; Emalex 715; Emalex 720; Emalex 725; Emalex 730; Emalex 750; Emalex E 709; Emalex PEL 12; Emanon 108; Emergen 109P; Empilan KB 6ZA; Emulgen 100; Emulgen 102; Emulgen 102.5; Emulgen 103; Emulgen 104; Emulgen 104P; Emulgen 105; Emulgen 106; Emulgen 106K; Emulgen 106P; Emulgen 108; Emulgen 109; Emulgen 109A; Emulgen 109P; Emulgen 116; Emulgen 116A; Emulgen 120; Emulgen 121; Emulgen 121G; Emulgen 123P; Emulgen 129L; Emulgen 130K; Emulgen 140; Emulgen 147; Emulgen 150; Emulgen 504K; Emulgen E 108; Emulgen E 109P; Emulmin 60; Emulmin HL 100; Emulmin HL 80; Emulmin L 380; Emulmin L 500; Emulmin L 90S; Emulmin NL 100; Emulmin NL 110; Emulmin NL 50; Emulmin NL 70; Emulmin NL 80; Emulmin NL 90; Ethal LA 12; Ethal LA 23; Ethal LA 4; Ethal LA 50; Ethosperse LA 12; Ethosperse LA 23; Ethosperse LA 4; Ethoxylated dodecyl alcohol; Ethoxylated lauryl alcohol; Ethoxysclerol; Ethylan 1008; Ethylan CD 127; Ethylene oxide homopolymer monododecyl-terminated; Ethylene oxide-lauryl alcohol adduct; Ethylene oxide-lauryl alcohol copolymer; Ethylene oxide-lauryl alcohol polycondensate; FL 100; G 2130A; G 3707; G 3711; Genapol 26L2; Genapol L 3; Genapol LA 230; Hetoxol L 02; Hetoxol L 4; Hetoxol L 9; Hetoxol LA 4; Hetoxol LA 7; Hydol 6; Hydroxypolyethoxydodecane; Imbentin AG 120/90; Imbentin E 120/100; Jeecol LA 2; Jeecol LA 4; K 220; Koremul LE 7; Koremul LE-m; L 23; LA; LA (alcohol); LA 5; LA 5 (surfactant); LA 7; LA 7 (polymer); LA 775; LAE 15; LAG-S; LAO 90N; LE 50F; LE 6; LEO 10; Lanettes; Laureth; Laureth 10; Laureth 11; Laureth 12; Laureth 13; Laureth 14; Laureth 15; Laureth 18; Laureth 2; Laureth 20; Laureth 23; Laureth 30; Laureth 35; Laureth 4; Laureth 5; Laureth 50; Laureth 6; Laureth 7; Laureth 8; Laureth 9; Lauromacrogol; Lauromacrogol 100; Lauromacrogol 400; Lauryl alcohol ethoxylate; Lauryl alcohol polyoxyethylene ether; Lauryl alcohol-ethylene oxide adduct; Lauryl ethoxylate; Lauryl poly(oxyethylene) ether; Lauryl polyethylene glycol ether; Leocol LC 150; Leox CC 250; Leox LC 150; Leox LC 90; Lipal 4LA; Lipal 9LA; Lipocol L 12; Lipocol L 4; Lipocol LA 23; Liponox KCI; Lubrol 12A9; Lubrol PX; Lutensol A 2N; MOA 14; MOA 7; MOA 7 (polyether); Macol LA 12; Macol LA 4; Macol LA 790; Macrogol lauryl ether; Marlipal 1217; Marlipal 124; Marlipal MG; Mergital LM 11; Monopol LE 1017; N 1204; NALF 94; NL 140; NL 30; NL 450; NL 70; NL 90; Naroacty N 70; Naroacty N 85; Nemol C 24; Nemol C 28; Nemol C 822; Neodol 15; Newcol 1100; Newcol 1102; Newcol 1103; Newcol 1110; Newcol 1120; Newcol 1203; Newcol 1204; Newcol N 1110; Newkalgen D 1106; Newkalgen D 1107S; Newkalgen D 1110; Nikkol BL; Nikkol BL 2; Nikkol BL 21; Nikkol BL 25; Nikkol BL 4.2; Nikkol BL 42; Nikkol BL 4SY; Nikkol BL 5; Nikkol BL 5SY; Nikkol BL 8SY; Nikkol BL 9; Nikkol BL 9EX; Nissan Nonion E 205; Nissan Nonion K; Nissan Nonion K 201; Nissan Nonion K 204; Nissan Nonion K 2100W; Nissan Nonion K 220; Nissan Nonion K 230; Nissan Nonion NC 207; Noigen DKS-NL 180; Noigen DKS-NL 60; Noigen DKX-NL 80; Noigen ET 102; Noigen ET 140E; Noigen ET 143; Noigen ET 143L; Noigen ET 160; Noigen ET 170; Noigen ET 190; Noigen ET 200E; Noigen ET 83; Noigen NL 110; Noigen NL 150; Noigen NL 30; Noigen P; Noigen YX 400; Noigen YX 500; Nonidet 12008; Nonio-light AL 20; Nonion E 205; Nonion K 201; Nonion K 204; Nonion K 2100W; Nonion K 220; Nonion K 230; Nonion NC 207; Novel 1216CO8; Novel II 1216CO10.5; Novel II 1216CO7; Novel II 1216CO9; OE 10; OL 50; Oxanol L 3; Oxetal C 114; Oxyethylenated dodecyl alcohol; PEG dodecyl ether; PEG monolauryl ether; PEG n-dodecyl ether; PO 23LE; POE lauryl ether; Pegnol L 10; Pegnol L 12; Pegnol L 20; Pegnol L 4; Pegnol L 6; Pegnol L 9A; Pegnol ST 15; Pegnol TH 8; Peregal O 20; Pingpingjia O 20; Pionin A 44PM; Pionin D 1005; Pionin D 1105; Polidocanol; Poly(ethylene oxide) Conol 1275 monoether; Poly(ethylene oxide) dodecyl ether; Poly(ethylene oxide) monolauryl ether; Poly(oxyethylene) dodecyl ether; Poly(oxyethylene) lauryl ether; Poly(oxyethylene) monododecyl ether; Poly(oxyethylene) monolauryl ether; Polydocanol; Polyethoxylated dodecanol; Polyethylene glycol dodecyl ether; Polyethylene glycol dodecyl monoether; Polyethylene glycol ether with Kalcohl 2098 (1:1); Polyethylene glycol lauryl alcohol ether; Polyethylene glycol lauryl ether; Polyethylene glycol monododecyl ether; Polyethylene glycol monoether with Kalcohl 2098; Polyethylene glycol monolauryl ether; Polyethylene glycol n-dodecyl ether; Polyethylene glycol n-dodecyl monoether; Polyethylene oxide lauryl ether; Polyethylene oxide monododecyl ether; Polyoxy 23 lauryl ether; Polyoxyethylene dodecyl alcohol ether; Polyoxyethylene lauryl alcohol ether; Polystep AE 128; Procol LA 20; Procol LA 23; Puraten 80; Remcopal 20; Remcopal L 4F; Rewopal LA 10-80; Rhodasurf A 24; Rhodasurf D 202; Rhodasurf L 4; Rhodasurf L 7; Rhodasurf L 790; Rhodasurf LA 12; Rhodasurf LA 9; Rikemal B 205; Rokanol DB; Rokanol L; Rokanol L 10; Rokanol L 10/80; Rokanol L 2; Rokanol L 25; Rokanol L 3; Rokanol L 4; Rokanol L 4P5; Rokanol L 6; Rokanol L 7; Rokanol L 9; Rokanol L4P5; Rokanol LK; Rokanol LK 3; Rokonol L 4; Romopal LN; SP 1203; SP 1209; SP 1220; SP 1220 (surfactant); Santokuten 80; Simulol 330M; Simulsol OL 50; Simulsol P 23; Simulsol P 4; Simulsol P 4PHA; Sipol LAL 21; Siponic L; Siponic L 10; Siponic L 12; Siponic L 15; Siponic L 150; Siponic L 3; Siponic L 4; Siponic L 7-90; Slovasol O; Slovasol S; Slovasol SF; Slovasol SF 10; Standamul LA 2; Surfacpol EL 7; Sympatens AL 090; Sympatens ALM 040; Sympatens ALM 230G; Synfac DG; Synperonic L 2; TH 8; Teric BL 8; Teric G 12A23; Terric BL 8; Texofor B 30; Texofor B 9; Thesat; Thesit; Trycol 5882; Trycol 5954; Trycol 5963; Trycol 5964; Trycol 5967; Trycol LAL 12; Trycol LAL 23; Trycol LAL 4; Trycol LAL 8; Ultrol L 100; Ultrol L 20; Ultrol L 230; Ultrol L 60; Ultrol L 70; Ultrol L 80; Ultrol L 90; Value 2205; Volpo L 3; Volpo L 4; Walloxen 30; Walloxen 80; Witconol SN 120; YX 500; α-Dodecyl-ω-hydroxypoly(oxy-1,2-ethanediyl); α-Dodecyl-ω-hydroxypoly(oxyethylene)
+FIELD Formula:(C2 H4 O)n C12 H26 O
+FIELD Alternate Formula:
+FIELD Class Identifier:Polymer , Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):1334-72-1, 1341-05-5, 6540-99-4, 8027-11-0, 9015-55-8, 9079-21-4, 11106-34-6, 14675-38-8, 31798-98-8, 37231-23-5, 37343-87-6, 39316-02-4, 39316-41-1, 39363-77-4, 50815-85-5, 50815-86-6, 51426-13-2, 53026-66-7, 53241-34-2, 54351-54-1, 54398-17-3, 55599-84-3, 55892-94-9, 56093-86-8, 56590-57-9, 56939-70-9, 57244-90-3, 61373-94-2, 61710-38-1, 62229-27-0, 64772-19-6, 66048-74-6, 69344-85-0, 71636-71-0, 71932-08-6, 86547-02-6, 86727-31-3, 87296-34-2, 101008-55-3, 101840-74-8, 102329-60-2, 102342-03-0, 106254-08-4, 106254-09-5, 106856-65-9, 113716-35-1, 122779-58-2, 124401-71-4, 137736-73-3, 138100-08-0, 141875-75-4, 147398-17-2, 148093-10-1, 148498-91-3, 152206-24-1, 176235-62-4, 176596-95-5, 183117-57-9, 186762-97-0, 189388-50-9, 191546-41-5, 201746-17-0, 218607-00-2, 221642-91-7, 234761-81-0, 234761-82-1, 234761-83-2, 234764-37-5, 258278-32-9, 266678-04-0, 266678-05-1, 348616-52-4, 359786-16-6, 362661-71-0, 384842-79-9, 459409-03-1, 461434-75-3, 503027-85-8, 504414-58-8, 544481-27-8, 648426-35-1, 777931-72-3, 786657-31-6, 798544-27-1, 869069-56-7, 869893-21-0, 875119-83-8, 903524-71-0, 903524-77-6, 935753-05-2, 942439-95-4, 942929-81-9, 946527-74-8, 957761-15-8, 1010802-24-0, 1072099-14-9, 1075258-12-6, 1075258-13-7, 1186045-66-8, 1206897-84-8, 1231209-22-5, 1235485-65-0, 1263057-78-8, 1338464-84-8, 1361543-25-0, 1374634-30-6, 1437798-98-5, 1573124-50-1, 1823102-75-5, 1973461-82-3, 2135326-96-2, 2243383-76-6
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:9000-90-2
+FIELD CA Index Name:α-Amylase
+FIELD Other Names:Amylase, α- (9CI); 1,4-α-D-Glucan glucanohydrolase; 1,4-α-D-Glucanase; 1,4-α-Glucanase; A 3306; AMT 1.2L; AS 10; Aimadzhunt NT; Alfamalt FAU-C 5000; Amano AD 1; Amilex 3T; Amilosubtilin; Amilosubtilin G-3X; Amilosubtilin G10x; Amilosubtilin GZX; Amylase A; Amylase A 12L; Amylase AD; Amylase AD (Amano) 1; Amylase S Amano; Amylase THC 250; Amylase, α- (Aspergillus oryzae); Amylex 4T; Amylex A3; Amylex HT; Amylogal CS; Amylogal CS-15; Amylolichoterm; Amylolisin 5; Amylopsin; Amylosubtilin; Amylyve A 30; Aquazym 120L; Aquazym 240 L; Aquazym Ultra 1200N; Aquazyme 240; Aquazyme 240L; Aquazyme SD-L; Aquazyme Ultra 250L; BAN 120L; BAN 240; BAN 240L; BAN 480L; BAN 800; BXP 25001; Bactosol MTN; Bactosol TK; Bakezyme P 180; Ban; Ban (enzyme); Ban 480LS; Beisol T 2090; Bioalpha amylase; Bioamylase BAA; Biobake 40000; Biodermol WP; Bioferm; Bioferm L; Bioferm P; Bioprep TBS; Biotempase; Biotex GT; Biowin AG; Biozyme A; Biozyme F; Biozyme F 10SD; Biozyme LC; Brewers Amyliq TS; Brewers Amylique TS; Buclamase; Canalpha 1000P; Canalpha 600L; Canalpha 60P; Clarase; Clarase L; Clearflow AA; Denazyme SA 7; Desize 160; Desizyme 2000L; Diasmen; Distizym BA; Duramyl 120T; E.C. 3.2.1.1; EMCEmaltex 1000; Ekikakoso 6T; Ekikakoso T; Endoamylase; Enerzyme Alpha MHT; FD Super; Fermizyme P 500; Fortizyme; Fuelzyme; Fuelzyme-LF; Fukutamylase; Fukutamylase 50; Fungamil Super AX; Fungamyl; Fungamyl 2500 SG; Fungamyl 2500BG; Fungamyl 300L; Fungamyl 800L; Fungamyl Super BR; G 995; G-zyme G 995; G-zyme G 997; G6-Amylase; GA-LNEW-O; GC 007; GC 262SP; GC 626; Gamalpha 300L; Gamalpha HT 120L; Gamalpha P 120L; Gamalpha T 400; Gemsize 4A; Grindamyl 1000; Grindamyl A 1000; Grindamyl A 200; Grindamyl FD 11; Grindamyl Max-Life E 21; Grindamyl Maxlife 85; Grindamyl max-life 25; Hightempase 2XL; Hipozyme 2000; Hitempase; Hitempase 2XL; Keistase SD TU20; Kleistase E 5CC; Kleistase E5; Kleistase E5C7; Kleistase KD; Kleistase KM; Kleistase L 1; Kleistase M 8; Kleistase P8; Kleistase SD 80; Kleistase SD-KM; Kleistase T 10S; Kleistase T 5; Kleistase YC 15S; Kokugen K; Kokugen K; Kokugen L; Kokugen SD YC15; Kokugen SD-T 20M; LTAA L 2000; Liquamyl 1200C; Liquezyme X; Liquifase L 45; Liquizyme Supra; Liquizyme X; Liquozym SC DS; Liquozyme SC; Liquozyme SC DS; Liquozyme Supra; Liquozyme Supra 2; Liquozyme Supra 2.8; Liquozyme X; Lixazyme D; LpHera; Lysase; MATS L; MATS L Classic; Magunakkusu JW-121; Maltogenase; Maltogenase 4000L; Maxaliq S; Maxamyl; Maxamyl 15,000 CXT; Maxamyl CXT 5000; Maxamyl HT 3000; Maxamyl WL 15000; Maxilase; Multifect AA 1200L; Mycolase LV; Natalase; Natalase 90 CT; Neospitase PG 2; Neospitase PK 2; Nervanase BT 2; Nervanaze T; Novamyl; Novamyl 3D; Novamyl 3D BG; Novozyme CONC; Opticake Fresh; Opticake Fresh 50B; Optise NEXT; Optisize; Optisize 160; Optisize HT 40; Optisize HT Plus; Optisize Next; Optitherm; Optizym BA; Orbamil BHT; Orbamil ES 10X; Orbamil T; Orientase AO 40; Palkodex; Palkozyme HT; Panzyn FA 100; Pivozin; Plurafact Oxam; Powerase; Ptyalin; Purafact Ox Am; Purastar HPAm 5000L; Purastar HPAmL; Purastar OxAm; Purastar OxAm 4000E; Purastar ST 15000L; Resilience 200 L; Ricozyme Supra; SEBAmyl L; SP 288; Saczyme; Speedase CP 3; Speedase CP 40; Speedase CP 40 FG; Speedase HK; Speedase HKS; Speedase HR/R; Speedase HS; Speedase L; Speedase M; Speedase PG 2; Speedase XP 404; Spezyme AA; Spezyme CL; Spezyme Delta AA; Spezyme Ethyl; Spezyme Fred; Spezyme Fred L; Spezyme HPA; Spezyme LT-300; Spezyme Prime; Spezyme RSL; Spezyme Robust Starch Liquefaction; Spezyme alpha; Spezyme alpha PF; Spezyme ethel; Spezyme-α; Spirizyme Ultra; Spitase CP 1; Spitase CP 40FG; Spitase CP 40G; Spitase HK; Spitase HK-R; Spitase HK-S; Spitase HK-S/R; SpringAlfa 100.000; Stainzyme; Stainzyme 12L; Stainzyme 12T; Stainzyme Plus; Stainzyme Plus 12L; Stainzyme Plus 12T; Suhong AA Plus; Sukamy TX 55; Sumizyme AS; Sumizyme L; Takalite; Takalite L 340; Takarazyme A; Takatherm; Tanase; Tenase L-1,200; Termamyl; Termamyl 120; Termamyl 120 LS; Termamyl 120L; Termamyl 120L, Type L; Termamyl 120T; Termamyl 150; Termamyl 2X; Termamyl 60L; Termamyl 60T; Termamyl CS DS; Termamyl Classic; Termamyl L; Termamyl LC; Termamyl LS; Termamyl LS Plus; Termamyl SC; Termamyl SC DS; Termamyl SC L; Termamyl Supra; Termamyl Ultra; Termamyl Ultra 300L; Termanyl; Termanyl L 120; Themamyl SC; Thermolase; Thermosize 10L; Thermozyme; Timextra; Torazym NT; Trametes AMG; Ultra Thin; Uniase BM 8; Uniase BM80; Unikamyl HT; Validase FAA; Validase HT 425L; Veretase; Veron GX; Veron M4; WC 8; XP-404; Zimadzhunt 400; Zimadzhunt HT 340C; Zimadzhunt L 340
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Component , Manual Registration
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):9000-85-5, 152923-47-2, 152923-48-3, 152923-49-4
+FIELD Deleted Registry Number(s):9001-95-0, 9036-05-9, 9077-78-5, 70356-39-7, 106009-10-3, 135319-50-5, 144133-13-1
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:9000-70-8
+FIELD CA Index Name:Gelatins
+FIELD Other Names:Gelatin; Gelatins, acetylated, conjugates; Gelatins, conjugates; 225 Bloom; 250 Bloom; 260B; 260B (gelatin); A 1956; A 330; A-U; AGP 28; AP 100; AP 150; AP 150 (gelatin); AP 200; AP 200 (gelatin); AP 250; AP 250 (gelatin); AP 30; AP 30 (gelatin); APB-H; APH 100; APH 150; APH 200; APH 250; APH 250TS; APM 250; AU-P; BCN 300S; BP 250; Bloom 0; Bloom 180; Bloom 220; Bloom 225; Bloom 240; Bloom 250; Bloom 280; Bloom 300; Bloom 302; Bloom 330; Bloom Strength 185; CLV; CLW; CP; CP (gelatin); Collagens, gelatins; Conjugates acetylated gelatins; Conjugates, gelatins; Cryogel 220/440; DAB 7; DAB 7 (gelatin); E 200; E 200 (gelatin); E 260; E 290; E 300; E 300 (gelatin); EGDI 1; Emagel; F 275; F 275 (gelatin); FCR 500; FGH 2001; FGL 200TS; FGL 250; FGL 250TS; FGS 260; FYB 150S; FYB 200S; FYB 250S; FishGel AR; FreAlagin AD; FreAlagin M; G 0282K; G 0283K; G 0284K; G 0545P; G 0637K; G 0665K; G 0666K; G 0667K; G 0668K; G 0701K; G 0723K; G 0746K; G 0749K; G 0750; G 0856K; G 0866K; G 0886K; G 1171K; G 1221K; G 1642P; G 1890; G 2613P; G 3038E; G 6650; G 7041; G 9382; G 9391; G Bifun; GBL 100; GBL 100 (gelatin); GBL 150; GBL 200; GBL 250; GE 3V; GLD 2; GLD 3; GPA-A 0; GSN; GX 45L404; GXAS 7; Gel Up J 3557; Gel-Lac; Gelafusal; Gelatin 200; Gelatin 21; Gelatin 300; Gelatin AP 250; Gelatin AU-P; Gelatin BP 230F; Gelatin Bloom 30; Gelatin CS; Gelatin NNH; Gelatin P 510; Gelatin conjugates; Gelatine; Gelatine Bloom 250; Gelatines; Gelfoam; Gelita Bloom 302; Gelita Collagel BS; Gelita Sol E; Gelita T 7838; Gelita-Collagel; Gelita-Sol P; Gelita-Tec; Gelodan G; Gelofusin; Gelofusine; Geltec UG; Glutins (gelatins); Grenetine; Grindsted G; HK 27; IJ-SKW; IK; IK (gelatin); IK 195; IK 2000; IK 3000; IXOS Gel FGL 200SP; IXOS Gel FGL 200TS; IXOS Gel HDL 50SP; Imagel LA; Imagel RA; Imagel RL; Inagel A 80F; Inagel A 83; Inagel AP 81P; Inagel N 150; Ixos FGL 130SP; Ixos FGL 250TS; JFG 230; JS 110; JS 190; Jellice; K 16096; K 7598; K 911216; K Jelly; KPF 16353; KV 3000; KV 3000 (gelatin); KV 3029; LF 21502-04; LP 250; LP 250 (gelatin); LS-W; M 394; M 396; M 400; M 400 (gelatin); MGP 9066; MRK; Medigelatin; Medigelatin HMG-BP; N 1236; Neosoft GE 388; Neosoft GE 82; Nikkol CCP 4; Nippi Gelatin AP 50; Nippi Gelatin SCF; Nitta 750; Nitta 810; Nitta G 2426P; Nitta MJ; Nitta RR; Nittait GF 600A; Novotec 100; Nyushiruba Karyu; Oetker; Ossein Gelatin HOS 1; P 100; P 100 (gelatin); P 104; P 2115; P 2225; P 487; PA 10; PA 10 (gelatin); PA 100; PA 100 (peptide); PB Leiner; PM 46D; PM 64; PM 64 (gelatin); PS 100; PS 100 (gelatin); PSK Gelatin; PSP Gelatin; PZ (gelatin); Pharmagel A; Pharmagel AdB; Pharmagel B; Plantis RD; Plantis RD Fine; Plantis WT; Polypro 5000; PorGel AR; Pulviclar S; Q-Cell UH 10EG; RBM 11BML; RGB; RM 100B; Rousselot 160LB; Rousselot 180PS; Rousselot 200AH; Rousselot 200FG; Rousselot 200FG30; Rousselot 200PS; Rousselot 3046; Rousselot 53676; Rousselot G.U.B.E.; Rousselot SAS; S 1286; S 510; S 510 (gelatin); S 511-5; S 692; S-A 354-1; SB-GEL SLW; SN; SN (protein); SRC; SRC (gelatin); Spongel; Spongiofort; Super Gelatin SSB; Super gelatin BPG 160; Surgiflo; Surgifoam; TS 361PC; VYSE; ViniGel FL; Vitrigel; Z-KN 707; beMatrix Gelatin LS-H; beMatrix LS-H; iXOS HDL 30DR
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Component , Manual Registration , Concept
+FIELD Editor Note(s):
+FIELD Definition Field:A complex combination of proteins obtained by hydrolysis of collagen by boiling skin, tendons, ligaments, bones, etc.
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):8052-24-2, 9013-63-2, 39340-57-3, 97343-33-4, 239074-97-6, 945651-70-7
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:8032-32-4
+FIELD CA Index Name:Ligroine
+FIELD Other Names:BP 2; BP 2 (solvent); Benzine (light petroleum distillate); Benzoline; Canadol; Ligroin; Naphtha, ligroine; Painters' naphtha; Petroleum ether; Refined solvent naphtha; Skellysolve F; Skellysolve G; V.M. and P. naphtha; V.M.&P. naphtha; Varnish makers' and painters' naphtha; Varnish makers' naphtha; Varnish makers' naphtha and painters' naphtha; WYSM 60-90
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Manual Registration , Concept
+FIELD Editor Note(s):
+FIELD Definition Field:A complex combination of hydrocarbons obtained by the fractional distillation of petroleum.  This fraction boils in the range of approximately 60°C to 110°C (140°F to 230°F).
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):8031-06-9
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+

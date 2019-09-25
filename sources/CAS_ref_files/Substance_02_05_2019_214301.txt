@@ -1,0 +1,550 @@
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:1252600-17-1
+FIELD CA Index Name:Poly[oxy(methyl-1,2-ethanediyl)], α-(2-aminomethylethyl)-ω-(2-aminomethylethoxy)-, phosphonomethylated, sodium salts
+FIELD Other Names:
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Polymer , Manual Registration , Generic Registration
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:CAS Client Services
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:1159170-26-9
+FIELD CA Index Name:Fuels, diesel, C9-18-alkane branched and linear
+FIELD Other Names:
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Manual Registration , Concept
+FIELD Editor Note(s):
+FIELD Definition Field:A complex combination of hydrocarbons obtained by the hydrodeoxygenation and catalytic hydroisomerization of animal fats and vegetable oils followed by distillative fractionation.  It consists predominantly of branched and linear paraffins having carbon numbers in the range of C9 to C18 and boiling in the range of approximately 179°C to 309°C (354.2°F to 588.3°F).
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:CAS Client Services
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:854267-07-5
+FIELD CA Index Name:Boron calcium oxide (B6Ca2O11), hydrate (1:5)
+FIELD Other Names:Boron calcium oxide (B6Ca2O11), pentahydrate (9CI); Boric acid (H4B6O11), calcium salt (1:2), pentahydrate; Calcium borate (Ca2B6O11) pentahydrate; Calcium borate pentahydrate (2CaO.3B2O3.5H2O)
+FIELD Formula:B . Ca . 5 H2 O . O
+FIELD Alternate Formula:B6 Ca2 O11 . 5 H2 O
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):12291-65-5, 1434332-24-7
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:129898-01-7
+FIELD CA Index Name:2-Propenoic acid, polymer with sodium phosphinate (1:1), sodium salt
+FIELD Other Names:2-Propenoic acid, polymer with sodium phosphinate, sodium salt (9CI); Phosphinic acid, sodium salt, polymer with 2-propenoic acid, sodium salt (9CI)
+FIELD Formula:(C3 H4 O2 . H3 O2 P . Na)x . x Na
+FIELD Alternate Formula:
+FIELD Class Identifier:
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:US Environmental Protection Agency (US EPA)
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:129828-31-5
+FIELD CA Index Name:2-Propenoic acid, polymer with 4-(1,1-dimethylethyl)phenol, formaldehyde, 2,5-furandione, 2-methyloxirane, 4-nonylphenol and oxirane
+FIELD Other Names:2-Propenoic acid, polymer with 4-(1,1-dimethylethyl)phenol, formaldehyde, 2,5-furandione, methyloxirane, 4-nonylphenol and oxirane (9CI); 2,5-Furandione, polymer with 4-(1,1-dimethylethyl)phenol, formaldehyde, methyloxirane, 4-nonylphenol, oxirane and 2-propenoic acid (9CI); Formaldehyde, polymer with 4-(1,1-dimethylethyl)phenol, 2,5-furandione, methyloxirane, 4-nonylphenol, oxirane and 2-propenoic acid (9CI); Oxirane, methyl-, polymer with 4-(1,1-dimethylethyl)phenol, formaldehyde, 2,5-furandione, 4-nonylphenol, oxirane and 2-propenoic acid (9CI); Oxirane, polymer with 4-(1,1-dimethylethyl)phenol, formaldehyde, 2,5-furandione, methyloxirane, 4-nonylphenol and 2-propenoic acid (9CI); Phenol, 4-(1,1-dimethylethyl)-, polymer with formaldehyde, 2,5-furandione, methyloxirane, 4-nonylphenol, oxirane and 2-propenoic acid (9CI); Phenol, 4-nonyl-, polymer with 4-(1,1-dimethylethyl)phenol, formaldehyde, 2,5-furandione, methyloxirane, oxirane and 2-propenoic acid (9CI)
+FIELD Formula:(C15 H24 O . C10 H14 O . C4 H2 O3 . C3 H6 O . C3 H4 O2 . C2 H4 O . C H2 O)x
+FIELD Alternate Formula:
+FIELD Class Identifier:Polymer
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:Environment Canada (EC)
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:128973-77-3
+FIELD CA Index Name:Undecanol, branched and linear
+FIELD Other Names:
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Manual Registration , Generic Registration
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:CAS Client Services
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:127036-24-2
+FIELD CA Index Name:Poly(oxy-1,2-ethanediyl), α-undecyl-ω-hydroxy-, branched and linear
+FIELD Other Names:
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Polymer , Manual Registration , Generic Registration
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:CAS Client Services
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:126950-60-5
+FIELD CA Index Name:Secondary alcohols, C12-14
+FIELD Other Names:Alcohols, C12-14-secondary; C12-14-secondary alcohols; C12-14-secondary alcs.; Pionin D 1103S; Softanol A
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Manual Registration , Concept
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:CAS Client Services
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:125005-87-0
+FIELD CA Index Name:Diutan gum
+FIELD Other Names:Diutan; Kelco Crete 200; Kelco Crete DG; Kelco VIS-DG; Kelco Vis DG; Kelco-Crete 80; S 657; V-MAR 3
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Manual Registration
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):1103486-46-9, 1206549-64-5
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:121888-68-4
+FIELD CA Index Name:Quaternary ammonium compounds, benzyl(hydrogenated tallow alkyl)dimethyl, stearates, salts with bentonite
+FIELD Other Names:Bentonite, benzyl(hydrogenated tallow alkyl)dimethylammonium stearate complex
+FIELD Formula:C18 H36 O2 . Na . Unspecified . Unspecified
+FIELD Alternate Formula:Unspecified
+FIELD Class Identifier:Manual Registration , Concept
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:CAS Client Services
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:120313-48-6
+FIELD CA Index Name:Alcohols, C12-15-branched and linear, ethoxylated propoxylated
+FIELD Other Names:Genapol 2908; Genapol EP 2564
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Manual Registration , Concept
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):332426-86-5
+FIELD Source of Registration:CAS Client Services
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:119345-03-8
+FIELD CA Index Name:Benzene, 1,1'-oxybis-, tetrapropylene derivs., sulfonated
+FIELD Other Names:
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Manual Registration , Generic Registration
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:US Environmental Protection Agency (US EPA)
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:113669-97-9
+FIELD CA Index Name:Fatty acids, castor-oil, caustic-oxidized, distn. residues, esters with ammonia-ethylene oxide reaction product distn. residues, compds. with diethylenetriamine and triethylenetetramine
+FIELD Other Names:
+FIELD Formula:C6 H18 N4 . C4 H13 N3 . C2 H4 O . H3 N . Unspecified
+FIELD Alternate Formula:Unspecified
+FIELD Class Identifier:Manual Registration , Concept
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:US Environmental Protection Agency (US EPA)
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:113221-69-5
+FIELD CA Index Name:2-Propenoic acid, ethyl ester, polymer with ethenyl acetate and 2,5-furandione, hydrolyzed
+FIELD Other Names:
+FIELD Formula:(C5 H8 O2 . C4 H6 O2 . C4 H2 O3)x
+FIELD Alternate Formula:Unspecified
+FIELD Class Identifier:Polymer , Manual Registration , Generic Registration
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):110392-51-3
+FIELD Source of Registration:US Environmental Protection Agency (US EPA)
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:111560-38-4
+FIELD CA Index Name:2-Propenoic acid, ethyl ester, polymer with ethenyl acetate and 2,5-furandione, hydrolyzed, sodium salt
+FIELD Other Names:
+FIELD Formula:(C5 H8 O2 . C4 H6 O2 . C4 H2 O3 . Na)x
+FIELD Alternate Formula:Unspecified
+FIELD Class Identifier:Polymer , Manual Registration , Generic Registration
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:US Environmental Protection Agency (US EPA)
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:108818-88-8
+FIELD CA Index Name:Poly(oxy-1,2-ethanediyl), α-isodecyl-ω-hydroxy-, phosphate
+FIELD Other Names:Polyethylene glycol isodecyl ether phosphate
+FIELD Formula:(C2 H4 O)n C10 H22 O . x H3 O4 P
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:CAS Client Services
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:104780-82-7
+FIELD CA Index Name:Poly(oxy-1,2-ethanediyl), α-hexyl-ω-hydroxy-, branched and linear
+FIELD Other Names:
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Polymer , Manual Registration , Generic Registration
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:US Environmental Protection Agency (US EPA)
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:12280-03-4
+FIELD CA Index Name:Boron sodium oxide (B8Na2O13), tetrahydrate
+FIELD Other Names:Boric acid (H2B8O13), disodium salt, tetrahydrate (8CI); Boracol; Boracol 20; Cellu-Treat; Disodium octaborate tetrahydrate; FLEABOR; Mop Up; NiBor-D; Polybor 3; Tim-Bor; Tim-Bor PCO
+FIELD Formula:B8 Na2 O13 . 4 H2 O
+FIELD Alternate Formula:
+FIELD Class Identifier:Manual Registration
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:12134-66-6
+FIELD CA Index Name:Maghemite (Fe2O3)
+FIELD Other Names:Maghemite; SCP 21; SCP 21 (mineral); TR 99701; γ-HXD; γ-THD
+FIELD Formula:Fe . O
+FIELD Alternate Formula:Fe2 O3
+FIELD Class Identifier:Mineral , Tabular Inorganic Substance
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):12063-15-9
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:12125-01-8
+FIELD CA Index Name:Ammonium fluoride ((NH4)F)
+FIELD Other Names:Ammonium fluoride (8CI); Ammonium fluoride (FH4N); Neutral ammonium fluoride; Wako 013-03095
+FIELD Formula:F H4 N
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):15818-75-4, 16099-75-5, 70786-97-9, 102089-31-6, 124633-37-0, 133332-88-4, 153985-02-5, 161288-32-0, 178115-94-1, 204322-87-2, 215303-13-2, 357290-87-0, 502760-32-9, 950196-00-6, 1256490-43-3
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:12068-08-5
+FIELD CA Index Name:Benzenesulfonic acid, dodecyl-, compd. with morpholine (1:1)
+FIELD Other Names:Benzenesulfonic acid, dodecyl-, compd. with morpholine (7CI); Benzenesulfonic acid, dodecyl-, morpholine salt (6CI); Morpholine, dodecylbenzenesulfonate (9CI); Benzamorf; Dodecylbenzenesulfonic acid morpholine salt; Morpholinium dodecylbenzenesulfonate
+FIELD Formula:C18 H30 O3 S . C4 H9 N O
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:12060-08-1
+FIELD CA Index Name:Scandium oxide (Sc2O3)
+FIELD Other Names:Discandium trioxide; Scandia; Scandia (Sc2O3); Scandium oxide; Scandium oxide (ScO1.5); Scandium sesquioxide; Scandium trioxide; Scandium(3+) oxide; Scandium(III) oxide
+FIELD Formula:O3 Sc2
+FIELD Alternate Formula:
+FIELD Class Identifier:Component , Manual Registration
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):256652-08-1, 256652-09-2, 1187313-37-6, 1257584-26-1
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:12030-49-8
+FIELD CA Index Name:Iridium oxide (IrO2)
+FIELD Other Names:Iridium dioxide; Iridium dioxide (IrO2); Iridium oxide; iridium(IV) oxide
+FIELD Formula:Ir O2
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:12008-41-2
+FIELD CA Index Name:Boron sodium oxide (B8Na2O13)
+FIELD Other Names:Boric acid (H2B8O13), disodium salt (8CI); Sodium borate (Na2B8O13) (6CI); Sodium octaborate (Na2B8O13) (7CI); BORA-CARE; Boracol 40; Boron sodium oxide (Na2B8O13); Disodium octaborate; Etidot 67; Impel; Polybor; Polybor 150; Sodium borate (B8Na2O13); Sodium octaborate; TIM Borate
+FIELD Formula:B8 Na2 O13
+FIELD Alternate Formula:
+FIELD Class Identifier:Component , Manual Registration
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):37195-63-4, 163751-31-3, 180472-48-4, 1628260-45-6
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:1309-42-8
+FIELD CA Index Name:Magnesium hydroxide (Mg(OH)2)
+FIELD Other Names:Magnesium hydroxide (8CI); 06B; 10A; 10FM; 1110F; 200-06H; 200-6H; 2M-C01; 2N; 2N (magnesium hydroxide); 3320HT; 5D12; 936A; 96HS; Aitemag 45; Aitemag 45PA; Aitemag 45ZA; Aitemag 55FL; Aitemag 55PA; Alcanex NHC 25; Apymag 40S; Apymag 60S; Apymag 80S; Apymag AOH 820; Aquamag; Aquamag (hydroxide); Asahi Glass 200-06; B 54; BN 6; Burusaito; Combustrol 500; DG 800; DG 800 (metal oxide); DP 393; DSB 100; Daimushew 6000; Delamin FRA-B 15; Duhor; Duhor C 043S; Duhor N; EP 1; EP 1 (hydroxide); EP 1A; EPI-A; Ebson RF; Echomag PZ 1; Echomag PZ 1G; Echomag PZ 1SP; Echomag ZL; Ecomag PZ 1EX; Ecopyrene 5S; Ekopiren 3.5S; Envimag; FD 905U; FJTM 6H; FK 621; FM 70; FM 70D; FR 20-100D-S10A; FR 20-100D-S7; FR 20-120D-S7; FR 20-310; FR 20/100; FR 20S10; Finemag MO; Finemag MO-T; Finemag SN-L; FloMag H; FloMag HUS; Framitex 05-97; H 10; H 10A; H 10CA; H 5; H 7; HO 12FM; HT 206; HT 206I; HT 215; Hydrofy G 1.5; Hydrofy G 2.5; Hydrofy N; Junmag C; KX 4S; KX 80; KX 8S(A); KX 8S(B); Ki 22-5B; Kisuma; Kisuma 1; Kisuma 120; Kisuma 2; Kisuma 200; Kisuma 3A; Kisuma 4; Kisuma 4AF; Kisuma 5; Kisuma 54A; Kisuma 5A; Kisuma 5A-N; Kisuma 5AU; Kisuma 5B-N; Kisuma 5BG; Kisuma 5C; Kisuma 5E; Kisuma 5EU; Kisuma 5L; Kisuma 5Q; Kisuma 5Q-S; Kisuma 5R; Kisuma 5SDK; Kisuma 5SS; Kisuma 5X; Kisuma 6E; Kisuma 7B; Kisuma 8; Kisuma 8N; Kisuma F; Kisuma KX 4SU; Kisuma S 4; Kisuma SA; Kiyouwasuimagu F; Kyowamag F; Kyowasuimag; Lederscon; Lycal 96HSE; M 3C2; M-O-W; M-SO; MGZ 2; MGZ 3; MGZ 4; MGZ 5-19; MGZ 6R; MH; MH 20; MH 3; MH 30; MH 95-002; MKN-MgOH 2-050; MS 1H; MS 4; MS 4 (hydroxide); MZG 4; Mag Chem MH 10; Mag Chem MH 10UF; Maglux; Maglux NT; Maglux ST; Maglux ST 1; Maglux ST 2; Maglux STF 2; MagneClear 58; Magnefin H 5; Magnesia 100H; Magnesia 50H; Magnesia Magma; Magnesia hydrate; Magnesiamaito; Magnesium dihydroxide; Magnesium(II) hydroxide; Magnifin 5HIV; Magnifin A; Magnifin H 10; Magnifin H 5; Magnifin H 5HV; Magnifin H 5KV; Magnifin H 5L; Magnifin H 7; Magnifin H 7C; Magnifin HV 502; Magnifin SE 630; Magseeds 10A; Magseeds EP 1A; Magseeds EP 2A; Magseeds FK 621; Magseeds LN 6; Magseeds N 1; Magseeds N 3; Magseeds N 4; Magseeds N 6; Magseeds S 1; Magseeds S 4; Magseeds S 6; Magseeds S 6F; Magseeds V 6F; Magseeds W; Magseeds W-H 5; Magseeds W-R 4; Magseeds W-X 3; Magseeds X 6; Magseeds X 6F; Magshield 98; Magshield S; Magshield U; Magshield UF-NB 10; Magstar; Magstar 10; Magstar 5; Marinco H; Marinco H 1241; Martinal VPF 8812; MgZ 1; Micronex 5C; Milk of magnesia; Milmag; Mint-O-Mag; N 0; N 0 (curing accelerator); N 1; N 100; N 100 (metal oxide); N 3; N 6; NF 2000; Nittomagu S; Novadol; Odomag; PFR 5S; PG 91146; PS 1191; PT 25ST; PZ 1; PZ 1EX; PZ 1SP; Phillips Magnesia Tablets; Phillips Milk of Magnesia Liquid; Polysafe MG 2; Pural MG 100; QM 70; S 40 (hydroxide); S 6; S 6F; S/G 84; SP; SP (hydroxide); SX 30MS; Securoc B 10; StanMag Hydroxide B; Star 200; Star Brand 100; Star Brand 200; Thioguard; Tiger B 15; UB 650; UD 65; UD 650; UD 650-1; UD 653; Ultramag 60-90; V 6; V 6 (hydroxide); V 6F; VD 650; Versamag; Vertex 100; Vertex 100SP; Vertex 100SV; Vertex 60; Vertex 90; Vertex 90SF; Vertex 90SP; Vertex HST; WH 25; WH 4; WSA 107; WX 3; X 6; YZ-GX 105; Z 00-06H; Z 50SP; Zerogen 10; Zerogen 100SV; Zerogen 10SP; Zerogen 30F; Zerogen 50SP; Zerogen 51; Zerogen 60; Zerogen Vertex
+FIELD Formula:H2 Mg O2
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):12195-86-7, 13760-51-5, 1395893-88-5
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+

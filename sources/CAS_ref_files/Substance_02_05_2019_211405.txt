@@ -1,0 +1,550 @@
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:153568-80-0
+FIELD CA Index Name:Benzenemethanaminium, N,N-dimethyl-N-[2-[(1-oxo-2-propen-1-yl)oxy]ethyl]-, chloride (1:1), polymer with N,N-dimethyl-N-2-propen-1-yl-2-propen-1-aminium chloride (1:1)
+FIELD Other Names:Benzenemethanaminium, N,N-dimethyl-N-[2-[(1-oxo-2-propenyl)oxy]ethyl]-, chloride, polymer with N,N-dimethyl-N-2-propenyl-2-propen-1-aminium chloride (9CI); 2-Propen-1-aminium, N,N-dimethyl-N-2-propenyl-, chloride, polymer with N,N-dimethyl-N-[2-[(1-oxo-2-propenyl)oxy]ethyl]benzenemethanaminium chloride (9CI)
+FIELD Formula:(C14 H20 N O2 . C8 H16 N . 2 Cl)x
+FIELD Alternate Formula:
+FIELD Class Identifier:Polymer
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:149879-98-1
+FIELD CA Index Name:1-Propanaminium, N-(carboxymethyl)-N,N-dimethyl-3-[[(13Z)-1-oxo-13-docosen-1-yl]amino]-, inner salt
+FIELD Other Names:1-Propanaminium, N-(carboxymethyl)-N,N-dimethyl-3-[(1-oxo-13-docosenyl)amino]-, inner salt, (Z)-; 1-Propanaminium, N-(carboxymethyl)-N,N-dimethyl-3-[[(13Z)-1-oxo-13-docosenyl]amino]-, inner salt (9CI); BET-E 40; Erucyl dimethyl amidopropyl betaine; J 557; Mirataine BET-E 40
+FIELD Formula:C29 H56 N2 O3
+FIELD Alternate Formula:
+FIELD Class Identifier:
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:147732-60-3
+FIELD CA Index Name:Benzene, 1,1'-oxybis-, sec-hexyl derivs., sulfonated, sodium salts
+FIELD Other Names:
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Manual Registration , Generic Registration
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:US Environmental Protection Agency (US EPA)
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:141179-72-8
+FIELD CA Index Name:Benzoic acid, 4-fluoro-2-(trifluoromethyl)-
+FIELD Other Names:4-Fluoro-2-(trifluoromethyl)benzoic acid
+FIELD Formula:C8 H4 F4 O2
+FIELD Alternate Formula:
+FIELD Class Identifier:
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:138879-94-4
+FIELD CA Index Name:1,2-Ethanediaminium, N1,N2-bis[2-[bis(2-hydroxyethyl)methylammonio]ethyl]-N1,N2-bis(2-hydroxyethyl)-N1,N2-dimethyl-, chloride (1:4)
+FIELD Other Names:1,2-Ethanediaminium, N,N'-bis[2-[bis(2-hydroxyethyl)methylammonio]ethyl]-N,N'-bis(2-hydroxyethyl)-N,N'-dimethyl-, tetrachloride (9CI)
+FIELD Formula:C22 H54 N4 O6 . 4 Cl
+FIELD Alternate Formula:
+FIELD Class Identifier:
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:US Environmental Protection Agency (US EPA)
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:15468-32-3
+FIELD CA Index Name:Tridymite (SiO2) (9CI)
+FIELD Other Names:Tridymite (8CI); Christensenite; Tridymite 118; α-Tridymite; α-Trydimit
+FIELD Formula:O2 Si
+FIELD Alternate Formula:
+FIELD Class Identifier:Mineral
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):1317-94-8, 12414-70-9
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:15214-89-8
+FIELD CA Index Name:1-Propanesulfonic acid, 2-methyl-2-[(1-oxo-2-propen-1-yl)amino]-
+FIELD Other Names:1-Propanesulfonic acid, 2-acrylamido-2-methyl- (8CI); 1-Propanesulfonic acid, 2-methyl-2-[(1-oxo-2-propenyl)amino]- (9CI); 2-Methyl-2-[(1-oxo-2-propen-1-yl)amino]-1-propanesulfonic acid; 2-Acrylamido-2,2-dimethylethanesulfonic acid; 2-Acrylamido-2-methyl-1-propanesulfonic acid; 2-Acrylamido-2-methylpropanesulfonic acid; 2-Acrylamido-2-methylpropylsulfonic acid; 2-Acryloylamido-2-methylpropanesulfonic acid; 2-Acryloylamino-2-methyl-1-propanesulfonic acid; 2-Methyl-2-[(1-oxo-2-propenyl)amino]-1-propanesulfonic acid; AMPS; AMPS (sulfonic acid); ATBS; Acrylamide tert-butylsulfonic acid; CG 810S-P; Lubrizol 2402; Lubrizol 2404; Lubrizol AMPS; N-Acryloyl-2,2-dimethyltaurine; TBAS-Q; tert-Butylacrylamidosulfonic acid
+FIELD Formula:C7 H13 N O4 S
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):1202001-18-0
+FIELD Deleted Registry Number(s):82989-71-7, 107240-62-0, 114705-58-7, 127889-32-1, 155380-40-8, 155401-75-5, 382655-32-5, 936232-42-7, 1211475-04-5, 1390640-03-5, 1600517-24-5, 2146156-10-5
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:14960-06-6
+FIELD CA Index Name:β-Alanine, N-(2-carboxyethyl)-N-dodecyl-, sodium salt (1:1)
+FIELD Other Names:Propionic acid, 3,3'-(dodecylimino)di-, monosodium salt (8CI); β-Alanine, N-(2-carboxyethyl)-N-dodecyl-, monosodium salt (9CI); Deriphat 106C; Tensan VS
+FIELD Formula:C18 H35 N O4 . Na
+FIELD Alternate Formula:
+FIELD Class Identifier:
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):195603-51-1
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:14483-19-3
+FIELD CA Index Name:Diopside (CaMg(SiO3)2) (9CI)
+FIELD Other Names:Diopside (8CI); Mussite
+FIELD Formula:Ca . 2 H2 O3 Si . Mg
+FIELD Alternate Formula:
+FIELD Class Identifier:Mineral
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):14567-91-0, 61026-65-1, 63677-41-8
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:14035-94-0
+FIELD CA Index Name:Pentanedioic acid, 2-methyl-, 1,5-dimethyl ester
+FIELD Other Names:Glutaric acid, 2-methyl-, dimethyl ester (6CI,7CI,8CI); Pentanedioic acid, 2-methyl-, dimethyl ester (9CI); 2-Methylpentanedioic acid dimethyl ester; Dimethyl 2-methylglutarate; Dimethyl α-dl-methylglutarate; Dimethyl α-methylglutarate; Rhodiasolv Infinity; Rhodiasolv Iris; α-Methylglutaric acid dimethyl ester
+FIELD Formula:C8 H14 O4
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):51013-95-7, 1195757-77-7
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:14025-15-1
+FIELD CA Index Name:Cuprate(2-), [[N,N'-1,2-ethanediylbis[N-[(carboxy-κO)methyl]glycinato-κN,κO]](4-)]-, sodium (1:2), (OC-6-21)-
+FIELD Other Names:Cuprate(2-), [(ethylenedinitrilo)tetraacetato]-, disodium (8CI); Cuprate(2-), [[N,N'-1,2-ethanediylbis[N-(carboxymethyl)glycinato]](4-)-N,N',O,O',ON,ON']-, disodium, (OC-6-21)-; Cuprate(2-), [[N,N'-1,2-ethanediylbis[N-[(carboxy-κO)methyl]glycinato-κN,κO]](4-)]-, disodium, (OC-6-21)- (9CI); Sodium [(ethylenedinitrilo)tetraacetato]cuprate(II) (6CI,7CI); Bovi-Cu; Chelest Cu 40; Copper disodium EDTA; Copper disodium ethylenediaminetetraacetate; Copper sodium ethylenediaminetetraacetate (1:2:1); Disodium (ethylenediaminetetraacetato)cuprate(2-); Disodium cupric EDTA; EDTA copper disodium salt; EDTA disodium copper salt; NSC 7346
+FIELD Formula:C10 H12 Cu N2 O8 . 2 Na
+FIELD Alternate Formula:
+FIELD Class Identifier:Coordination Compound
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):10378-29-7, 12558-58-6, 229326-16-3
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:13840-56-7
+FIELD CA Index Name:Boric acid (H3BO3), sodium salt (1:?)
+FIELD Other Names:Boric acid (H3BO3), sodium salt (8CI,9CI); Sodium borate
+FIELD Formula:B H3 O3 . x Na
+FIELD Alternate Formula:
+FIELD Class Identifier:
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:150-76-5
+FIELD CA Index Name:Phenol, 4-methoxy-
+FIELD Other Names:Phenol, p-methoxy- (7CI,8CI); 4-Methoxyphenol; 1-Hydroxy-4-methoxybenzene; 4-Hydroxyanisole; 4-Hydroxyphenyl methyl ether; 4-MP; BMS 181158; HQ-MME; HQMME; Hydroquinone methyl ether; Hydroquinone monomethyl ether; Hydroxyquinone methyl ether; Leucobasal; Leucodine B; MEHQ; MQ; MQ-F; Mechinolum; Mequinol; Methoquinone; NSC 4960; Novo-Dermoquinona; PMF (antioxidant); p-Guaiacol; p-Hydroxyanisol; p-Hydroxyanisole; p-Hydroxymethoxybenzene; p-Hydroxyphenyl methyl ether; p-Methoxyphenol
+FIELD Formula:C7 H8 O2
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:150-38-9
+FIELD CA Index Name:Glycine, N,N'-1,2-ethanediylbis[N-(carboxymethyl)-, sodium salt (1:3)
+FIELD Other Names:Acetic acid, (ethylenedinitrilo)tetra-, trisodium salt (8CI); Glycine, N,N'-1,2-ethanediylbis[N-(carboxymethyl)-, trisodium salt (9CI); Chelate C; Chelest 2C-SD; Chelest 2CS; Chelest C; Clewat 300A; Clewat 3Na; EDTA trisodium; EDTA trisodium salt; EDTA-3Na; Edetate trisodium; Ethylenediaminetetraacetic acid trisodium salt; Limclair; Nevanaid-B powder; Perma Kleer 50, trisodium salt; Sequestrene NA 3T; Sequestrene Na3; Sequestrene trisodium; Sequestrene trisodium salt; Trilon AO; Trisodium EDTA; Trisodium ETDA; Trisodium edetate; Trisodium ethylenediaminetetraacetate; Trisodium hydrogen (ethylenedinitrilo)tetraacetate; Trisodium hydrogen ethylenediaminetetraacetate; Trisodium versenate; Versene 9; Zonon T
+FIELD Formula:C10 H16 N2 O8 . 3 Na
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):8014-66-2, 97928-92-2
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:150-13-0
+FIELD CA Index Name:Benzoic acid, 4-amino-
+FIELD Other Names:Benzoic acid, p-amino- (7CI,8CI); 4-Aminobenzoic acid; 4-Aminobenzenecarboxylic acid; 4-Carboxyaniline; 4-Carboxyphenylamine; Actipol; Amben; Aniline-4-carboxylic acid; Anti-Chromotrichia factor; Anticanitic vitamin; Anticantic vitamin; Antichromotrichia factor; Bacterial vitamin H1; Chromotrichia factor; Hachemina; NSC 7627; PAB; PABA; Pabacyd; Pabafilm; Pabamine; Paraminol; Paranate; Romavit; Sunbrella; Trichochromogenic factor; Vitamin BX; Vitamin H'; p-Aminobenzenecarboxylic acid; p-Aminobenzoic acid; p-Carboxyaniline; p-Carboxyphenylamine; para-Aminobenzoates
+FIELD Formula:C7 H7 N O2
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):8014-65-1
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:143-22-6
+FIELD CA Index Name:Ethanol, 2-[2-(2-butoxyethoxy)ethoxy]-
+FIELD Other Names:2-[2-(2-Butoxyethoxy)ethoxy]ethanol; 3,6,9-Trioxatridecan-1-ol; BDGE 30; BTG; Butoxytriethylene glycol; Butoxytriglycol; Butyltriglycol; Butysenol 30; C4E3; Dowanol TBAT; Koremul BE 3; NSC 164915; TEGBE; Triethylene glycol mono-n-butyl ether; Triethylene glycol monobutyl ether; Triglycol monobutyl ether
+FIELD Formula:C10 H22 O4
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:142-87-0
+FIELD CA Index Name:Sulfuric acid, monodecyl ester, sodium salt (1:1)
+FIELD Other Names:Decyl sodium sulfate (6CI); Sulfuric acid, monodecyl ester, sodium salt (8CI,9CI); Avirol 110; Compound 132D; DSS; DSS (surfactant); Decyl sulfate sodium salt; Emal 3F; Pentrone DN; Polystep B 25; SDeS; Sodium capryl sulfate; Sodium decyl sulfate; Sodium hydrogen sulfate decyl ester; Sodium n-decyl sulfate; Sulfochem NADS; Sulfotex 110
+FIELD Formula:C10 H22 O4 S . Na
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:142-82-5
+FIELD CA Index Name:Heptane
+FIELD Other Names:Dipropylmethane; Heptyl hydride; NSC 62784; Skellysolve C; n-Heptane
+FIELD Formula:C7 H16
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):8031-33-2, 44607-13-8
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:142-31-4
+FIELD CA Index Name:Sulfuric acid, monooctyl ester, sodium salt (1:1)
+FIELD Other Names:Octyl sodium sulfate (6CI,7CI); Sulfuric acid, monooctyl ester, sodium salt (8CI,9CI); Cycloryl OS; Disponil SOS 842; Duponol 80; Polystep B 29; SOS; Sipex OLS; Sodium caprylyl sulfate; Sodium monooctyl sulfate; Sodium n-octyl sulfate; Sodium octyl sulfate; Sodium octyl sulphate; Sulfochem NOS; Texapon 842
+FIELD Formula:C8 H18 O4 S . Na
+FIELD Alternate Formula:
+FIELD Class Identifier:
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:141-78-6
+FIELD CA Index Name:Acetic acid ethyl ester
+FIELD Other Names:Acetic acid, ester with EtOH (7CI); Ethyl acetate; Acetic acid, ethyl ester; Acetic ether; Acetidin; Acetoxyethane; EtOAc; Ethyl ethanoate; NSC 70930; Vinegar naphtha
+FIELD Formula:C4 H8 O2
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:140-88-5
+FIELD CA Index Name:2-Propenoic acid, ethyl ester
+FIELD Other Names:Acrylic acid ethyl ester (6CI,8CI); 2-Propenoic acid ethyl ester; Ethyl 2-propenoate; Ethyl acrylate; Ethyl acrylic ester; Ethyl propenoate; NSC 8263
+FIELD Formula:C5 H8 O2
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):1441020-41-2
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:140-31-8
+FIELD CA Index Name:1-Piperazineethanamine
+FIELD Other Names:Piperazine, 1-(2-aminoethyl)- (6CI,7CI,8CI); 1-(2-Aminoethyl)piperazine; 1-(β-Aminoethyl)piperazine; 1-Piperazineethylamine; 2-(1-Piperazinyl)ethanamine; 2-(1-Piperazinyl)ethylamine; 2-(Piperazin-1-yl)ethaneamine; 2-(Piperazinyl-1-yl)ethanamine; 2-Piperazinylethylamine; 4-(2-Aminoethyl)piperazine; AEP; Ancamine AEP; Epicure 3200; Epikure 3202; N-(2-Aminoethyl)piperazine; N-(β-Aminoethyl)piperazine; N-AEP; NSC 38968
+FIELD Formula:C6 H15 N3
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):935701-76-1
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:139-89-9
+FIELD CA Index Name:Glycine, N-[2-[bis(carboxymethyl)amino]ethyl]-N-(2-hydroxyethyl)-, sodium salt (1:3)
+FIELD Other Names:Glycine, N-(carboxymethyl)-N'-(2-hydroxyethyl)-N,N'-ethylenedi-, trisodium salt (8CI); Glycine, N-[2-[bis(carboxymethyl)amino]ethyl]-N-(2-hydroxyethyl)-, trisodium salt (9CI); Chel DM 41; Chelest H; Chelest HC; Chemcolox 800; Clewat OH 300; Clewat OH 35; Detarol trisodium salt; Dissolvine H 40; Hamp-ol 120; Hamp-ol Crystals; Hydroxyethylethylenediaminetriacetic acid trisodium salt; Monaquest ICA 120; N-(2-Hydroxyethyl)-N,N',N'-ethylenediaminetriacetic acid trisodium salt; N-(Carboxymethyl)-N'-(2-hydroxyethyl)-N,N'-ethylenediglycine trisodium salt; N-(Hydroxyethyl)-N,N',N'-ethylenediaminetriacetic acid trisodium salt; N-Hydroxyethylethylenediaminetriacetic acid trisodium salt; Perma Kleer 80; Perma Kleer 80 Crystals; Sodium N-(2-hydroxylethyl)ethylenediamine-N,N',N'-triacetate; Trilon D; Trisodium HEDTA; Trisodium N-(2-hydroxyethyl)ethylenediamine-N,N',N'-triacetate; Trisodium N-(2-hydroxyethyl)ethylenediaminetriacetate; Trisodium N-(hydroxyethyl)ethylenediaminetriacetate; Trisodium N-hydroxyethylethylenediamine-N,N',N'-triacetate; Trisodium salt N-hydroxyethylethylenediaminetriacetic acid; Versenol 120
+FIELD Formula:C10 H18 N2 O7 . 3 Na
+FIELD Alternate Formula:
+FIELD Class Identifier:
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):8040-88-8, 81647-98-5, 112326-74-6
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:139-33-3
+FIELD CA Index Name:Glycine, N,N'-1,2-ethanediylbis[N-(carboxymethyl)-, sodium salt (1:2)
+FIELD Other Names:Acetic acid, (ethylenedinitrilo)tetra-, disodium salt (8CI); Glycine, N,N'-1,2-ethanediylbis[N-(carboxymethyl)-, disodium salt (9CI); Chelaplex; Chelaplex III; Chelaton III; Chelest 200; Chelest 2B-SD; Chelest 2BS; Chelest B; Clewat N; Clewat N 2; Complexon III; Disodium (ethylenedinitrilo)tetraacetate; Disodium EDTA; Disodium diacid ethylenediaminetetraacetate; Disodium dihydrogen ethylenediaminetetraacetate; Disodium edathamil; Disodium edetate; Disodium ethylenediamine-N,N,N',N'-tetraacetate; Disodium ethylenediaminetetraacetate; Disodium ethylenediaminetetraacetic acid salt; Disodium sequestrene; Disodium tetracemate; Disodium versenate; Disodium versene; Dissolvine Na 2T; Dissolvine Na 2x; Dissolvine Na2; Dissolvine Na2S; Dotite 2NA; EDTA disodium salt; EDTA&bull;Na2; Edathamil disodium; Edeta BD; Edetate Disodium; Endrate disodium; Ethylenediaminetetraacetic acid disodium salt; Ethylenedinitrilotetraacetate disodium; F 1; F 1 (complexon); Idranal III; Khelaton 3; Komplexon III; Mavacid ED 4; Metaquest B; Nervanaid Ba2; Perma Kleer Di Crystals; Salina; Selekton B2; Sequestrene Na2; Sodium versenate; TW 204; Tetracemate disodium; Titriplex III; Trilon BD; Triplex III; VRP 1034; Versene NA; Versene Na2; Versene disodium salt; Versonol 120; Zonon D
+FIELD Formula:C10 H16 N2 O8 . 2 Na
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):1892-64-4, 37341-71-2, 42615-28-1, 69772-70-9, 104244-09-9, 1236140-51-4
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:139-13-9
+FIELD CA Index Name:Glycine, N,N-bis(carboxymethyl)-
+FIELD Other Names:Acetic acid, nitrilotri- (8CI); N,N-Bis(carboxymethyl)glycine; 412: PN: WO2007070372 PAGE: 72 claimed protein; Chel 300; Chelest NT; Complexon I; Dissolvine A; Dissolvine AZ; Hampshire NTA acid; N 0098; NSC 2121; NTA; Nitrilo-2,2',2''-triacetic acid; Nitrilo-N,N,N-triacetic acid; Nitrilotriacetic acid; Nitrilotris(methylenecarboxylic acid); Titriplex I; Triglycine; Triglycollamic acid; Trilon AS; Tris(carboxymethyl)amine; Tris(hydroxycarbonylmethyl)amine; Versene NTA acid; α,α',α''-Trimethylaminetricarboxylic acid
+FIELD Formula:C6 H9 N O6
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):26627-44-1, 26627-45-2, 80751-51-5, 1082646-60-3, 1428376-78-6
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+

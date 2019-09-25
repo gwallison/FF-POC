@@ -1,0 +1,550 @@
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:1607814-38-9
+FIELD CA Index Name:Humic acids, potassium salts, polymers with N,N-dimethyl-2-propenamide, sodium acrylate and sodium 2-methyl-2-[(1-oxo-2-propen-1-yl)amino]-1-propanesulfonate (1:1), peroxydisulfuric acid ([(HO)S(O)2]2O2) sodium salt (1:2)-initiated
+FIELD Other Names:
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Polymer , Manual Registration , Concept
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:CAS Client Services
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:1422006-64-1
+FIELD CA Index Name:Humic acids, potassium salts, polymers with N,N-dimethyl-2-propenamide, maleic anhydride and sodium 2-methyl-2-[(1-oxo-2-propen-1-yl)amino]-1-propanesulfonate (1:1), sodium salts
+FIELD Other Names:
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Polymer , Manual Registration , Concept
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:CAS Client Services
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:1352632-71-3
+FIELD CA Index Name:Phosphoric acid, mixed diesters with C6-12 alcs., Et alc. and polyethylene glycol mono-Ph ether
+FIELD Other Names:
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Manual Registration , Generic Registration
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:CAS Client Services
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:181828-06-8
+FIELD CA Index Name:2-Butenedioic acid (2Z)-, ammonium salt (1:?), homopolymer, hydrolyzed, sodium salts
+FIELD Other Names:2-Butenedioic acid (2Z)-, ammonium salt, homopolymer, hydrolyzed, sodium salts; 2-Butenedioic acid (Z)-, ammonium salt, homopolymer, hydrolyzed, sodium salts
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Polymer , Manual Registration , Generic Registration
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:CAS Client Services
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:177149-89-2
+FIELD CA Index Name:Phenol, 2,4,6-tris[(dimethylamino)methyl]-, reaction products with benzyl chloride
+FIELD Other Names:
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Manual Registration , Generic Registration
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:CAS Client Services
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:174206-15-6
+FIELD CA Index Name:Zirconium, chloro hydroxy lactate oxo sodium complexes
+FIELD Other Names:
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Manual Registration , Generic Registration
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:US Environmental Protection Agency (US EPA)
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:157627-86-6
+FIELD CA Index Name:Alcohols, C13-15-branched and linear, ethoxylated
+FIELD Other Names:
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Polymer , Manual Registration , Concept
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:European Union (EU)
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:154518-36-2
+FIELD CA Index Name:Alcohols, C9-11-iso-, C10-rich, ethoxylated propoxylated
+FIELD Other Names:
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Polymer , Manual Registration , Concept
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:US Environmental Protection Agency (US EPA)
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:137898-94-3
+FIELD CA Index Name:Phosphoric acid, mixed decyl and Et and octyl esters, potassium salts
+FIELD Other Names:
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Polymer , Manual Registration , Generic Registration
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:US Environmental Protection Agency (US EPA)
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:132435-00-8
+FIELD CA Index Name:Benzene, 2,4-diisocyanato-1,3,5-tris(1-methylethyl)-, homopolymer, 2-isocyanato-1,3-bis(1-methylethyl)benzene-blocked
+FIELD Other Names:
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Polymer , Manual Registration , Generic Registration
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:Environment Canada (EC)
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:16405-35-9
+FIELD CA Index Name:Platinate(1-), trichloro(η2-ethene)-, potassium, hydrate (1:1:1)
+FIELD Other Names:Platinate(1-), trichloro(ethylene)-, potassium, monohydrate (8CI); Platinate(1-), trichloro(η2-ethene)-, potassium, monohydrate (9CI); Ethene, platinum complex; Zeise's salt
+FIELD Formula:C2 H4 Cl3 Pt . H2 O . K
+FIELD Alternate Formula:
+FIELD Class Identifier:Coordination Compound
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:15630-89-4
+FIELD CA Index Name:Carbonic acid sodium salt (1:2), compd. with hydrogen peroxide (H2O2) (2:3)
+FIELD Other Names:Carbonic acid disodium salt, compd. with hydrogen peroxide (H2O2) (2:3) (9CI); Carbonic acid, disodium salt, compd. with hydrogen peroxide (2:3) (8CI); Hydrogen peroxide (H2O2), compd. with disodium carbonate (3:2) (9CI); Hydrogen peroxide, compd. with disodium carbonate (3:2) (8CI); BIOXY S; BIOXY S NEW; Disodium carbonate compd. with hydrogen peroxide (2:3); Disodium carbonate compd. with hydrogen peroxide (Na2CO3.1.5 H2O2); Disodium carbonate sesquiperoxide; Disodium carbonate-hydrogen peroxide compd. (2:3); ECOX-C; FB 100; FB 100 (percarbonate); FB 400; FB Sodium Percarbonate; IPC 14FR; KCPZ-S; OxiClean; Oxyper; Oxyper FB 400C; Oxyper Grade FB 400C; Oxyper S 131; Oxyper S 142; Oxyper SHC; PC-F; PC-NB; PC-P; PC-P (percarbonate); PC-PHAS; PC-W; Percarbonate Q 30; Perdox; Peroxy sodium carbonate; Phycomycin SCP; Provos S; Provox C; SPC-D; SPC-D (peroxide); SPC-ED; SPC-HGD; SPC-Q 1; SPC-Q 2; SPC-Q 3; SPC-Q 4; SPC-Z; SPCC; SPCC 8J; SPD-ED; Sodium carbonate peroxide; Sodium carbonate sesquiperoxide (2Na2CO3.3H2O2); Sodium percarbonate; Sodium percarbonate (Na2CO3.1.5H2O2)
+FIELD Formula:C H2 O3 . 3/2 H2 O2 . 2 Na
+FIELD Alternate Formula:
+FIELD Class Identifier:
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):81677-18-1, 82728-90-3, 89140-31-8, 90569-69-0, 121525-84-6, 205368-25-8, 701915-52-8, 701915-53-9, 726171-65-9, 861998-94-9, 1161851-82-6, 1226792-00-2
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:13601-19-9
+FIELD CA Index Name:Ferrate(4-), hexakis(cyano-κC)-, sodium (1:4), (OC-6-11)-
+FIELD Other Names:Ferrate(4-), hexacyano-, tetrasodium (8CI); Ferrate(4-), hexakis(cyano-C)-, tetrasodium, (OC-6-11)-; Ferrate(4-), hexakis(cyano-κC)-, tetrasodium, (OC-6-11)- (9CI); Sodium ferrocyanide (6CI); Addition Agent 55; E 535; Iron sodium cyanide (FeNa4(CN)6); Sodium ferrocyanide (Na4[Fe(CN)6]); Sodium hexacyanoferrate (II); Tetrasodium ferrocyanide; Tetrasodium hexacyanoferrate; Tetrasodium hexacyanoferrate(4-)
+FIELD Formula:C6 Fe N6 . 4 Na
+FIELD Alternate Formula:
+FIELD Class Identifier:Coordination Compound , Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):1330-26-3, 2242911-02-8
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:13492-26-7
+FIELD CA Index Name:Phosphonic acid, potassium salt (1:2)
+FIELD Other Names:Phosphonic acid, dipotassium salt (8CI,9CI); Potassium phosphite (K2HPO3) (7CI); Dipotassium hydrogen phosphite; Dipotassium monohydrogen phosphite; Dipotassium phosphite; Dipotassium phosphonate; Kphos; Phosphorous acid dipotassium salt; Phytogard; Potassium phosphite
+FIELD Formula:H3 O3 P . 2 K
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):7782-72-1, 130183-61-8
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:13446-12-3
+FIELD CA Index Name:Phosphonic acid, ammonium salt (1:1)
+FIELD Other Names:Ammonium phosphite ((NH4)H2PO3) (6CI); Phosphonic acid, monoammonium salt (8CI,9CI); Ammonium biphosphite; Ammonium dihydrogen phosphite; Monoammonium phosphite; Monoammonium phosphonate
+FIELD Formula:H3 N . H3 O3 P
+FIELD Alternate Formula:
+FIELD Class Identifier:
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):32118-60-8, 128132-41-2
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:1343-88-0
+FIELD CA Index Name:Silicic acid, magnesium salt
+FIELD Other Names:AD 600SN; Aid Plus FJ; Ambosol; Ambosol 500; Avibest; Britesorb; Britesorb 40; Britesorb 90; Celkate T 21; Chooz; Cosmetic Microspheres CM 111; D-Sol; D-Sol (silicate); Florisil; G-CM 111; Gastomag; Haiburaito 1250; Haiburaito 325; KW 600S; Kyowaad 600S; Laponite 445; Laponite 508; MP 30-36; Macrosorb M 15; Macrosorb MS 15; Macrosorb MS 33; Macrosorb MS 33F; Magmasil; Magnesium hydrosilicate; Magnesium silicate; Magnesol; Magnesol R 60; Magnesol XL; Magsil 399; Magsorbent; Mizuka Life P 1G; Mizukanite P 1S; Mizupearl M 302; Naisuton; Nikkagel M; Novasorb; P 1G; PY 555; Salisil; Sep-Pak Florisil; Shimugon M; Silton SS 1; Therma-Vis; Tomita AD 600CY; Tri-Sil; Trimax; Trinesium; Trisomin; Westmin 20
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Component , Manual Registration
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):8014-97-9
+FIELD Deleted Registry Number(s):1309-50-8, 12001-16-0, 59233-32-8, 84778-21-2, 93616-22-9, 106716-92-1, 864969-33-5, 1383956-72-6
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:1341-49-7
+FIELD CA Index Name:Ammonium fluoride ((NH4)(HF2))
+FIELD Other Names:Acid ammonium fluoride; Ammonium bifluoride; Ammonium bifluoride (NH4HF2); Ammonium bifluoride (NH5F2); Ammonium difluoride; Ammonium difluoride (NH4HF2); Ammonium fluoride compd. with hydrogen fluoride (1:1); Ammonium fluoride hydrofluoride; Ammonium hydrofluoride (NH4HF2); Ammonium hydrofluoride (NH5F2); Ammonium hydrogen bifluoride; Ammonium hydrogen difluoride; Ammonium hydrogen difluoride (NH4(HF2)); Ammonium hydrogen fluoride; Ammonium hydrogen fluoride ((NH4)(HF2)); Ammonium monohydrogen difluoride; Chemfos AFL; Flammon; Hydrofluoric acid compd. with ammonium fluoride (NH4)F (1:1)
+FIELD Formula:F2 H . H4 N
+FIELD Alternate Formula:F2 H5 N
+FIELD Class Identifier:Component , Tabular Inorganic Substance
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):7790-15-0, 14055-61-9, 16941-26-7, 19121-60-9, 52697-21-9, 96740-33-9, 120144-37-8, 127026-25-9, 135446-53-6, 159431-44-4, 1257076-06-4, 1628788-89-5
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:1338-39-2
+FIELD CA Index Name:Sorbitan, monododecanoate
+FIELD Other Names:Sorbitan, monolaurate (6CI,8CI); Sorbitan monododecanoate; Alkamuls S 20; Alkamuls SML; Almax 3200; Arlacel 20; Armotan ML; Atmer 100; Dehymuls SML; Disponil SML 100; Disponil SML 100N; E 493; Emasol 110; Emasol L 10; Emasol L 10(F); Emasol L 10V; Emasol Super L 10; Emasol Super L 10F; Emsorb 2515; Glycomul L; Glycomul LC; Hodag SML; Ionet S 20; Kemotan S 20; L 250; L 250 (ester); LP 20; LP 20R; Lauric acid sorbitan ester; Lonzest SML; ML 33F; Montane 20; Montane 20VGPha; NRF 201; Newkalgen D 931; Nikkol SL 10; Nissan Nonion LP 20R; Nissan Nonion LR 20R; Nonion LP 20R; Nonion LR 20R; PEG 80; Pionin D 93-1; Rheodol SP-L 10; Rheodol Super SP-L 10; S 20; S-MAZ 20; S-MAZ 20M1; S-Maz 20M1; SL 101; SL 101 (surfactant); SP 20; SP-L 10; Sorbitan ML; Sorbitan lauric acid monoester; Sorbitan monolauric acid ester; Sorbon S 20; Sorgen 90; Span 20; T 20; Texnol SPT; Tween 28; Value SP 20; Wallinat SML
+FIELD Formula:C18 H34 O6
+FIELD Alternate Formula:
+FIELD Class Identifier:Incompletely Defined Substance , Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):8028-02-2, 53528-77-1, 55070-12-7, 76011-50-2, 507483-77-4
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:1330-20-7
+FIELD CA Index Name:Benzene, dimethyl-
+FIELD Other Names:Xylene (8CI); Dimethylbenzene; Dilan; Entellan New; Xylol; ZEP-RD
+FIELD Formula:C8 H10
+FIELD Alternate Formula:
+FIELD Class Identifier:Incompletely Defined Substance , Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):8026-09-3
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:1327-36-2
+FIELD CA Index Name:Aluminatesilicate
+FIELD Other Names:Aluminosilicate (8CI); ASP 500; Kyowaad 700PH; Maarlite BA 20; Maarlite EA 20; Taisetsu Balloon A; Taisetsu Balloon B; Taisetsu Balloon C
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Component , Manual Registration
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):37316-70-4, 39457-31-3
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:1317-61-9
+FIELD CA Index Name:Iron oxide (Fe3O4)
+FIELD Other Names:ABL 205; ABL 207; AM 01; AM 01 (ferrofluid); AX 3000; B 2550; B 6; B 6 (oxide); BK 45; BK 5099; BL 10; BL 10 (oxide); BL 100; BL 100P; BL 400; BL-SP; BM 200P; BM 611; BP 303C; BRIJ 20; Bayferrox 306; Bayferrox 316; Bayferrox 318; Bayferrox 318NM; Bayferrox 320; Bayferrox 330; Bayferrox 8010; Bayferrox Black 318; Bayoxide E 8706; Bayoxide E 8707H; Bayoxide E 8708; Bayoxide E 8709; Bayoxide E 8710; Bayoxide E 8713H; Black BL 100P; BlackCap 1; CTD 7205; Color MAT 220; Colorana Black CM 4; Colortherm 303T; Dittany B 77499; Duploxide 88P; E 335; E 335 (oxide); E 8706; EC 301; EC 371; EC 371 (metal oxide); EFV 100/200; EMG 705; EMG 805; EMG 900; EMG 911; EPM 0045F; EPM 012S1; EPP 2000; EPT 1002; EPT 2000; EPT 305; EPT 5000; Ethiops iron; FW 17134; FW 1790; Fe3O4; Ferriferrous oxide; Ferriferrous oxide (Fe3O4); Ferrix 8600; Ferroferric oxide; Ferrofluid EMG; Ferrofluid EMG 705; Ferrofluid EMG 707; Ferrofluid EMG 805; Ferrofluid EMG 911; Ferronan 8501; Ferrosoferric oxide; Ferrotec EMG 705; Ferroxide 77; HR 370H; HR 390H; IO Black 318; Iron ferrite; Iron oxide; Iron oxide (Fe3O4) synthetic magnetite; Iron oxide black; Iron(II) diiron(III) oxide; JC-HRM 01; KBN 400; KFH-NA; LH; LP; Lansco 8330; Lohtragon FOX 222; MAT 206; MAT 230; MAT 305; MB 22; MF 100; MF 100 (ferrite); MG 1300; MG 1306; MG 9300; MG-WMK; MG-WS; MGR 22; MGR 22K; MION 37; MION 46; MO 4232; MO 4431; MO 7029; MO 8029; MS 0302; MTA 230; MTA 710; MTA 740; MTC 01; MTC 01 (oxide); MTH 009F; MTH 310; MTS 010; MTS 106; MTS 305; MX 030A; Magnetite (synthetic); Magnetite Black TN 15; Magnox B 353; Nanotek Fe3O4; PMT 92; PuriMag 200Si-Epoxy; RB-BL-P; Rezovist; S 2; S 320; S 320 (oxide); S 3308; SM 200; SM 200 (oxide); SM 350; SM 350NV; SM 400 (oxide); SOR-10-50; SOR-50-50; SPBL; Spherox; SunPURO Black; TEFV; TEFV 200/300; TEFV 250/400; TM 620; TMB 100; TMB 105T; TN 15; TTR 840; Tarox BL 100; Tarox BL 100P; Tarox BL 200; Tarox BL 500; Tarox Black BL 100; Tarox Black BL 100P; Tarox EL 100; Toda Brown 710; Tri-iron tetraoxide (Fe3O4); Triiron tetraoxide; Triiron tetroxide; W 11; Z 250; Z 250 (oxide)
+FIELD Formula:Fe3 O4
+FIELD Alternate Formula:
+FIELD Class Identifier:Component , Manual Registration
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):73905-81-4, 107720-80-9, 118440-50-9, 122391-58-6, 139660-10-9, 144856-04-2, 170277-36-8, 207621-21-4, 208666-79-9, 219674-87-0, 224310-08-1, 253310-51-9, 514204-11-6, 940941-19-5, 942194-22-1, 954415-69-1, 1402398-17-7, 1433983-76-6, 1481694-60-3, 1643773-71-0, 1988696-47-4, 2031170-98-4
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:1309-37-1
+FIELD CA Index Name:Iron oxide (Fe2O3)
+FIELD Other Names:100ED; 1030AC1005; 110A; 110M; 120ED; 130ED; 140ED; 140M; 160M; 190D; 190D (pigment); 3310DX; 40G; 4130FM; 878A; AM Brown 8800; APC 944; AQI 2199; Abdoscan; Alfa Aesar 12375; Anbang R 01; Ariabel Sienna 300406; Auvico γ-MRD; Auvicorb BL; B 130CN; B 30S; B 4792; Bayer 4125; Bayer S 11; Bayferrox 105M; Bayferrox 110; Bayferrox 110M; Bayferrox 111; Bayferrox 120; Bayferrox 120M; Bayferrox 120N; Bayferrox 120NM; Bayferrox 130; Bayferrox 130B; Bayferrox 130BM; Bayferrox 130C; Bayferrox 130M; Bayferrox 140; Bayferrox 140M; Bayferrox 160M; Bayferrox 180; Bayferrox 180M; Bayferrox 225; Bayferrox 4180; Bayferrox 4330; Bayferrox 720N; Bayferrox 8220; Bayferrox 910; Bayferrox BF 110; Bayferrox Red 105M; Bayferrox Red 110; Bayferrox Red 110M; Bayferrox Red 130; Bayferrox Red 130BM; Bayferrox Red 130C; Bayferrox Red 130M; Bayferrox Red 140M; Bayferrox Red 160M; Bayferrox Red 180M; Bayferrox Red 4110; Bayferrox Red 4130; Bayferrox Red 4140; Bayoxide E-III; Bengara 130R; Bengara 216P; Bengara 217; Bengara CH 2-223; Bengara CM 25P; Bengara EP 40; Bengara N 45; Bengara N 58; Bengara R 516; Bengara red; Bengarashichiho; C 33W075; C 7051; C 73; C 73 (catalyst); C 888-1045F; C 9; C 9 (oxide); C.I. 77491; C.I. Pigment Red 101; CB 500; CG 160; CM 1000; CM 3F30TRR; CM 3FA55EYH; CP 21; CQX 440KC; CSB 191NV2; CWD 8801; Cappoxyt Red 4435B; Cappoxyt Red 4437B; Cappoxyt Red L 2715D; Caput Mortuum Light; Caput mortuum; Cerac I 1074; Cerac I 2012; Cerven H; Chromaflo 888-1045; Colcothar; Colliron; Colloidal ferric oxide; Colortherm Red 110M; Colortherm Red 130M; Colortherm Red 180M; Colortherm Red 520; Colortrend 888-1045F; Corona 10863; Cosmetic Red T 3000; Cosmetic red oxide; Creasperse Red CP 070; Crocus; Crocus (iron oxide); DB 65; DBN 455Bx; DBN 650RX; DBNB; DEFIC-R 1007; DK 401; DNS 235; DPN 245; DPN 250; DPN 250BW; DPN 250BX; DPN 270BX; DPN 550BX; Daipyroxide Red 8270; Dark Brown B 4792; Deanox; Diiron trioxide; Disperse HG 838; Dittany R 77491; Duploxide 226P; E 1352; E 172 Red; E 270; E 271; E 271 (oxide); E 300; E 300 (oxide); E 333; E 8840; EGM 1111; EMF Color Brown HY; EMF-Brown HR; Earth Red; Ecosperse Oxide Red BA 100CN; English iron oxide red; English red; F 888-1045; FA 28-41; FAF 40TRR; FE 29; FL 3013; FRO 20; FRO 3; FRO-6T2; FT 26; FT 26 (oxide); FX 6410; Fe 227100; Felac; Fepren TD 202; Fepren TD 202F; Fepren TP 120; Fepren TP 200; Fepren TP 303; Ferric oxide; Ferric oxide, red; Ferric sesquioxide; Ferro Red VX 3100; Ferrobionat; Ferroxide 212; Ferroxide Red 212M; Ferroxide Red 216M; Ferroxide Red 224M; Ferrugo; Fine Ferric Red 35; GX 1104; Gekko BB; H 001-2; H 001-3; H 101; H 101 (pigment); H 130; H 130 (oxide); H 130M; H 190; H 860; HR 1203; Heucorox UFL; IPN 050H; IS 445; IS 473; Iron Oxide Red; Iron Oxide Red 110M; Iron Oxide Red 130A; Iron Oxide Red 130M; Iron Oxide Red N 135; Iron Oxide Red Transparent 288VN; Iron Oxides CI 77491; Iron Red 2597; Iron Red 3602; Iron Red 4597; Iron Red 5597; Iron Red 6597; Iron Red TP 303; Iron minium; Iron oxide; Iron oxide (Fe2O3) nanoparticles; Iron oxide (FeO1.5); Iron red; Iron sesquioxide; Iron sesquioxide (Fe2O3); Iron trioxide; Iron(3+) oxide; Iron(III) oxide; JC-FH 04; Jeweler's rouge; KA; KA (pigment); KDT 5094; KFA-NH; KH-DC; KM; KM (pigment); KP 105; Kobo Red WSJ 22ERAMP; Krokus; Kroma RO 3097; Kroma RO 8097; Kroma Red; L 12; L 12 (pigment); L 2817; LKN-M; LN 1331; LOR 120R; Laminox F; Levanox Red 130Z01; Luconyl Red 3396; Lumirem; MAG 1730; MAT 502; MMY 40CT; MO 2230; MR 120; MR 420; MR 420 (iron oxide); MS 80; MS 80 (oxide); MX 450; Mapico Iron Oxide R 516L; Mapico Red 297; Mapico Red 347; Mapico Red 567; Mapico Red R 220-3; Mapico Red R 516L; Mars red; Micronox R 01; Micronox R 02; Microspin Red; NO 404; NSK 500; NYR 60N; NanoArc Iron Oxide; NanoArc Magnetic Iron Oxide; Nanogard iron oxide Fe45; Nanos 3000; Nanotite 30; Nanotite 60; Nubifer EF; OLKZ; OX 8370; OX 8400P; PC 13; PM 1; PM 1 (oxide); PM 1A; PM 1A (oxide); PMZ; PR 101; Penniman Red 808; Penniman Red NS 110; Pferrox 2228; Pferrox 2228HC; Pferrox 2380; Pferrox MO 2228; Pigdex 100; Pigment Red 101; Polytrend 850-1840; Protohematite; Prussian red; Pure Red R 8098; QX 440; R 01; R 110-7; R 1299; R 1299 (pigment); R 1299D; R 1599D; R 2199D; R 2817; R 2899; R 3098D; R 4098; R 4098D; R 481; R 497M; R 5098; R 5098 (oxide); R 516L; R 516P; R 516PS; R 9998; R-MR; RB 2500; RB 4097; RO 3097; RO 4097; RO 8097; RP 500M; RR 4597; RY 2096; Red 110M; Red Iron Oxide R 1599D; Red Oxide 881-1045F; Red R 516P; Red R 516PS; Red iron oxide; Red oxide; RedCap 1; Rouge; Rouge (iron oxide); Rouge 110M; Rubigo; Ryuka 100; S 110; S 110M; S 120; S 130; S 130 (pigment); S 130-3; S 190; S 190 (pigment); S 2400 Red 2; SE 632; SIOF Red 1020; SP 708; SR 85-162; ST 801; Sangol; Sanylene Brown 3RLM; Sicoflush L Red 2817; Sicoflush P Red 2817; Sicomet Brown 75; Sicotrans L 2816; Sicotrans Red K 291; Sicotrans Red L 2715; Sicotrans Red L 2715D; Sicotrans Red L 2815; Sicotrans Red L 2816; Sicotrans Red L 2817; Sicotrans Red L 2818; Sicotrans Red L 2915; Sicotrans Red L 2915D; Sicotrans Red L 2917; Sicotrans Red NB-L 2817; Sicotrans Red S 402; Sicovit Rot 30; Silicovit Rot 30; Silo 208; SunPURO Red; SunPuro Red C 33-8001; Surik 2; Syn-Ox HTR 870; Synox HR 1208; TF 100; TF 100 (oxide); TM Red 8270; TOR; TOR (pigment); TP 120; TP 303; TR 420S; TR 708-5W; TR 718; TRR 100; Taishya; Tan 8848; Tarox LL 100; Tarox R 110-7; Tarox R 516L; Tarox R 516P; Tarox R-MR; Tarox Red R 516L; Tarox Red R 516P; Tarox TRR 100; Tarox TRR 100P; Tenyo 501; Timbasol PW 896; Timbasol oxide red; Toda Color 100ED; Toda Color 120ED; Toda Color 120R; Toda Color 130ED; Toda Color 130R; Toda Color 140ED; Toda Color 160ED; Toda Color 180ED; Toda Color 190ED; Toda Color 335R; Toda Color EP 13D; Toda Color KN-O; Toda Color KN-V; Trans Oxide Red AA 2005K; Transoxide Red; Transoxide Red 30-1005; Transoxide Red AA 2005; Transparent Iron Oxide Red Ac 1005; Turkey red; Unipure LC 380; Unipure Red LC 361EM; Unipure Red LC 381; Unipure Red LC 381AS-EM; Unipure Red LC 381EM; Unipure Red LC 388; Unisperse Red Oxide R-S; Venetian red; WS-R 101; XMO 401; Xeracolor Brown; Xeracolor Red Oxide; Xeracolour Brown; Xeracolour Red Oxide; Xfast Red 2817; Xfast Red 3390; YLO 2288B; YP 100N; Z 895; α-Ferric oxide; α-Iron oxide; γ-Ferric oxide; γ-Iron oxide (Fe2O3); γ-MRD; γ-MYD
+FIELD Formula:Fe2 O3
+FIELD Alternate Formula:
+FIELD Class Identifier:Component , Manual Registration
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):1343-09-5, 8011-97-0, 8049-50-1, 12000-93-0, 12002-17-4, 12227-87-1, 60880-86-6, 65455-44-9, 65637-71-0, 88528-26-1, 90452-21-4, 110736-41-9, 118277-31-9, 129131-59-5, 131874-41-4, 135507-53-8, 147229-90-1, 147229-91-2, 160186-10-7, 177715-24-1, 185464-44-2, 188357-78-0, 220787-06-4, 253310-52-0, 448923-71-5, 741267-31-2, 1115688-11-3, 1146982-11-7, 1210992-56-5, 1382787-02-1, 1397708-80-3, 1430053-95-4, 2001597-72-2
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:1302-87-0
+FIELD CA Index Name:Clays
+FIELD Other Names:A 300; Absorbents, clays; Argillology; China Clay Supreme; Clay; Clayiness; Dixie Clay; Hotoku Kibushi; SCP-A
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Manual Registration , Concept
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):53801-44-8, 70694-09-6
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:1302-27-8
+FIELD CA Index Name:Biotite ((Fe0.4-0.8Mg0.2-0.6)3K(Si3Al)[(OH)0.5-1F0-0.5]2O10)
+FIELD Other Names:Biotite (8CI); Metalright NCA 321; Metalright NCB 322; Micaite; NF 5000
+FIELD Formula:Al . F . Fe . H O . K . Mg . O3 Si . O
+FIELD Alternate Formula:Al F0-1 Fe1.2-2.4 H1-2 K Mg0.6-1.8 O11-12 Si3
+FIELD Class Identifier:Mineral , Tabular Inorganic Substance
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:147-14-8
+FIELD CA Index Name:Copper, [29H,31H-phthalocyaninato(2-)-κN29,κN30,κN31,κN32]-, (SP-4-1)-
+FIELD Other Names:Copper, [29H,31H-phthalocyaninato(2-)-N29,N30,N31,N32]-, (SP-4-1)-; Copper, [phthalocyaninato(2-)]- (7CI,8CI); Phthalocyanine blue (6CI); (SP-4-1)-[29H,31H-Phthalocyaninato(2-)-κN29,κN30,κN31,κN32]copper; 29H,31H-Phthalocyanine, copper complex; 29H,31H-Phthalocyanine, copper deriv.; (Phthalocyaninato)copper; 127EPS; 402SD; 405D; 5412SD; 700-10FG Cyblue; 7075M; 79S26C; 79S26C chip; A 220; A 4R; AF Blue E 11; AF Blue E 2B; AP 3165; AP 3515; Accosperse Cyan Blue GT; Acnalin Supra Blue G; Acramin Blue F 3G; Akrochem 626; Aquafine Blue E 2B; Aqualine Blue; Aquasurf Blue 15:3; Aquis BW 3571; Arlocyanine Blue PS; Aztech Chemisperse Cyan 1541; B 102; B 2G-D; B 2G-L; B 4G; B 4G-KR; B 702W; B 705H; B 736; B 736 (dye); B 8M25; BF 401; BF 435; BFD 1121; BGS; BGS 1; BGS 15:3; BGSG-C; BJ; BL 1531; BPD 9777; BRS 1; BRX; BSS 4342; BT 4651; Bahama Blue BC; Bahama Blue BNC; Bahama Blue Lake NCNF; Bahama Blue WD; Bermuda Blue; Blue 15:3; Blue 4920; Blue 4GNP; Blue 7110V; Blue A 2R; Blue A 4R; Blue AE 8; Blue BG; Blue BRF; Blue BSNF; Blue BT 627D; Blue EP 193; Blue G 314; Blue GLA; Blue GLA-SD; Blue GLSM; Blue L 6905F; Blue Microdis; Blue TGR-G; Blue Toner GTNF; Blue phthalocyanaine α-form; Blue pigment; C.I. 74160; C.I. PB 15:3; C.I. PB 15:6; C.I. Pigment Blue 15; C.I. Pigment Blue 15:1; C.I. Pigment Blue 15:2; C.I. Pigment Blue 15:3; C.I. Pigment Blue 15:4; C.I. Pigment Blue 15:5; C.I. Pigment Blue 15:6; CAB-LX 716; CAB-LX 716 Blue; CFP-FF 775B; COJ 250; CT-BX 121; Cab-O-Jet 250C; Cab-O-Jet 253; Cab-O-Jet 450C; Cab-O-Jet IJX 253; Cab-O-Jet IJX 253M; Cabot IJX 253M; Calcotone Blue GP; Ceres Blue BHR; Chromatex Blue BN; Chromofine Blue 4920; Chromofine Blue 4920G; Chromofine Blue 4927; Chromofine Blue 4930PK; Chromofine Blue 4937; Chromofine Blue 4950; Chromofine Blue 4965; Chromofine Blue 4973; Chromofine Blue 5026; Chromofine Blue 5108; Chromofine Blue 5165; Chromofine Blue 5187; Chromofine Blue 5191; Chromofine Blue 5191D; Chromofine Blue 5201A; Chromofine Blue 5206; Chromofine Blue 5208; Chromofine Blue 5240K; Chromofine Blue 5241; Chromofine Blue 5250A; Chromofine Blue 6310PK; Chromofine Blue 6332JC; Chromofine Blue 6335JC; Chromofine Blue 6337JC; Chromofine Blue A 220; Chromofine Blue A 220JC; Chromofine Blue B 145; Chromofine Blue CFB 6332JC; Chromofine Blue HS 3; Chromofine Blue S 20; Chromofine Blue S 200; Chromofine Blue S 2010; Chromofine Blue S 4920; Chromofine Blue SR 5020; Chromofine Blue ZCN 910; Chromofine Phthalocyanine Blue; Colanyl Blue AR; Colanyl Blue B 2G131; Colortex Blue 81021; Colortex Blue D 904; Colortex Blue U 618; Congo Blue B 4; Copper phthalocyanin; Copper phthalocyanine; Copper phthalocyanine blue; Copper tetrabenzoporphyrazine; Copper β-phthalocyanine; Copper(2+) phthalocyanine; Copper(II) phthalocyanine; Cosmenyl Blue A 2R; Covarine Blue W 6795; Cromophtal Blue 4G; Cromophtal Blue 4GLP; Cromophtal Blue 4GN; Cromophtal Blue 4GNP; Cromophtal Blue BCF; Cromophtal Blue GF; Cromophtal Jet Cyan GLX; CuPc; Cupric phthalocyanine; Cyan B 4G; Cyan BG; Cyan BG 10; Cyan Blue BNC 55-3745; Cyan Blue BNF 55-3753; Cyan Blue GT; Cyan Blue GT 55-3295; Cyan Blue GT 55-3300; Cyan Blue GTNF; Cyan Blue Toner GT 3000; Cyan Blue XR 55-3758; Cyan Blue XR 55-3760; Cyan COJ 250 Blue Pigment; Cyan Peacock Blue G; Cyanine Blue; Cyanine Blue 3020; Cyanine Blue 4044; Cyanine Blue 4720; Cyanine Blue 4920; Cyanine Blue 4927; Cyanine Blue 4927G-EPB; Cyanine Blue 4930; Cyanine Blue 4930PK; Cyanine Blue 4933GN-EP; Cyanine Blue 4937; Cyanine Blue 4938; Cyanine Blue 4940; Cyanine Blue 494ON; Cyanine Blue 4950; Cyanine Blue 4960; Cyanine Blue 4973; Cyanine Blue 4976EP; Cyanine Blue 5026; Cyanine Blue 5029; Cyanine Blue 5165; Cyanine Blue 5182; Cyanine Blue 5187; Cyanine Blue 5203; Cyanine Blue 5206; Cyanine Blue 5240K; Cyanine Blue 5240KB; Cyanine Blue 5241; Cyanine Blue 6820; Cyanine Blue 700-10FG; Cyanine Blue A 22; Cyanine Blue A 220; Cyanine Blue A 220J; Cyanine Blue A 220JC; Cyanine Blue A 292; Cyanine Blue A 385; Cyanine Blue A 540; Cyanine Blue BB; Cyanine Blue BF; Cyanine Blue C; Cyanine Blue CP 1; Cyanine Blue CR; Cyanine Blue DS 2; Cyanine Blue G 314; Cyanine Blue G 314NF; Cyanine Blue G 500 Pure-A; Cyanine Blue GNPS; Cyanine Blue GNPT; Cyanine Blue GP; Cyanine Blue HB; Cyanine Blue HS 3; Cyanine Blue IMS; Cyanine Blue KRO; Cyanine Blue KRS; Cyanine Blue LBG; Cyanine Blue LC; Cyanine Blue MG 7; Cyanine Blue MR 3; Cyanine Blue PK 110; Cyanine Blue PRPD; Cyanine Blue S 2010; Cyanine Blue S 2100; Cyanine Blue SR 150A; Cyanine Blue ZAC 350; D 7079; D 7086; D 7110F; D 71C; DB 15C888; DC 3127; DST Blue S 7249; Daihan Blue 8500; Daihan Blue 8700; Dainichi Cyanine Blue B; Dainichi Cyanine Blue BX; Dainichi Cyanine Blue FPG; Dainichi Cyanine Blue PG; Daltolite Fast Blue B; Direct Fast Blue BS; Direct Turquoise; Dispers Blue 69-0007; Disperse Blue 69-007; Duratint Blue 1001; Dymic MBR 652 Blue; ECB 301; ECB 303; ECB 306; ECB 308; EM Blue NCB; EP 700; EP 700 (pigment); EP 700 Blue GA; Emacol SF Blue H 524F; Endurophthal BT 617D; Endurophthal Blue BT 617D; Endurophthal Blue GF-BT 617D; Euderm Blue B; Eupolen Blue 69-1501; Euvinyl Blue 702; Excolor IR 14; FBK 3; FG 7300; FG 7330; FG 7350; FG 7351; FG 7400G; FW 285; Fastogen Blue 15:3; Fastogen Blue 4GN; Fastogen Blue 5007; Fastogen Blue 5030L; Fastogen Blue 5050; Fastogen Blue 5110; Fastogen Blue 5120; Fastogen Blue 5310SD; Fastogen Blue 5375; Fastogen Blue 5380; Fastogen Blue 5380E; Fastogen Blue 5380LA; Fastogen Blue 5380SD; Fastogen Blue 5396SD; Fastogen Blue 5410G; Fastogen Blue 5412G; Fastogen Blue 5412SD; Fastogen Blue 5414; Fastogen Blue 5415; Fastogen Blue 5424; Fastogen Blue 5430SD; Fastogen Blue 5480; Fastogen Blue 5485; Fastogen Blue 5486; Fastogen Blue A 510; Fastogen Blue AC; Fastogen Blue AE 8; Fastogen Blue AR 7; Fastogen Blue B; Fastogen Blue B. 81; Fastogen Blue BB; Fastogen Blue BRF; Fastogen Blue BS; Fastogen Blue BSF; Fastogen Blue BSF-A; Fastogen Blue BSW; Fastogen Blue CT-BX 121; Fastogen Blue EP 193; Fastogen Blue EP 207; Fastogen Blue EP 210; Fastogen Blue EP 7; Fastogen Blue EP 7S; Fastogen Blue EP-CF; Fastogen Blue EP-CFE; Fastogen Blue EPC; Fastogen Blue FA 5375; Fastogen Blue FA 5380; Fastogen Blue FB 5301; Fastogen Blue FDB 14; Fastogen Blue FGF; Fastogen Blue FGF-SD; Fastogen Blue FGS; Fastogen Blue FP; Fastogen Blue FSN; Fastogen Blue GB 7; Fastogen Blue GB 7H; Fastogen Blue GB 7HS; Fastogen Blue GB 8HS; Fastogen Blue GBK; Fastogen Blue GCTF; Fastogen Blue GFA; Fastogen Blue GNKA-SD; Fastogen Blue GNPM-K; Fastogen Blue GNPR; Fastogen Blue GNPS; Fastogen Blue GNPT; Fastogen Blue GP 100; Fastogen Blue GR; Fastogen Blue GT 1; Fastogen Blue NK; Fastogen Blue NK-G; Fastogen Blue RF; Fastogen Blue RS; Fastogen Blue RSK; Fastogen Blue TGD-SD; Fastogen Blue TGR; Fastogen Blue TGR 1; Fastogen Blue TGR-G; Fastogen Blue TGR-J; Fastogen Blue TGR-L; Fastogen Blue TGR-SD; Fastogen Blue TRG; Fastogen Super Blue GNPM-K; Fastogen TGR-SD; Fastolux Blue; Fastolux Peacock Blue; Fastusol P Blue 58L; Fenalac Blue B Disp; Flexiverse BFD 1121; Flexiverse Blue 15:3; Flexiverse Blue BFD 1531; Flexiverse Cyan Blue BFD 1121; Flexonyl Blue; Flexonyl Blue B 2G-LA; Flexverse III-BGD 3153; Foursome; Franconia Blue A 4431; Fuji SP Blue 625; G 500; GLNF; GNKA-SD; GS-PS; Graphtol Blue 2GLS; Graphtol Blue 6825; Graphtol Blue BL; Graphtol Blue BLF; Helio Blue B; Helio Fast Blue B; Helio Fast Blue BRN; Helio Fast Blue BT; Helio Fast Blue GO; Helio Fast Blue HG; Heliogen Blue 16700F; Heliogen Blue 6840; Heliogen Blue 6911K; Heliogen Blue 6960; Heliogen Blue 7044T; Heliogen Blue 7072D; Heliogen Blue 7080; Heliogen Blue 7100; Heliogen Blue A; Heliogen Blue B; Heliogen Blue BA-CF; Heliogen Blue BG; Heliogen Blue BKA-CF; Heliogen Blue BNC; Heliogen Blue BR; Heliogen Blue BV; Heliogen Blue BWS; Heliogen Blue BWS Extra; Heliogen Blue BWSN; Heliogen Blue D 6700T; Heliogen Blue D 6840; Heliogen Blue D 6920; Heliogen Blue D 7029; Heliogen Blue D 7030; Heliogen Blue D 7035; Heliogen Blue D 7072; Heliogen Blue D 7072D; Heliogen Blue D 7072DD; Heliogen Blue D 7079; Heliogen Blue D 7080; Heliogen Blue D 7086; Heliogen Blue D 7092; Heliogen Blue D 7100; Heliogen Blue D 7107; Heliogen Blue D 7110F; Heliogen Blue D 7160TD; Heliogen Blue K; Heliogen Blue K 6840; Heliogen Blue K 6850; Heliogen Blue K 6902; Heliogen Blue K 6911D; Heliogen Blue K 7080; Heliogen Blue K 7090; Heliogen Blue K 7097; Heliogen Blue L 6600F; Heliogen Blue L 6700; Heliogen Blue L 6700F; Heliogen Blue L 6857F; Heliogen Blue L 6870; Heliogen Blue L 6875; Heliogen Blue L 6875F; Heliogen Blue L 6900; Heliogen Blue L 6900TGEN; Heliogen Blue L 6901F; Heliogen Blue L 6905; Heliogen Blue L 6905F; Heliogen Blue L 6920; Heliogen Blue L 6930; Heliogen Blue L 6950; Heliogen Blue L 6960; Heliogen Blue L 6975; Heliogen Blue L 6975F; Heliogen Blue L 6980F; Heliogen Blue L 6989F; Heliogen Blue L 7020; Heliogen Blue L 7043D; Heliogen Blue L 7072D; Heliogen Blue L 7080; Heliogen Blue L 7081D; Heliogen Blue L 7085; Heliogen Blue L 7101; Heliogen Blue L 7101F; Heliogen Blue L 8730; Heliogen Blue LBG; Heliogen Blue LBGN; Heliogen Blue LBGO; Heliogen Blue LBGT; Heliogen Blue NCB; Heliogen Blue S 7084; Heliogen Blue WX; Heliogen L 6700F; Heliogen blue; Heliogenblau 7101; Heubach 515400; Heuco Blue 51530; Heuco Blue 515303; Heuco Blue 515400; Heucophthal Blue G-XBT 583D; Heucosin H 55007; Hi-Di Color Chip AC; Hi-Di Color Chip CB; High Performance Colors PB 1530; Hostacopy BG-C 101; Hostacopy BG-C 106; Hostafine Blue B 2G; Hostajet Cyan BG-PT; Hostaperm B 2G-L; Hostaperm B 4G; Hostaperm B 4G-KR; Hostaperm Blue 5G-KR; Hostaperm Blue A 2R; Hostaperm Blue A 3R; Hostaperm Blue A 4R; Hostaperm Blue AFL; Hostaperm Blue AFN; Hostaperm Blue B 2G; Hostaperm Blue B 2G-D; Hostaperm Blue B 2G-L; Hostaperm Blue B 2G02; Hostaperm Blue B 3G; Hostaperm Blue B 3G01; Hostaperm Blue B 3G50; Hostaperm Blue B 4G; Hostaperm Blue B 4G-KR; Hostaperm Blue BFL; Hostaperm Blue BG; Hostaperm Blue BT; Hostaperm Blue BT 617D; Hostaperm Blue BT 627D; Hostaperm Blue BT 729D; Hostaperm Blue NCF; Hostaperm Blue P-BFS; Hostaperm P-BFS; IJX 253; IJX 253M; IR 14; Imperon Blue KB; Ink Jet Cyan BG; Ink Jet Cyan BG 10; Irgafin Blue T; Irgalite Blue 8700; Irgalite Blue BCA; Irgalite Blue BCFR; Irgalite Blue BGL; Irgalite Blue BL; Irgalite Blue BLP; Irgalite Blue BLPO; Irgalite Blue BSNF; Irgalite Blue BSP; Irgalite Blue CPV 2; Irgalite Blue CPV 3; Irgalite Blue GBP; Irgalite Blue GE; Irgalite Blue GFR; Irgalite Blue GLA; Irgalite Blue GLG; Irgalite Blue GLNF; Irgalite Blue GLO; Irgalite Blue GLSM; Irgalite Blue GLVO; Irgalite Blue LGLD; Irgalite Blue NGA; Irgalite Blue PDS 6; Irgalite Blue PG; Irgalite Blue R-L; Irgalite Fast Brilliant Blue BL; Irgaplast Blue RBP; Irgazin Blue X 3367; Irgazin Blue X 3627; Isol Fast Blue B; Isol Fast Blue Toner BT; Isol Phthalo Blue B; Isol Phthalo Blue BT; Isol Phthalo Blue CBG; Isol Phthalo Blue E 7543; Isol Phthalo Blue FCB; Japan Blue 404; K 7090; KET Blue 102; KET Blue 103; KET Blue 104; KET Blue 105; KET Blue 106; KET Blue 111; KET Blue 118; Keystone Jet Print Micro Blue; L 6700F; L 6901F; L 6905F; L 7072D; LA 61-02; LBX 5; LX 4033; LX 8091; Langdocyal PO 361; Lansco 3048; Lansco 5576C; Leophoton; Levanyl Blue G-LF; Levanyl Blue GZ; Lioconductor ERPC; Liofast Blue G 227; Liojet Cyan; Liojet WD Cyan; Lionogen Blue 7919; Lionogen Blue BGJ; Lionogen Blue LX 4033; Lionol Blue; Lionol Blue 700-10FG; Lionol Blue 7027; Lionol Blue 7110V; Lionol Blue 7120V; Lionol Blue 7265PS; Lionol Blue 7330; Lionol Blue 7334P; Lionol Blue 7350; Lionol Blue 7351; Lionol Blue 7400G; Lionol Blue 7600; Lionol Blue 7601; Lionol Blue 7602; Lionol Blue 7919; Lionol Blue BLS; Lionol Blue CB 7801; Lionol Blue E; Lionol Blue ER; Lionol Blue ES; Lionol Blue ESCFB 6340EC; Lionol Blue ESP; Lionol Blue ESP-S 74160; Lionol Blue ESPS; Lionol Blue FC 7330; Lionol Blue FG 4330; Lionol Blue FG 6350; Lionol Blue FG 7300; Lionol Blue FG 7315; Lionol Blue FG 7330; Lionol Blue FG 7330PA; Lionol Blue FG 7334P; Lionol Blue FG 7350; Lionol Blue FG 7350P; Lionol Blue FG 7351; Lionol Blue FG 7351S; Lionol Blue FG 7358G; Lionol Blue FG 7393G; Lionol Blue FG 7400; Lionol Blue FG 7400G; Lionol Blue FG 7405G; Lionol Blue FG 7531; Lionol Blue FG 7919; Lionol Blue GB; Lionol Blue GLA; Lionol Blue GLA-SD; Lionol Blue GX 1; Lionol Blue KL; Lionol Blue KLH-T; Lionol Blue KX-F 1; Lionol Blue L 6700F; Lionol Blue NCB; Lionol Blue NCB Toner; Lionol Blue PM 7185; Lionol Blue POBS; Lionol Blue PRX; Lionol Blue RF 42502; Lionol Blue RNF; Lionol Blue SL; Lionol Blue SLXF; Lionol Blue SM; Lionol Blue SN; Lionol Blue SPG 8; Liophoton Blue ER; Liophoton EK; Liophoton EM; Liophoton ERPC; Liophoton TPH 278; Luconyl Blue 6700; Luconyl Blue 6900; Luconyl Blue 7080; Lufilen Blue 70-8100; Lumatex Blue B; Lutetia Cyanine BN; Lutetia Cyanine CSN; Lutetia Cyanine ENJ; Lutetia Cyanine ENJPDR; Lutetia Cyanine J 4NS; Lutetia Fast Cyanine B; Lutetia Percyanine BRS; MG 7; MHI Blue 7075M; Magnaprint Eco Blue HB; Magnaprint Eco Blue HG; Makicolor WD Blue; Meghafast Blue BD 909BMR; Microlen Blue 4GNP; Microlen Blue BCS; Microlith Blue 4G-A; Microlith Blue 4G-K; Microlith Blue 4G-KP; Microlith Blue 4G-T; Microlith Blue 4G-WA; Microlith Blue 4GA; Microlith Blue 7080 K; Microlith Blue 7080KJ; Microlith Blue G-AB; Microlith Blue GS-T; Microsol Blue BN; Monarch Blue G; Monarch Blue GX 2480; Monarch Blue NCNF-X 2658; Monarch Blue Toner NC X 2371; Monarch Blue Toner NCNF X 2810; Monarch Blue Toner X 2303; Monarch Blue Toner X 2763; Monastral Blue; Monastral Blue B; Monastral Blue BF; Monastral Blue BG; Monastral Blue BGA; Monastral Blue BT 284D; Monastral Blue BT 297D; Monastral Blue BWD; Monastral Blue CSN; Monastral Blue FBR; Monastral Blue FGX; Monastral Blue FNX; Monastral Blue G; Monastral Blue LBX; Monastral Blue RFA; Monastral Fast Blue; Monastral Fast Blue B; Monastral Fast Blue BB; Monastral Fast Blue BC; Monastral Fast Blue BFR; Monastral Fast Blue BG; Monastral Fast Blue BGA; Monastral Fast Blue BGWD; Monastral Fast Blue BLBA; Monastral Fast Blue BNC; Monastral Fast Blue BNF; Monastral Fast Blue BNV; Monastral Fast Blue BV; Monastral Fast Blue BWD; Monastral Fast Blue BX; Monastral Fast Blue BXA; Monastral Fast Blue FB; Monastral Fast Blue LB; Monastral Fast Blue LBC; Monastral Fast Blue LBX; Monastral Fast Blue LBXA; Monastral Fast Blue LFA; Monastral Fast Blue RDC; Monastral Fast Blue RF; Monastral Fast Blue RFA; Monastral Fast Paper Blue B; Monolite Fast Blue BNVSA; Monolite Fast Blue BVSA; Monolite Green 674; NPHK 5097; NSC 15976; NSP-CZ 9664 Blue; NX 053; NX 053 Blue; Nagase Blue 4G; New Lacqutimine Color Blue FLGB Conc.; No. 2712 Cyanine Blue B; Nyastral Blue BC; Nylofil Blue BLL; O 9485; Ocean blue; Oracet Blue G; Oracet G; P 1005; P 1005 (semiconductor); PB 153; PB 15:0; PB 15:1; PB 15:2; PB 15:3; PB 15:4; PB 15:6; PB 5502; PC Cyan; PFG 7351; PV Fast Blue; PV Fast Blue 2GL-SP; PV Fast Blue A 2R; PV Fast Blue A 4R; PV Fast Blue B; PV Fast Blue B 2G; PV Fast Blue B 2G01; PV Fast Blue BG; PV Fast Blue BR; Palomar Blue B 4710; Palomar Blue B 4730; Palomar Blue B 4773; Palomar Blue B 4806; Palomar Blue B 4810; Palomar Blue B 4816; Peacoline Blue; Permajet Blue B 2G; Permaline Blue; Permanent Blue BT 398; Phthalo Blue 8530; Phthalo Blue B Base; Phthalo Blue RS; Phthalocyanine Blue 15570; Phthalocyanine Blue 15:3; Phthalocyanine Blue 4044; Phthalocyanine Blue 4920; Phthalocyanine Blue 4982; Phthalocyanine Blue 5187; Phthalocyanine Blue 5240K; Phthalocyanine Blue 7502; Phthalocyanine Blue A 220; Phthalocyanine Blue AFT 9650; Phthalocyanine Blue AFT 977; Phthalocyanine Blue B; Phthalocyanine Blue BGS; Phthalocyanine Blue BN; Phthalocyanine Blue BS; Phthalocyanine Blue G; Phthalocyanine Blue RS 1517C; Phthalocyanine Blue SG; Phthalocyanine Blue SR 150; Phthalocyanine Blue T; Phthalocyanine Blue WDB 4675; Phthalocyanine Light Blue VK; Phthalocyanine blue B 4352; Phthalocynine Blue A 220; Pigmatex Cyan 3G; Pigment Blue 15; Pigment Blue 15:0; Pigment Blue 15:1; Pigment Blue 15:2; Pigment Blue 15:3; Pigment Blue 15:4; Pigment Blue 15:5; Pigment Blue 15:6; Pigment Blue Ciba 376S; Pigment Blue FFG; Pigment Blue WCT; Pigment C.I. 74160; Pigment Fast Blue B; Pigment Fast Blue BN; Pigment Phthalocyanine Light Blue VK; Pigment Sky Blue Phthalocyanine B 4ZU; Pigment Sky Blue Phthalocyanine VK; Pigmosol Blue 6900; Plastol Blue B; Plus Blue HB; Pollux Blue PM-B; Pollux Blue PP-BB; PolyBlue 15A; Polymon Blue B; Polymon Blue FFG; Polymon Blue LB; Polymon Blue LBA; Polymon Blue LBS; Polytrend 850-7240; Print Blue 7072; RS 1517C; RT 2-2; Ramapo Blue; Rembrandt Blue; Renol Blue B 2G-H; Renol Blue B 2G-HW; Resamine Fast Blue B; Resanine Blue B 4703; Resino Blue F; Rubber Blue BKA; Rubber Blue PCD; SEPc 6; SF Blue GC 1679; SFB-GC 1679; SJD-C 254; SM 6805; SP Blue 625; SPEM 503; SR 1500; SR 150C; SR 5020; SR 5029; SS Blue GLL; Sandorin Blue 2GLS; Sandye Super Blue GLL; Sanyo Cyanine Blue 2045; Sanyo Cyanine Blue 4033; Sanyo Cyanine Blue 4044; Sanyo Cyanine Blue 4973; Sanyo Cyanine Blue B Stable N; Sanyo Cyanine Blue BN; Sanyo Cyanine Blue BS Pure; Sanyo Cyanine Blue BSN; Sanyo Cyanine Blue CR; Sanyo Cyanine Blue D 229; Sanyo Cyanine Blue FG; Sanyo Cyanine Blue FGN Pure; Sanyo Cyanine Blue FN; Sanyo Cyanine Blue G 105; Sanyo Cyanine Blue G 314; Sanyo Cyanine Blue G 314NF; Sanyo Cyanine Blue G 500; Sanyo Cyanine Blue GP; Sanyo Cyanine Blue KRG; Sanyo Cyanine Blue KRO; Sanyo Cyanine Blue KROS; Sanyo Cyanine Blue KRS; Sanyo Phthalocyanine Blue H; Segnale Light Turquoise BDS; Segnale Light Turquoise BF; Segnale Light Turquoise NB; Segnale Light Turquoise NCG; Segnale Light Turquoise NFG; Segnale Light Turquoise NFR; Segnale Light Turquoise PAG; Segnale Light Turquoise SR; Seikafast Blue 4930; Sensijet Cyan PB 15:3; Sensijet Ultra Cyan PB 15:4; Siegle Fast Blue BS; Siegle Fast Blue BSN; Siegle Fast Blue LBGO; Silcogum 243A Blue; Sintosol Turquoise NBF; Skyline Blue B 4712; Solastral Blue B; Solastral Blue WP; Solcolor Blue; Solfast Sky Blue; Spectra PAC E Blue 15:4; Spectra Pac C Blue 15:4; Sumikacoat Cyanine Blue RFN; Sumikaprint Cyanine Blue GN-O; Sumikaprint Cyanine Blue GNR-O; Sumikaprint Cyanine Blue RX; Sumiplast Cyanine Blue LBGN 2; Sumitone Cyanine Blue GH; Sumitone Cyanine Blue HB; Sumitone Cyanine Blue HBA 2; Sumitone Cyanine Blue LBGN; Sumitone Cyanine Blue LBGN 2; Sumitone Cyanine Blue LG; Sumitone Cyanine Blue RH 3; Sumitone Cyanine Blue VH 514; Sun BFD 1121; Sun Blue BHD 6000; Sun PB 15:3; Sunfast Blue; Sunfast Blue 15:1; Sunfast Blue 15:2; Sunfast Blue 15:3; Sunfast Blue 15:3 249-2083; Sunfast Blue 15:3 Presscake; Sunfast Blue 15:4; Sunfast Blue 15:4 249-3450; Sunfast Blue 248-0061; Sunfast Blue 249-1282; Sunfast Blue 249-1284; Sunfast Blue 249-1290; Sunsperse BHD 6000; Suprapal Green 3X4A041; Synthaline Blue; T 95 Crude Blue; T 99 Crude Blue; TDB 2; TPC 512; TRB 2; TTB 2; TYBF 431NW; Tetor blue; Thalo Blue No. 1; Tint-Ayd Blue PC; Tint-Ayd NV 7292; Toner Cyan BG; Tricosol Blue 17732; Tru-Chem Blue 3GWP; Tru-Chem Blue WPS; Turquoise Blue Base G; UCD 4820E; UTCO 053; Unisperse Blue B-PI; Unisperse Blue G; Unisperse Blue G-E; Unisperse Blue G-P; Unisperse Blue G-PI; Versal Blue A; Versal Blue ASG; Versal Blue B; Versal Blue BG; Versal Blue BGC; Versal Blue NCB; Versal Blue PB; Vibracolor Blue PBL 15:3L; Viscofil Blue A-BGS; Viscofil Blue BLS Gran; Vulcafor Fast Blue B; Vulcafor Fast Blue BA; Vulcafor Fast Blue BN; Vulcanosine Fast Blue 5G; Vulcol Fast Blue 3G; Vynamon Blue B; Vynamon Blue G-FW; Vynamon Blue PCA; W 51924; Xfast Blue 6875; Xfast Blue 7080; Xianlite Blue EI 6200; ZCA 901; Zulu Blue; [29H,31H-Phthalocyaninato(2-)-N29,N30,N31,N32]copper; [Phthalocyaninato(2-)]copper; α-Copper phthalocyanine; α-Copper phthalocyanine blue; α-Phthalocyanine blue; β-Copper phthalocyanine blue; β-Phthalocyanine blue; ε-Copper phthalocyanine
+FIELD Formula:C32 H16 Cu N8
+FIELD Alternate Formula:
+FIELD Class Identifier:Coordination Compound , Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):10482-39-0, 11097-56-6, 11129-84-3, 12767-67-8, 34567-54-9, 37223-81-7, 39378-75-1, 39473-10-4, 51331-32-9, 53028-77-6, 53802-06-5, 55819-49-3, 57425-52-2, 57916-96-8, 59518-91-1, 59966-88-0, 60880-51-5, 60937-79-3, 61489-66-5, 61489-77-8, 61537-10-8, 64333-57-9, 66121-19-5, 69431-77-2, 78170-27-1, 78413-59-9, 85255-95-4, 85256-77-5, 90452-20-3, 92909-14-3, 95660-31-4, 95917-74-1, 96024-35-0, 104921-99-5, 109675-77-6, 109766-95-2, 115284-42-9, 143350-47-4, 158853-86-2, 172308-31-5, 172826-46-9, 175386-67-1, 177529-54-3, 177646-05-8, 184007-78-1, 209343-48-6, 211564-97-5, 211925-80-3, 213190-86-4, 220971-30-2, 244244-86-8, 281664-46-8, 345338-75-2, 392718-62-6, 521917-80-6, 681847-78-9, 807622-86-2, 819860-69-0, 819860-85-0, 863781-22-0, 876132-97-7, 878390-73-9, 898287-57-5, 924902-00-1, 929875-82-1, 942504-01-0, 1082606-32-3, 1200437-05-3, 1314884-83-7, 1319006-94-4, 1400683-45-5, 1630800-70-2, 1808110-27-1, 1818338-87-2, 1957169-56-0, 2249705-68-6
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+

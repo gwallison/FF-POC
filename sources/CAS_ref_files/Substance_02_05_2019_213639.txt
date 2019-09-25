@@ -1,0 +1,550 @@
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:856867-39-5
+FIELD CA Index Name:2-Oxazolidinone, 3-[3-fluoro-4-[6-(2-methyl-2H-tetrazol-5-yl)-3-pyridinyl]phenyl]-5-[(phosphonooxy)methyl]-, sodium salt (1:2), (5R)-
+FIELD Other Names:2-Oxazolidinone, 3-[3-fluoro-4-[6-(2-methyl-2H-tetrazol-5-yl)-3-pyridinyl]phenyl]-5-[(phosphonooxy)methyl]-, disodium salt, (5R)- (9CI); DA 7218; TR 701; Tedizolid phosphate disodium salt
+FIELD Formula:C17 H16 F N6 O6 P . 2 Na
+FIELD Alternate Formula:
+FIELD Class Identifier:
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:86438-79-1
+FIELD CA Index Name:Mirataine CB
+FIELD Other Names:
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Manual Registration
+FIELD Editor Note(s):A coco amidopropyl betaine surfactant
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:84852-15-3
+FIELD CA Index Name:Phenol, 4-nonyl-, branched
+FIELD Other Names:
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Manual Registration , Generic Registration
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:European Union (EU)
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:82469-79-2
+FIELD CA Index Name:1,2,3-Propanetricarboxylic acid, 2-(1-oxobutoxy)-, 1,2,3-trihexyl ester
+FIELD Other Names:1,2,3-Propanetricarboxylic acid, 2-(1-oxobutoxy)-, trihexyl ester (9CI); Butyryl tri-n-hexyl citrate; Butyryl trihexyl citrate; Citroflex B 6; Trihexyl butyrylcitrate; Trihexyl citrate butyrate
+FIELD Formula:C28 H50 O8
+FIELD Alternate Formula:
+FIELD Class Identifier:
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:8061-52-7
+FIELD CA Index Name:Lignosulfonic acid, calcium salt
+FIELD Other Names:Attisol 10; Attisol 20; Bindarene; BorreGro CA; Borrebond powder; Borrement CA 120; Borrement CA 2120; Borresperse CA; Borresperse CA-SA; Borresperse CAF; Borresperse CaI 50; Bretax C; Bretax CL; Calcium ligninsulfonate; Calcium lignosulfate; Calcium lignosulfonate; Calcium lignosulfonate-formaldehyde-dimethylamine copolymer; Collex SL; Collex XB; Collex XM 1XB120; D 419-5; Darvan 4; Darvan 404; Flambinder NX; Goulac; Groelipel; Lignin calcium sulfonate; Ligninsulfonic acid calcium salt; Lignone; Lignosite 401; Lignosol B-D; Lignosol D 30; Lignosol FG; Lignosol HCX; Lignosol SF; Lignosol SFX; Master Pozzolith 8; Master Pozzolith No. 8; Mu Gai; Norlig A; Norlig MC; Orzan 501; Pearllex C; Pearllex CP; Pozzolith 8; Pozzolith No. 8; Reax C 21; SSB; SSB (lignosulfonate); San-X C; San-X P 200; San-X P 201; San-X P 201H; San-X P 202; San-X P 270; San-X P 501; San-X SCP; Stapel; Sulfonated lignin calcium salt; Toramil B; Ultrazine CA; WRB 1; Wafex Ca; Wafex P
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Component , Manual Registration
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):8076-90-2, 11138-57-1, 66198-49-0, 66198-50-3, 104782-63-0, 113609-41-9, 138861-06-0, 138861-07-1, 1357848-43-1
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:8061-51-6
+FIELD CA Index Name:Lignosulfonic acid, sodium salt
+FIELD Other Names:83A; 85A; AHR 2438B; AS 3; AS 3 (dispersant); Arbo BL; Arbo N 18; Arbo S 01; Betz 402; Borresperse N; Borresperse NA; Borresperse NA 246; Borresperse NA-SA; Borresperse NaI 50; D 419-6; Diwatex 30FKP; FlowPro 1512; GZMN; HR 5; HR 5 (cement additive); Kelig 100; Kelig 400; Kinsperse 126; Kraftsperse 25M; Kraftsperse EDF 450; LSU; LSU (lignosulfate); Lignin 83A; Ligninsulfonic acid sodium salt; Lignopol; Lignosite 431; Lignosite 458; Lignosite 823; Lignosite 854; Lignosol AXD; Lignosol D 10; Lignosol DXD; Lignosol FTA; Lignosol NSX 110; Lignosol SFX 65; Lignosol X; Lignosol X 50; Lubricon 200F; M 10; M 10 (lignosulfonate); Maracell C; Maracell E; Maracell XC 2; Maracell XE; Marasperse B; Marasperse CBA 1; Marasperse CBO; Marasperse CBOS 4; Marasperse CBS; Marasperse CBX 2; Marasperse N; Marasperse N 22; NK-RX-B; NP 10; NP 6; Neocobaltin PNA 11; Newkalgen RX-B; Newkalgen WG 4; Norlig 12; Norlig 12F; Orzan CD; Orzan LS; Orzan S; Orzan SL 50; Pearlex NP; Pearllex N; Pearllex NP; Peritan Na; Polyfon; Polyfon F; Polyfon H; Polyfon Hun; Polyfon O; Polyfon T; Pozzolith 100XR; Pozzolith 70; Raycote; Raylig 260LR; Raymix; Reax 05A; Reax 100M; Reax 45A; Reax 45DA; Reax 80C; Reax 80D; Reax 81A; Reax 82; Reax 83; Reax 83A; Reax 83C; Reax 84A; Reax 85; Reax 85A; Reax 85C; Reax 88B; Reax 905; Reax 910; Reax 95A; Reax 98B; Reax SR 1; Reveal NM; Reveal SM; Reveal SM 5; Reveal WM; S 1834; S 29; SXMN; San-X P 213; San-X P 252; San-X P 550; San-X P 552; Sanekis P 550; Sanex 252; Sanflo GR; Sodalig; Sodium ligninsulfonate; Sodium lignosulfite; Sodium lignosulfonate; Sodium lignosulfonic acid; Sodium lingnosulfonate; Sorpol 9047K; StarLig Na 2420; Starflo AD; Sulfonated lignin sodium salt; TX 10; TX 4; Tamol 2901; Temsperse P 2000; Temsperse S 001; UF 10000A; Ufoxane 2; Ufoxane 3; Ufoxane 3A; Ultramix; Ultramix (lignosulfonate); Ultrazin NA; Ultrazine NA; Ultrazine NAC; Ultrazine NAS; Urzan S; Vanicell; Vanilex N; Vanillex HW; Vanillex N; Vanillex RN; Vanisperse A; Vanisperse CB; Vixil S; Vixilex SD; Wanin 48F; Wanin S; Wanin SR; Zewa EF; Zewa EF 220; Zewa S 210; Zewa SL
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Component , Manual Registration
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):8077-00-7, 9009-75-0, 39392-67-1, 53241-33-1, 54511-09-0, 57308-17-5, 57308-19-7, 58252-37-2, 69913-08-2, 70620-30-3, 71124-41-9, 89800-41-9, 91728-06-2, 94766-03-7, 102188-95-4, 112938-99-5, 118367-85-4, 122178-10-3, 122784-49-0, 172672-59-2, 218433-41-1, 290349-15-4, 913371-19-4, 1770781-85-5, 2254652-79-2
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:8052-41-3
+FIELD CA Index Name:Stoddard solvent
+FIELD Other Names:Named reagents and solutions, Stoddard; Naphtha, solvent; New Solvent F; Organic solvents, Stoddard solvent; Solvent naphtha, Stoddard; Solvents, naphthas
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Manual Registration , Concept
+FIELD Editor Note(s):
+FIELD Definition Field:A colorless, refined petroleum distillate that is free from rancid or objectionable odors and that boils in the range of approximately 149°C to 204.5°C (300°F to 400°F).
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):1030262-12-4
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:8043-29-6
+FIELD CA Index Name:Tegin M
+FIELD Other Names:
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Manual Registration
+FIELD Editor Note(s):A partial ester of stearic acid with glycerol, ethylene glycol and propylene glycol; information available too conflicting and incomplete to cross refer (Goldschmidt)
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:8012-95-1
+FIELD CA Index Name:Paraffin oils
+FIELD Other Names:Paraffin oil; 100 Solvent; 100S; 100S (paraffin); 150S; 250SN; 260S; 350S; 40S; 40S (paraffin); 415 Oil; 55S; 60S; 60S (paraffin); 70S; 70S (paraffin); 7LT-NF; 80S; AES 150; AF 400; Abion E; Acme S 105; Actrel 3349L; Actrel 3360L; Actrel 4493L; Additol VXW 4932; Agrirob; Ampol C15 CPD; Ampol C23 DC-Tron NR; Arcoprime 200; Arcoprime 300; Arcoprime 350; Arcoprime 400; Arcoprime 70; Atplus 411F Oil; Atpolan; Atpolan 80EC; Avilub RS; BFR 20; BJ Oil; BP 620; BP Energol GR-XP 220; BP Energol WM 2; BVM 100N; BZ 1; Banole; Banole HV; Barrel Process Oil P 10000; Barrel Process Oil P 2200; Bayol 72; Bayol 82; Bayol 95; Behran 840; Bio-Dux; Biobase 300; Bonide; Brian R-N; Britol 20T; CEC-RL 175/3; COC; CP 14N; CP 15N; CP 40; CP 40 (oil); CP 50S; CP 68N; Cactus Normal Paraffin YHNP; Caloria HT 43; Calpar 70; Cantenex SM 925; Capl 1; Capl 2; Carnation; Carnation 70; Carnation LP 70; Catenex 946; Catenex 956; Catenex OR; Catenex P 491; Catenex P 941; Catenex S; Catenex S 932; Catenex SM 925; Catenex SNR; Catenex T; Catenex T 145; Certrex 60; Chevron 100R; Citation 70NY; Citgo 340 Neutral; Citrole; Clenvex AS 58; Coker gatch oil; Conosol C 200; Cosmo Neutral 500; Cosmo Pure Flex; Cosmo Purespin D; Cosmo Purespin G; Cosmo White P 70; Cosmol; Cosmol (oil); Crop oil; Crystal Plus 70T; Crystol 102; Crystol 172; Crystol 202; Crystol 322; Crystol 325; Crystol 352; Crystol 52; Crystol 542; Crystol 70; Crystol 72; Crystol J 142; Crystol J 262; Crystol J 352; Crystol J 52; Crystol J 72; Crystol N 352; Crystol N 72; Cypar 7; Cypar 9; D 110; D 130; D 160; D 60; D 70; D 80; D 90; D 95; DC 350; DE 69; DW 5052; DW 6266; DW 7580; DY 36; Dalian SN 70; Daphne 32N; Daphne AL 35; Daphne CP 12N; Daphne CP 15N; Daphne CP 50S; Daphne CP 68; Daphne CP 68N; Daphne FP 50; Daphne KP 100; Daphne KP 15; Daphne KP 32; Daphne KP 32U; Daphne KP 68; Daphne Oil CP; Daphne Oil CP 68N; Daphne Oil KP 100; Daphne Oil KP 32; Daphne Oil KP 68; Diana Fresia P 430; Diana Fresia PW 8; Diana Fresia PW 90; Diana Fresia S 32; Diana Fureshia P 22; Diana NU 80; Diana PM 90; Diana PS 32; Diana PS 380; Diana PS 430; Diana PS 90; Diana PW 100; Diana PW 32; Diana PW 32AH24; Diana PW 380; Diana PW 90; Diana PW-LV; Diana PX 8; Diana Process Oil NR; Diana Process Oil P 430; Diana Process Oil PS 32; Diana Process Oil PS 380; Diana Process Oil PS 430; Diana Process Oil PS 90; Diana Process Oil PW 100; Diana Process Oil PW 32; Diana Process Oil PW 32AH24; Diana Process Oil PW 380; Diana Process Oil PW 90; Diana Solvent 2; Dicera 11833; Drakeol; Drakeol 10; Drakeol 10B; Drakeol 10LT; Drakeol 13; Drakeol 15; Drakeol 19; Drakeol 21; Drakeol 24; Drakeol 32; Drakeol 33; Drakeol 34; Drakeol 34NF; Drakeol 35; Drakeol 350; Drakeol 5; Drakeol 600; Drakeol 6VR; Drakeol 7; Drakeol 7LT-NF; Drakeol 7NF; Drakeol 9; Drakeol LT; Drakeol Supreme; Drakesol 260; Drakesol 260AT; Duoprime 200; Duoprime 350; Duoprime 400; Duoprime 500; Duoprime 70; Duoprime 90; E 340; E 340 (paraffin); E-C 100N; ED 320H; EDC 99DW; EM 80; EP-POIL; EZL 550; EZL 600; EZL 675; Edelex SM 925; Elevast C 30; Elevast C 70; Elevast E 10; Elevast E 20; Elevast R 120; Elevast R 130; Elevast R 150; Elevast R 170; Enerpar 13; Enerpar 1903; Enerpar M 1930; Enerpar M 2520; Escaid 90; Essobayol 90; Essotherm 500; Exchange; Exssol D 80; Extensoil 51-24T; Exxal D 110; Exxal D 60; Exxal D 80; Exxon 100N; Exxon D 60; Exxpar 252; Exxsol; Exxsol D 100; Exxsol D 100-140; Exxsol D 100S; Exxsol D 110; Exxsol D 120; Exxsol D 130; Exxsol D 140; Exxsol D 160; Exxsol D 200; Exxsol D 220/230; Exxsol D 30; Exxsol D 40; Exxsol D 60; Exxsol D 60S; Exxsol D 70; Exxsol D 80; Exxsol D 95; Exxysn; F 9807; FBK Oil RO 100; FIH 6; Faxam 22; Fina F 9807; Finavestan A 50B; Finavestan A 80B; Fixaoil; Flavex 913; Flexon 815; Flexon 819; Flexon 845; Flexon 848; Flexon 865; Flexon 885; Fluid paraffins; Fractol A; Freezene 100; Freezene 200; Fukkol Process Oil P 100; Fukkol Process Oil P 200; Fukkol Process Oil P 400; G 400H; GQ-HVI Ib 500; Golden Bear Oil; Golden Bear Oil 1111; Gulf 150E; Gulf 2210; HB; HB (paraffin); HC 250; HC 250 (solvent); HC 370; HC-FX 50; HL 100; HMVIP 30; HT 10; HW 350; HW 350 (paraffin); Hi-Call K 230; Hi-Call K 350; Hi-Soflon S 260; Hiclean CF 50; Hiclean CFK; Hicol E 7; Hicol K 140; Hicol K 140N; Hicol K 160; Hicol K 23; Hicol K 230; Hicol K 250; Hicol K 280; Hicol K 290; Hicol K 300; Hicol K 350; Hicol M 172; Hicol M 202; Hicol M 352; Hicol M 72; High Flash Jet; Hiwhite 70; Hydrocarbon oils, alkane or paraffin; Hydrorafinat H 5; Hydroseal G 400H; Hydroseal GH; Hydrowax 115; Hydrowax 138; Hydrowax 140; Hydrowax 730; Hyper White 350; Hyprene P 150BS; IPAR 3; ISO P 370; ISOVG 32; Iberpesa T 601; Inland 19; Ipsol H; Irgawax 360; Irgawax 361; Isocer NL; JMS Stylet-Oil; JOMO Process NC 140; JOMO Process P 200; JOMO Process P 300; Jomo Process P 500; K 140N; K 160; K 230; KD-P 50H; KEW-J 200; KL 1100; KL 900; KL 900B; KP 100; KP 15; KP 30; KP 30 (paraffin); KP 32; KP 6002; KP 6005; KP 6010; KP 6020; KP 6025; KP 6030; KP 6035; KP 68; KRC 103; KZ oil; Kemesol; Kermac 500T; Kixx LP 2200; Kixx LP 600; Kixx PO 8; Kixx White 150N; Kixx White 220N; Klearol; Klearol 50; Kolex 320; Komorex EL 30; Komorex H 30; Kornoil Concentrate; Kyowazol C 1200; Kyowazol C 900; LIAV 110; LP 150; LP 170F; LP 350; LP 350F; LP 55; LP 70; LP 70 (solvent); LSRD; Lacolene; Lacquer Diluent 6; Lamacit APM 520; Lily 70; Liquid Paraffin 60S; Liquid Parrafin No. 70; Liquid paraffin; Liquid petrolatum; Lubinol; Lubspar 2280; Lucant 360; Lucant HC 180; M 172; M 1930; M 85; M 85 (oil); MC Oil P 22; MC Oil W 32; MCW 32; MCW 380; MCW 8; MT 60; MagieSol 44; MagieSol 47; MagieSol M 47; Magnaflux; Manol; Marcol 425; Marcol 70; Marcol 72; Marcol 82; Marcol N 172; Markol 82; Michang P 3; Miclube 1460; Mineral Seal Oil; Mineral oil, paraffinic; Mineral oils, paraffinic; Mobilcer 115; Mobilcer 730; Mobiltherm 603; Moresco P 40; Moresco White MT 30P; Moresco-Viores U 6; Moresco-Viores U 8; Moresco-White; Moresco-White MT 260; Moresco-White MT 40; Moresco-White MT 450; Moresco-White MT 80; Moresco-White P 100; Moresco-White P 120; Moresco-White P 150; Moresco-White P 200; Moresco-White P 240; Moresco-White P 250; Moresco-White P 260; Moresco-White P 300; Moresco-White P 350; Moresco-White P 350P; Moresco-White P 40; Moresco-White P 500; Moresco-White P 55; Moresco-White P 60; Moresco-White P 70; Moresco-White P 70M; Moresco-White P 80; Moresco-White P 85; N 250; N-Paraffin 1408; NC 140; NIMBUS; NP 200; NP 200 (paraffin); NP 330; NR 415 Spray Oil; NS Clean 100; NTK 400; Newsol; Nikko White N 10; Nisseki Hi-White 350; Nisseki Hi-White 70; Nisseki Komorex EL 30; Nopco 1407; Normal Paraffin TS 6; Normal paraffin; Normal paraffins; NovaSpec 2050; Nujol; O-WO 2; Octafoam; Octopus P Plus 3029; Oleo FC; Ondina 15; Ondina 17; Ondina 32; Ondina 68; Ondina 7047; Ondina 917; Ondina 934; Ondina EL; Ondina G 33; Ondina G 34; Ondina N 68; Ondina X 430E1002644; Organic JMS Stylet-Oil; Osco Baby Oil; P 100; P 15; P 15 (oil); P 150; P 200; P 200 (oil); P 2280; P 2281; P 2286T; P 2291; P 300; P 300 (oil); P 35; P 35 (oil); P 350; P 350P; P 40; P 400; P 400 (oil); P 430; P 460; P 500; P 60; P 60 (oil); P 600; P 600 (paraffin); P 70; P 80; P 830; P 830 (oil); P 90; PH 500; PKWF 6/9AP74; PL 380; PL 380 (paraffin); PL 500; PL 500 (paraffin); PM 90; PO 70N; PS 260; PS 32; PS 350S; PS 40 (white oil); PS 430; PS 90; PT 32; PW 100; PW 308; PW 3080; PW 32; PW 360; PW 380; PW 3801; PW 90; Pale Oil 60; Parabase; Paracos KF 350; Paraffin; Paraffin 120; Paraffin 140; Paraffin 26; Paraffin 40S; Paraffin 60; Paraffin 60S; Paraffin S 40; Paraffins; Paraflex HT 10; Paraflex HT 3; Paraflex HT 320; Paralux 2401; Paralux 6001; Paralux 6001R; Paramil MES 15; Parax 40K3; Parex II; Parol 70; Parprol 22; Parprol 32; Peneteck; Peneteck LT; PennzUltra 1113; PennzUltra 1122; PennzUltra 1144; PennzUltra 1199; Peptoil; Perleam 18; Petrolatum oil; Petrolatum, liq.; Pharma 240B/HV6TI; Phazol 35; Pioneer 2002; Pionier 2024; Plastol 355; Plastol 537; Plaxene 185; Plaxene 190; Plaxene 5100; Plaxene 6110; Primol 355; Primol 382; Primol 542; Primol D; Primol N 382; Process NC 140; Process Oil NC 140; Process P 200; Process oils; Promanal; Promor 626; Prorex 33; Puredrill IA 35; Pureflex SNH 100SP; Puretol 10; Puretol 550; Purex 400; Quendilla 19; R 1890; R 2280; R 2291; R.O.C.; ROL-OB 55AT; RTEmp; Rajol WP 70H; Recosol P 212; Redesmol 300; Revigum H 14; Rubrex 150; Rudol; S 40; S 579; SB 350; SHD 100; SHD 110; SHD 30; SHD 40; SHD 60; SHD 65; SHD 70; SHD 80; SNH 100SP; SP 83; Saf-T-Side; Samic GA 1010; Sankei Tick; Sanko 380S; Sapnar 2210; Saraline 185; Saraline 185V; Saraline 200; Savol; Shell 8703; Shell Vitrea 220; Shell Vitrea 320; Shellflex 131; Shellflex 210; Shellflex 214NC; Shellflex 310; Shellflex 491JY; Shellflex 6371; Shellflex 68; Shellflex B; Shellsol 140/160; Shellsol 2037; Shellsol 2358; Shellsol 71; Shellsol D 100; Shellsol D 60; Shellsol D 70; Shellsol IC 1; Shellsol T; Shellsol TD; Shirukoru P 70; Sipdrill 2/0; Sipdrill 4/0; Sirius 85; Sirius M 85; Sirukoru P 70; Smoil P 100; Smoil P 150; Smoil P 200; Smoil P 260; Smoil P 300; Smoil P 350; Smoil P 350P; Smoil P 40; Smoil P 500; Smoil P 55; Smoil P 60; Smoil P 70; Smoil P 80; Smoil PS 120; Smoil PS 260; Sol EC; Solvent 100; Solvent M Type O; Solvent Oil 120; Solvent Oil S 200; Solvent oil S 200#; Sonic MTF 120; Sonic Process Oil P 200; Sontex 100; Sontex 150; Sontex 55; Sontex 55NF; Spray oil 10; Spray oil 13; Spray oil 15; Spray oil 22; Stanlube 60; Stanlube 80; Stanohl 40; Stanohl 52; Stanohl 66; Stanohl 69; Stanohl LP 35; Sun AG 7N; Sun AG Oil; Sun Oil 7N; SunSpray 11N; SunSpray Ultra-Fine Spray Oil; SunSpray UltraFine; Sundex 840; Sunflex 110; Sunflex 2280; Sunflex 3340; Sunoco CN 70; Sunoco SN 70; Sunpar; Sunpar 110; Sunpar 115; Sunpar 1300; Sunpar 150; Sunpar 150LW; Sunpar 150M; Sunpar 2280; Sunpar 400; Sunpar L 104; Sunpar LW 003; Sunpar LW 103; Sunpar LW 104; Sunpar LW 105; Sunpar LW 107; Sunpar LW 110; Sunpar Oil 110; Sunpar Oil 115; Sunpar Oil 120; Sunpure P 100; Sunspray 6N; Sunspray 7E sun oil; Sunspray 7N; Sunspray oil; Supasol LA 35; Super Oil M-P 500S; Super Oil N 100; Super Oil N 22; Super Oil N 320; Super Oil N 56; Super Oil Y 22; Superla 35; Superla No 7; Surueto 24; Synfluid PAO 401; Synfluid PAO 601; Synfluid PAO 801; Syntack P 470; Syntack PA 100; Syntack PA 95; Synthol 20; T 16; T 16 (paraffin); TBP 260; TE 14; TPS 2250; TW 330; Texatherm 46; Texpar 22; Thermia C; Thiotec; Three Bond 3391; Timbersurf 90; Tolex RHT 70; Torilis 7200; Transcal 65; Transcal N; Tref 20; Treol; Tudalen 12; Tudalen 1968; Tudalen 3909; Tudalen B 8013; Tudalen B 8014 Extra; Tufflo 10; Tufflo 30; Tufflo 6016; Tufflo 6026; Turbinol 32; Turmosynth VG; Turpesol; Tysolv; Ultra-Fine Oil; Ultrol 7; Unico H 150; Uvasol; Uvasol (hydrocarbon); V 500; VG 100; Vaseline oil; Versapol GP 446; VivaTec 200; VivaTec 400; VivaTec 500; VivaTec 700; Vivashield 8652; W 1900; W 260; Waksol K; Waxrex 79; White 350; White Oil Broom 350; White mineral oil; Whiterex 2210; Whiterex 309; Whiterex 334; Whiterex 335; Winog 100; Winog 70; Witco 300; Witco 40; Witco 70; XLD 80; Yubase 8; n-Paraffin; n-Paraffins; neothiozole
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Component , Manual Registration , Concept
+FIELD Editor Note(s):
+FIELD Definition Field:Liquid hydrocarbons from petroleum.
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):8015-59-6, 8033-89-4, 8038-04-8, 8039-14-3, 8039-75-6, 8043-78-5, 37231-69-9, 37232-05-6, 37232-06-7, 37232-07-8, 39290-23-8, 39296-25-8, 39355-08-3, 39355-09-4, 39355-35-6, 39464-77-2, 39464-78-3, 50935-85-8, 50935-95-0, 51004-58-1, 51109-96-7, 52012-27-8, 52012-28-9, 53028-74-3, 58391-38-1, 58615-80-8, 60327-80-2, 74870-90-9, 79956-36-8, 83046-05-3, 97048-20-9, 99551-14-1, 102819-98-7, 106803-31-0, 115251-26-8, 116357-36-9, 122176-99-2, 124448-52-8, 146908-77-2, 172307-10-7, 187112-19-2, 188832-17-9, 219686-29-0, 261380-10-3, 331464-54-1, 1219939-75-9
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:8009-03-8
+FIELD CA Index Name:Petrolatum
+FIELD Other Names:AGIP-OB 10; Alba protopet; Alba-White; Amber Tech 2; BF; Cream white; Crolatum V; Crolatum V-SO-JP; Dafunikul; EMCA Plus Gel 175; Extra Amber; G 2180; G 2218; JP 020F; JP 1500; KV 3; KV 3 (jelly); Kremoline; Mineral Jelly No. 14; Mineral Jelly No. 17; Mineral jelly; Nomcort W; OP 7Y; OX 0450; P 65; P 65 (jelly); PH 05; Paxwax 6681; Pennsoline Soft Yellow; Penreco Amber; Penreco Snow; Penreco Ultima; Penreco White; Perfecta; Petrol gels; Petrol jelly; Petrolatum ointment; Petrolatum ointments; Petrolatums; Petroleum jelly; Pionier 17012; Pionier 17122; Protopet; Protopet 1S; Red petrolatum; Regent; SG 120; SG 120 (corrosion inhibitor); SW 60; SW 60 (corrosion inhibitor); Silkolene 910; Snow; Snow V; Snow White; Snow White Pet-V-USP; Snow White Special; Snowwhite V 28EP; Sonnecone DM 1; Sonogel 4; Sonogel 9; Sun White P 150; Sun White P 200; Super White Protopet; Super White Protopet 1S; Topco S 977; Tro-Grees; Ultima; Ultima White; Vaseline Base No. 4; Vaseline Snow White; Vaseline blanche codex 236; Vaseline petroleum jelly; Weichceresin FL 400; White 1S; White Protopet; White Protopet 1S; White Protopet 2L; White petrolatum; White protopet No. 2L; Witcogel; Yellow Protopet 1E; Yellow Protopet 2A; Yellow fonoline
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Component , Manual Registration , Concept
+FIELD Editor Note(s):
+FIELD Definition Field:A complex combination of hydrocarbons obtained as a semi-solid from dewaxing paraffinic residual oil.  It consists predominantly of saturated crystalline and liquid hydrocarbons having carbon numbers predominantly greater than C25.
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):8027-32-5, 8038-17-3, 8040-87-7, 8040-97-9, 8041-83-6, 8044-23-3, 8044-24-4, 8044-44-8, 8044-45-9, 8044-46-0, 8057-56-5, 8063-27-2
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:8003-22-3
+FIELD CA Index Name:C.I. Solvent Yellow 33
+FIELD Other Names:1,3-Isobenzofurandione, reaction products with dimethylquinoline and methylquinoline; Arlosol Yellow S; C.I. 47000; Chinoline Yellow D Sol.in Spirits; Chinoline Yellow ZSS; D & C Yellow 11; D and C Yellow No. 11; D&C Yellow No. 11; Japan Yellow 204; Japan Yellow No. 204; KP Plast Yellow 2G; Kayaset Yellow 2G; Nitro Fast Yellow SL; Oil Yellow SIS; Oplas Yellow 136; Petrol Yellow C; Polysolve Yellow 33G; Quinoline Yellow A Spirit Soluble; Quinoline Yellow Base; Quinoline Yellow SS; Quinoline Yellow Spirit Soluble; Solvent Yellow 33; Sumiplast Olive MR; Waxoline Yellow T; Yellow 11
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Manual Registration
+FIELD Editor Note(s):
+FIELD Definition Field:This substance is identified in the COLOUR INDEX by Colour Index Constitution Number, C.I. 47000.
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):8002-87-7
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:8002-43-5
+FIELD CA Index Name:Lecithins
+FIELD Other Names:Lecithin; 3F-UB; AF 1; AF 1 (lecithin); Acti-Flow 68SB; Adlec; Airlink; Alcolec BS; Alcolec PC 50; Alcolec PC 75; Alcolec PG; Alcolec S; Alcolec Z 7; Basis LP 2070R; Basis LP 20B; Benecoat BMI 40; Bio Blatt Mehltaumittel; BioBlatt; C 115; Centiocap 162US; Centrex F; Centrol 2F-SB; Centrol 3F-UB; Centrol 3FSB; Centrolex R; Centrophase HR 2B; Centrophill IP; Cetinol; E 322; E 322 (emulsifier); Emulfluid E; Emulmetik 100; Emulpur SF; Emulsifier L; Emulthin M 35; Epikron 200; Giralec; Gliddex; Granulestin; Kelecin; L 0023; LP 1; Leci PS 20P; Leci-PC 35P; Lecico F 100; Lecigran 1000P; Lecion; Lecion P; Lecion P 1; Leciprime 1000IP; Leciprime 1500; Leciprime 1800IP; Lecithin M; Lecithin commercial preparations; Lecithine; Lecithinon; Lecithol; Leciwet WD 120; Lipoid GPC; Lipoid S 45; Lipotin 100UB; Lipotin NE; OS 77L; PWL; Phospholipon 20; Phospholipon H; Phospholutein; Planticin; Polyol LT 303; SICO-NS; SLP Paste F; SLP Paste NG; SLP-PI Powder; Showa M Lecithin; Sternprime N 10 Top; Sunlecithin L 6; Sunlecithin L 61; Texoil HUN; Tinoderm P; Topcithine NGM; Topcitin 50; Troykyd Lecithin WD; Ultralec; Vamothin SBX; Yelkin SS; Yelkin T; Yelkin TTS
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Component , Manual Registration , Concept
+FIELD Editor Note(s):
+FIELD Definition Field:The complex combination of diglycerides of fatty acids linked to the choline ester of phosphoric acid.
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):8035-17-4, 8052-43-5, 8057-53-2, 55128-59-1, 252035-82-8, 1799810-04-0
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:8001-79-4
+FIELD CA Index Name:Castor oil
+FIELD Other Names:3 Castor Oil; AS 15; AS 15 (oil); Acrol 1070; Aromatic castor oil; Castor Oil D; Castor Oil SL; Castor oil 3; Crystal O; DB Oil; ELA-DR; FD-ZY 05; FSG; Fats and Glyceridic oils, castor; Fats and Glyceridic oils, ricin; HGS 120; Himashiyu D; Jayant 9011; Kakutoku A; LAV; LAV (oil); LAV (polyol); LAVCO; Natunola Castor 1023; Neoloid; No. 3 Castor oil; Oil of Palma Christi; Oils, glyceridic, ricin; Oleum Ricini; Parafarm; Phorbyol; Recastol 2790; Refined Castor Oil A; Refined Castor Oil Special Grade A; Ricinol; Ricinus communis oil; Rizinusoel PD; Tangantangan oil; Thixcin ST; Viscotrol C; Z 1; Z 1 (oil)
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Component , Manual Registration , Concept
+FIELD Editor Note(s):
+FIELD Definition Field:Extractives and their physically modified derivatives.  It consists primarily of the glycerides of the fatty acid ricinoleic. (Ricinus communis).
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):8013-56-7, 8015-57-4, 8021-37-2, 8036-08-6, 8041-22-3, 8041-95-0, 89958-32-7, 151438-72-1, 898831-11-3
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:8001-78-3
+FIELD CA Index Name:Hydrogenated castor oil
+FIELD Other Names:Castor oil, hydrogenated; ACT-CT; ASA-T 20S; ASA-T 20SF; Borchi Gel Thixo A; C-Wax FP; Castor Wax 100; Castor Wax FP; Castorwax; Castorwax A; Castorwax AC; Castorwax AF; Castorwax HC-WX; Castorwax MP 70; Castorwax MP 80; Castorwax NF; Castorwax PS; Cenwax G; Crayvallac PC; Cremophor RLM 410; Cutina HR; Cutina HR-PH; Daiwax OHG; Diamond Wax; Diamond Wax A; Disparlon 305; Disparlon 308; Disparlon 4300; Disparlon 805; EL 20; EL 20 (thixotropic agent); EPG 40; Glycolube CW 1; HC 0.8; HCO-P 3; HCOP; HG 271B; HY 1; HY 2; Hardened castor oils; Himago; Hy-Castor Oil; Irgarol TV 142; K 3 Wax 500; Kolliwax HCO; Ligalub 9GE-H; Lovely Wax 101; Lubliwax; Lubriwax 101; Lubry Wax 103; Luvotix HT; MPA 1075; MT ST; Namlon T 206; Opalwax; P 85; P 85 (castor oil); PEG 60; Peretex CO 36; Protegin W; Protegin WX; Radia 3200; Ricanolein; Ricigel; Ricinocerol; Rilanit Special; S 185; S 185 (castor oil); SN 4040; SR 309; SiberFlow C 85; Synthawax; T 20SF; Tagat R 60; Thixcin; Thixcin E; Thixin; Thixomen; Tixcin E; WNN 1
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Manual Registration , Concept
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):8030-79-3, 8041-92-7, 8041-93-8, 8041-94-9, 37281-13-3, 37359-50-5, 39433-74-4, 53468-68-1, 69522-63-0, 81544-51-6
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:7647-14-5
+FIELD CA Index Name:Sodium chloride (NaCl)
+FIELD Other Names:Sodium chloride (8CI); 2: PN: WO2014001822 PAGE: 45 claimed sequence; Adios Ambros; Adsorbanac; Alberger salt; Arm-A-Vial; Ayr; BCD; Brinewate Superfine; Canners 999; Cap-Shure 70 Salt; Cap-Shure 85 Salt; Common salt; Culinox 999 Salt; D 02056; Dendritic salt; Dendritis; EF 40; EF 40 (salt); Esco PDV Table Salt; Extra Fine 200 Salt; Extra Fine 325 Salt; Flexivial; Gingivyl; H.G. Blending; Hypersal; Iodised salt; Iodized salt; Kochsalz; LS 1700; MARSEL; Mafiron; Mediterra salt; NSC 77364; Nakuru N; Nakuru UM 5; Naruto Shokuen; Natritope chloride; Natrum mur; Natrum muriaticum; Nissei-no Yakishio S; SS Salt; Salt; Slow Sodium; Sodium chloric; Sodium monochloride; Soft Salt S 50; Solsel; Special Salt 100/95; Suprasel; Suprasel Nitrite; Titrisol; Top flake; Uzushio Biryuu M; Watesal A
+FIELD Formula:Cl Na
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):8028-77-1, 11062-32-1, 11062-43-4, 418758-90-4
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:867-56-1
+FIELD CA Index Name:Propanoic acid, 2-hydroxy-, sodium salt (1:1), (2S)-
+FIELD Other Names:Lactic acid, monosodium salt, L- (8CI); Propanoic acid, 2-hydroxy-, monosodium salt, (2S)- (9CI); Propanoic acid, 2-hydroxy-, monosodium salt, (S)-; (+)-Lactate sodium; (+)-Sodium lactate; (S)-2-Hydroxypropionic acid sodium salt; Sodium (S)-lactate; Sodium L-(+)-lactate; Sodium L-lactate
+FIELD Formula:C3 H6 O3 . Na
+FIELD Alternate Formula:
+FIELD Class Identifier:
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:818-61-1
+FIELD CA Index Name:2-Propenoic acid, 2-hydroxyethyl ester
+FIELD Other Names:Acrylic acid, 2-hydroxyethyl ester (6CI,8CI); 2-(Acryloyloxy)ethanol; 2-Hydroxyethyl 2-propenoate; 2-Hydroxyethyl acrylate; 2-Hydroxyethyl ester propenoic acid; 2HEA; AHEC-T; Acryics HEA; BHEA; Bisomer 2HEA; Ethylene glycol monoacrylate; HEA; HOA; Light Acrylate HOA; Light Ester HOA; Light Ester HOA-N; Light Ester OA; Perm A; Perm A (monomer); Rocryl 420; Viscoat 220; β-Hydroxyethyl acrylate
+FIELD Formula:C5 H8 O3
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):77210-89-0, 139642-59-4, 1637456-67-7
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:814-80-2
+FIELD CA Index Name:Propanoic acid, 2-hydroxy-, calcium salt (2:1)
+FIELD Other Names:Lactic acid, calcium salt (2:1) (8CI); Calcium DL-lactate; Calcium lactate; Calphosan; Conclyte Ca; E 327; L-Cal; Pationic 1230; Pationic 1240; Prequist Powder; Puracal PP/FCC; Puracal PP/USP; Tokal
+FIELD Formula:C3 H6 O3 . 1/2 Ca
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):5497-50-7, 145179-24-4
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:139-13-9
+FIELD CA Index Name:Glycine, N,N-bis(carboxymethyl)-
+FIELD Other Names:Acetic acid, nitrilotri- (8CI); N,N-Bis(carboxymethyl)glycine; 412: PN: WO2007070372 PAGE: 72 claimed protein; Chel 300; Chelest NT; Complexon I; Dissolvine A; Dissolvine AZ; Hampshire NTA acid; N 0098; NSC 2121; NTA; Nitrilo-2,2',2''-triacetic acid; Nitrilo-N,N,N-triacetic acid; Nitrilotriacetic acid; Nitrilotris(methylenecarboxylic acid); Titriplex I; Triglycine; Triglycollamic acid; Trilon AS; Tris(carboxymethyl)amine; Tris(hydroxycarbonylmethyl)amine; Versene NTA acid; α,α',α''-Trimethylaminetricarboxylic acid
+FIELD Formula:C6 H9 N O6
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):26627-44-1, 26627-45-2, 80751-51-5, 1082646-60-3, 1428376-78-6
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:81-88-9
+FIELD CA Index Name:Xanthylium, 9-(2-carboxyphenyl)-3,6-bis(diethylamino)-, chloride (1:1)
+FIELD Other Names:Ammonium, [9-(o-carboxyphenyl)-6-(diethylamino)-3H-xanthen-3-ylidene]diethyl-, chloride (8CI); Xanthylium, 9-(2-carboxyphenyl)-3,6-bis(diethylamino)-, chloride (9CI); [9-(o-Carboxyphenyl)-6-(diethylamino)-3H-xanthen-3-ylidene]diethylammonium chloride (6CI,7CI); 11411 Red; ADC Rhodamine B; Aizen Rhodamine B; Aizen Rhodamine BH; Aizen Rhodamine BHC; Akiriku Rhodamine B; Amezin Rhodamine B Liquid; Basazol Red 71L; Basazol Red 71P; Basic Rose Extract; Basic Rose Red; Basic Violet 10; Basonyl Red 540; Basonyl Red 545; Basonyl Red 545FL; Brilliant Pink B; C.I. 45170; C.I. Basic Violet 10; C.I. Food Red 15; Calcozine Red BX; Calcozine Rhodamine BXP; Cerise Toner X 1127; Chromatint Rhodamine B; D and C Red No. 19; D&C Red 19; D&C Red No. 19; Diabasic Rhodamine B; Edicol Supra Rose B; Edicol Supra Rose BS; Eriosin Rhodamine B; FD And C Red No. 19; Flexo Red 540; Hexacol Rhodamine B Extra; Ikada Rhodamine B; Japan Red 213; Japan Red No. 213; LC 6100; Mitsui Rhodamine BX; OP 312; P-Phenylenediamine-rhodamine B copolymer; RHB; Red No. 213; Rheonine B; Rhodamine 610 chloride; Rhodamine B; Rhodamine B 500; Rhodamine B 500 hydrochloride; Rhodamine B Extra; Rhodamine B Extra M 310; Rhodamine B Extra S; Rhodamine B-EX; Rhodamine BA; Rhodamine BA Export; Rhodamine BDC; Rhodamine BN; Rhodamine BS; Rhodamine BX; Rhodamine BXL; Rhodamine BXP; Rhodamine FB; Rhodamine Lake Red B; Rhodamine O; Rhodamine S; Rhodamine S (Russian); Rhodamine, tetraethyl-; Sicilian Cerise Toner A 7127; Sumiplast Pink B; Symulex Magenta F; Symulex Rhodamine B Toner F; Takaoka Rhodamine B; Tetraethylrhodamine
+FIELD Formula:C28 H31 N2 O3 . Cl
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):1118426-88-2
+FIELD Deleted Registry Number(s):3521-79-7, 11111-29-8, 17181-58-7, 53664-59-8, 69319-23-9, 86513-49-7, 86893-15-4, 96119-80-1, 105480-59-9, 248928-56-5, 408346-58-7, 412909-17-2, 433215-26-0, 539821-35-7, 850856-47-2, 859039-47-7, 875572-56-8, 918962-66-0, 925914-34-7, 956491-27-3, 1023342-65-5, 1051370-49-0, 1236042-79-7, 1394971-11-9, 1773488-62-2, 1825993-87-0, 2254248-91-2
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:80-08-0
+FIELD CA Index Name:Benzenamine, 4,4'-sulfonylbis-
+FIELD Other Names:Aniline, 4,4'-sulfonyldi- (7CI,8CI); 4,4'-Sulfonylbis[benzenamine]; 1,1'-Sulfonylbis[4-aminobenzene]; 1358F; 4,4'-DDS; 4,4'-Dapsone; 4,4'-Diaminobiphenyl sulfone; 4,4'-Diaminodiphenyl sulfone; 4,4'-Sulfonylbisaniline; 4,4'-Sulfonylbisbenzamine; 4,4'-Sulfonyldianiline; 4,4'-Sulfonyldiphenylamine; 4,4'-Sulphonyldianiline; 4-(4-Aminophenyl)sulfonylaniline; 4-(4-Aminophenylsulfonyl)benzenamine; 4-Aminophenyl sulfone; Aczone; Aradur 9664-1; Aradur 976; Aradur 976-1; Aradur 9761-1; Araldite HT 976; Atrisone; Avlosulfon; Avlosulfone; Bis(4-aminophenyl) sulfone; Bis(p-aminophenyl) sulfone; Croysulfone; D 0089; DADFS; DADPS; DDS; DDS (pharmaceutical); DSS; Dapson; Dapsone; Di(4-aminophenyl)sulfone; Di(p-aminophenyl) sulfone; Diaphenylsulfon; Diaphenylsulfone; Diphenasone; Diphone; Disulone; Dumitone; Eporal; F 1358; HB-MC-GE 40; HB-MC-GE 45; HEW 62; HT 9664; HT 976; HT 976-1; HY 976; Hardener HT 976; Lapox K 10; Metabolite C; NSC 6091; Novophone; Seikacure S; Servidapson; Sulfona; Sulfona-Mae; Sulphadione; Sumicure S; Udolac; p,p'-Diaminodiphenyl sulfone; p,p'-Sulfonyldianiline; p-Aminophenyl sulfone
+FIELD Formula:C12 H12 N2 O2 S
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):1246638-15-2
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:80-05-7
+FIELD CA Index Name:Phenol, 4,4'-(1-methylethylidene)bis-
+FIELD Other Names:Phenol, 4,4'-isopropylidenedi- (8CI); 4,4'-(1-Methylethylidene)bis[phenol]; (4,4'-Dihydroxydiphenyl)dimethylmethane; 2,2-Bis(4-hydroxyphenyl)propane; 2,2-Bis(p-hydroxyphenyl)propane; 2,2-Di(4-hydroxyphenyl)propane; 2,2-Di(4-phenylol)propane; 2,2'-Bis(4-hydroxyphenyl)propane; 4,4'-(Propane-2,2-diyl)diphenol; 4,4'-Isopropylidenebis[phenol]; 4,4'-Isopropylidenediphenol; 4,4'-Methylethylidenebisphenol; B 0494; BPA; BPA 154; BPA 157; BPA-M; Bis(4-hydroxyphenyl)dimethylmethane; Bis(p-hydroxyphenyl)propane; Bisphenol A; Dian; Diano; Diphenylolpropane; HT 3082; Hidorin F 285; Hidorin F 568; Ipognox 88; Isopropylidenebis(4-hydroxybenzene); NSC 1767; NSC 17959; Parabis; Parabis A; Pluracol 245; Rikabanol; p,p'-Bisphenol A; p,p'-Dihydroxydiphenylpropane; p,p'-Isopropylidenebisphenol; p,p'-Isopropylidenediphenol; β,β'-Bis(p-hydroxyphenyl)propane
+FIELD Formula:C15 H16 O2
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):27360-89-0, 28106-82-3, 37808-08-5, 137885-53-1, 146479-75-6, 1429425-26-2
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:79-33-4
+FIELD CA Index Name:Propanoic acid, 2-hydroxy-, (2S)-
+FIELD Other Names:Lactic acid, L- (8CI); Propanoic acid, 2-hydroxy-, (S)-; (2S)-2-Hydroxypropanoic acid; (+)-Lactic acid; (2S)-2-Hydroxypropanoic acid; (S)-(+)-Lactic acid; (S)-2-Hydroxypropanoic acid; (S)-2-Hydroxypropionic acid; (S)-Lactic acid; Espiritin; HiPure 90; L-(+)-Lactic acid; L-(+)-α-Hydroxypropionic acid; L-Lactic acid; PH 90; PURAC; PURAC Powder H 60; Paralactic acid; Purac FCC 50; Purac Sanilac; Sarcolactic acid; Tisulac; d-Lactic acid
+FIELD Formula:C3 H6 O3
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):1715-99-7
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:68-04-2
+FIELD CA Index Name:1,2,3-Propanetricarboxylic acid, 2-hydroxy-, sodium salt (1:3)
+FIELD Other Names:1,2,3-Propanetricarboxylic acid, 2-hydroxy-, trisodium salt (9CI); Citric acid, trisodium salt (8CI); Sodium citrate (Na3C6H5O7) (7CI); 2-Hydroxy-1,2,3-propanetricarboxylic acid trisodium salt; 331iii; Citnatin; Citra-lock; Citreme; Citrosodina; Citrosodine; Cystemme; Ional; Natrocitral; P 3; Sodium citrate; Sodium citrate anhydrous; Trisodium citrate; Unifine P 3; Urisal
+FIELD Formula:C6 H8 O7 . 3 Na
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):8055-55-8, 183748-56-3, 856354-90-0, 1000844-65-4, 1648840-06-5, 2095548-08-4
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:67-63-0
+FIELD CA Index Name:2-Propanol
+FIELD Other Names:Isopropyl alcohol (8CI); 1-Methylethanol; 1-Methylethyl alcohol; 2-Hydroxypropane; 2-Propyl alcohol; Alcojel; Alcosolve 2; Autosept; Avantin; Avantine; Combi-Schutz; Dimethylcarbinol; Hartosol; IPA; IPS 1; IPS 1 (alcohol); Imsol A; Isohol; Isopropanol; Lutosol; NSC 135801; PRO; Petrohol; Propol; Steri-Fab; Sterisol Hand Disinfectant; Takineocol; Tokuso IPA; Virahol; iso-Propanol; iso-Propyl alcohol; n-Propan-2-ol; sec-Propanol; sec-Propyl alcohol
+FIELD Formula:C3 H8 O
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):8013-70-5
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+

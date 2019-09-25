@@ -1,0 +1,550 @@
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:78355-51-8
+FIELD CA Index Name:Oxirane, 2-methyl-, polymer with oxirane, mono-C11-14-alkyl ethers, branched, sulfates, sodium salts
+FIELD Other Names:Oxirane, methyl-, polymer with oxirane, mono-C11-14-alkyl ethers, branched, sulfates, sodium salts
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Polymer , Manual Registration , Generic Registration
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:78330-26-4
+FIELD CA Index Name:Poly(oxy-1,2-ethanediyl), α-sulfo-ω-hydroxy-, C9-11-isoalkyl ethers, C10-rich, ammonium salts
+FIELD Other Names:
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Polymer , Manual Registration , Generic Registration
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:75422-21-8
+FIELD CA Index Name:Poly(oxy-1,2-ethanediyl), α-sulfo-ω-hydroxy-, C6-12-alkyl ethers, ammonium salts
+FIELD Other Names:
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Polymer , Manual Registration , Generic Registration
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:73296-89-6
+FIELD CA Index Name:Sulfuric acid, mono-C12-16-alkyl esters, sodium salts
+FIELD Other Names:
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Manual Registration , Generic Registration
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:72623-87-1
+FIELD CA Index Name:Lubricating oils (petroleum), C20-50, hydrotreated neutral oil-based
+FIELD Other Names:
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Manual Registration , Concept
+FIELD Editor Note(s):
+FIELD Definition Field:A complex combination of hydrocarbons obtained by treating light vacuum gas oil, heavy vacuum gas oil and solvent deasphalted residual oil with hydrogen in the presence of a catalyst in a two stage process with dewaxing being carried out between the two stages.  It consists predominantly of hydrocarbons having carbon numbers predominantly in the range of C20 through C50 and produces a finished oil with a viscosity of approximately 32cSt at 40°C (104°F).  It contains a relatively large proportion of saturated hydrocarbons.
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:71630-94-9
+FIELD CA Index Name:Castor oil, ethoxylated, dilaurate
+FIELD Other Names:
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Polymer , Manual Registration , Concept
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:71011-26-2
+FIELD CA Index Name:Quaternary ammonium compounds, benzyl(hydrogenated tallow alkyl)dimethyl, salts with hectorite
+FIELD Other Names:Quaternary ammonium compounds, benzyl(hydrogenated tallow alkyl)dimethyl, chlorides, compds. with hectorite
+FIELD Formula:Unspecified . Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Manual Registration , Concept
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:8031-18-3
+FIELD CA Index Name:Fuller's earth
+FIELD Other Names:325RVM; Activated bleaching earth; B 80; B 80 (clay); B 80CG; BioSil; Bleaching clay; Bleaching clays; Bleaching earth; Clays, Fuller's earth; Emathlite; Florex; Florida earth; Floridin; Florigel; Fulmont; Gadorsol; JF 752-3060; JF 752-8/16; Multani matti; Multani mitti; Multani mitti clay; SF 105; Select 450; Solum fullonum; Supreme 126FF; Tonsil 126FF; Tonsil 210FF; Tonsil 522FF; Tonsil Optimum 210FF
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Manual Registration , Concept
+FIELD Editor Note(s):
+FIELD Definition Field:A porous colloidal clay.  Contains an aluminum magnesium silicate.
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):1337-77-5, 12198-04-8, 228422-51-3
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:8017-16-1
+FIELD CA Index Name:Polyphosphoric acids
+FIELD Other Names:Condensed phosphoric acids; PPA 116; Phospholeum; Phosphoric acid, poly-; Super Phos 105
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Manual Registration , Concept
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):25852-84-0, 27359-92-8, 29543-77-9, 29543-78-0, 29543-79-1, 29543-80-4, 29543-81-5, 29543-82-6, 29543-83-7, 29725-17-5, 72007-34-2
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:8008-20-6
+FIELD CA Index Name:Kerosene
+FIELD Other Names:Kerosine; Kerosine (petroleum); AF 100 (pesticide); Avtur; Avtur (pesticide); Bayol 35; Bitumen Cutter; Chiotekku; Chiotekku SH; Conoco 170E; D 110; Deotomisol S; Eneos Kerosene; Escaid 100; Escaid 110; Exxsol D 200/240; Finalan 75; Fuels, kerosine; Ink oil; JP-A 1; KO 30 (solvent); Kedrul 212; Kerosin; Ketrul 211; Kixxol; Magisol 52; Muplilkill; Neochiozol; Nysolvin 75A; Odorless Solvent 3440; P 878; Parasol; Pegasol 3040; RP 3; RP 3 (solvent); SX 12; SX 7; Shell 140; Shellsol 2046; Solbrax Eco 255/285; TS 1; W-Kerosene
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Manual Registration , Concept
+FIELD Editor Note(s):
+FIELD Definition Field:Straight Run, Kerosene (petroleum).  A complex combination of hydrocarbons produced by the distillation of crude oil.  It consists of hydrocarbons having carbon numbers predominantly in the range of C9 through C16 and boiling in the range of approximately 180°C to 300°C (356°F to 572°F).
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):55465-93-5, 63241-54-3, 111941-10-7
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:8002-26-4
+FIELD CA Index Name:Tall oil
+FIELD Other Names:Acintol C; Acintol D 29LR; Aconon; KhTM; LTM; Liquid rosin; MeadWestvaco L 5; Oils, tall, sylvic or Swedish pine; Resins, tall-oil; Sylvatal D 40LR; Tall oil resin; Tall oils; Tall-oil resins; Talleol; Tallol; Unitol CX; Unitol DT 22; Unitol DT 40; VersaWet; Westvaco CTO; Yatall MA
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Component , Manual Registration , Concept
+FIELD Editor Note(s):
+FIELD Definition Field:A complex combination of tall oil rosin and fatty acids derived from acidulation of crude tall oil soap and including that which is further refined.  Contains at least 10% rosin.
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):8032-00-6, 62046-51-9
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:8002-13-9
+FIELD CA Index Name:Rape oil
+FIELD Other Names:Oils, rape; Oils, rape (colza); Oils, rapeseed (colza); AP 85; Agri-Pure 60; Brassica napus oil; Brassica napus oleifera biennis seed oil; Brassica napus seed oil; Codacide; Codacide Oil; Cole seed oil; Colleseed oil; Coltza oil; Colza oil; Cutinol V 7; Ekol; Fats and Glyceridic oils, colza; Fats and Glyceridic oils, rape; Fry Ace PO; Oils, colza; Oils, glyceridic, colza; Oils, glyceridic, rape; Plantocorit N; Plantocut 10S; Plantohyd; Plantohyd 40N; Raisio Biosave 32L; Rako-Binol; Rape seed oil; Rapeseed oil; SUB Ohm ECO; Salad Oil S; Seaton YS 874; Telmion; Uni Ace R
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Manual Registration , Concept
+FIELD Editor Note(s):
+FIELD Definition Field:Extractives and their physically modified derivatives.  It consists primarily of the glycerides of the fatty acids erucic, linoleic and oleic. (Brassica napus).
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):89958-02-1
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:8001-54-5
+FIELD CA Index Name:Quaternary ammonium compounds, alkylbenzyldimethyl, chlorides
+FIELD Other Names:Ammonium compounds, substituted, alkylbenzyldimethyl chlorides; Ammonium compounds, substituted, alkylbenzyldimethyl-chlorides; Ammonium salts, alkylbenzyldimethyl, chlorides; ADBAC; Alkylbenzyldimethylammonium chloride; Alkylbenzyldimethylammonium chlorides; Alkyldimethylbenzylammonium chloride; Arquad CB 30; BKZ; BTC; BTC 2565; BTC 471; BTC 80E; Benzalkon A; Benzalkonium chloride; Benzaltex; Biosperse 214N; Biowash; Cedium; Culversan LC 80; DesNovo; Dimanin A; Erional EL; Genamin KDS; Kemamine BAC; Konrapo; Leda benzalkonium chloride; Magna M 407; Major C 100; Mefarol; Morpan BC 50; Mycosan; Mycosan S; Neo germ-i-tol; Niccanon 50; Nika-ekstra M; Osvan; P 3-Triquart AP; Parvosol II RTU; Phagomucor; Preventol R 80; Preventol RI 50; Preventol RI 80; Pro-San; Quaternium 1; Quatramine 50; Rhodaquat RP 50; Rhodaquat RP 80; Rodalon; Romergal CB; Smeik; Suma Bac D 10; Surfac BAC 80; Topax DD; Torizon; Whisper V; Zephiran; Zephiran chloride
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Manual Registration , Concept
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):8011-91-4, 8036-90-6, 8039-63-2, 8045-21-4, 12741-06-9, 39434-18-9, 59890-14-1, 75635-12-0, 115003-70-8
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:8001-31-8
+FIELD CA Index Name:Coconut oil
+FIELD Other Names:Copra oil; Coconut oils; Cocos nucifera oil; Emafat CO 7; Fats and Glyceridic oils, coconut; Fats and Glyceridic oils, copra; Hardko; Hydrol 110; Koline; Koline 76; Lipovol C 76; Nikkol Trifat C 24; Oils, coconut; Oils, copra; Oils, glyceridic, coconut; Oils, glyceridic, copra; Oleum cocois; Palmin; Trifat C 24; Ultimate 92; Victory 76
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Component , Manual Registration , Concept
+FIELD Editor Note(s):
+FIELD Definition Field:Extractives and their physically modified derivatives.  It consists primarily of the glycerides of the fatty acids capric, lauric, myristic, oleic and palmitic. (Cocos nucifera).
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):8038-07-1, 8038-08-2, 84961-48-8, 890903-75-0
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:8001-26-1
+FIELD CA Index Name:Linseed oil
+FIELD Other Names:Linseed oil substitutes; Linseed-oil substitutes; Diggers; Eruboiruyu; Fats and Glyceridic oils, flaxseed; Fats and Glyceridic oils, linseed; Flax oil; Flaxseed oil; GP 1125; Hakujun'ama 6; Hakujun'ama 7; Kremer 73054; Linola 2090; Linoxin Oil H; Linseed oil, bleached; Linum seed oil; NuLin 50; OKO-M 25; Oils, glyceridic, flaxseed or linseed; Oleum Lini; Oleum semen Lini; P 1037; PU 104; Purolin; Purolin 2; Scan-Oil; Toenol 1140
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Manual Registration , Concept
+FIELD Editor Note(s):
+FIELD Definition Field:Extractives and their physically modified derivatives.  It consists primarily of the glycerides of the fatty acids linoleic, linolenic and oleic. (Linum usitatissimum).
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):68153-78-6, 68512-93-6, 90028-77-6
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:8001-22-7
+FIELD CA Index Name:Soybean oil
+FIELD Other Names:Soy bean oil; Soy oil; Soy-bean oil; AMCO; Best One Soya; Bionatrol; CAP 18; CAP 18 (oil); CT 7000; Degummed soybean oil; Destiny HC; Fats and Glyceridic oils, soybean; HY 3050; Imperial oil; J Soybean White Oil NS; K 1000; Kofa oil; Lipovenoes 10%PLR; Lipovenos; Lipovenous; Lipovenous MCT; Nisshin Soybean White Oil; Oils, glyceridic, soybean; Plenish 8B; Plenish IRG 1010; Pro Tech Natur'l Spray Oil; RBD; RBD (vegetable oil); S-RBD; SD 81; SEH 77-30P; SEH 77-7P; SO 5; Shogun CT; Soya fat; Soyabean oil; Soyacal; Soybean seed oil; Stealth NOW; TNsoy1; Uni Ace S; VT 18; VT 18 (oil); Vegetoil; Wesson
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Component , Manual Registration , Concept
+FIELD Editor Note(s):
+FIELD Definition Field:Extractives and their physically modified derivatives.  It consists primarily of the glycerides of the fatty acids linoleic, oleic, palmitic and stearic. (Soja hispida).
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):8030-22-6, 84776-91-0, 152059-96-6, 358980-39-9
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:7791-20-0
+FIELD CA Index Name:Nickel chloride (NiCl2), hexahydrate (8CI,9CI)
+FIELD Other Names:Nickel chloride (NiCl2) hydrate (1:6); Nickel chloride hexahydrate; Nickel chloride hexahydrate (NiCl2.6H2O); Nickel dichloride hexahydrate; Nickel(2+) chloride hexahydrate; Nickel(II) chloride hexahydrate
+FIELD Formula:Cl2 Ni . 6 H2 O
+FIELD Alternate Formula:
+FIELD Class Identifier:
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:7791-18-6
+FIELD CA Index Name:Magnesium chloride (MgCl2), hydrate (1:6)
+FIELD Other Names:Magnesium chloride (MgCl2), hexahydrate (9CI); Magnesium chloride, hexahydrate (8CI); Magnesium chloride (MgCl2) hydrate (1:6); Bishopite; Crystallin CS; Magnesium chloride hexahydrate; Magnesium chloride hexahydrate (MgCl2.6H2O); Magnesium chloride hydrate (MgCl2.6H2O); Magnesium dichloride hexahydrate; Magnesium(II) chloride hexahydrate
+FIELD Formula:Cl2 Mg . 6 H2 O
+FIELD Alternate Formula:
+FIELD Class Identifier:
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:7789-78-8
+FIELD CA Index Name:Calcium hydride (CaH2)
+FIELD Other Names:Calcium dihydride; Calcium hydride
+FIELD Formula:Ca H2
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):57308-10-8
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:7758-16-9
+FIELD CA Index Name:Diphosphoric acid, sodium salt (1:2)
+FIELD Other Names:Diphosphoric acid, disodium salt (9CI); Pyrophosphoric acid, disodium salt (8CI); Sodium pyrophosphate (Na2H2P2O7) (6CI); Dihydrogen disodium pyrophosphate; Disodium acid pyrophosphate; Disodium dihydrogen diphosphate; Disodium dihydrogen diphosphate (Na2H2P2O7); Disodium dihydrogen pyrophosphate; Disodium diphosphate; Disodium pyrophosphate; Disodium pyrophosphate (Na2H2P2O7); E 450i; SAPP; SAPP 40; SAPP-RD 1; Sodium hydrogen phosphate (Na2H2P2O7)
+FIELD Formula:H4 O7 P2 . 2 Na
+FIELD Alternate Formula:
+FIELD Class Identifier:
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):10101-84-5
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:7756-94-7
+FIELD CA Index Name:1-Propene, 2-methyl-, trimer
+FIELD Other Names:Propene, 2-methyl-, trimer (6CI,7CI,8CI); IP 1620R; Isobutene trimer; Isobutylene trimer; NAS 3; Triisobutylene
+FIELD Formula:(C4 H8)3
+FIELD Alternate Formula:
+FIELD Class Identifier:Polymer , Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:7705-08-0
+FIELD CA Index Name:Iron chloride (FeCl3)
+FIELD Other Names:Bellair green plus; Clarfer; Clayfec; Danube clear classic; Donau klar classic; FC-Pix; Ferric chloride; Ferric trichloride; Ferrisol Cl 130; Flores martis; Iron chloride; Iron perchloride; Iron trichloride; Iron(III) chloride; Kemira PIX-111; NSC 135798; NSC 51150; PIX 311; Riedel 12322; Trifloc; ViscoStat Plus
+FIELD Formula:Cl3 Fe
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):12178-83-5, 130622-20-7, 774583-10-7
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:7647-40-7
+FIELD CA Index Name:Bicyclo[4.2.1]nonan-9-one, 7-methyl-, (2,4-dinitrophenyl)hydrazone, exo- (8CI)
+FIELD Other Names:
+FIELD Formula:C16 H20 N4 O4
+FIELD Alternate Formula:
+FIELD Class Identifier:
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:7446-70-0
+FIELD CA Index Name:Aluminum chloride (AlCl3)
+FIELD Other Names:Aluminum chloride (8CI); Aluminium chloride; Aluminium trichloride; Aluminum trichloride; Aluminum(III) chloride; Hemogin L; Hemostop; Lutan FN; NSC 143015; NSC 143016; TK Flock; Takibine 100; Trichloroaluminum
+FIELD Formula:Al Cl3
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):41630-01-7, 125690-94-0, 195436-38-5, 255839-01-1, 1161430-81-4, 1332483-60-9, 1818401-35-2
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:773-18-2
+FIELD CA Index Name:2H,6H-8a,4a-Propenopyrano[3,2-b]pyran (8CI,9CI)
+FIELD Other Names:
+FIELD Formula:C11 H12 O2
+FIELD Alternate Formula:
+FIELD Class Identifier:Ring Parent
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+

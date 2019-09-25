@@ -1,0 +1,550 @@
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:111-40-0
+FIELD CA Index Name:1,2-Ethanediamine, N1-(2-aminoethyl)-
+FIELD Other Names:1,2-Ethanediamine, N-(2-aminoethyl)- (9CI); Diethylenetriamine (8CI); N1-(2-Aminoethyl)-1,2-ethanediamine; 1,4,7-Triazaheptane; 1,5-Diamino-3-azapentane; 2,2'-Diaminodiethylamine; 2,2'-Iminobis(ethanamine); 2-(2-Aminoethylamino)ethylamine; 3-Azapentane-1,5-diamine; 3-Azapentanediyl-1,5-diamine; Amosil 4H; Ancamine DETA; Bis(2-aminoethyl)amine; Bis(β-aminoethyl)amine; ChS-P 1; ChS-P 11; D 93856; DEH 20; DETA; Epicure 3223; Epicure 3290; Epicure T; Epikure 3223; Epon 3223; FS-B 412; H 9506; JER Cure T; JER-T; N,N-Bis(2-aminoethyl)amine; N-(2-Aminoethyl)-1,2-ethanediamine; N-(2-Aminoethyl)ethylenediamine; NCI 138881; NSC 446; P 11; P 11 (crosslinking agent)
+FIELD Formula:C4 H13 N3
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):8076-55-9, 26915-78-6, 53303-76-7, 54018-92-7, 59135-90-9, 73989-30-7, 94700-17-1, 98824-35-2, 203009-17-0, 419553-44-9, 859039-00-2, 1078151-43-5, 1380230-30-7, 1801663-13-7
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:110-54-3
+FIELD CA Index Name:Hexane
+FIELD Other Names:NSC 68472; Skellysolve B; n-Hexane
+FIELD Formula:C6 H14
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):8031-34-3
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:109-55-7
+FIELD CA Index Name:1,3-Propanediamine, N1,N1-dimethyl-
+FIELD Other Names:1,3-Propanediamine, N,N-dimethyl- (6CI,8CI,9CI); N1,N1-Dimethyl-1,3-propanediamine; (3-Aminopropyl)dimethylamine; (3-Dimethylaminopropan-1-yl)amine; 1-(Dimethylamino)-3-aminopropane; 1-Amino-3-(dimethylamino)propane; 3-(Dimethylamino)-1-aminopropane; 3-(Dimethylamino)-1-propanamine; 3-(Dimethylamino)-1-propylamine; 3-(Dimethylamino)propanamine; 3-(Dimethylamino)propylamine; 3-(N,N-Dimethylamino)-1-propylamine; 3-Amino-1-(dimethylamino)propane; 3-N,N-Dimethylaminopropylamine; DMAPA; N,N-Dimethyl-1,3-diaminopropane; N,N-Dimethyl-1,3-propanediamine; N,N-Dimethyl-1,3-propylenediamine; N,N-Dimethyl-3-aminopropylamine; N,N-Dimethyl-N-(3-aminopropyl)amine; N,N-Dimethylaminopropyl-1-amine; N,N-Dimethylpropylenediamine; N,N-Dimethyltrimethylenediamine; N-(3-Dimethylaminopropyl)amine; N-Aminopropyl-N,N-dimethylamine; N1,N1-Dimethylpropane-1,3-diamine; NSC 1067; N',N'-Dimethylpropane-1,3-diamine; U-CAT 2000; γ-Dimethylaminopropylamine
+FIELD Formula:C5 H14 N2
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):68497-58-5, 1190921-64-2
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:108-32-7
+FIELD CA Index Name:1,3-Dioxolan-2-one, 4-methyl-
+FIELD Other Names:Carbonic acid, cyclic propylene ester (8CI); Carbonic acid, propylene ester (6CI); 4-Methyl-1,3-dioxolan-2-one; 1,2-Propanediol carbonate; 1,2-Propanediol cyclic carbonate; 1,2-Propanediyl carbonate; 1,2-Propylene carbonate; 1-Methylethylene carbonate; 2-Methyl-1,2-ethylene carbonate; 2-Oxo-4-methyl-1,3-dioxolane; 4-Methyl-1,3-dioxolane-2-one; 4-Methyl-2-oxo-1,3-dioxolane; Arconate 1000; Arconate 5000; Arconate HP; Arconate propylenecarbonate; Carbonic acid cyclic 1,2-propylene ester; Carbonic acid cyclic methylethylene ester; Cyclic 1,2-propylene carbonate; Cyclic methylethylene carbonate; Cyclic propylene carbonate; Fluor Solvent; JN 02; Jeffsol AG 1555; Jeffsol PC; Methyl-1,3-dioxolan-2-one; NSC 11784; NSC 1913; PC Medion; PC-HP; Propylene carbonate; Propylene glycol cyclic carbonate; Texacar PC
+FIELD Formula:C4 H6 O3
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):30141-77-6, 104083-03-6, 127128-76-1
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:108-24-7
+FIELD CA Index Name:Acetic acid, 1,1'-anhydride
+FIELD Other Names:Acetic acid, anhydride (9CI); Acetic anhydride (8CI); Acetic oxide; Acetyl acetate; Acetyl anhydride; Acetyl ether; Acetyl oxide; Ethanoic anhydride
+FIELD Formula:C4 H6 O3
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:108-01-0
+FIELD CA Index Name:Ethanol, 2-(dimethylamino)-
+FIELD Other Names:2-(Dimethylamino)ethanol; (2-Hydroxyethyl)dimethylamine; (Dimethylamino)ethanol; (N,N-Dimethylamino)ethanol; 2-(Dimethylamino)ethyl alcohol; 2-(N,N-Dimethylamino)ethanol; Amietol M 21; Aminoalcohol 2mabs; Bimanol; DMAE; DMEA; Dabco DMEA; Deanol; DeuAdd MA 95; Dimethol; Dimethyl MEA; Dimethyl(2-hydroxyethyl)amine; Dimethyl(hydroxyethyl)amine; Dimethylethanolamine; Dimethylmonoethanolamine; Jeffcat DMEA; Kalpur P; Lupragen N 101; MA 95; N,N-Dimethyl(2-hydroxyethyl)amine; N,N-Dimethyl-2-aminoethanol; N,N-Dimethyl-2-ethanolamine; N,N-Dimethyl-N-(β-hydroxyethyl)amine; N,N-Dimethyl-β-hydroxyethylamine; N,N-Dimethylethanolamine; N-(2-Hydroxyethyl)-N,N-dimethylamine; N-(2-Hydroxyethyl)dimethylamine; NSC 2652; Niax DMEA; Norcholine; PC CAT DMEA; Propamine A; Rexolin; T 80; Tegoamin DMEA; Texacat DME; Texacat DMEA; Thancat DME; β-(Dimethylamino)ethanol; β-Dimethylaminoethyl alcohol; β-Hydroxyethyldimethylamine
+FIELD Formula:C4 H11 N O
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):116134-09-9, 156681-25-3, 1404326-81-3
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:104-55-2
+FIELD CA Index Name:2-Propenal, 3-phenyl-
+FIELD Other Names:Cinnamaldehyde (8CI); 3-Phenyl-2-propenal; 3-Phenyl-2-propen-1-al; 3-Phenyl-2-propenaldehyde; 3-Phenyl-2-propene-1-al; 3-Phenylacrolein; 3-Phenylacrylaldehyde; 3-Phenylpropenal; Abion CA; Benzylideneacetaldehyde; Cassia aldehyde; Cinnacure; Cinnamal; Cinnamic aldehyde; Cinnamite; Cinnamyl aldehyde; NSC 16935; NSC 40346; Phenylacrolein; XC 800; Zimtaldehyde; β-Phenylacrolein
+FIELD Formula:C9 H8 O
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:104-40-5
+FIELD CA Index Name:Phenol, 4-nonyl-
+FIELD Other Names:Phenol, p-nonyl- (6CI,8CI); 4-Nonylphenol; 4-n-Nonyl phenol; p-NP; p-Nonylphenol; p-n-Nonylphenol
+FIELD Formula:C15 H24 O
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):29832-11-9
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:102-71-6
+FIELD CA Index Name:Ethanol, 2,2',2''-nitrilotris-
+FIELD Other Names:Ethanol, 2,2',2''-nitrilotri- (8CI); 2,2',2''-Nitrilotris[ethanol]; 2,2',2''-Nitrilotriethanol; 2-[Bis(2-hydroxyethyl)amino]ethanol; Alkanolamine 244; Biafine; Daltogen; N,N,N-Tri(2-hydroxyethyl)amine; NSC 36718; Nitrilotriethanol; Rhenofit 3555; S 80; S 80 (amine); Sterolamide; Sting-Kill; TEA; TEA (amino alcohol); TEA 99; TEA 99LFG; TEOA; TEOA 99; Tri(2-hydroxyethyl)amine; Triethanolamin; Triethanolamine; Tris(2-hydroxyethyl)amine; Tris(β-hydroxyethyl)amine; Tris-amino Ultra PC; Trolamine; Trolamine 99NF; tris-(2-Hydroxyethyl)amine
+FIELD Formula:C6 H15 N O3
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):36549-53-8, 36549-54-9, 36549-55-0, 36659-79-7, 105655-27-4, 126068-67-5, 464917-26-8, 1429745-86-7
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:100-97-0
+FIELD CA Index Name:1,3,5,7-Tetraazatricyclo[3.3.1.13,7]decane
+FIELD Other Names:Hexamethylenetetramine (8CI); 1,3,5,7-Tetraazaadamantane; 1,3,5,7-Tetraazatricyclo[3.3.1.13,7]decane (Urotropine); Accelerator H; Aceto HMT; Aminoform; Ammoform; Antihydral; Cohedur H 30; Cystogen; Duirexol; EL 10; EL 10 (corrosion inhibitor); Ekagom H; Formamine; Formin; Formin (heterocycle); HA; HEXA 80; HMT; HMTA; Heksa K; Herax UTS; Heterin; Hexa; Hexa (vulcanization accelerator); Hexa B; Hexa-Flo-Pulver; Hexaform; Hexamethylenamine; Hexamine; Hexamine (heterocycle); Hexamine Superfine; Hexasan; Methenamide; Methenamin; Methenamine; NSC 26346; NSC 403347; Nocceler H; Nocceler H-PO; Preparation AF; Rhenogran HEXA 80; Rhenogran HEXA 80SBR; S 4; S 4 (heterocycle); Sanceler H; Sanceler HT; Sanceler HT-PO; Thixon 715B; Uramin; Uratrine; Uritone; Urodeine; Urotropin; Urotropine; Vulkacit H; Vulkacit H 30; Xametrin
+FIELD Formula:C6 H12 N4
+FIELD Alternate Formula:
+FIELD Class Identifier:Ring Parent , Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):11103-67-6, 15978-33-3, 56549-34-9, 74734-16-0, 91773-48-7, 187285-07-0, 1556839-80-5
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:100-44-7
+FIELD CA Index Name:Benzene, (chloromethyl)-
+FIELD Other Names:Toluene, α-chloro- (8CI); (Chloromethyl)benzene; 1-Chloromethylbenzene; Benzyl chloride; Bnol; Chlorophenylmethane; NSC 8043; Phenylmethyl chloride; Tolyl chloride; α-Chlorotoluene; ω-Chlorotoluene
+FIELD Formula:C7 H7 Cl
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:89-65-6
+FIELD CA Index Name:D-erythro-Hex-2-enonic acid, γ-lactone
+FIELD Other Names:D-erythro-Hexonic acid, 3-keto-, γ-lactone (6CI); Erythorbic acid (7CI); Araboascorbic acid; Araboascorbic acid, D-; D-(-)-Isoascorbic acid; D-Araboascorbic acid; D-Erythorbic acid; D-Isoascorbic acid; D-arabino-Ascorbic acid; E 315; Erycorbin; Glucosaccharonic acid; Isoascorbic acid; Isovitamin C; Mercate 5; NSC 8117; Neo-Cebicure; Saccharosonic acid
+FIELD Formula:C6 H8 O6
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):74242-57-2, 98966-42-8
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:88-99-3
+FIELD CA Index Name:1,2-Benzenedicarboxylic acid
+FIELD Other Names:Phthalic acid (8CI); M 2; NSC 5348; Sunftal 20; o-Benzenedicarboxylic acid; o-Carboxybenzoic acid; o-Dicarboxybenzene
+FIELD Formula:C8 H6 O4
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):4401-64-3
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:85-44-9
+FIELD CA Index Name:1,3-Isobenzofurandione
+FIELD Other Names:Phthalic anhydride (8CI); 1,2-Benzenedicarboxylic anhydride; 1,3-Phthalandione; 2-Benzofuran-1,3-dione; ADP 1200; Araldite HT 901; ESEN; HT 901; NSC 10431; OP 392; Phthalandione; Phthalanhydride; Phthalic acid anhydride; Retarder AK; Retarder B-C; Retarder ESEN; Retarder PD; Rikacid PA; Sconoc 5; Sconoc 7; TGL 6525; Vulkalent B/C
+FIELD Formula:C8 H4 O3
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):39363-63-8
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:79-21-0
+FIELD CA Index Name:Ethaneperoxoic acid
+FIELD Other Names:Peroxyacetic acid (8CI); Acecide; Acetic peroxide; Acetyl hydroperoxide; Agrosteril 110; Agrosteril 110SL; CaiBingLing; Desoxon 1; EnviroSan; Estosteril; Hydroperoxide, acetyl; Incimaxx Aqua S; LCAP; Monoperacetic acid; Osbon AC; Oxigreen 010; Oxypel; Ozonit; PES 15/23; Peracetic acid; Peraclean 15; Peraclean 35; Peraclean Ocean; Perasafe; Percidin 535; Peresal; Perethanoic acid; Peroxoacetic acid; Proxitane 12A; Proxitane 15; Proxitane 1507; Proxitane 1512; Proxitane 4002; Proxitane 5; Proxitane Alfa; Proxitane S; Redoxx 60; Steridial P; Steris 20; Synergize P 22; Tsunami; Tsunami 100; Tsunami 200
+FIELD Formula:C2 H4 O3
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):89370-71-8, 232259-02-8
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:79-06-1
+FIELD CA Index Name:2-Propenamide
+FIELD Other Names:Acrylamide (8CI); Acrylic amide; Bio-Acrylamide 50; DM 206; Ethylenecarboxamide; NSC 7785; Propenamide; Vinyl amide
+FIELD Formula:C3 H5 N O
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):1198293-68-3
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:78-40-0
+FIELD CA Index Name:Phosphoric acid, triethyl ester
+FIELD Other Names:Ethyl phosphate; Fyrol TEP; Levagard TEP; Levagard TEP-Z; NSC 2677; SP 0724; TEP; Triethoxyphosphine oxide; Triethyl phosphate
+FIELD Formula:C6 H15 O4 P
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:77-92-9
+FIELD CA Index Name:1,2,3-Propanetricarboxylic acid, 2-hydroxy-
+FIELD Other Names:Citric acid (8CI); 2-Hydroxy-1,2,3-propanetricarboxylic acid; 2-Hydroxy-1,2,3-propanetricarboxyic acid; 2-Hydroxypropan-1,2,3-tricarboxylic acid; 3-Carboxy-3-hydroxypentane-1,5-dioic acid; 3-Hydroxy-3-carboxy-1,5-pentanedioic acid; 8: PN: WO2017048620 SEQID: 13 claimed sequence; Aciletten; BioLink Acidifier; C 1949; Celenex 3P6; Cellborn SC-C; Chemfill; Citretten; Citric acid monoglyceride; Citro; E 330; EL 4; EL 4 (polycarboxylic acid); F 0001 (polycarboxylic acid); F 3500; F 4020; FE 2; Grindsted Pro Tex TR 100; Hydrocerol A; INS 330; Jet Setter; KK 120; Monoglyceride citrate; NSC 112226; NSC 30279; NSC 626579; PAS 33; Suby G; TBA 80; Uro-trainer
+FIELD Formula:C6 H8 O7
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):12262-73-6, 43136-35-2, 136108-93-5, 245654-34-6, 623158-96-3, 856568-15-5, 878903-72-1, 890704-54-8, 896506-46-0, 906507-37-7, 1192555-95-5, 2023788-69-2
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:75-91-2
+FIELD CA Index Name:Hydroperoxide, 1,1-dimethylethyl
+FIELD Other Names:tert-Butyl hydroperoxide (8CI); 1,1-Dimethylethyl hydroperoxide; 2-Hydroperoxy-2-methylpropane; Cadox TBH; Kayabutyl H; Kayabutyl H 70; Luperox H 70; Luperox TBH 70X; Luperox TBHP; NSC 672; Perbutyl H; Perbutyl H 69; Perbutyl H 69T; Perbutyl H 80; T-HYDRO; TBHP; Trigonox A-W 70; t-Butyl hydroperoxide; tert-Butyl hydrogen peroxide
+FIELD Formula:C4 H10 O2
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:75-57-0
+FIELD CA Index Name:Methanaminium, N,N,N-trimethyl-, chloride (1:1)
+FIELD Other Names:Ammonium, tetramethyl-, chloride (8CI); Methanaminium, N,N,N-trimethyl-, chloride (9CI); Tetramethylammonium chloride (6CI); TMAC 100; Tetramine; Tetramine chloride
+FIELD Formula:C4 H12 N . Cl
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):79098-37-6, 251459-49-1
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:75-12-7
+FIELD CA Index Name:Formamide
+FIELD Other Names:Carbamaldehyde; Formimidic acid; Methanamide; NSC 748
+FIELD Formula:C H3 N O
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):23296-41-5, 1156543-55-3, 1158234-15-1
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:75-07-0
+FIELD CA Index Name:Acetaldehyde
+FIELD Other Names:Acetic aldehyde; Ethanal; Ethyl aldehyde; NSC 7594
+FIELD Formula:C2 H4 O
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:71-48-7
+FIELD CA Index Name:Acetic acid, cobalt(2+) salt (2:1)
+FIELD Other Names:Acetic acid, cobalt(2+) salt (8CI,9CI); Cobalt acetate (6CI); Bis(acetato)cobalt; Cobalt acetate (Co(OAc)2); Cobalt diacetate; Cobalt(2+) acetate; Cobalt(II) acetate; Cobaltous acetate; Cobaltous diacetate
+FIELD Formula:C2 H4 O2 . 1/2 Co
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):33327-32-1, 68279-06-1, 73005-84-2, 256431-41-1
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:68-12-2
+FIELD CA Index Name:Formamide, N,N-dimethyl-
+FIELD Other Names:N,N-Dimethylformamide; DMF; DMF (amide); DMFA; Dimethylformamide; N,N-Dimethylformaldehyde; N,N-Dimethylmethanamide; N-Formyldimethylamine; NSC 5356; Virodene-P 058
+FIELD Formula:C3 H7 N O
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):15175-63-0, 15175-77-6, 33513-42-7, 114057-15-7
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:64-18-6
+FIELD CA Index Name:Formic acid
+FIELD Other Names:Add-F; Add-F (silage additive); Amasil; Amasil 85; Ameisensaure; Aminic acid; Bilorin; Collo-Bueglatt; Collo-Didax; Ensilox; Formira; Formisoton; Formylic acid; Hydrogen carboxylic acid; Methanoic acid; Methanoic acid monomer; Myrmicyl; Sybest; Wonderbond Hardener M 600L
+FIELD Formula:C H2 O2
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):8006-93-7, 67382-92-7, 82069-14-5, 1016316-60-1
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+

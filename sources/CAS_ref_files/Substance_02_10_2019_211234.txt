@@ -1,0 +1,286 @@
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:113184-20-6
+FIELD CA Index Name:Zirconium, hydroxy lactate sodium complexes
+FIELD Other Names:
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Manual Registration , Generic Registration
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:US Environmental Protection Agency (US EPA)
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:101033-44-7
+FIELD CA Index Name:Zirconium, tetrakis[2-[bis(2-hydroxyethyl)amino-κN]ethanolato-κO]-
+FIELD Other Names:Zirconium, tetrakis[[2,2',2''-nitrilotris[ethanolato]](1-)-N,O]-; Ethanol, 2,2',2''-nitrilotris-, zirconium complex; Tetrakis[2-[bis(2-hydroxyethyl)amino-κN]ethanolato-κO]zirconium; Tetrakis(triethanolaminato)zirconium; Tetrakis(triethanolaminato)zirconium(IV); ZR 802
+FIELD Formula:C24 H56 N4 O12 Zr
+FIELD Alternate Formula:
+FIELD Class Identifier:Coordination Compound
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):779325-63-2, 1565858-08-3, 2110429-71-3
+FIELD Source of Registration:European Union (EU)
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:68130-15-4
+FIELD CA Index Name:Guar gum, carboxymethyl 2-hydroxypropyl ether, sodium salt
+FIELD Other Names:Sodium carboxymethyl hydroxypropyl guar; T 4246
+FIELD Formula:C3 H8 O2 . x C2 H4 O3 . x Na . x Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:64742-47-8
+FIELD CA Index Name:Distillates (petroleum), hydrotreated light
+FIELD Other Names:Hydrotreated light distillate (petroleum)
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Manual Registration , Concept
+FIELD Editor Note(s):
+FIELD Definition Field:A complex combination of hydrocarbons obtained by treating a petroleum fraction with hydrogen in the presence of a catalyst.  It consists of hydrocarbons having carbon numbers predominantly in the range of C9 through C16 and boiling in the range of approximately 150°C to 290°C (302°F to 554°F).
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):101795-05-5
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:64741-85-1
+FIELD CA Index Name:Raffinates (petroleum), sorption process
+FIELD Other Names:Sorption process raffinate (petroleum)
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Manual Registration , Concept
+FIELD Editor Note(s):
+FIELD Definition Field:A complex combination of hydrocarbons remaining after removal of normal paraffins in a selective adsorption process.  It consists predominantly of branched chain and cyclic hydrocarbons having carbon numbers predominantly in the range of C5 through C25 and boiling in the range of approximately 35°C to 400°C (95°F to 752°F).
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:9003-05-8
+FIELD CA Index Name:2-Propenamide, homopolymer
+FIELD Other Names:Acrylamide, polymers (8CI); 2-Propenamide hydrochloride homopolymer; 2300S; 2J; 38F; 920MPM; AH 912SH; AK; AK (flocculant); AMF; AP 273; ASP 6; Ab 995V; Accotrol S 622; Acrylamide homopolymer; Acrylamide polymer; Acryperse M 2000A; Acryperse M 2000H; Alcoflood 1175; American Cyanamid KPAM; American Cyanamid P 250; Aminogen PA; Amol; Aquamid; Aquasorb 3005KB; Aron F 40; BanDrift; Boze Floc N 46BT; C 3012; CM 303; CM 311; CM 311 (polymer); CPF 802; CR 501; CR 501 (polyamide); CS 141; CS 141 (polymer); CT 9-15; Calgon 470; Calgon 800; Cogum 20P; Cogum 25H; Colsize WLV; Companion PCT 12; Cosmogel; Cosmotone Z; Criterion TGX Any kD Stain-Free Precast Gel; Cyanamer A 15L; Cyanamer N 10; Cyanamer N 100; Cyanamer N 100L; Cyanamer N 300; Cyanamer N 300LMW; Cyanamer P 250; Cyanamer P 35; Cytame 5; DALT; DK Dry Capsule ESP; DKS-ORP-F 40NT; DP 1916; DP 9-6193; DP 9-8177; DP-FO; DS 415; DS 4356; DS 470; Diaclear MA 3000H; Diaclear MN 3000; Diaclear MN 3000H; Dimar; Discol 4600; Dow 164; Dow ET 597; Dow J 100; E 936; ET 597; EX 288; EX 420; F 1260; FA 920SA; FE 2; FO 4190PG1; FO 4290PG2; FP 3230S; Fennopol K 6450; Floc 1403C; Floc 1405C; Floc 1408C; Flopam AN 945; Flosperse 3000; Flygtol GB; Formacryl; Formula 358; G 9210; GPA-u; Gelamide 250; Get-Down; H 106; H 106 (acrylic resin); HB 600; HB 600 (thickener); HWG 13059; Hamacoat P 3800; Haricoat 1057; Haricoat 6045; Haricoat G 160; Haricoat G 51; Harmide EX 400; Harmide K 123; Harmide RB 32; Himoloc ND 270; Himoloc OK 507; Himoloc SS 200; Hiset P 700; Hiset P 700SN; Hiset PN 550; Hiset PN 750; Hydraid 6696EZ; Hyperfloc NF 221; IPM 320; Instar NS; J 100; J 100 (polymer); K 4; K 4 (acrylic polymer); K-PAM; KAL 13; KP 4405; KS 533; KW 677; Kuricoat C 402; Lamflood 746; MN 3000; MS 4000HSF; Magnafloc E 30; Magnifloc 900N; Marwit SU 4; Marwit SU 8; Meipam M 200; Migunon NS; Mirbane 301; Multifloc 231; Multigel 10/20; Multigel 2/15; Multigel 4/20; Myresin R 10L; N 1986; N 300; N 300MLW; N 601; N 601 (acrylic polymer); ND 270; NL; NP 3010; Nalco 7871; Nalco 8871; Nalco Lp 3033; Nalsize 7541; Nisshin Furokku N 70M; Nisshin Furokku N 70VH; Nordfloc AN 920SH; Orfloc ON 2; P 250; P 250 (polymer); P 300; P 300 (polyacrylamide); P 3320; PA 04; PA 04 (polyacrylamide); PA 07; PAA; PAA 1; PAA 2K; PAA 70L; PAM; PAM (homopolymer); PAM 3330; PAM 50; PAM-P; PC 305; PF-LENV; PS 117; PS 1250; Pamid; Pararokku 2A111; Parasol MG; Percol 2300; Percol 2305; Percol 333; Percol 3335; Percol 540; Plex 4847D; Polias 320; Polyacron KR 143; Polyacrylamide; Polyacrylamide resin; Polyacrylon PD 365R; Polyhall 2J; Polyhall 5J; Polymerset 117; Polymerset 460; Polymerset 512; Polymerset 531; Polymerset B; Polymerset C 305; Polymerset PJ 911; Polymin 470; Polymin KE 2025; Polymin KP 2520; Polymin PR 8140; Polysic; Polystron 117; Polystron 1260; Polystron 1274C; Polystron 145; Polystron 191; Polystron 194-7; Polystron 197; Polystron 503; Polytex A 363; Polytex EC; Pomosist 117; Praestol 2500; Praestol 2510N; Praestol 2800; Praestol 2810/73; Praestol 6000; Proquim 17-14; Quick Floc; Quick Floc (polymer); RS 7-22; RSL 9400; Rheolate 402; Rira Gum SJ 108; S 602; SFA 120; SNG 3; ST 50000; Sanfloc AL 310P; Sanpoly A 520; Santac CS 18; Santac NP 10; Santac NP 11; Santac NP 14; Santac SP 66; Santac SP 67; Seabetter AD; Sedifloc 435C; Sedifloc 438C; Sedifloc 710; Sedifloc 740; Sedipur TF; Sedipur TF 514; Sepaflux CE 5174; Shallol AM 253P; Solidokoll K; Solvitose 433; Stargum AD-S; Stockosorb KL; Stokopol D 2624; Sumifloc FN 10H; Sumirez 886; Sumirez A 17; Sumirez A 27; Superfloc N 1986; Superfloc N 300LMW; Sursolan P 5; TB 031; TRP 1044; TY 007; Takiflock AL 65; Texapret AM; Tulsepar PNS 1; VN 728; Versicol W 11; Versicol W 17; Versicol W 25; Versicol WN 15; Vistowall 300; Viterra II; WIN-NPH; X-Coat P 130C; X-Coat P 180S; X-Coat P 2000H; XT 65B; YSA 40; Zonen A; c-PAGEL
+FIELD Formula:(C3 H5 N O)x
+FIELD Alternate Formula:
+FIELD Class Identifier:Polymer , Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):9082-06-8, 12624-24-7, 25038-45-3, 27754-57-0, 31566-42-4, 33338-03-3, 39355-07-2, 39387-77-4, 51312-40-4, 57679-11-5, 68247-81-4, 72270-86-1, 79079-15-5, 104981-89-7, 114265-35-9, 122177-63-3, 124262-35-7, 129774-19-2, 133522-77-7, 143180-09-0, 143180-13-6, 143180-22-7, 143749-07-9, 200138-95-0, 210353-85-8, 223905-39-3, 443682-77-7, 449742-46-5, 1226898-28-7, 1229457-12-8, 1400274-08-9, 1621105-90-5, 1621105-93-8, 2098539-70-7, 2113610-86-7
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:9000-30-0
+FIELD CA Index Name:Guar gum
+FIELD Other Names:1212A; AS 80; Activsoft S; Aglumix BR; BG 1; Burtonite V 7E; C 1000; C 1000 (gum); C 250; C 250 (gum); CG 70; CP 3300; CSA 200/50; CSA-M 175; CSAA-M 80; Celbond 7; Celca-Gum D 49D; Cyamopsis gum; DCA 9A; DX 9; Dabisco DHV 74; Dealca P 225; Dealca TP 1; Dealca TP 2; Decorpa; Duck Gum 800; Dycol 4500; E 412; EGMB; Ecopol 5060; Edicol ULV 50; Emcogum CSAA; Emulgum 200; Emulgum 200S; F 21; F 21 (gum); FFH 200; FG 6070; FG-HV; Fine Gum G; Fine Gum G 17; Frimulsion BM; G 50; GR 10; GV 23/2; GW 3; GW 4; GW 45; GW 4AFG; Galactasol; Galactasol 20H5FI; Galactasol 211; Galactasol 270; Galactasol 30M1F; Galactasol 40H4FDS1; Galactasol 60H3FDS; Galaxy 1083; Gendril Thik; Gendriv 162; Grindsted Guar 175; Guapack PF 20; Guapack PN; Guar; Guar 5200; Guar Fiber; Guar Gum FG 6070; Guar Gum GU/F; Guar Gum XS 5000; Guar HV 7000 CPS; Guar Pack PF 20; Guar Supercol U Fine; Guar WW250F; Guar flour; Guaran; Guarcel 302; Guarcol F 50; Guarcol U 40; Guargel D 15; Gum cyamopsis; Gum guar; Gums, guar; HR 71-51D; HS 30R; Herbapeck SF 08; Higum 551; Inagel GR 10; Inagel GR 10C; Indalca AG; Indalca AG-BV; Indalca AG-HV; J 2Fp; J 3000; J 3000 (polysaccharide); Jaguar; Jaguar 170; Jaguar 2100; Jaguar 2204; Jaguar 2243; Jaguar 2513; Jaguar 2610; Jaguar 2638; Jaguar 308NB; Jaguar 387; Jaguar 4500F; Jaguar 6000; Jaguar 6003; Jaguar 6003VT; Jaguar 7500X; Jaguar 8200; Jaguar A 20B; Jaguar A 20D; Jaguar A 40F; Jaguar HP 140; Jaguar MDD; Jaguar MDD-I; Jaguar S; K 4492; KWL 2000; LGC 1; Lameprint DX 9; Lamgum 200; Lej Guar; Lipocard; Loloss; Lycoid DR; Meypro Guar CSAA M-100; Meypro Guar CSAA-M 175; Meypro-Guar 50; Meypro-Guar CSAA 200/50; Meypro-Guar CSAA-M 20; Meypro-Guar CSAA-M 225; Meyprodor 300; Meyprodor 400; Meyprodor 5; Meyprodor 50; Meyprofin M 175; Meyprogat 30; Meyprogat 7; Meyprogum L; Meyprogum TC 47; Meyproid 6700; NGL 8158; Neosoft; Neosoft G; Neosoft G 11; Neovisco G; Newgelin G 100; Novatex SC 2; Oruno G 1; Oruno G 2; PAK-T 80; PF 20; Papsize 7; Polycol WP 05; Polycol WP 10; Polycol WP 15; Polycol WP 20; Polytex 100; Procol F; Procol RF; Procol S 1; Procol U; RG 100; RG 1000; RT 3088; Rantec 4000; Rantec D 1; Rantec KP 4000; Regonol; Rein Guarin; SG; SG (guar gum); Sanbest NN 153; Seruparu SL 100; Soaguar RG 100; Stamulcol ULV 500; Super Tack; Supercol; Supercol G 2H; Supercol G 2S; Supercol GF; Supercol U; Supercol U Powder; Supergel 200; Supergel CSA; Supergel CSA 200/50; Supungeru GU 100; Syngum D 46D; TEGO Emulprot; Toshcol HV 77; Uni-Guar; Uniguar 80; VIS TOP B 20; VIS TOP D 1321; VIS TOP D 20; VIS TOP D 2022; VIS TOP D 2029; VIS TOP D 2081; VIS TOP LH 303; VLV; Vidocrem A; Vidocreme A; Vidogum; Vidogum G 120/1501; Vidogum G 200-1; Vidogum GH 175; Vidogum GHK 175; Viscogum BCR 13/80; Viscogum HV 100T; Viscogum HV 3000; Viscogum HV 3000A; Viscogum MP 41230; Vofone WP; WG 15; WG 19; WG 1L; WGA 15; WGA 15L; WOGU 4401; X 5363; α-D-Galactopyrano-β-D-mannopyranan; α-D-galacto-β-D-Mannan
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Polymer , Component , Manual Registration
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):9008-17-7, 9010-50-8, 9049-33-6, 9066-07-3, 53986-27-9, 57406-68-5, 57406-71-0, 63799-54-2, 85510-16-3, 1312293-38-1, 1541200-97-8, 2247894-05-7
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:1333-73-9
+FIELD CA Index Name:Boric acid, sodium salt
+FIELD Other Names:Sodium borate
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Component , Manual Registration
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):1344-07-6, 37331-49-0
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:1303-96-4
+FIELD CA Index Name:Borax (B4Na2O7.10H2O)
+FIELD Other Names:Borax (8CI); 20 Mule Team Borax; 20 Mule Team Borax Tech 4/200 Mesh; BR 100; BR 100 (borate); Borascu; Borax decahydrate; Boric acid (H2B4O7), disodium salt, decahydrate; Boricin; Boron sodium oxide (B4Na2O7), decahydrate; Bura; Disodium tetraborate decahydrate; Gerstley borate; M 9358; Sodium biborate decahydrate; Sodium borate (Na2B4O7), decahydrate; Sodium pyroborate; Sodium pyroborate decahydrate; Sodium tetraborate decahydrate; Solubor; Solubor DF; Three Elephant; Tincal
+FIELD Formula:B4 Na2 O7 . 10 H2 O
+FIELD Alternate Formula:
+FIELD Class Identifier:Mineral , Component , Manual Registration
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):1344-90-7, 12322-85-9, 12447-40-4, 61028-24-8, 71377-02-1, 910783-71-0, 950582-60-2, 1242163-03-6, 1443500-22-8, 1820039-99-3
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:107-21-1
+FIELD CA Index Name:1,2-Ethanediol
+FIELD Other Names:Ethylene glycol (8CI); Glycol (6CI,7CI); 1,2-Dihydroxyethane; 1,2-Ethylene glycol; 146AR; 2-Hydroxyethanol; Dowtherm SR 1; E 600; E 600 (glycol); Ethylene alcohol; Ethylene dihydrate; Fridex; Glycol alcohol; Glysil GS; MEG 100; Macrogol 400 BPC; Monoethylene glycol; NSC 93876; Norkool; Ramp; Tescol; Ucar 17; Union Carbide XL 54 Type I De-icing Fluid; Zerex
+FIELD Formula:C2 H6 O2
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):37221-95-7, 71767-64-1, 1371582-33-0, 2088100-90-5
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:77-92-9
+FIELD CA Index Name:1,2,3-Propanetricarboxylic acid, 2-hydroxy-
+FIELD Other Names:Citric acid (8CI); 2-Hydroxy-1,2,3-propanetricarboxylic acid; 2-Hydroxy-1,2,3-propanetricarboxyic acid; 2-Hydroxypropan-1,2,3-tricarboxylic acid; 3-Carboxy-3-hydroxypentane-1,5-dioic acid; 3-Hydroxy-3-carboxy-1,5-pentanedioic acid; 8: PN: WO2017048620 SEQID: 13 claimed sequence; Aciletten; BioLink Acidifier; C 1949; Celenex 3P6; Cellborn SC-C; Chemfill; Citretten; Citric acid monoglyceride; Citro; E 330; EL 4; EL 4 (polycarboxylic acid); F 0001 (polycarboxylic acid); F 3500; F 4020; FE 2; Grindsted Pro Tex TR 100; Hydrocerol A; INS 330; Jet Setter; KK 120; Monoglyceride citrate; NSC 112226; NSC 30279; NSC 626579; PAS 33; Suby G; TBA 80; Uro-trainer
+FIELD Formula:C6 H8 O7
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):12262-73-6, 43136-35-2, 136108-93-5, 245654-34-6, 623158-96-3, 856568-15-5, 878903-72-1, 890704-54-8, 896506-46-0, 906507-37-7, 1192555-95-5, 2023788-69-2
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:67-56-1
+FIELD CA Index Name:Methanol
+FIELD Other Names:Bieleski's solution; Carbinol; Methanol cluster; Methyl alcohol; Methyl hydroxide; Methylol; Monohydroxymethane; NSC 85232; Solutions, Bieleski's; Wood alcohol
+FIELD Formula:C H4 O
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):54841-71-3, 1173023-83-0
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:64-19-7
+FIELD CA Index Name:Acetic acid
+FIELD Other Names:7: PN: WO2017048620 SEQID: 12 claimed sequence; Acetic acids; Aci-Jel; E 260; Engage Agro; Ethanoic acid; Ethanoic acid monomer; Ethylic acid; Glacial acetic acid; HACP 85; Methanecarboxylic acid; Munger Horticultural Vinegar Plus; NSC 111201; NSC 112209; NSC 115870; NSC 127175; NSC 132953; NSC 406306; Vinegar acid; Weed Pharm
+FIELD Formula:C2 H4 O2
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):77671-22-8, 1053656-97-5
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+

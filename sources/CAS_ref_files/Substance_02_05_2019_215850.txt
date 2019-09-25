@@ -1,0 +1,198 @@
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:172343-37-2
+FIELD CA Index Name:Alkanes, C10-24-branched and linear
+FIELD Other Names:
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Manual Registration , Concept
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:CAS Client Services
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:27323-41-7
+FIELD CA Index Name:Benzenesulfonic acid, dodecyl-, compd. with 2,2',2''-nitrilotris[ethanol] (1:1)
+FIELD Other Names:Benzenesulfonic acid, dodecyl-, compd. with 2,2',2''-nitrilotriethanol (1:1) (6CI,8CI); Ethanol, 2,2',2''-nitrilotri-, dodecylbenzenesulfonate (salt) (6CI,8CI); Ethanol, 2,2',2''-nitrilotris-, dodecylbenzenesulfonate (salt) (9CI); Armostat 800; Basopal NA; Bio-Soft N 300; Calsoft T 60; Conco AAS Special; DeSulf DBS 60T; Decol T 70; Dodecylbenzenesulfonic acid triethanolamine salt; Elfan WAT; Laurylbenzenesulfonic acid triethanolamine salt; Lunox S 40T; Neogen T; Pilot TS 60; Runox S 40T; Sinnozon NT 45; Stepantan DT 60; Surco 60T; Triethanolamine dodecylbenzenesulfonate (salt); Triethanolamine dodecylbenzenesulfonic acid salt; Triethanolamine dodecylbenzosulfonate; Triethanolammonium dodecylbenzenesulfonate; Ultrawet 60L
+FIELD Formula:C18 H30 O3 S . C6 H15 N O3
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):1331-60-8, 26447-06-3, 57308-35-7, 59740-36-2, 73247-58-2
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:9034-48-4
+FIELD CA Index Name:Thyroid stimulator, long-acting
+FIELD Other Names:LATS; LATS (long-acting thyroid stimulator); Long-acting thyroid stimulator; Long-acting thyroid stimulators; Thydroid stimulators, long-acting
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Polymer , Manual Registration
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):9062-77-5
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:8061-53-8
+FIELD CA Index Name:Lignosulfonic acid, ammonium salt
+FIELD Other Names:ARBO-A 002; Ammonium ligninsulfonate; Ammonium lignosulfonate; Arbo A 02L; Arbo A 02P; Arbo T 11N5; Borresperse AM 320; Borresperse NH; Hansa Am-S; Lignosite 17; Lignosol NST 150; Lignosol TSD; Lignosol TSF; Lignosol TSF 65; NH 6L; NH 7L; Norlig P; Norlig TSD; Norlig TSFL; Norlig TSFL 4; Orzan A; Orzan AL 50; Orzan P; Peritan NH4; Petrolig ERA 27; TSSL; Totanin; Trex LTA; Vixil III; Wanin AM; Zewa DIS-TR
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Component , Manual Registration
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):9072-35-9, 12736-99-1, 69234-32-8
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:6654-64-4
+FIELD CA Index Name:1,3,5-Naphthalenetrisulfonic acid
+FIELD Other Names:
+FIELD Formula:C10 H8 O9 S3
+FIELD Alternate Formula:
+FIELD Class Identifier:
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:6474-02-8
+FIELD CA Index Name:Acetamide, N-[4-[[[(4-methylphenyl)sulfonyl](2-methyl-2H-tetrazol-5-yl)amino]sulfonyl]phenyl]-
+FIELD Other Names:Acetanilide, 4'-[(2-methyl-2H-tetrazol-5-yl)(p-tolylsulfonyl)sulfamoyl]- (7CI,8CI)
+FIELD Formula:C17 H18 N6 O5 S2
+FIELD Alternate Formula:
+FIELD Class Identifier:
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:1655-35-2
+FIELD CA Index Name:2,7-Naphthalenedisulfonic acid, sodium salt (1:2)
+FIELD Other Names:2,7-Naphthalenedisulfonic acid, disodium salt (8CI,9CI); 2,7-Disulfonaphthalene disodium salt; Disodium 2,7-naphthalenedisulfonate; Sodium 3,6-naphthalenedisulfonate
+FIELD Formula:C10 H8 O6 S2 . 2 Na
+FIELD Alternate Formula:
+FIELD Class Identifier:
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):1159813-19-0
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:592-41-6
+FIELD CA Index Name:1-Hexene
+FIELD Other Names:1-n-Hexene; Dialen 6; Hexene; Linealene 6; NSC 74121; α-Hexene
+FIELD Formula:C6 H12
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):33004-04-5, 153522-12-4
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:107-01-7
+FIELD CA Index Name:2-Butene
+FIELD Other Names:Pseudobutylene; β-Butene; β-Butylene
+FIELD Formula:C4 H8
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):1735-76-8
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+

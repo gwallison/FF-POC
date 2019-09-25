@@ -1,0 +1,550 @@
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:67701-33-1
+FIELD CA Index Name:Glycerides, C14-18 mono- and di-
+FIELD Other Names:
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Manual Registration , Concept
+FIELD Editor Note(s):
+FIELD Definition Field:This substance is identified by SDA Substance Name:  C14-C18 alkyl and C14-C18 dialkyl glyceride and SDA Reporting Number:  17-002-00.  Consult SDA Substance Identification Procedure.
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:67701-32-0
+FIELD CA Index Name:Glycerides, C14-18 and C16-18-unsaturated monoglycerides and diglycerides
+FIELD Other Names:Glycerides, C14-18 and C16-18-unsatd. mono- and di-; Glycerides, C14-18 and C16-18-unsatd. monoglycerides and diglycerides; Diglycerides, C14-18 and C16-18-unsatd. monoglycerides and diglycerides; Monoglycerides, C14-18 and C16-18-unsatd. monoglycerides and diglycerides; Alphadim 90NLK; Diglycerides, C14-18 and C16-18-unsaturated monoglycerides and diglycerides; Monoglycerides, C14-18 and C16-18-unsaturated monoglycerides and diglycerides
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Manual Registration , Concept
+FIELD Editor Note(s):
+FIELD Definition Field:This substance is identified by SDA Substance Name:  C14-C18 and C16-C18 unsaturated alkyl and C14-C18 and C16-C18 unsaturated dialkyl glyceride and SDA Reporting Number:  04-002-00.  Consult SDA Substance Identification Procedure.
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:67254-71-1
+FIELD CA Index Name:Alcohols, C10-12, ethoxylated
+FIELD Other Names:Alfonic 1012-5; Alfonic 1012-60; Berol 172; C10-12 alcs., ethoxylated; C10-12 ethoxylated alcohols; C10-12 ethoxylated alcs.; Ethoxylated alcohols, C10-12; Ethoxylated alcs., C10-12; Ethylan NS 70; HSC 800NRE; Ifralan 205; Ifralan D 0205; Marlipal KF; Novel 1012-6.2; Novel II 1012-5.5; Novel II 1012-7; Oxanol L 3S; Surfonic L 12-2.6; Vista 1012-55
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Manual Registration , Concept
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):11118-15-3, 60351-46-4, 62112-26-9
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:66455-14-9
+FIELD CA Index Name:Alcohols, C12-13, ethoxylated
+FIELD Other Names:AE 9; AE 9 (polyether); AEO 23-2A; Bio-Soft N 23-3; Brij LT 23; Brij LT 23SO-R3; Brij LT 4; C12-13 Pareth 3; C12-13 alcs., ethoxylated; C12/C13-EO15; Dobanol 23-10; Dobanol 23-3; Dobanol 23-4.5/6; Dobanol 23-5; Dobanol 23-8; Emulgen 507; Emulgen 703; Ethoxylated C12-13 alcs.; Ethoxylated Neodol 23; Ethoxylated alcohols, C12-13; Ethoxylated alcs., C12-13; Ethylan TD 3070; Imbentin C 123/100; Lealed 125AE3; Lialet 123-1; Lialet 123-2; Lialet 123-7; Marlowet EM 40; Marlowet EM 50; Marlowet EM 60; Marlowet EM 70; NI 23-9; NI 24-9; NLTE 85; Neodol 23-1; Neodol 23-2; Neodol 23-3; Neodol 23-3E; Neodol 23-3T; Neodol 23-4; Neodol 23-4.1; Neodol 23-5; Neodol 23-6.5; Neodol 23-9; Neopol 23-6.5; Newcol 2303; Newcol 2305; Newcol 2308; Newcol 2310; Newcol 2318; Newcol 2320; Newcol 2360; Newcol N 2320; Noigen ET 147; Noigen ET 167; Noigen ET 97; Nonidet S 3; Nonidet S 6.5; Nonidet S 7; Novel 23E1; Novel 23E2; Pionin D 1103D; SAEO 23-15AK; SAEO 23-5AK; SAEO 23-7.5AK; SAEO 23-9AK; SLAO; SLAO 90; Safol 23E5; Safol 23E6; Safol 23E7; Sasol 23E7; Slovasol 239; Slovasol 255; Surfonic L 24-4; Tomadol 23-1; Tomadol 23-3; Tomadol 23-5; Tomadol 23-6.5; Tomadol 23-65
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Manual Registration , Concept
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):54066-13-6, 57534-32-4, 68954-93-8, 70694-96-1, 191744-22-6, 225375-39-3, 227612-65-9, 306295-38-5, 600156-37-4, 890898-21-2, 910567-84-9
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:65997-18-4
+FIELD CA Index Name:Frits, chemicals
+FIELD Other Names:
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Manual Registration , Concept
+FIELD Editor Note(s):
+FIELD Definition Field:Frit is a mixture of inorganic chemical substances produced by rapidly quenching a molten, complex combination of materials, confining the chemical substances thus manufactured as nonmigratory components of glassy solid flakes or granules.  This category includes all of the chemical substances specified below when they are intentionally manufactured in the production of frit.  The primary members of this category are oxides of some or all of the elements listed below.  Fluorides of these elements may also be included in combination with these primary substances.
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:65997-12-8
+FIELD CA Index Name:Resin acids, polymd., esters with pentaerythritol
+FIELD Other Names:Resin acids and Rosin acids, polymd., esters with pentaerythritol; D 125; D 160; DP 2669; Ester Gum GR 7; Pensel D 125; Pensel D 135; Pensel D 160; Pensel KK; Pensel PH-A; Pentalyn 2590; Pentalyn 334; Rikarosin PCJ; Rikatac PCJ; TSR 1128
+FIELD Formula:C5 H12 O4 . Unspecified
+FIELD Alternate Formula:Unspecified
+FIELD Class Identifier:Component , Manual Registration , Concept
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):172521-01-6, 176742-07-7, 371113-28-9
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:65143-89-7
+FIELD CA Index Name:Benzenesulfonic acid, hexadecyl(sulfophenoxy)-, sodium salt (1:2)
+FIELD Other Names:Benzenesulfonic acid, hexadecyl(sulfophenoxy)-, disodium salt (9CI); Disodium cetyl diphenyl ether disulfonate; Hexadecyl(sulfophenyl) sulfophenyl ether disodium salt; Sodium monohexadecyldiphenyl ether disulfonate
+FIELD Formula:C28 H42 O7 S2 . 2 Na
+FIELD Alternate Formula:
+FIELD Class Identifier:Incompletely Defined Substance
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:65071-95-6
+FIELD CA Index Name:Tall oil, ethoxylated
+FIELD Other Names:Renex; Industrol TO 16HR; OKM; OKM (surfactant); OKM 10; OKM 12; OKM 50; OKM 60; OKM 75; T 13; T 13 (emulsifier); Teric T 2
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Manual Registration , Concept
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):8052-05-9, 62031-60-1, 75035-25-5
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:64771-72-8
+FIELD CA Index Name:Paraffins (petroleum), normal C5-20
+FIELD Other Names:Normal paraffins (petroleum)
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Manual Registration , Concept
+FIELD Editor Note(s):
+FIELD Definition Field:A complex combination of normal paraffins obtained by a selective adsorption process using a solid adsorbent such as a molecular sieve.  It consists of straight chain saturated hydrocarbons having carbon numbers predominantly in the range of C5 through C20 and boiling in the range of 35°C to 345°C (95°F to 653°F).
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:64743-01-7
+FIELD CA Index Name:Petrolatum (petroleum), oxidized
+FIELD Other Names:Oxidized petrolatum (petroleum)
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Manual Registration , Concept
+FIELD Editor Note(s):
+FIELD Definition Field:A complex combination of organic compounds, predominantly high molecular weight carboxylic acids, obtained by the air oxidation of petrolatum.
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:64742-95-6
+FIELD CA Index Name:Solvent naphtha (petroleum), light arom.
+FIELD Other Names:Light aromatic solvent naphtha (petroleum)
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Manual Registration , Concept
+FIELD Editor Note(s):
+FIELD Definition Field:A complex combination of hydrocarbons obtained from distillation of aromatic streams.  It consists predominantly of aromatic hydrocarbons having carbon numbers predominantly in the range of C8 through C10 and boiling in the range of approximately 135°C to 210°C (275°F to 410°F).
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:64742-89-8
+FIELD CA Index Name:Solvent naphtha (petroleum), light aliph.
+FIELD Other Names:Light aliphatic solvent naphtha (petroleum); Skellysolve H; Skellysolve L
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Manual Registration , Concept
+FIELD Editor Note(s):
+FIELD Definition Field:A complex combination of hydrocarbons obtained from the distillation of crude oil or natural gasoline.  It consists predominantly of saturated hydrocarbons having carbon numbers predominantly in the range of C5 through C10 and boiling in the range of approximately 35°C to 160°C (95°F to 320°F).
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):8031-38-7, 8031-39-8
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:64742-88-7
+FIELD CA Index Name:Solvent naphtha (petroleum), medium aliph.
+FIELD Other Names:Medium aliphatic solvent naphtha (petroleum)
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Manual Registration , Concept
+FIELD Editor Note(s):
+FIELD Definition Field:A complex combination of hydrocarbons obtained from the distillation of crude oil or natural gasoline.  It consists predominantly of saturated hydrocarbons having carbon numbers predominantly in the range of C9 through C12 and boiling in the range of approximately 140°C to 220°C (284°F to 428°F).
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:64742-82-1
+FIELD CA Index Name:Naphtha (petroleum), hydrodesulfurized heavy
+FIELD Other Names:Hydrodesulfurized heavy naphtha (petroleum)
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Manual Registration , Concept
+FIELD Editor Note(s):
+FIELD Definition Field:A complex combination of hydrocarbons obtained from a catalytic hydrodesulfurization process.  It consists of hydrocarbons having carbon numbers predominantly in the range of C7 through C12 and boiling in the range of approximately 90°C to 230°C (194°F to 446°F).
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:64742-81-0
+FIELD CA Index Name:Kerosine (petroleum), hydrodesulfurized
+FIELD Other Names:Hydrodesulfurized kerosine (petroleum)
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Manual Registration , Concept
+FIELD Editor Note(s):
+FIELD Definition Field:A complex combination of hydrocarbons obtained from a petroleum stock by treating with hydrogen to convert organic sulfur to hydrogen sulfide which is removed.  It consists of hydrocarbons having carbon numbers predominantly in the range of C9 through C16 and boiling in the range of approximately 150°C to 290°C (302°F to 554°F).
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:64742-60-5
+FIELD CA Index Name:Hydrocarbon waxes (petroleum), hydrotreated microcryst.
+FIELD Other Names:Hydrotreated microcrystalline wax (petroleum)
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Manual Registration , Concept
+FIELD Editor Note(s):
+FIELD Definition Field:A complex combination of hydrocarbons obtained by treating a petroleum microcrystalline wax with hydrogen in the presence of a catalyst.  It consists predominantly of long, branched chain hydrocarbons having carbon numbers predominantly in the range of C25 through C50.
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:64742-55-8
+FIELD CA Index Name:Distillates (petroleum), hydrotreated light paraffinic
+FIELD Other Names:Hydrotreated light paraffinic distillate (petroleum)
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Manual Registration , Concept
+FIELD Editor Note(s):
+FIELD Definition Field:A complex combination of hydrocarbons obtained by treating a petroleum fraction with hydrogen in the presence of a catalyst.  It consists of hydrocarbons having carbon numbers predominantly in the range of C15 through C30 and produces a finished oil with a viscosity of less than 100 SUS at 100°F (19cSt at 40°C).  It contains a relatively large proportion of saturated hydrocarbons.
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:64742-54-7
+FIELD CA Index Name:Distillates (petroleum), hydrotreated heavy paraffinic
+FIELD Other Names:Hydrotreated heavy paraffinic distillate (petroleum)
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Manual Registration , Concept
+FIELD Editor Note(s):
+FIELD Definition Field:A complex combination of hydrocarbons obtained by treating a petroleum fraction with hydrogen in the presence of a catalyst.  It consists of hydrocarbons having carbon numbers predominantly in the range of C20 through C50 and produces a finished oil of at least 100 SUS at 100°F (19cSt at 40°C).  It contains a relatively large proportion of saturated hydrocarbons.
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:64742-53-6
+FIELD CA Index Name:Distillates (petroleum), hydrotreated light naphthenic
+FIELD Other Names:Hydrotreated light naphthenic distillate (petroleum)
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Manual Registration , Concept
+FIELD Editor Note(s):
+FIELD Definition Field:A complex combination of hydrocarbons obtained by treating a petroleum fraction with hydrogen in the presence of a catalyst.  It consists of hydrocarbons having carbon numbers predominantly in the range of C15 through C30 and produces a finished oil with a viscosity of less than 100 SUS at 100°F (19cSt at 40°C).  It contains relatively few normal paraffins.
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:64742-52-5
+FIELD CA Index Name:Distillates (petroleum), hydrotreated heavy naphthenic
+FIELD Other Names:Hydrotreated heavy naphthenic distillate (petroleum)
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Manual Registration , Concept
+FIELD Editor Note(s):
+FIELD Definition Field:A complex combination of hydrocarbons obtained by treating a petroleum fraction with hydrogen in the presence of a catalyst.  It consists of hydrocarbons having carbon numbers predominantly in the range of C20 through C50 and produces a finished oil of at least 100 SUS at 100°F (19cSt at 40°C).  It contains relatively few normal paraffins.
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:64742-46-7
+FIELD CA Index Name:Distillates (petroleum), hydrotreated middle
+FIELD Other Names:Distillates (petroleum), straight run middle, hydrotreated; Hydrotreated middle distillate (petroleum)
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Manual Registration , Concept
+FIELD Editor Note(s):
+FIELD Definition Field:A complex combination of hydrocarbons obtained by treating a petroleum fraction with hydrogen in the presence of a catalyst.  It consists of hydrocarbons having carbon numbers predominantly in the range of C11 through C25 and boiling in the range of approximately 205°C to 400°C (401°F to 752°F).
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):101631-16-7, 101794-98-3
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:64742-30-9
+FIELD CA Index Name:Distillates (petroleum), chemically neutralized middle
+FIELD Other Names:Chemically neutralized middle distillate (petroleum)
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Manual Registration , Concept
+FIELD Editor Note(s):
+FIELD Definition Field:A complex combination of hydrocarbons produced by a treating process to remove acidic materials.  It consists of hydrocarbons having carbon numbers predominantly in the range of C11 through C20 and boiling in the range of approximately 205°C to 345°C (401°F to 653°F).
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:64741-96-4
+FIELD CA Index Name:Distillates (petroleum), solvent-refined heavy naphthenic
+FIELD Other Names:Solvent refined heavy naphthenic distillate (petroleum)
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Manual Registration , Concept
+FIELD Editor Note(s):
+FIELD Definition Field:A complex combination of hydrocarbons obtained as the raffinate from a solvent extraction process.  It consists of hydrocarbons having carbon numbers predominantly in the range of C20 through C50 and produces a finished oil with a viscosity of at least 100 SUS at 100°F (19cSt at 40°C).  It contains relatively few normal paraffins.
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:64741-92-0
+FIELD CA Index Name:Naphtha (petroleum), solvent-refined heavy
+FIELD Other Names:Solvent refined heavy naphtha (petroleum)
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Manual Registration , Concept
+FIELD Editor Note(s):
+FIELD Definition Field:A complex combination of hydrocarbons obtained as the raffinate from a solvent extraction process.  It consists predominantly of aliphatic hydrocarbons having carbon numbers predominantly in the range of C7 through C12 and boiling in the range of approximately 90°C to 230°C (194°F to 446°F).
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:67-06-1
+FIELD CA Index Name:Ethanaminium, N,N,N-trimethyl-2-(2-methylphenoxy)-, bromide (1:1)
+FIELD Other Names:Ammonium, trimethyl[2-(o-tolyloxy)ethyl]-, bromide (8CI); Ethanaminium, N,N,N-trimethyl-2-(2-methylphenoxy)-, bromide (9CI); Trimethyl[2-o-tolyloxyethyl]ammonium bromide (6CI)
+FIELD Formula:C12 H20 N O . Br
+FIELD Alternate Formula:
+FIELD Class Identifier:
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+

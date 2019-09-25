@@ -1,0 +1,550 @@
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:700842-79-1
+FIELD CA Index Name:Hybridur 540
+FIELD Other Names:
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Polymer , Manual Registration
+FIELD Editor Note(s):A polymer material (Air Products & Chemicals Co.)
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:71011-03-5
+FIELD CA Index Name:Amines, ditallow alkyl, acetates
+FIELD Other Names:Amine salts, ditallow alkyl, acetates; Ditallow alkyl amine acetates; Secondary amines, ditallow alkyl, acetates
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Manual Registration , Concept
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:70955-34-9
+FIELD CA Index Name:Fatty acids, tall-oil, reaction products with 2-[(2-aminoethyl)amino]ethanol, di-Et sulfate-quaternized
+FIELD Other Names:
+FIELD Formula:C4 H12 N2 O . C4 H10 O4 S . Unspecified
+FIELD Alternate Formula:Unspecified
+FIELD Class Identifier:Manual Registration , Concept
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:70900-16-2
+FIELD CA Index Name:Amines, polyethylenepoly-, ethoxylated, phosphonomethylated, sodium salts
+FIELD Other Names:
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Polymer , Manual Registration , Concept
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:70851-08-0
+FIELD CA Index Name:Amides, coco, N-[3-(dimethylamino)propyl], alkylation products with sodium 3-chloro-2-hydroxypropanesulfonate
+FIELD Other Names:
+FIELD Formula:C3 H7 Cl O4 S . Na . Unspecified
+FIELD Alternate Formula:Unspecified
+FIELD Class Identifier:Manual Registration , Concept
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:70851-07-9
+FIELD CA Index Name:Amides, coco, N-[3-(dimethylamino)propyl], alkylation products with chloroacetic acid, sodium salts
+FIELD Other Names:
+FIELD Formula:C2 H3 Cl O2 . Na . Unspecified
+FIELD Alternate Formula:Unspecified
+FIELD Class Identifier:Manual Registration , Concept
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:70592-80-2
+FIELD CA Index Name:Amine oxides, C10-16-alkyldimethyl
+FIELD Other Names:Amines, C10-16-alkyldimethyl, N-oxides; Amines, C10-16-alkyldimethyl, N-oxides; C10-16-alkyldimethyl amine N-oxides; Empigen OC
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Manual Registration , Concept
+FIELD Editor Note(s):
+FIELD Definition Field:This substance is identified by SDA Substance Name:  C10-16 alkyl dimethyl amine oxide and SDA Reporting Number:  15-041-00.  Consult SDA Substance Identification Procedure.
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):308081-43-8
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:70559-25-0
+FIELD CA Index Name:Poly(oxy-1,2-ethanediyl), α-[2,4,6-tris(1-phenylethyl)phenyl]-ω-hydroxy-
+FIELD Other Names:3SP110; Agent 3152-90; Agnique TSP 15; Agricultural Emulsifier 601; Agricultural Emulsifier 603; Agricultural Emulsifier 604; Agricultural emulsifier 600; Agricultural emulsifier 602; Blaunon KTSP 16; Blaunon TSP 16; Blaunon TSP 50; Blaunon TSP 7.5; DV 9407; E-Sperse 1689; Emulgator PS 29; Emulgator PS 54; Emulgen B 100; Emulsogen TS 100; Emulsogen TS 160; Emulsogen TS 200; Emulsogen TS 290; Emulsogen TS 54; Emulsogen TS 540; Emulson 13A; Emulson AG 7717; Ethoxylated tristyrenated phenyl ether; Ethoxylated tristyrylphenol; Eumulgin 394; FPP 03102; FT 100; HOE-S 3474; Makon TSP 16; Makon TSP 25; Makon TSP 40; Makon TSP 60; NK-TP 150R; NK-TP 200R; NK-TP 250R; Newcol 2604; Newcol 2616; Newkalgen C 314; Nongru 600; Nongru 601; Nongru 602; Nongru 603; Nongru 604; PS 16; Pesticide Emulsifier 600; Pesticide Emulsifier 601; Pesticide Emulsifier 602; Pesticide Emulsifier 603; Pesticide Emulsifier 604; Pesticide emulsifer 600; Pionin D 6112; Pionin D 6115; Polyethylene glycol 2,4,6-tristyrylphenyl ether; Polyethylene glycol TSP ether (1:1); Polyethylene glycol mono(tristyrenated phenyl) ether; Polyethylene glycol mono(tristyrylphenyl) ether; Polyethylene glycol mono[2,4,6-tris(1-phenylethyl)phenyl] ether; Polyethylene glycol tristyrenated phenol ether; Polyethylene glycol tristyrylphenyl ether; Polyoxyethylene mono(tristyrylphenyl) ether; Polyoxyethylene tristyrenated phenyl ether; Polyoxyethylene tristyrylphenyl ether; Polystep TSP 16; Rhodoline FT 100; Serdox NSP 14; Soprofor 40; Soprophor 37; Soprophor 40; Soprophor BSU; Soprophor CY 8; Soprophor S 25; Soprophor S 40; Soprophor S 40P; Soprophor TS 10; Soprophor TS 60; Soprophor TS 8; Sorpol T 15; Sorpol T 20; Sorpol T 26; Sorpol T 32; Surfaline TS 19L; TS 100; TS 100 (emulsifier); TS 160; TS 290; TS 400; Tanemul PS 16; Tanemul PS 54; Termul 3150; Tristyrylphenol ethoxylate; Tristyrylphenol ethoxylates; Tristyrylphenol polyoxyethylene ether; XOF 501
+FIELD Formula:(C2 H4 O)n C30 H30 O
+FIELD Alternate Formula:
+FIELD Class Identifier:Polymer , Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):99734-09-5
+FIELD Deleted Registry Number(s):60584-98-7, 82197-82-8, 87089-95-0, 107853-31-6, 118529-71-8, 123428-47-7, 124406-80-0, 128669-32-9, 176451-31-3, 186152-61-4, 206132-90-3, 354578-72-6, 663215-08-5, 701212-51-3, 701212-52-4, 777081-38-6, 952584-12-2, 952584-34-8, 953795-43-2, 956117-42-3, 1056020-60-0, 1198161-97-5, 1330663-80-3, 1588949-44-3, 1588986-43-9, 1988793-96-9, 2009277-70-5
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:70142-34-6
+FIELD CA Index Name:Octadecanoic acid, 12-hydroxy-, polymer with α-hydro-ω-hydroxypoly(oxy-1,2-ethanediyl)
+FIELD Other Names:Poly(oxy-1,2-ethanediyl), α-hydro-ω-hydroxy-, polymer with 12-hydroxyoctadecanoic acid (9CI)
+FIELD Formula:(C18 H36 O3 . (C2 H4 O)n H2 O)x
+FIELD Alternate Formula:
+FIELD Class Identifier:Polymer
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:69411-36-5
+FIELD CA Index Name:Valine, N-(2,6-difluorophenyl)-, (3-phenoxyphenyl)methyl ester
+FIELD Other Names:DL-Valine, N-(2,6-difluorophenyl)-, (3-phenoxyphenyl)methyl ester
+FIELD Formula:C24 H23 F2 N O3
+FIELD Alternate Formula:
+FIELD Class Identifier:
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:69278-63-3
+FIELD CA Index Name:Alkenes, C20-24 α-, polymers with maleic anhydride, C20-28-alkyl esters
+FIELD Other Names:
+FIELD Formula:(C4 H2 O3 . Unspecified)x
+FIELD Alternate Formula:Unspecified
+FIELD Class Identifier:Polymer , Manual Registration , Concept
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:69227-22-1
+FIELD CA Index Name:Alcohols, C10-16, ethoxylated propoxylated
+FIELD Other Names:Genapol EP 2454
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Manual Registration , Concept
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):1255314-82-9
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:69227-21-0
+FIELD CA Index Name:Alcohols, C12-18, ethoxylated propoxylated
+FIELD Other Names:Alcs., C12-18, ethoxylated propoxylated; Alkoxy alcohols, C12-18, ethoxylated propoxylated; Alkoxy alcs., C12-18, ethoxylated propoxylated; Antarox BL 236; Dehypon LS 45; Dehyton LT 36; Ethoxylated alcohols, C12-18, ethoxylated propoxylated; Ethoxylated alcs., C12-18, ethoxylated propoxylated; Ethoxylated propoxylated C12-18 alcohols; Ethoxylated propoxylated C12-18 alcs.; LS 45; Plurafac D 25; Termul 5459
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Manual Registration , Concept
+FIELD Editor Note(s):
+FIELD Definition Field:This substance is identified by SDA Substance Name:  C12-C16 alkyl alcohol ethoxylate propoxylate and SDA Reporting Number:  16-070-00.  Consult SDA Identification Procedure.
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):37331-14-9
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:69227-09-4
+FIELD CA Index Name:Benzenesulfonic acid, dodecyl-, branched, sodium salt
+FIELD Other Names:
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Manual Registration , Generic Registration
+FIELD Editor Note(s):
+FIELD Definition Field:This substance is identified by SDA Substance Name:  C12 branched alkyl benzene sulfonic acid sodium salt and SDA Reporting Number:  24-097-04.  Consult SDA Substance Identification Procedure.
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:69012-64-2
+FIELD CA Index Name:Fumes, silica
+FIELD Other Names:Amorphous silica fume
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Manual Registration , Concept
+FIELD Editor Note(s):
+FIELD Definition Field:Amorphous silicon dioxide particles from the volatilization and vaporization of furnace feed materials in the manufacture of ferrosilicon and silicon.
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:69011-36-5
+FIELD CA Index Name:Poly(oxy-1,2-ethanediyl), α-tridecyl-ω-hydroxy-, branched
+FIELD Other Names:
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Polymer , Manual Registration , Generic Registration
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:68989-00-4
+FIELD CA Index Name:Quaternary ammonium compounds, benzyl-C10-16-alkyldimethyl, chlorides
+FIELD Other Names:Alkylbenzyldimethylammonium chlorides, benzyl-C10-16-alkyldimethyl; Benzyl-C10-16-alkyldi-Me ammonium chlorides; Benzyl-C10-16-alkyldimethylammonium chlorides; KataPAV S; Katamin AD; P 128; P 128 (disinfectant); Quaternary ammonium compds., benzyl-C10-16-alkyldi-Me, chlorides; Quaternary ammonium compds., benzyl-C10-16-alkyldimethyl, chlorides
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Manual Registration , Concept
+FIELD Editor Note(s):
+FIELD Definition Field:This substance is identified by SDA Substance Name:  C10-C16 alkyl benzyl dimethyl ammonium chloride and SDA Reporting Number:  15-052-00.  Consult SDA Substance Identification Procedure.
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:68956-79-6
+FIELD CA Index Name:Quaternary ammonium compounds, C12-18-alkyl[(ethylphenyl)methyl]dimethyl, chlorides
+FIELD Other Names:Alkylbenzyldimethylammonium chlorides, C12-18-alkyl[(ethylphenyl)methyl]dimethyl; C12-18-alkyl[(ethylphenyl)methyl]dimethylammonium chlorides
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Manual Registration , Concept
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:68937-55-3
+FIELD CA Index Name:Polysiloxanes, di-Me, 3-hydroxypropyl Me, ethoxylated propoxylated
+FIELD Other Names:Siloxanes and Silicones, di-Me, 3-hydroxypropyl Me, ethoxylated propoxylated; Abil B 8842; Abil B 8843; Abil B 8847; Abil B 8852; Abil B 8863; Abil B 8878; Belsil DMC 6031; Bluesil SP 3300; DBP 534; DC 27; DC 5604; DMC 6031; Dabco 5604; Dabco DC 5604; Di-Me, 3-hydroxypropyl Me, ethoxylated propoxylated siloxanes; Dow Corning 27; L 7200; L 7230; NM 4223; NM 4393K; NM 4395K; Niax Y 10733; Silbione 70646; Silsurf J 1015O; Silwet 7230; Silwet L 7200; Silwet L 7210; Silwet L 7220; Silwet L 7230; Silwet L 7607; T 5851; Tegopren 5840; Wacker NM 4223; Wacker NM 4393K; Wacker NM 4395K; XF-J 2557; Y 10733; Y 10734
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Polymer , Manual Registration , Concept
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):71965-38-3, 441052-10-4
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:68920-95-6
+FIELD CA Index Name:Amines, polyethylenepoly-, ethoxylated, phosphonomethylated, compds. with alkylpyridine derivs.
+FIELD Other Names:Pyridine, derivs., compds. with ethoxylated, phosphonomethylated polyethylenepolyamines
+FIELD Formula:(C5 H5 N . C2 H4 O . Unspecified)x
+FIELD Alternate Formula:Unspecified
+FIELD Class Identifier:Polymer , Manual Registration , Concept
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:68916-18-7
+FIELD CA Index Name:Coffee, bean, roasted, ext.
+FIELD Other Names:Coffee essence
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Manual Registration , Concept
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:68915-97-9
+FIELD CA Index Name:Gas oils (petroleum), straight-run, high-boiling
+FIELD Other Names:
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Manual Registration , Concept
+FIELD Editor Note(s):
+FIELD Definition Field:A complex combination of hydrocarbons produced by the atmospheric distillation of crude oil.  It boils in the range of approximately 282°C to 349°C (540°F to 660°F).
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:68911-87-5
+FIELD CA Index Name:Quaternary ammonium compounds, bis(hydrogenated tallow alkyl)dimethyl, salts with montmorillonite ((Al1.33-1.67Mg0.33-0.67)(Ca0-1Na0-1)0.33Si4(OH)2O10.xH2O))
+FIELD Other Names:Quaternary ammonium compounds, bis(hydrogenated tallow alkyl)dimethyl, salts with montmorillonite
+FIELD Formula:Unspecified . Unspecified
+FIELD Alternate Formula:Unspecified
+FIELD Class Identifier:Manual Registration , Concept
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:68911-25-1
+FIELD CA Index Name:Fatty acids, C18-unsatd., dimers, polymers with 3,3'-[oxybis(2,1-ethanediyloxy)]bis[1-propanamine]
+FIELD Other Names:
+FIELD Formula:(C10 H24 N2 O3 . Unspecified)x
+FIELD Alternate Formula:Unspecified
+FIELD Class Identifier:Polymer , Manual Registration , Concept
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:68910-93-0
+FIELD CA Index Name:Fatty acids, tall-oil, reaction products with polyethylenepolyamines
+FIELD Other Names:Amines, polyethylenepoly-, reaction products with tall-oil fatty acids
+FIELD Formula:Unspecified . Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Manual Registration , Concept
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+

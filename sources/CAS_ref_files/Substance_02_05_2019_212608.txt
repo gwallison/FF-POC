@@ -1,0 +1,550 @@
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:61791-44-4
+FIELD CA Index Name:Ethanol, 2,2'-iminobis-, N-tallow alkyl derivs.
+FIELD Other Names:N,N-Bis(2-hydroxyethyl)(tallow alkyl)amine
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Manual Registration , Generic Registration
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:61791-00-2
+FIELD CA Index Name:Fatty acids, tall-oil, ethoxylated
+FIELD Other Names:Aconol X 10; Blaunon HT 10; Chemax TO 10; Ethofat 242/25; Ethox TO 16; Ethox TO 9A; Ethoxylated fatty acids, tall-oil; Fatty acids, tall-oil, polymers with polyethylene glycol; Hartall 12; Mapeg 400MOT; Mapeg 600MOT; Nalco PR 475; Ninox AOO; PR 475; Pegosperse 400MOT; Polyethylene glycol ester of tall oil fatty acids; Renex 20; Renex 25; Repriman 252T; Sterox CD; Tall oil fatty acids, ethoxylated; Tall-oil fatty acids, ethoxylated; Trydet 22; Trydet TFA 11; Witco Intermediate B.1.a.; Witco Intermediate B.1.b; Witco Intermediate B.1.c.
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Polymer , Manual Registration , Concept
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):8051-45-4, 8051-93-2, 8051-94-3, 8052-09-3, 8061-46-9, 61791-02-4, 64540-46-1, 65071-94-5, 68015-51-0, 68474-61-3
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:61790-53-2
+FIELD CA Index Name:Diatomite
+FIELD Other Names:Celite; Kieselguhr; Sedimentary rocks, diatomaceous; 545RV; AG-JXE; AG-WXI; AdiDetox; Aktisil PF 77; Aqua Nature Plus; Aquafil N 81; Armsorb GKhI; Becogur 100; C 400; C 499; CD 02; CD 04; CD 05; CD 08; CD 09; CD 10; CG 2; CG 2 (diatomite); CY 300; CY 499; Calofrig FJ; CelTiX T; CelTix; Celabloc; Celabrite; Celabrite EP 910; Celatom; Celatom FP 22; Celatom FP 4; Celatom FP-ISL; Celatom FW 12; Celatom FW 14; Celatom FW 20; Celatom FW 50; Celatom FW 6; Celatom FW 60; Celatom FW 80; Celatom LCS 3; Celatom MN 23; Celatom MN 51; Celatom MN 84; Celatom MW 27; Celite (diatomaceous earth); Celite 110; Celite 209; Celite 22; Celite 240; Celite 263; Celite 263LD; Celite 266; Celite 270; Celite 273; Celite 281SS; Celite 281SSN; Celite 292; Celite 315; Celite 350; Celite 400D; Celite 400P; Celite 400TC; Celite 455; Celite 495; Celite 499; Celite 500; Celite 500 fine; Celite 503; Celite 503RV; Celite 505; Celite 507; Celite 512; Celite 521; Celite 522; Celite 530; Celite 534; Celite 535; Celite 545; Celite 545AW; Celite 560; Celite 577; Celite 610; Celite 650; Celite C 350; Celite Cynergy; Celite FC; Celite Filter Cel; Celite HSC; Celite HST; Celite Hyflo Super Cel; Celite Hyflo SuperCel DE; Celite MW 25; Celite R 626; Celite R 632; Celite R 633; Celite R 634; Celite R 635; Celite R 646; Celite R 647; Celite R 649; Celite R 654; Celite R 680; Celite R 685; Celite SF; Celite Snow Floss; Celite Standard Super Cell; Celite Standard SuperCel DE; Celite Super Fine Super Floss; Celite Superfloss; Celite White Mist; Celpure 300; Celpure 3000; Celpure C 1000; Celpure P 100; Celpure P 1000; Celpure P 300; Celpure P 65; Celpure S 25; Celpure S 65; Celtix DE; Chromaton; Chromaton N; Chromaton N-AW; Chromatron N Super; Chromosorb G; Chromosorb G/NAW; Chromosorb P; Chromosorb P 100/120; Chromosorb P 60/80; Chromosorb P-AW; Chromosorb P-NAW; Chromosorb W; Chromosorb W-NAW; Chromosorb WAW; Clarcel CBL; Clarcel CBL 3; Clarcel CBR; Clarcel CBR 3; Clarcel Celite; Clarcel DIF-B; Clarcel DIF-N; Clarcel S 1; Clin-elut; Concern; DAN 1400; DIF-N; DIF-R; Decalite 4500; DiaFil 110; DiaFil 230; DiaFil 525; DiaFil 530; Diafil 10; Diafil 460; Diafol; Diamol DI; Diamol GM; Diatom 135C; Diatom DIF-BO; Diatomaceous earth; Diatomaceous sedimentary rocks; Dicalite; Dicalite 104; Dicalite 215; Dicalite 4258S; Dicalite 478; Dicalite 6000; Dicalite PS; Dicalite Speedex; Dicalite WB 5; Dicalite WB 6; Dicalite WF; Dicalite White; Dicalite White Filler; EP 804; EXtrelut NT 3; Eagle Picher FW 60; Extrelut; Extrelut 13076; Extrelut 3; Extrelut NT; Extube Chem-Elut CE 1020; FN 1; FP 3; FW 14; FW 60; Fossil Shield; Fossil Shield FS 90; Fossil Shield FS 95; GW 9; Gas Chrom R; Gemlite M; Gemlite Super 56; Gloxil White; Hydromatrix; Hyflo; Hyflo Celite; Hyflo DC; Hyflo Super-Cel; IGM-AA; Infilm 300; Infusorial earth; Insecto; Isolite CG; Isolite CP-F; Isolute HM-N; K 10; K 10 (diatomaceous earth); K 301; Kenite 200; Kenite 2000; Kenite 700; Kieselguhrs; Kieselgurs; Kunilit 401; Kunilit B 106; Kunilit KSS 5000; LCS 3; Lunamos SP-PA; MG Poda Q; MGZ 7000; MW 27; Macrosorb K; Manville 545; Marinex; MicroKen 801; N 85; OcraTox; Oplite P 1200; Oplite W 3005S; PR 110; PR 110A; PR 110B; PR 110C; Paint Master; Perma-Guard; Polsorb C; Porokhrom 1; Prelite 4; Primisil 30A; Protect-It; Protect-It (diatomaceous earth); Pyrisec; RC 417; RS 1280; Radiolite; Radiolite 100; Radiolite 1000; Radiolite 1500; Radiolite 200; Radiolite 2000; Radiolite 300; Radiolite 3000; Radiolite 500; Radiolite 500S; Radiolite 600; Radiolite 700; Radiolite 800; Radiolite 800S; Radiolite 900; Radiolite F; Radiolite Fineflow A; Radiolite GC; Radiolite L 2; Radiolite Microfine; Radiolite PC 1; Radiolite SPF; Randannite; SD 0309; SD 1164; SFE Wetsupport; ST-C 219; ST-C 499; Sigma DE; Sil-O-Cel; Silica 100F; Silica 100F-A; Silica 100S; Silica 645; Silica 6B; Silico-Sec; Sillitin N 86; Silverfrost; Snow Floss; Snow-floss Celite; Spherochrom 1; Spherochrome 1; Standard SuperCel; Sterchamol; Super Celite L 748; Super-Cel; Superfine Superfloss; Superfloss; TP 750; Toalite; Tripolite; Tsvetokhrom 1K; Uniport B; Uniport HP; VX 31007 Super Floss; WB 6; X 159; Zeoharb
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Component , Manual Registration , Concept
+FIELD Editor Note(s):
+FIELD Definition Field:A soft siliceous solid composed of skeletons of small prehistoric aquatic plants.  Contains primarily silica.
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):11139-66-5, 12623-98-2, 12750-99-1, 29847-98-1, 37264-95-2, 37328-66-8, 37337-67-0, 39421-62-0, 39455-02-2, 50814-24-9, 51109-72-9, 53571-43-0, 54511-18-1, 54990-61-3, 54990-62-4, 55839-10-6, 56748-40-4, 57126-63-3, 57692-84-9, 61970-41-0, 64060-29-3, 67016-73-3, 67417-47-4, 68368-75-2, 68445-07-8, 70225-81-9, 73158-38-0, 77108-41-9, 81988-94-5, 179530-11-1, 192230-56-1, 693252-59-4, 695179-75-0
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:61789-40-0
+FIELD CA Index Name:1-Propanaminium, 3-amino-N-(carboxymethyl)-N,N-dimethyl-, N-coco acyl derivs., inner salts
+FIELD Other Names:1-Propanaminium, 3-amino-N-(carboxymethyl)-N,N-dimethyl-, N-coco acyl derivs., hydroxides, inner salts
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Manual Registration , Generic Registration
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):86243-76-7
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:61789-39-7
+FIELD CA Index Name:1-Propanaminium, 3-amino-N-(carboxymethyl)-N,N-dimethyl-, N-coco acyl derivs., chlorides, sodium salts
+FIELD Other Names:(Carboxymethyl)[3-(coconut oil amido)propyl]dimethylammonium chloride, sodium salt
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Manual Registration , Generic Registration
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:61788-93-0
+FIELD CA Index Name:Amines, coco alkyldimethyl
+FIELD Other Names:Armeen DMCD; Armeen DMMCD; Barlene 12C; Coco alkyldimethyl amines; Farmin DM 24C; Genamin CC 302D; Genamin CS 302D; Kemamine T 6502D; Noram DMC; Noram DMC-D
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Manual Registration , Concept
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):39279-50-0, 56573-43-4
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:61079-72-9
+FIELD CA Index Name:Benzoic acid, 2,3,4-trifluoro-
+FIELD Other Names:2,3,4-Trifluorobenzoic acid; NSC 190684
+FIELD Formula:C7 H3 F3 O2
+FIELD Alternate Formula:
+FIELD Class Identifier:
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:60828-78-6
+FIELD CA Index Name:Poly(oxy-1,2-ethanediyl), α-[3,5-dimethyl-1-(2-methylpropyl)hexyl]-ω-hydroxy-
+FIELD Other Names:Du Pont WK; Polyethylene glycol trimethylnonyl ether; Polyoxyethylene 2,6,8-trimethyl-4-nonyl ether; Polyoxyethylene trimethylnonyl ether; Surfactant WK; TMN 10; TMN 3; TMN 6; TX 3; TX 3 (polyoxyalkylene); TX 6; Tergitol 100; Tergitol TMN; Tergitol TMN 10; Tergitol TMN 100X; Tergitol TMN 3; Tergitol TMN 6; Trimethylnonanol polyethylene glycol
+FIELD Formula:(C2 H4 O)n C12 H26 O
+FIELD Alternate Formula:
+FIELD Class Identifier:Polymer , Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):9008-57-5, 9016-42-6, 37337-79-4, 63709-43-3, 286015-26-7, 882690-98-4
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:60676-90-6
+FIELD CA Index Name:Zirconium, tetrakis[2-(hydroxy-κO)propanoato-κO]-
+FIELD Other Names:Zirconium, tetrakis(2-hydroxypropanoato-O1,O2)-; Propanoic acid, 2-hydroxy-, zirconium complex; Tetrakis[2-(hydroxy-κO)propanoato-κO]zirconium; Zirconium lactate; Zirtech LA; Zirtech LA 110
+FIELD Formula:C12 H20 O12 Zr
+FIELD Alternate Formula:
+FIELD Class Identifier:Coordination Compound
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:60676-86-0
+FIELD CA Index Name:Silica, vitreous
+FIELD Other Names:7980HPFS; AF 07; AF-SO 25R; AL 06-109; AS 1; AS 1 (silica); Ace-E; Admafine SC 2050; Admafine SE 1050; Admafine SE 2030; Admafine SO 25; Admafine SO 25H; Admafine SO 25R; Admafine SO 32H; Admafine SO 32R; Admafine SO-C 2; Admafine SO-C 3; Admafine SO-E 2; Admafine SO-E 5; Admafine SQ-C 15; Aerolith AE 10; Amorphous silica; Amosil 510; Amosil 520; Amosil FW 600; BF 100; Borsil P; CE 44I; CE 44IR; CF 0027; CP-SilicaPLOT; CRS 1057; CRS 1102RD8; CS 103H; CS 6103; CS 6103-53C2; CUS 8I; Chrompack CP-SilicaPLOT; Corning 7940; Corning 7980; Corning SMF 28e; DL 0110; Denka F 300; Denka F 90; Denka FB 01; Denka FB 12D; Denka FB 20D; Denka FB 25R; Denka FB 30; Denka FB 3SDC; Denka FB 44; Denka FB 570; Denka FB 5D; Denka FB 74; Denka FS 30; Denka Fused Silica FS 300; Denka Fused Silica SFP 20M; Denka SFP; Dsethvasan; E 2; ED-C; ED-C (silica); EF 10; EF 10BV; EF 3B; EQ 912; ES 105; ES 30; Elsil 100; Elsil BF 100; Excelica SE 1; Excelica SE 15; Excelica SE 30; Excelica SE 5; Excelica SE 8; Excelica SH 03; F 115; F 125; F 125 (silica); F 130; F 130 (silica); F 160; F 160 (silica); F 175; F 205; F 205 (silica); F 44; F 44 (filler); F-HS 05; F-HS 20; FB 01; FB 100; FB 105; FB 105FD; FB 105X; FB 12D; FB 170; FB 20D; FB 24; FB 25R; FB 30; FB 301; FB 304; FB 35; FB 3SDC; FB 3SDC1; FB 3SDX; FB 400FD; FB 40F; FB 44; FB 48; FB 48X; FB 5; FB 5 (silica); FB 508S; FB 5494FC; FB 550; FB 560; FB 570; FB 5702FC; FB 5B; FB 5D; FB 5LDX; FB 5SDC; FB 5SDX; FB 60; FB 74; FB 74X; FB 7SDX; FB 80; FB 820; FB 8752FC; FB 910; FB 940; FB 940X; FB 942; FB 945; FB 9454; FB 945X; FB 950; FB 950FD; FB 950XFD; FB 959; FD 20D; FD 5D; FEB 24S5; FED 45S2; FLB 1; FS 1002; FS 109; FS 20; FS 20 (silica); FS 2DC; FS 30; FS 300; FS 74; FS 762; FS 762C; FS 784; FS 882; FS 882 (silica); FS 891; FS 892; FS 90C; FX 4; FX 4 (silica); Fused quartz; Fused silica; Fuselex; Fuselex AS 1; Fuselex FF; Fuselex FF 10X; Fuselex FF 5X; Fuselex RD 120; Fuselex RD 40-60; Fuselex RD 8; Fuselex SY; Fuselex WX; Fuselex Y 40; Fuselex Y 60; Fuselex ZA 20C; Fuselex ZA 30; GP 11I; GP 7I; GPB-Trisopor 500; GR 100; GR 100 (silica); GR 80; GR 80 (silica); GR 80AK; GR 90; GR 90 (silica); Gelsil; Gelsil 025; Gelsil 050; Gelsil 075; Gelsil 200; Gelsil 50; Glass, oxide, silica; Glassy silica; HPFS; HRC; HS 104; HS 106; HS 201; HS 202; HS 204; HS 301; HS 304; Harimic SCO; Heralux LA; Heralux Plus; Heralux VUV; Herasil; Herasil 1; Herasil 102; Herasil 2; Herasil 3; Infrasil 301; JGS 1; JGS 3; L 55; LVS 501N; LVS 515H; LVS 516; LVS 516H; Lithosil Q 1; Lithosil Q 2; M 382; MAR-T 815/53C; MAR-T 815H; MC 3000; ML 501C; ML 902SK; MP 15EF; MR 84; MRS 25; MSR 2122; MSR 2212; MSR 2500; MSR 4500TN; MSR-LV 24; MSR-SC 3TS; MUF 46; MUF 46V; MUF 4V; MUF 6; Minsil 20; Minsil 5; N-MSR 04; Nalcast; OM 100; OM 100 (glass); Optosil; Optosil (quartz); PLR 6; PW 0604UV; QG 100; Quartz glass; Quartz, fused; RD 120; RD 8; RD 8C; RD 8S; RG 600; RO 8; RS 8225/53C; Rancosil; S 210; S 270; S 30-71; S 440-4; S 520; S 6050P; S-COL; S-O; S-O (silica); SBX-S; SC 1030; SC 1050; SC 2050; SC 2050FJC; SC 2050KC; SC 2050SXF; SC 220G-SQ; SC 3030; SC 4050KNA; SCM-QZ fused; SCOX 31; SCOX 31T; SD 2500SQ; SE 1; SE 1050; SE 15; SE 2030; SE 2100; SE 4050SEC; SE 5; SE 8; SFP 10X; SFP 120MC; SFP 130MC; SFP 20H; SFP 20M; SFP 30M; SFP 40M; SGA; SGA (filler); SH 03; SH 4; SH 4 (silica); SO 25; SO 25H; SO 25H24C; SO 25R; SO 2C; SO 31H; SO 32H; SO 32R; SO-C 2; SO-C 3; SO-E 2; SO-E 5; SP 30; SQ-CC 69; SS 1205; SS-F 5; ST 7010-2; SV 10; SW-COY 21; Sibelco 525; Silica glass; Silica, fused; Silstar MK 04; Siltex 44C; Spectrasil; Spectrosil; Spectrosil 2000; Spectrosil B; Spectrosil WF; Steroglass FS; Suprasil; Suprasil 2; Suprasil 300; Suprasil 310; Suprasil 311; Suprasil 312; Suprasil F 300; Suprasil F 310; Suprasil P 30; Suprasil Standard; Suprasil W; Suprasil W 1; Suprasil W 2; T 1030; T 2030 (silica); T 4040; TO 8; TS 13-006; TS 6021; Teco-Sil 44I; Tokusil SU; Trisopor 423; UFP 80; USS 80K; VC 20; VC 20 (filler); VL 002; VL 002 (silica); VitraPor 5; Vitreosil F 055; Vitreosil IR; Vitreous quartz; Vitreous silica; Vitrified silica; Y 40; YXK 35K; ZA 20C; ZA 30
+FIELD Formula:O2 Si
+FIELD Alternate Formula:
+FIELD Class Identifier:Component , Manual Registration
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):37224-34-3, 37224-35-4, 55126-05-1, 119573-97-6, 221007-06-3, 942229-17-6, 1355213-18-1, 1417404-62-6
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:58160-99-9
+FIELD CA Index Name:Silanetriol, 1-(3-aminopropyl)-
+FIELD Other Names:Silanetriol, (3-aminopropyl)- (9CI); 1-(3-Aminopropyl)silanetriol; (γ-Aminopropyl)silanetriol; 3-Aminopropylsilanetriol; 3-Aminopropyltrihydroxysilane; KH 553; SIA 0608.0; γ-Aminopropyltrihydroxysilane
+FIELD Formula:C3 H11 N O3 Si
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:57116-45-7
+FIELD CA Index Name:1-Aziridinepropanoic acid, 1,1'-[2-[[3-(1-aziridinyl)-1-oxopropoxy]methyl]-2-(hydroxymethyl)-1,3-propanediyl] ester
+FIELD Other Names:1-Aziridinepropanoic acid, 2-[[3-(1-aziridinyl)-1-oxopropoxy]methyl]-2-(hydroxymethyl)-1,3-propanediyl ester (9CI); CL 427; CL 910; PZ 23; Pentaerythritol tris(3-aziridinopropionate); Pentaerythritol tris[3-(1-aziridinyl)propionate]; Pentaerythritoltris-β-(aziridinyl) propionate; TAZ-O; TAZO; XC 100; Xama 7
+FIELD Formula:C20 H33 N3 O7
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):215302-44-6
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:57018-52-7
+FIELD CA Index Name:2-Propanol, 1-(1,1-dimethylethoxy)-
+FIELD Other Names:1-(1,1-Dimethylethoxy)-2-propanol; 1-(1,1-dimethylethoxy)-2-propanol; 1-Methyl-2-tert-butoxyethanol; 1-tert-Butoxy-2-propanol; Arcosolv PTB; Propylene glycol 1-(tert-butyl ether)
+FIELD Formula:C7 H16 O2
+FIELD Alternate Formula:
+FIELD Class Identifier:
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):136579-67-4
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:6055-52-3
+FIELD CA Index Name:1,6-Hexanediamine, hydrochloride (1:2)
+FIELD Other Names:1,6-Hexanediamine, dihydrochloride (8CI,9CI); 1,6-Diaminohexane dihydrochloride; 1,6-Hexamethylenediamine dihydrochloride; Hexamethylenediamine dihydrochloride; Hexanediamine dihydrochloride
+FIELD Formula:C6 H16 N2 . 2 Cl H
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:5989-81-1
+FIELD CA Index Name:α-D-Glucopyranose, 4-O-β-D-galactopyranosyl-, hydrate (1:1)
+FIELD Other Names:Lactose, monohydrate, α- (8CI); α-D-Glucopyranose, 4-O-β-D-galactopyranosyl-, monohydrate (9CI); 4-O-β-D-Galactopyranosyl-α-D-glucopyranose monohydrate; Aeroflo 20; Aeroflo 65; Aeroflo 95; Flowlac 200; GranuLac 200; Granulac 230; InhaLac 400; Inhalac 120; Inhalac 230; Lactochem; Lactose 100M; Lactose D 80; Lactosum D 80; Pharmatose 150M; Pharmatose 325; Pharmatose 50M; Pharmatose 90M; Pharmatose DCL 11; Zeparox; α-D-Lactose monohydrate; α-Lactose monohydrate
+FIELD Formula:C12 H22 O11 . H2 O
+FIELD Alternate Formula:
+FIELD Class Identifier:
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):60004-41-3, 96231-95-7
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:5877-42-9
+FIELD CA Index Name:1-Octyn-3-ol, 4-ethyl-
+FIELD Other Names:4-Ethyl-1-octyn-3-ol; 4-Ethyl-3-hydroxy-1-octyne; Ethyloctynol; NSC 62119
+FIELD Formula:C10 H18 O
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:5789-27-5
+FIELD CA Index Name:4-Imidazolidinone, 5-methylene-3-phenyl-2-thioxo-
+FIELD Other Names:Hydantoin, 5-methylene-3-phenyl-2-thio- (8CI); 5-Methylene-3-phenyl-2-thioxo-4-imidazolidinone
+FIELD Formula:C10 H8 N2 O S
+FIELD Alternate Formula:
+FIELD Class Identifier:
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:603-35-0
+FIELD CA Index Name:Phosphine, triphenyl-
+FIELD Other Names:Triphenylphosphine; EPCAT-P; Hokko TPP; JC 263; NSC 10; NSC 215203; P 100; P 100 (accelerator); PP 200; PP 360; PPh3; TPP; Triphenylphosphane; Triphenylphosphide; Triphenylphosphorus
+FIELD Formula:C18 H15 P
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):112771-47-8, 630403-25-7, 1198579-87-1
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:593-81-7
+FIELD CA Index Name:Methanamine, N,N-dimethyl-, hydrochloride (1:1)
+FIELD Other Names:Methanamine, N,N-dimethyl-, hydrochloride (9CI); Trimethylamine, hydrochloride (8CI); Hegzadesil; Trimethylamine hydrochloric acid; Trimethylamine monohydrochloride; Trimethylammonium chloride
+FIELD Formula:C3 H9 N . Cl H
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:116-53-0
+FIELD CA Index Name:Butanoic acid, 2-methyl-
+FIELD Other Names:Butyric acid, 2-methyl- (6CI,8CI); Butyric acid, α-methyl- (3CI); 2-Methylbutanoic acid; (±)-2-Methylbutanoic acid; (±)-2-Methylbutyric acid; (±)-Methylethylacetic acid; (±)-α-Methylbutyric acid; 2-Ethylpropanoic acid; 2-Methyl-n-butyric acid; 2-Methylbutyric acid; Active valeric acid; DL-2-Methylbutanoic acid; DL-2-Methylbutyric acid; DL-α-Methylbutyric acid; Ethylmethylacetic acid; Hydroangelic acid; Methylethylacetic acid; NSC 7304; α-Methyl-n-butyric acid; α-Methylbutyric acid
+FIELD Formula:C5 H10 O2
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):600-07-7
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:60-00-4
+FIELD CA Index Name:Glycine, N,N'-1,2-ethanediylbis[N-(carboxymethyl)-
+FIELD Other Names:Acetic acid, (ethylenedinitrilo)tetra- (8CI); N,N'-1,2-Ethanediylbis[N-(carboxymethyl)glycine]; 2,2',2'',2'''-(ethane-1,2-diylbis(azanetriyl))tetraacetic acid; 3,6-Diazaoctanedioic acid, 3,6-bis(carboxymethyl)-; Acetic acid, 2,2',2'',2'''-(1,2-ethanediyldinitrilo)tetrakis-; Acroma DH 700; Celon A; Celon ATH; Cheelox; Chelest 3A; Chelest A; Chemcolox 340; Clewat TAA; Clewat TTA; Complexon II; Disolvin NA 2-S; Dissolvine E; Dissolvine NA-X; Dissolvine Z; Dotite 4H; EDETA B; EDTA; EDTA (chelating agent); Edathamil; Edetic acid; Endrate; Ethylene-N,N'-biscarboxymethyl-N,N'-diglycine; Ethylenediamine-N,N,N',N'-tetraacetic acid; Ethylenediaminetetraacetate; Ethylenediaminetetraacetic acid; Ethylenedinitrilotetraacetic acid; Gluma Cleanser; Havidote; ICRF 185; Kurewat-N; Metaquest A; NSC 97243; NSC 97404; Nervanaid B acid; Nullapon B acid; Nullapon BF acid; Perma Kleer 50 acid; PrefGel; Quastal Special; Sequestrene AA; Sequestrene K 4; Sequestric acid; Sequestrol; Techrun DO; Titriplex; Titriplex II; Trilon BS; Trilon BW; Versene; WS; WS (chelating agent); YD 30; Zonon AO
+FIELD Formula:C10 H16 N2 O8
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):13440-78-3, 20539-27-9, 26627-46-3, 30485-87-1, 30485-88-2, 30485-90-6, 32757-10-1, 94108-75-5, 161122-33-4, 402925-67-1, 675141-16-9, 1586747-13-8, 1799367-75-1
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:57-50-1
+FIELD CA Index Name:α-D-Glucopyranoside, β-D-fructofuranosyl
+FIELD Other Names:Sucrose (8CI); β-D-Fructofuranosyl α-D-glucopyranoside; (+)-Sucrose; (2R,3R,4S,5S,6R)-2-[(2S,3S,4S,5R)-3,4-Dihydroxy-2,5-bis(hydroxymethyl)tetrahydrofuran-2-yl]oxy-6-(hydroxymethyl)tetrahydropyran-3,4,5-triol; 2-[3,4-Dihydroxy-2,5-bis(hydroxymethyl)oxolan-2-yl]oxy-6-(hydroxymethyl)oxane-3,4,5-triol; Amerfond; Beet sugar; Cane sugar; Carrare C 10; Compressuc; Confectioner's sugar; D-(+)-Saccharose; D-(+)-Sucrose; D-Sucrose; Demerara; Frost Sugar; Frost Sugar FS 2; GHC 1; GNE 410; Granulated sugar; Granulite Sugar CIG; Khandsari; MGP; MGP (sugar); Manalox AS; Microse; NSC 406942; Nitto Hi-Sweet Deluxe; Nitto hydriodide-Sweet Deluxe; Pharma-a-spheres 20/25; Rock candy; S 67F; Saccharose; Saccharum; Sucralox; Sucrose NF; Sugar; Tootsweet; White sugar; α-D-Glucosyl-β-D-fructofuranoside
+FIELD Formula:C12 H22 O11
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):8027-47-2, 8030-20-4, 12040-73-2, 29253-78-9, 29764-06-5, 30027-72-6, 47167-52-2, 47185-09-1, 47257-91-0, 50857-68-6, 51909-69-4, 64533-66-0, 65545-99-5, 75398-84-4, 76056-38-7, 78654-77-0, 80165-03-3, 85456-51-5, 86101-30-6, 87430-66-8, 92004-84-7, 100405-08-1, 104242-10-6, 131932-12-2, 146054-35-5, 146187-04-4, 151756-02-4, 220376-22-7, 635681-90-2, 786702-63-4, 880257-62-5, 1159795-78-4, 1192061-43-0, 1206156-82-2, 1481578-88-4, 1566560-95-9, 2169316-40-7
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:57-13-6
+FIELD CA Index Name:Urea
+FIELD Other Names:AUS 32; AdBlue; Aquacare; Aquadrate; B-I-K; Basodexan; Benural 70; Carbamide; Carbamimidic acid; Carbonyl diamide; Carmol 40; Cellpaste K 4; Cellton NP; DEF; DEF (diesel exhaust fluid); Diesel exhaust fluid; Duration III; ESN; Elaqua XX; Eucerin 10% Urea Lotion; Hyanit; Isourea; Keratinamin; Keratinamin Kowa; Low Biuret Urea; NSC 34375; Nutraplus; Onychomal; Onyster; Optigen 1200; Optigen II; Pastaron; Pastaron 10; Pastaron 20; Pastaron 20 soft; Pastaron soft; Pseudourea; Rubinol ST 010; SGN 250; UR; Ultra Low Biuret Urea; Urea perhydrate; Ureaphil; Ureophil; Urepeal; Urepeal L; Urepearl; Urevert; Uria; Uroderm; Varioform II
+FIELD Formula:C H4 N2 O
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):30535-50-3, 118548-06-4, 860639-56-1, 923953-70-2, 1202865-46-0, 1228376-38-2, 1637232-71-3, 2060607-07-8
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:56-93-9
+FIELD CA Index Name:Benzenemethanaminium, N,N,N-trimethyl-, chloride (1:1)
+FIELD Other Names:Ammonium, benzyltrimethyl-, chloride (8CI); Benzenemethanaminium, N,N,N-trimethyl-, chloride (9CI); Benzyltrimethylammonium chloride (6CI); Amberlite IRC 178(Cl); BTM; BTMAC 100; BTMAC 50; Hipochem Migrator J; Marcor 716; TMBAC; Trimethylbenzylammonium chloride; Variquat B 200
+FIELD Formula:C10 H16 N . Cl
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:56-86-0
+FIELD CA Index Name:L-Glutamic acid
+FIELD Other Names:Glutamic acid, L- (7CI,8CI); (+)-L-Glutamic acid; (2S)-2-Aminopentanedioic acid; (S)-(+)-Glutamic acid; (S)-2-Amino-1,5-pentanedioic acid; (S)-2-Aminopentanedioic acid; (S)-Glutamic acid; 1-Aminopropane-1,3-dicarboxylic acid; 1113: PN: US20090004648 SEQID: 1142 unclaimed protein; 13: PN: WO2016187408 SEQID: 14 claimed protein; 14: PN: WO2010024704 PAGE: 39 claimed protein; 14: PN: WO2010024704 PAGE: 39 claimed sequence; 14: PN: WO2018027024 SEQID: 14 claimed protein; 154: PN: EP2071334 SEQID: 168 claimed protein; 154: PN: WO2009077864 SEQID: 168 claimed protein; 17: PN: FR2980802 PAGE: 21-34 claimed sequence; 17: PN: US20090069547 PAGE: 10 claimed protein; 1: PN: WO2011158590 PAGE: 34 claimed protein; 2-Aminoglutaric acid; 2-Aminopentanedioic acid; 213: PN: US20110305663 SEQID: 215 unclaimed protein; 33: PN: AU2005201745 SEQID: 21 claimed protein; 501: PN: WO2012061732 PAGE: 73 claimed protein; 511: PN: WO2006090389 SEQID: 527 unclaimed protein; 80: PN: WO2005016244 PAGE: 71 claimed protein; 8: PN: WO2013130683 TABLE: 7 claimed sequence; Aciglut; E 620; Glusate; Glutacid; Glutamic acid; Glutamicol; Glutamidex; Glutaminic acid; Glutaminol; Glutaton; L-(+)-Glutamic acid; L-Glutaminic acid; L-α-Aminoglutaric acid; NSC 143503; Pentanedioic acid, 2-amino-, (S)-; Sortem; l-Glutaminic acid; α-Aminoglutaric acid; α-Glutamic acid
+FIELD Formula:C5 H9 N O4
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):138-16-9, 6899-05-4, 10549-13-0, 2087491-17-4
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+

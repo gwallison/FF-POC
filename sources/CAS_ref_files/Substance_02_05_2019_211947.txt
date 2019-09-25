@@ -1,0 +1,550 @@
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:344329-87-9
+FIELD CA Index Name:Cyclobutanol, 1-(nitromethyl)-
+FIELD Other Names:1-(Nitromethyl)cyclobutanol
+FIELD Formula:C5 H9 N O3
+FIELD Alternate Formula:
+FIELD Class Identifier:
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:Reaction Database
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:344329-35-7
+FIELD CA Index Name:4-Piperidinol, 2-methyl-
+FIELD Other Names:2-Methyl-4-piperidinol; 2-Methylpiperidin-4-ol
+FIELD Formula:C6 H13 N O
+FIELD Alternate Formula:
+FIELD Class Identifier:
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:Reaction Database
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:35674-56-7
+FIELD CA Index Name:Isoquinolinium, 2-(phenylmethyl)-, chloride (1:1)
+FIELD Other Names:Isoquinolinium, 2-(phenylmethyl)-, chloride (9CI); 2-Benzylisoquinolinium chloride; N-Benzylisoquinolinium chloride
+FIELD Formula:C16 H14 N . Cl
+FIELD Alternate Formula:
+FIELD Class Identifier:
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):946137-14-0
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:35657-77-3
+FIELD CA Index Name:Phosphonic acid, P,P',P'',P'''-[[(phosphonomethyl)imino]bis[6,1-hexanediylnitrilobis(methylene)]]tetrakis-, sodium salt (1:?)
+FIELD Other Names:Phosphonic acid, [[(phosphonomethyl)imino]bis[6,1-hexanediylnitrilobis(methylene)]]tetrakis-, sodium salt (9CI)
+FIELD Formula:C17 H44 N3 O15 P5 . x Na
+FIELD Alternate Formula:
+FIELD Class Identifier:
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:35429-19-7
+FIELD CA Index Name:Ethanaminium, N,N,N-trimethyl-2-[(2-methyl-1-oxo-2-propen-1-yl)oxy]-, chloride (1:1), polymer with 2-propenamide
+FIELD Other Names:Ethanaminium, N,N,N-trimethyl-2-[(2-methyl-1-oxo-2-propenyl)oxy]-, chloride, polymer with 2-propenamide (9CI); 2-Propenamide, polymer with N,N,N-trimethyl-2-[(2-methyl-1-oxo-2-propenyl)oxy]ethanaminium chloride (9CI); (2-Methacryloyloxyethyl)trimethylammonium chloride-acrylamide copolymer; (Methacryloxyethyl)trimethylammonium chloride-acrylamide polymer; Acrylamide dimethylaminoethyl methacrylate methyl chloride quaternized salt polymer; Acrylamide-(2-methacryloyloxyethyl)trimethylammonium chloride copolymer; Acrylamide-2-(dimethylamino)ethyl methacrylate methyl chloride copolymer; Acrylamide-2-(trimethylammonio)ethyl methacrylate chloride copolymer; Acrylamide-2-methacryloxyethyltrimethylammonium chloride copolymer; Acrylamide-2-methacryloylethyl trimethyl ammonium chloride copolymer; Acrylamide-N,N,N-trimethylaminoethyl methacrylate chloride copolymer; Acrylamide-N,N-dimethylaminoethyl methacrylate methyl chloride copolymer; Acrylamide-N,N-dimethylaminoethyl methacrylate methyl chloride salt copolymer; Acrylamide-[2-(methacryloyloxy)ethyl]trimethylammonium chloride polymer; Acrylamide-[2-(methylacryloyloxy)ethyl]trimethylammonium chloride copolymer; Acrylamide-dimethylaminoethyl methacrylate methyl chloride copolymer; Acrylamide-dimethylaminoethyl methacrylate methyl chloride quaternized salt copolymer; Acrylamide-dimethylaminoethyl methacrylate methyl chloride salt copolymer; Acrylamide-dimethylaminoethyl methacrylate quaternary methyl chloride salt copolymer; Acrylamide-methacryloxyethyltrimethylammonium chloride copolymer; Acrylamide-methacryloylethyltrimethylammonium chloride copolymer; Acrylamide-methacryloyloxyethyltrimethylammonium chloride copolymer; Acrylamide-methacryloyolxyethyltrimethylammonium chloride copolymer; Acrylamide-trimethyl[2-(methacryloyloxy)ethyl]ammonium chloride polymer; Acrylamide-trimethylaminoethyl methacrylate chloride copolymer; Acrylamide-trimethylammonioethyl methacrylate chloride copolymer; Acrylamide-trimethylammonioethyl methacrylate chloride polymer; Acrylamide-trimethylammoniumethylmethacrylate chloride copolymer; Acrylamide-β-methacryloyloxyethyltrimethylammonium chloride copolymer; Alcostat 684; Aronfloc C 325; Binaquat P 100; Clarifloc C 316; Flocogil G 1090; Hercofloc 859; Hiset C 721; Kayafloc C 599-2P; Methacryloyloxyethyltrimethylammonium chloride-acrylamide copolymer; Nalco 7541; Percol 757; Polyquaternium 15; Polyquaternium 32; Praestol 423; Praestol 434K; Rohagit KF 720F; Salcare SC 92; Sanfloc C 509P; Sanfloc C 809P; Sanfloc C 909P; Sanfloc CH 839P; Sequex PC; Sunrez PC; Superfloc C 442; Takiflock C 414; Zetag 76; Zetag 7888
+FIELD Formula:(C9 H18 N O2 . C3 H5 N O . Cl)x
+FIELD Alternate Formula:
+FIELD Class Identifier:Polymer
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):52404-63-4, 57619-93-9, 61763-41-5, 69233-54-1, 76162-18-0, 77901-67-8, 81180-77-0, 81489-34-1, 83203-36-5, 86812-39-7, 99581-73-4, 99913-34-5, 113338-72-0, 121718-47-6, 132174-31-3, 147014-82-2, 147035-98-1, 200138-86-9, 223104-79-8, 1570052-43-5, 2035459-00-6, 2081951-34-8
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:35297-54-2
+FIELD CA Index Name:Formaldehyde, polymer with ammonia and phenol
+FIELD Other Names:Ammonia, polymer with formaldehyde and phenol (9CI); Phenol, polymer with ammonia and formaldehyde (9CI); Ammonia-formaldehyde-phenol copolymer; Phenol-formaldehyde-ammonia polymer
+FIELD Formula:(C6 H6 O . C H2 O . H3 N)x
+FIELD Alternate Formula:
+FIELD Class Identifier:Polymer
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:35249-89-9
+FIELD CA Index Name:Acetic acid, 2-hydroxy-, ammonium salt (1:1)
+FIELD Other Names:Acetic acid, hydroxy-, monoammonium salt (9CI); Ammonium glycolate; Ammonium hydroxyacetate; Gliconol L; Hydroxyacetic acid ammonium salt
+FIELD Formula:C2 H4 O3 . H3 N
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):859980-43-1
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:35249-69-5
+FIELD CA Index Name:Acetic acid, 2,2'-oxybis-, sodium salt (1:2)
+FIELD Other Names:Acetic acid, 2,2'-oxybis-, disodium salt (9CI); 3-Oxapentanedioic acid disodium salt; Bis(carboxymethyl) ether disodium salt; Disodium diglycolate; Disodium oxydiacetate; Oxydiacetic acid disodium salt; PB 11625; Sodium oxydiacetate
+FIELD Formula:C4 H6 O5 . 2 Na
+FIELD Alternate Formula:
+FIELD Class Identifier:
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:34398-01-1
+FIELD CA Index Name:Poly(oxy-1,2-ethanediyl), α-undecyl-ω-hydroxy-
+FIELD Other Names:Glycols, polyethylene, monoundecyl ether (8CI); Berol 533; Berol 537; Berol 542; Bio-Soft N 1-7; Biodac 2-32; Emulgen 1150S70; Ethoxylated undecanyl alcohol; Ethoxylated undecyl alcohol; Genapol UD 070; Genapol UD 070N; Genapol UD 079; Imbentin L 111/100; Leocol DU 55; Neodol 1-3; Neodol 1-5; Neodol 1-6; Neodol 1-7; Neodol 1-73B; Neodol 1-9; Polyethylene glycol monoundecyl ether; Polyethylene glycol undecyl ether; Polyoxyethylene undecyl ether; Prevocell F 11/605L; Siponic L 25; TORNADOL 1-7; Tomadol 1-3; Tomadol 1-5; Tomadol 1-6; Tomadol 1-7; Tomadol 1-9; Undeceth 11; Undeceth 3; Undeceth 7; Undeceth 8; Undeceth 9; Undeceth-5; α-Undecyl-ω-hydroxypoly(oxyethylene)
+FIELD Formula:(C2 H4 O)n C11 H24 O
+FIELD Alternate Formula:
+FIELD Class Identifier:Polymer , Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):171903-95-0, 249287-31-8, 342043-56-5, 439945-18-3, 877610-16-7, 1354650-63-7, 1998768-71-0
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:34302-65-3
+FIELD CA Index Name:Propanoic acid, 2-hydroxy-, ammonium salt (1:?)
+FIELD Other Names:Lactic acid, ammonium salt (8CI); Propanoic acid, 2-hydroxy-, ammonium salt (9CI)
+FIELD Formula:C3 H6 O3 . x H3 N
+FIELD Alternate Formula:
+FIELD Class Identifier:
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:34004-36-9
+FIELD CA Index Name:1-Propanaminium, 2,3-dihydroxy-N,N,N-trimethyl-, chloride (1:1)
+FIELD Other Names:1-Propanaminium, 2,3-dihydroxy-N,N,N-trimethyl-, chloride (9CI); Ammonium, (2,3-dihydroxypropyl)trimethyl-, chloride (8CI); (2,3-Dihydroxypropyl)trimethylammonium chloride
+FIELD Formula:C6 H16 N O2 . Cl
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):1883418-77-6
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:32685-17-9
+FIELD CA Index Name:Glycine, N,N-bis(carboxymethyl)-, ammonium salt (1:3)
+FIELD Other Names:Acetic acid, nitrilotri-, triammonium salt (8CI); Glycine, N,N-bis(carboxymethyl)-, triammonium salt (9CI); Ammonium nitrilotriacetate; Triammonium nitrilotriacetate
+FIELD Formula:C6 H9 N O6 . 3 H3 N
+FIELD Alternate Formula:
+FIELD Class Identifier:
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:32612-48-9
+FIELD CA Index Name:Poly(oxy-1,2-ethanediyl), α-sulfo-ω-(dodecyloxy)-, ammonium salt (1:1)
+FIELD Other Names:Glycols, polyethylene, mono(hydrogen sulfate), dodecyl ether, ammonium salt (8CI); Poly(oxy-1,2-ethanediyl), α-sulfo-ω-(dodecyloxy)-, ammonium salt (9CI); AESA 25; AT 701; Alscoap LN 225B; Ammonium (lauryloxypolyethoxy)ethyl sulfate; Ammonium dodecyl alcohol polyoxyethylene ether sulfate; Ammonium laureth sulfate; Ammonium laureth(3) sulfate; Ammonium polyoxyethylene lauryl ether sulfate; B 20; CA 330; Calfoam EA 603; Cycloryl MA 360; Cycloryl MD; Emal 125A; Emal 170S-A; Empicol EAC/TP; Emulsogen LA 083; Ethoxylated ammonium lauryl ether sulfate; Ethoxylated lauryl alcohol sulfate ammonium salt; Ethylene glycol monoether with Kalcohl 2098 ammonium sulfate; Hitenol 16E; Hitenol LA 10; Hitenol LA 12; LA 10; LA 12; Poly(oxyethylene) lauryl ether ammonium sulfate; Polyethylene glycol dodecyl ether sulfate ammonium salt; Polyethylene glycol lauryl ether sulfate ammonium salt; Polyethylene glycol monododecyl ether hydrogen sulfate ammonium salt; Polyethylene glycol monolauryl ether ammonium sulfate; Polyethylene glycol monolauryl ether sulfate ammonium salt; Polyoxyethylene lauryl ether sulfate ammonium salt; Polystep B 11; Polystep B 20; Polystep B 22; Rhodapex EA 2; Rhodapex PA 603; Richinol RS 1300; Sipon EA; Sipon LEA 25; Standapol EA 2; Steol CA 130; Steol CA 230; Steol CA 330; Steol CA 460; Sulfochem ALES 3; Sulfochem EA 1; Sulfochem EA 2; Sulfochem EA 3; Sulfochem EA 60; Tainolin AESA-25; Texapon ALES 70; Witcolate 1276; Witcolate 7103; Witcolate S 1300C; Zetesol AP; α-Sulfo-ω-(dodecyloxy)poly(oxyethylene), ammonium salt
+FIELD Formula:(C2 H4 O)n C12 H26 O4 S . H3 N
+FIELD Alternate Formula:
+FIELD Class Identifier:Polymer , Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):71892-96-1, 86298-01-3, 119764-44-2, 871810-22-9, 1307690-40-9, 2135780-84-4
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:31570-04-4
+FIELD CA Index Name:Phenol, 2,4-bis(1,1-dimethylethyl)-, 1,1',1''-phosphite
+FIELD Other Names:Phenol, 2,4-bis(1,1-dimethylethyl)-, phosphite (3:1) (9CI); Phenol, 2,4-di-tert-butyl-, phosphite (3:1) (8CI); 2,4-Bis(1,1-dimethylethyl)phenol phosphite (3:1); A 2112; ADK 2112; ADK Stab 2112; ADK Stab 2112RG; ADK Stab AS 2112; AO 168; AO 2; AO 200; AS 2112; AT 168; Alkanox 240; Alkanox P 240; Antioxidant 168; Antioxidant 1680; Antioxidant 2112; Antioxidant 240; B 168; B 311; Chemnox 168; Chinox 168; Cyanox 2704; D 168; Doverphos S 480; Everfos 168; Finox 168; Heat Stabilizer 168; Hostanox PAR 24; Hostanox TM-PAR 24; Hostanox VP-PAR 24; IG 168; IRG 168; Irgafos 168; Irgafos 168FF; Irgafos F; Irgafos P 168; Irgafox 168; Irganox 168; JP 650; JY 168; KY 168; Mark 2112; Mark 2112E; Naugard 524; P 16; P 48; P 48 (stabilizer); PKY 168; PL 10; PL 10 (stabilizer); PW 225; Phos 6; Phosphite 168; Pronox S; Quent 68; RA 168; RA 168 (antioxidant); Richfos 168; SN 168; SN 1680; Songnox 1200; Songnox 1680; Songnox 1680PX; Sonox 168; Sumilizer P 16; Thanox 168; Tomiphos 202; Tri(2,4-di-t-butylphenyl) phosphite; Tri(2,4-di-tert-butylphenyl) phosphite; Tri(2,4-tert-butylphenyl) phosphite; Tris(2,4-di-tert-butylphenoxy)phosphine; Tris(2,4-di-tert-butylphenyl) phosphite; Tris(2,4-di-tert-butylphenyl) phosphite; Tris(2,4-di-tert-butyphenyl) phosphite; Tris(2,4-tert-butylphenyl) phosphite; Ultranox 668; ZY 168
+FIELD Formula:C42 H63 O3 P
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):69344-92-9, 104381-89-7, 129038-69-3, 219315-40-9, 245439-51-4, 478284-78-5, 754233-11-9, 874911-33-8
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:3567-66-6
+FIELD CA Index Name:2,7-Naphthalenedisulfonic acid, 5-amino-4-hydroxy-3-(2-phenyldiazenyl)-, sodium salt (1:2)
+FIELD Other Names:2,7-Naphthalenedisulfonic acid, 5-amino-4-hydroxy-3-(phenylazo)-, disodium salt (9CI); C.I. Acid Red 33 (6CI,7CI); C.I. Acid Red 33, disodium salt (8CI); 11427 Red; 1424 Red; Acetyl Red B; Acid Fuchsin Fast B; Acid Fuchsine 38013; Acid Fuchsine 90120; Acid Fuchsine D; Acid Red 2A; Acid Red 33; Acid Red B; Amacid Fuchsine 4B; Azo Fuchsine; Azo Grenadine; Azo Magenta G; Azofuchsin; Azofuchsin (biological stain); Brasilan Fuchsine D; C.I. 17200; C.I. Food Red 12; Certicol Red B; Colacid Red 2A; Cosmetic Red 17000; D & C Red 33; D and C Red No. 33; D&C Red No. 33; D&C Red No. 33-307002; D&C Red No. 33-38013; D&C Red No. 33-90120; Disodium 1-hydroxy-2-phenylazo-8-aminonaphthalene-3,6-disulfonate; Edicol Supra Red 10B; Edicol Supra Red 10BS; Eniacid Fuchsine BN; Fabracid Fuchsine S-B; Fast Acid Magenta; Fast Acid Magenta B; Food Red 12; Hexacol Red 10B; Hexalan Red B; Hispacid Fuchsin B; Japan Red 227; Japan Red No. 227; Naphthalene Red B; Puricolor Red ARE 33; Red 10B; Red 10B307042; Red 33; Red CI 17200; Red No. 227; Romexal Red 2A; Unicert Red K 7057J
+FIELD Formula:C16 H13 N3 O7 S2 . 2 Na
+FIELD Alternate Formula:
+FIELD Class Identifier:
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):64553-75-9
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:3452-07-1
+FIELD CA Index Name:1-Eicosene
+FIELD Other Names:Cetyl ethylene; Methylene nonadecane; NSC 77138; Neodene C 20; α-Eicosene
+FIELD Formula:C20 H40
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:3327-22-8
+FIELD CA Index Name:1-Propanaminium, 3-chloro-2-hydroxy-N,N,N-trimethyl-, chloride (1:1)
+FIELD Other Names:(3-Chloro-2-hydroxypropyl)trimethylammonium chloride (7CI); 1-Propanaminium, 3-chloro-2-hydroxy-N,N,N-trimethyl-, chloride (9CI); Ammonium, (3-chloro-2-hydroxypropyl)trimethyl-, chloride (8CI); (2-Hydroxy-3-chloropropyl)trimethylammonium chloride; (3-Chloro-2-hydroxypropyl)-N,N,N-trimethylammonium chloride; 1-Chloro-2-hydroxypropane-3-trimethylammonium chloride; 1-Chloro-3-(trimethylammonio)-2-propanol chloride; 1-Chloro-3-trimethylammonium-2-propanol chloride; COPA 60S; CR 2000; CR 2000 (fixative); CTA; CTA 65; Catiomaster C; Catiomaster C 60; Cation Master C; Dextrosil; Dextrosil KA; Dowquat 188; EcoFAST CR 2000; HAC 65; N-(3-Chloro-2-hydroxypropyl)-N,N,N-trimethylammonium chloride; NSC 51216; NT 21; QUAB; QUAB 188; QUAB 218; Quat 188; Reagens CFZ; Reagens S; Reagens S-CFZ; Trimethyl(2-hydroxy-3-chloropropyl)ammonium chloride; Verolan KAF; Vircotone ECO
+FIELD Formula:C6 H15 Cl N O . Cl
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):58128-36-2, 73935-21-4, 101360-39-8, 115993-13-0, 126845-69-0, 181939-29-7, 1331834-62-8
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:3252-43-5
+FIELD CA Index Name:Acetonitrile, 2,2-dibromo-
+FIELD Other Names:Acetonitrile, dibromo- (6CI,7CI,8CI,9CI); 2,2-Dibromoacetonitrile; Dibromoacetonitrile
+FIELD Formula:C2 H Br2 N
+FIELD Alternate Formula:
+FIELD Class Identifier:
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:355-04-4
+FIELD CA Index Name:Pentane, 1,1,1,2,2,3,3,4,5,5,5-undecafluoro-4-(trifluoromethyl)-
+FIELD Other Names:Pentane, undecafluoro-2-(trifluoromethyl)- (6CI,7CI,8CI); 1,1,1,2,2,3,3,4,5,5,5-Undecafluoro-4-(trifluoromethyl)pentane; 2-(Trifluoromethyl)perfluoropentane; Perfluoro(2-methylpentane); Tetradecafluoro-2-methylpentane; Undecafluoro-2-(trifluoromethyl)pentane
+FIELD Formula:C6 F14
+FIELD Alternate Formula:
+FIELD Class Identifier:
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):93492-02-5
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:355-02-2
+FIELD CA Index Name:Cyclohexane, 1,1,2,2,3,3,4,4,5,5,6-undecafluoro-6-(trifluoromethyl)-
+FIELD Other Names:Cyclohexane, undecafluoro(trifluoromethyl)- (6CI,8CI,9CI); 1,1,2,2,3,3,4,4,5,5,6-Undecafluoro-6-(trifluoromethyl)cyclohexane; Flutec PC 2; Flutec PP 2; Khladon 350; NSC 4779; PP 2; Perfluoro(methylcyclohexane); Undecafluoro(trifluoromethyl)cyclohexane
+FIELD Formula:C7 F14
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:354-97-2
+FIELD CA Index Name:Pentane, 1,1,1,2,2,3,4,5,5,5-decafluoro-3-(1,1,2,2,2-pentafluoroethyl)-4-(trifluoromethyl)-
+FIELD Other Names:Pentane, 1,1,1,2,3,4,4,5,5,5-decafluoro-3-(pentafluoroethyl)-2-(trifluoromethyl)- (9CI); Pentane, decafluoro-3-(pentafluoroethyl)-2-(trifluoromethyl)- (6CI,8CI); 1,1,1,2,2,3,4,5,5,5-Decafluoro-3-(1,1,2,2,2-pentafluoroethyl)-4-(trifluoromethyl)pentane
+FIELD Formula:C8 F18
+FIELD Alternate Formula:
+FIELD Class Identifier:
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:354-96-1
+FIELD CA Index Name:Butane, 1,1,1,2,3,4,4,4-octafluoro-2,3-bis(trifluoromethyl)-
+FIELD Other Names:Butane, octafluoro-2,3-bis(trifluoromethyl)- (6CI,7CI,8CI); 1,1,1,2,3,4,4,4-Octafluoro-2,3-bis(trifluoromethyl)butane; 2,3-Bis(trifluoromethyl)-perfluorobutane; Perfluoro-2,3-dimethylbutane
+FIELD Formula:C6 F14
+FIELD Alternate Formula:
+FIELD Class Identifier:
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:344-38-7
+FIELD CA Index Name:Benzene, 4-bromo-1-nitro-2-(trifluoromethyl)-
+FIELD Other Names:Toluene, 5-bromo-α,α,α-trifluoro-2-nitro- (8CI); 4-Bromo-1-nitro-2-(trifluoromethyl)benzene; 1-Bromo-4-nitro-3-(trifluoromethyl)benzene; 3-Trifluoromethyl-4-nitrobromobenzene; 5-Bromo-2-nitrobenzotrifluoride
+FIELD Formula:C7 H3 Br F3 N O2
+FIELD Alternate Formula:
+FIELD Class Identifier:
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:335-27-3
+FIELD CA Index Name:Cyclohexane, 1,1,2,2,3,3,4,5,5,6-decafluoro-4,6-bis(trifluoromethyl)-
+FIELD Other Names:Cyclohexane, decafluoro-1,3-bis(trifluoromethyl)- (6CI,7CI,8CI); 1,1,2,2,3,3,4,5,5,6-Decafluoro-4,6-bis(trifluoromethyl)cyclohexane; Carbogal; Decafluoro-1,3-bis(trifluoromethyl)cyclohexane; Flutec PC 3; Flutec PP 3; NSC 4782; PP 3; Perfluoro(1,3-dimethylcyclohexane)
+FIELD Formula:C8 F16
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):79956-40-4
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:335-21-7
+FIELD CA Index Name:Cyclohexane, 1,1,2,2,3,3,4,4,5,5,6-undecafluoro-6-(1,1,2,2,2-pentafluoroethyl)-
+FIELD Other Names:Cyclohexane, undecafluoro(pentafluoroethyl)- (6CI,7CI,8CI,9CI); 1,1,2,2,3,3,4,4,5,5,6-Undecafluoro-6-(1,1,2,2,2-pentafluoroethyl)cyclohexane; Hexadecafluoroethylcyclohexane; NSC 4783; Pentafluoroethylundecafluorocyclohexane; Perfluoroethylcyclohexane
+FIELD Formula:C8 F16
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+

@@ -1,0 +1,550 @@
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:64741-88-4
+FIELD CA Index Name:Distillates (petroleum), solvent-refined heavy paraffinic
+FIELD Other Names:Solvent refined heavy paraffinic distillate (petroleum)
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Manual Registration , Concept
+FIELD Editor Note(s):
+FIELD Definition Field:A complex combination of hydrocarbons obtained as the raffinate from a solvent extraction process.  It consists predominantly of saturated hydrocarbons having carbon numbers predominantly in the range of C20 through C50 and produces a finish oil with a viscosity of at least 100 SUS at 100°F (19cSt at 40°C).
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:64741-86-2
+FIELD CA Index Name:Distillates (petroleum), sweetened middle
+FIELD Other Names:Sweetened middle distillate (petroleum)
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Manual Registration , Concept
+FIELD Editor Note(s):
+FIELD Definition Field:A complex combination of hydrocarbons obtained by subjecting a petroleum distillate to a sweetening process to convert mercaptans or to remove acidic impurities.  It consists of hydrocarbons having carbon numbers predominantly in the range of C9 through C20 and boiling in the range of approximately 150°C to 345°C (302°F to 653°F).
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:64741-68-0
+FIELD CA Index Name:Naphtha (petroleum), heavy catalytic reformed
+FIELD Other Names:Heavy catalytic reformed naphtha (petroleum)
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Manual Registration , Concept
+FIELD Editor Note(s):
+FIELD Definition Field:A complex combination of hydrocarbons produced from the distillation of products from a catalytic reforming process.  It consists of predominantly aromatic hydrocarbons having carbon numbers predominantly in the range of C7 through C12 and boiling in the range of approximately 90°C to 230°C (194°F to 446°F).
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:64741-67-9
+FIELD CA Index Name:Residues (petroleum), catalytic reformer fractionator
+FIELD Other Names:Catalytic reformer fractionator residue (petroleum)
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Manual Registration , Concept
+FIELD Editor Note(s):
+FIELD Definition Field:A complex combination of hydrocarbons produced as the residual fraction from distillation of the product from a catalytic reforming process.  It consists of predominantly aromatic hydrocarbons having carbon numbers predominantly in the range of C10 through C25 and boiling in the range of approximately 160°C to 400°C (320°F to 752°F).  This stream is likely to contain 5 wt. % or more of 4- or 6-membered condensed ring aromatic hydrocarbons.
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:64476-38-6
+FIELD CA Index Name:Apatite-group minerals
+FIELD Other Names:Apatite; Apatite group; Bialite; Apatite; Apatite group minerals; Minerals, apatite-group; TRAPPS; Tavistockite
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Manual Registration , Concept
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):12414-16-3, 12424-23-6, 12511-51-2
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:64475-85-0
+FIELD CA Index Name:Petroleum spirits
+FIELD Other Names:Petroleum, mineral spirits; Petroleum, spirit; Turpentine substitutes; White spirit; Amsco 140; Clerane 260; Coastal Pale Oil 105; Coating materials, vehicles, petroleum spirits; Finalan 40; HAWS; Kristallol K 30; LAWS; LAWS (solvent); LPA 210; Mineral Spirits A; Mineral spirits; Naphtha, petroleum spirits; Nefras C 4; Nefras C 4-150/200; Nefras C 4-155/200; Nefras C 4-1555/200; New Solvent A; Nisseki A Solvent; Shellsol 340; Soltrol; Soltrol 100; Soltrol 180; Soltrol 50; Solvent 140; Solvent Oil 200; Solvent oil 200; Spirdane D 40; Spirdane D 60; Spirits; Terlitol 16/18; Varsol 40; Varsol 60; White spirits
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Manual Registration , Concept
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):39457-63-1, 63090-48-2, 116010-32-3, 159704-24-2
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:64366-70-7
+FIELD CA Index Name:Oxirane, 2-methyl-, polymer with oxirane, mono(2-ethylhexyl) ether
+FIELD Other Names:Oxirane, methyl-, polymer with oxirane, mono(2-ethylhexyl) ether (9CI); Oxirane, polymer with methyloxirane, mono(2-ethylhexyl) ether (9CI); Agnique 3551; Agnique KE 3551; EH 3; EH 40; EH 9; Ecosurf EH 3; Ecosurf EH 40; Ecosurf EH 9; Ethoxylated propoxylated 2-ethyl-1-hexanol; Ethylene oxide-propylene oxide copolymer 2-ethylhexyl ether; Ethylene oxide-propylene oxide copolymer 2-ethylhexyl monoether; Ethylene oxide-propylene oxide copolymer mono(2-ethylhexyl) ether; Ethylene oxide-propylene oxide copolymer monoether with 2-ethyl-1-hexanol; NFB 2040; Polyethylene-polypropylene glycol mono(2-ethylhexyl) ether; Polyoxypropylene polyoxyethylene 2-ethyl hexyl ether; Sorpol 7952
+FIELD Formula:C8 H18 O . (C3 H6 O . C2 H4 O)x
+FIELD Alternate Formula:
+FIELD Class Identifier:
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):1313885-07-2, 1338074-03-5
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:64265-57-2
+FIELD CA Index Name:1-Aziridinepropanoic acid, 2-methyl-, 1,1'-[2-ethyl-2-[[3-(2-methyl-1-aziridinyl)-1-oxopropoxy]methyl]-1,3-propanediyl] ester
+FIELD Other Names:1-Aziridinepropanoic acid, 2-methyl-, 2-ethyl-2-[[3-(2-methyl-1-aziridinyl)-1-oxopropoxy]methyl]-1,3-propanediyl ester (9CI); 2-Ethyl-2-[[3-(2-methyl-1-aziridinyl)-1-oxopropoxy]methyl]-1,3-propanediyl bis(2-methyl-1-aziridinepropanoate); AS 316; CL 467; CX 100; Crosslinker CX 100; Crosslinker SC 100; Ionac PFAZ 322; NeoCryl CX 100; PFAZ 322; PZ 28; Permatex XR 2500; Permutex XR 2500; SaC 100; SaC 100 (crosslinking agent); Trimethylolpropane tris(2-methyl-1-aziridinepropionate); Trimethylolpropane tris(2-methyl-1-aziridinyl)propionate; XC 113; XR 2500
+FIELD Formula:C24 H41 N3 O6
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):75433-61-3, 77907-12-1, 125005-58-5, 128513-82-6, 344931-22-2, 1229579-56-9, 1257301-76-0, 1350292-22-6, 1957175-20-0
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:63800-37-3
+FIELD CA Index Name:Sepiolite (Mg4(OH)2(Si2O5)3.6H2O)
+FIELD Other Names:AD; AR-PA 99; Aid Plus; Aid Plus G; Aid Plus ML; Aid Plus ML 100D; Aid Plus ML 100W; Aid Plus ML 50D; Aid Plus ML 60D; Aid Plus ML-SS; Aid Plus P; Aid Plus PM; Aid Plus PMC; Aid Plus PMW; Aid Plus S; Aid Plus SP; B 20; Hexal 60-120; Hexal H; IGS; LFC 20; ML 30D; ML 50D; ML 70DSA; MY-F 6; Meerschaum; Milcon; Milcon E; Milcon G 200; Milcon LS; Milcon MS 2; Milcon MS 2-2; Milcon P; Milcon PS; Milcon S 15; Milcon SP; Milcon SP 2; Milcon SS; Min-U-Gel 200i; Miraclay G 13F; Miraclay LFC 25; Miraclay LFC 2Z; Miraclay P 150; Miraclay P 200V; Miraclay P 200VV; Miraclay P 300; Miraclay P 80V; P 200V; PRG 4; PRG 5; Pangel 235; Pangel AD; Pangel B; Pangel B 20; Pangel EF; Pangel FF; Pangel HV; Pangel S; Pangel S 9; Pangel ST; Pansil; Pansil (sepiolite); Pansil 100; Pansil 400; Pansil AL 60; Quincite; S 9; SP; Sea-Mud; Sepiogel F; Sepiolite; Sepiolite 30/60; Sepiolite CD 1; Sepisorb 400; Thermogel; Thermogel (clay mineral); Volcansil DE
+FIELD Formula:H2 O . 1/6 H O . 1/6 Mg . 1/6 O5 Si2
+FIELD Alternate Formula:H2 Mg4 O17 Si6 . 6 H2 O
+FIELD Class Identifier:Mineral , Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):1319-21-7, 12639-43-9, 15501-74-3, 18307-23-8, 53664-61-2, 61045-54-3, 61180-58-3, 64418-10-6, 69423-69-4, 83271-15-2, 479683-52-8
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:63428-86-4
+FIELD CA Index Name:Poly(oxy-1,2-ethanediyl), α-sulfo-ω-(hexyloxy)-, ammonium salt (1:1)
+FIELD Other Names:Poly(oxy-1,2-ethanediyl), α-sulfo-ω-(hexyloxy)-, ammonium salt (9CI); Polyethylene oxide monohexyl ether ammonium sulfate
+FIELD Formula:(C2 H4 O)n C6 H14 O4 S . H3 N
+FIELD Alternate Formula:
+FIELD Class Identifier:Polymer
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:63148-52-7
+FIELD CA Index Name:Polysiloxanes, di-Me, Me Ph
+FIELD Other Names:DC 550; Siloxanes and Silicones, di-Me, Me Ph; AP 1000; AR 1000; AR 1000 (silicone); AR 200; AR 200 (silicone); Advalon PN 1000; DC 510; Di-Me, Me Ph silicones; Di-Me, Me Ph siloxanes; Dow 550; Dow Corning 510; Dow Corning 550; Dow Corning Fluid 550; HR 52; KE 1843; KF 50-100; KF 50-1000; KF 50-100CS; KF 50-300; KF 50-3000; KF 50-3000CS; Molykote 44; OV 11; OV 3; OV 3 (siloxane); OV 61; OV 7; PMM 5021; PPS 100; PS 061; PS 063; SH 510; SH 550; SH 550 (siloxane); SH 556; SH 556 Fluid; SH 557; SH 710; SKTS-FN 50; SRX 310; Silicones, di-Me, Me Ph; Siloxanes and Silicones, di-Me, Ph Me; TSF 433; Toray SH 556
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Polymer , Manual Registration , Concept
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):9062-41-3, 9084-72-4, 37281-07-5, 2135712-19-3
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:62601-60-9
+FIELD CA Index Name:POC-OS 2020
+FIELD Other Names:OS 2020
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Manual Registration
+FIELD Editor Note(s):A poly(hydroxycarboxylate) brightener (Degussa)
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:61791-63-7
+FIELD CA Index Name:Amines, N-coco alkyltrimethylenediamines
+FIELD Other Names:Amines, N-coco alkyltrimethylenedi-; Amines, N-coco alkyltrimethylenedi-; Adogen 560; Diamines, N-coco alkyltrimethylenediamines; Dinoram C; Duomeen C; Duomeen CD; Genamin TAP 100D; N-Coco-1,3-propylenediamine
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Manual Registration , Concept
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):11103-79-0, 68155-41-9, 68858-75-3
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:61791-31-9
+FIELD CA Index Name:Ethanol, 2,2'-iminobis-, N-coco alkyl derivs.
+FIELD Other Names:N,N-Bis(2-hydroxyethyl)(coconut oil alkyl)amine
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Manual Registration , Generic Registration
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:61791-29-5
+FIELD CA Index Name:Fatty acids, coco, ethoxylated
+FIELD Other Names:Atmer 154; Chemax E 600ML; Coco fatty acids, ethoxylated; Coconut oil fatty acids, polyethylene glycol esters; Coconut oil, acids, monoesters with polyethylene glycol; Ethofat C 25; Ethox ML 14; Ethoxylated coco fatty acids; Ethoxylated fatty acids, coco; Genagen; Genagen C 100; Kaomul 230; Lipal CE 71; Polyethylene glycol (400) esters of coconut oil fatty acids; Polyethylene glycol monoester of coconut oil acids; Roksol K; Sintamid 5K; Stepanex 400MC; Syntamid 5k; Synthamide 5K; Trydet LA 5
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Polymer , Manual Registration , Concept
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):8051-46-5, 8051-92-1, 39287-84-8, 68921-12-0, 1459222-46-8
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:61791-26-2
+FIELD CA Index Name:Amines, tallow alkyl, ethoxylated
+FIELD Other Names:Agnique Tam 5; Alkaminox T 12; Alkaminox T 2; Amiet 502; Amiladin D; Amines, tallow, ethoxylated; Amines, tallow, polyethoxylated; Armostat 300; Atlas G 3762; Atlas G 3780644; Atlas G 3780A; Atmer 261; Berol 387; Berol 392; Bio-Soft TA 2; Chemeen T 5; Crisomin T 15; Crodamet T 15; ET 15; Emulson AG/GPE 3CA; Emulson AG/GPE 3SSM; Entry II; Esomine T 15; Ethokem; Ethomeen T; Ethomeen T 105; Ethomeen T 12; Ethomeen T 12E; Ethomeen T 15; Ethomeen T 16; Ethomeen T 18; Ethomeen T 20; Ethomeen T 20S; Ethomeen T 25; Ethomeen T 27; Ethomeen T 30; Ethomeen T 40; Ethomeen T 70; Ethomeen YT; Ethox TAM 15; Ethox TAM 2; Ethox TAM 20; Ethox TAM 5; Ethoxamine SF 11; Ethoxamine SF 15; Ethoxylated tallow alkyl amines; Ethoxylated tallow amines; Ethylan TT 05; Ethylan TT 15; Ethylan TT 203; Ethylan TT 40; Fentacare T 15; Frigate; G 3780A; Genamin 267; Genamin T; Genamin T 020; Genamin T 050; Genamin T 080; Genamin T 100; Genamin T 120; Genamin T 150; Genamin T 200; Genamin T 200NF; Genamin T 250; Hostastat FA 38; Hyspray; Icomeen T 15; Icomeen T 2; Imbentin TAM 400; Jeetox T 2; KFG 597C; Katapol PN 430; Katapol PN 530; Katapol PN 730; Katapol VP 532; Kemamine AS 974-1; MON 0818; Mazeen T 2; Meteor; Nalco NM 159; Naylamul S 11; Newcol TA 420; Newkalgen D 3615T; Nimine T 2-210; Nissan Nymeen T 2-202; Nissan Nymeen T 2-210; Nissan Nymeen T 2-230; Nissan Nymeen T 2-260; Noramox S; Noramox S 1; Noramox S 11; Noramox S 2; Noramox S 5; Noramox S 7; Nymeen T 2-202; Nymeen T 2-210; Nymeen T 2-230; PEG 100 tallow amine; PEG tallow amine; Prevocell 1618/3; Rhodameen IT 50/46; Rhodameen PN 430; Rhodameen RAM 7; Rhodameen T 12/90; Rhodameen T 15; Rhodameen T 50; Rhodameen T 7; Rhodameen VP 532; Rhodameen VP 532SPB; Surfonic AGM 510; Surfonic T 10; Surfonic T 15; Surfonic T 2; Surfonic T 20; Surfonic T 5; Surfonic T 6; T 15; T 5; T 5 (surfactant); TAM 105; TAM 2; Tallow alkyl amines, ethoxylated; Tam 15; Teric 17M2; Teric 204; Terwet 3780; Terwet 3784; Toximul 8362; Toximul TA 10; Toximul TA 15; Toximul TA 2; Toximul TA 5; Toximul TA 6; Toximul TA 8; Trymeen 6606; Trymeen 6607; Trymeen TAM; VP 532SPB; Varonic T 202; Varonic T 205; Varonic T 210; Varonic T 216; Varonic T 220; Varonic T 220D; Weedmaster CT Surfactant; Witcamine 405; Witcamine 6606; Witcamine TAM 105; Witcamine TAM 45; Witconol TD 1407
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Polymer , Component , Manual Registration , Concept
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):8051-57-8, 8051-58-9, 8051-59-0, 55608-16-7, 55608-17-8, 55608-18-9, 58392-21-5, 63091-06-5, 63705-00-0, 65099-75-4, 66456-78-8, 68551-36-0, 71950-59-9, 79748-21-3, 88747-42-6, 95751-70-5, 109223-82-7, 139465-52-4, 140608-56-6, 211236-23-6, 284043-71-6, 320376-56-5, 502849-71-0, 1129705-27-6, 1261038-35-0, 1261038-37-2, 1276693-55-0, 1807774-00-0, 1857375-23-5, 1931919-77-5, 2170202-83-0
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:61791-12-6
+FIELD CA Index Name:Castor oil, ethoxylated
+FIELD Other Names:1161X; AQ 250; Acconon CA 15; Acconon CA 5; Acconon CA 9; Actinol CS 40; Agnique CSO 30; Agnique CSO 35; Agnique CSO 40; Agnique CSO 40B; Agnique CSO 44F; Alkalmus 696D; Alkamuls 14R; Alkamuls 719E; Alkamuls B; Alkamuls EL 620; Alkamuls EL 719E; Alkamuls EL 985; Alkamuls OR 10; Alkamuls OR 36; Alkamuls OR 40; Alkamuls RC; Alkasurf CO 10; Alkasurf CO 15; Alkasurf CO 25B; Alkasurf CO 40; Arlatone 285; Arlatone 650; Atlas G 1281; Atlas G 1284; Atlas G 1300; BY 110; Berol 199; Berol 827; Berol 828; Berol 829; Berol 900; Berol 904; Bio-Soft HR 40; Bio-Soft HR 55; Blaunon BR 410; Blaunon BR 417; Blaunon BR 450; Blaunon CW 100; C 125; C 40; CO 10; CO 50TX; CO 60TX; CO 81; COE 36; Castor oil polyoxyethylene ether; Cemulsol BR; Chemax CO; Chemax CO 16; Chemax CO 200/50; Chemax CO 5; Chemax CO 80; Cirrasol G 1292; Cirrasol G 1300; Cremophor EL; Cremophor EL 40; Cremophor EL 60; Cremophor EL 80; Cremophor EL Castor Oil; Cremophor ELP; Cresmer 1202; D 230N; Decohfix CO 70; Dehscofix CO 125; Dehscofix CO 140; Dehscofix CO 25; E 1-10; EL 10; EL 10 (emulsifier); EL 12; EL 12 (emulsifier); EL 15; EL 20; EL 30; EL 30 (emulsifier); EL 360; EL 40; EL 5; EL 60; EL 80; EL 90; EO 90; Emalex C 20; Emalex C 50; Emulan EL; Emulan EL 40; Emulan ELH 60; Emulan ELP; Emulan ELP 11; Emulan EO 40; Emulan L 200; Emulphor EL 620; Emulphor EL 620P; Emulphor EL 719; Emulphor EL 749; Emulphor EL 980; Emulpon CO 200; Emulpon CO 360; Emulpon CO 550; Emulpon EL 20; Emulpon EL 40; Emulsogen EL; Emulsogen EL 200; Emulsogen EL 360; Emulsogen EL 400; Emulson AG/EL; Emulson CO 9; Ethofor RO 40; Ethox CO 16; Ethox CO 25; Ethox CO 30; Ethox CO 36; Ethox CO 40; Ethox CO 5; Ethox CO 81; Ethoxylated castor oil; Ethoxylated ricinol; Etocas 10; Etocas 15; Etocas 200; Etocas 200SO-MV; Etocas 25; Etocas 29; Etocas 30; Etocas 35; Etocas 40; Etocas 5; Etocas T; Eumulgin PRT 33; Eumulgin RH 40; Eumulgin RO 40; Eumulgin RT 40; G 1300; GS 2; GS 2 (surfactant); HCO 505; HEL 20; Hairikku AQ 250; Hedipin R 200; Hedipin R 300; Hedipin R 360; Hedipin R 400H; Hedipin R 750H; Heliwet EO 33; Hextoxide C 15; Hextoxide C 25; Hextoxide C 40; Hextoxide C 9; Hyric AQ 120; Hyric AQ 250; Incrocas 30; Incrocas 35; Incrocas 40; KECAS 40; Kolliphor EL; Kolliphor ELP; Koremul CO 17; Koremul CO 25; Leunapon ER 40; Lipal 200C; Lipal 25C; Lipal 52C; Lipcil 25C; Lucramul CO 30; Lucramul CO 40; Lumulse CO 25; Lumulse CO 30Q; Lumulse CO 40; Lyscil 25C; Mapeg CO 8; Mergital EL 33; Mulgoven EL 719; Mulsifan RT 163; NK-COG 40; Nalco 2395; Newcol 1500S; Newcol 1515; Newkalgen D 212; Newkalgen D 220K; Newkalgen D 225; Newkalgen D 240K; Newpol CZ 300; Nikkol CO; Nikkol CO 20; Nikkol CO 3; Nikkol CO 35; Nikkol CO 40TX; Nikkol CO 60TX; OK 20; OX 83; OX 84; PEG 200 castor oil; PEG 75 castor oil; Pegnol HC 40; Peregal C 125; Pingpingjia C 125; Pionin D 212; Pionin D 230; Pionin D 236; Pionin D 240W; Polyoxyl-35-Castor oil; Press-Wet OC 20A; Protachem CA 200; Protachem CA 30; Protachem CA 40; RT 40; Rhodasurf 870; Ricinox 80; Rokacet R 40; Rokacet R 40/100; Rokacet R 70; Simulsol 1285; Simulsol 5817; Simulsol 989; Simulsol CL 50; Slovasol EL; Soprophor B; Sorpol CA 20; Sorpol CA 42; Sorpol CA-30; Stepantex CO 30; Stepantex CO 40; Sunaptol CA 350; Surfactol 318; Surfactol 365; Surfactol 380; Surfaline R 20; Surfom R 400; Surfonic CO 36; Surfric CO 40; Synlube 106; TRYLOX CO 40; Tagat R; Tagat R 200; Tanemul KS; Teric 380; Teric C 12; Termul 1284; Termul 1285; Termul 2507; Termul 3201; Termul 3512; Texofor D 30; Tipal 52C; Toxanon AH; Toximul 8240; Toximul 8241; Toximul 8242; Toximul 8244; Trylox 5900; Trylox 5909; UR 27; UR 34; UR 51; Ukanil 2507; Uniox C 35; Unitop FFT 40; Vibsol EL 40; Visco L 357; Wettol EM 31; Witconol 5906; Witconol 5909
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Polymer , Manual Registration , Concept
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):8035-98-1, 8047-16-3, 8051-35-2, 8051-83-0, 8051-90-9, 9038-23-7, 53571-36-1, 56257-95-5, 57572-22-2, 58076-69-0, 58968-70-0, 58985-57-2, 60364-31-0, 60649-23-2, 60746-65-8, 65862-71-7, 71123-59-6, 107853-28-1, 193363-08-5, 286015-78-9, 287181-21-9, 339268-85-8, 439806-92-5, 921590-10-5, 1309581-05-2, 1384935-33-4, 2091900-74-0
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:61791-10-4
+FIELD CA Index Name:Quaternary ammonium compounds, coco alkylbis(hydroxyethyl)methyl, ethoxylated, chlorides
+FIELD Other Names:(Coconut oil alkyl)bis(2-hydroxyethyl, ethoxylated)methylammonium chloride; Berol 556; Coco alkylbis(hydroxyethyl)methylammonium chlorides, ethoxylated; Ethoquad C 12; Ethoquad C 12-50; Ethoquad C 12-75DK; Ethoquad C 12W; Ethoquad C 15; Ethoquad C 25; Ethoxylated coco alkylbis(hydroxyethyl)methyl ammonium chlorides; PEG-15 cocomonium chloride; Quaternary ammonium compounds, bis(hydroxyethyl)methylcoco alkyl, ethoxylated, chlorides; cEthoquad C 12-75DK
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Manual Registration , Concept
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):11120-83-5, 58449-53-9, 64706-28-1, 68188-02-3, 68440-52-8
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:61791-08-0
+FIELD CA Index Name:Fatty acids, coco, reaction products with ethanolamine, ethoxylated
+FIELD Other Names:
+FIELD Formula:C2 H7 N O . C2 H4 O . Unspecified
+FIELD Alternate Formula:Unspecified
+FIELD Class Identifier:Manual Registration , Concept
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:61790-85-0
+FIELD CA Index Name:Amines, N-tallow alkyltrimethylenediamines, ethoxylated
+FIELD Other Names:Amines, N-tallow alkyltrimethylenedi-, ethoxylated; Amines, N-tallow alkyltrimethylenedi-, ethoxylated; Crisamine DT 3; Diamines, N-tallow alkyltrimethylenediamines, ethoxylated; Ethoduomeen T 13; Ethoduomeen T 20; Ethoduomeen T 22; Ethoduomeen T 25; Ethoduomeen T-13; Ethoduomeen T/13; Ethoxylated N-tallow alkyltrimethylenediamines; Genamin TCL 030; N-(Tallow alkyl)trimethylenediamine, ethoxylated; N-Tallow alkyltrimethylenediamines, ethoxylated; Tomah E-DT 3; Tomamine E-DT 3; Varonic T 410
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Manual Registration , Concept
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):8051-40-9, 37208-32-5, 37208-33-6, 54328-14-2, 68425-55-8, 1276692-28-4
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:61790-66-7
+FIELD CA Index Name:Fatty acids, tall-oil, compds. with diethanolamine
+FIELD Other Names:
+FIELD Formula:C4 H11 N O2 . Unspecified
+FIELD Alternate Formula:Unspecified
+FIELD Class Identifier:Manual Registration , Concept
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:61790-60-1
+FIELD CA Index Name:Amines, tallow alkyl, acetates
+FIELD Other Names:Alamac 26; (Tallow alkyl)amine acetate; Alamac 26D; Amine salts, tallow alkyl, acetates; Armac T; Armac TD; Jet Amine PT-ACE
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Manual Registration , Concept
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):8034-95-5, 8034-96-6, 8035-84-5, 8035-85-6, 11138-04-8
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:61790-59-8
+FIELD CA Index Name:Amines, hydrogenated tallow alkyl, acetates
+FIELD Other Names:Alamac H26; Alamac H26D; Armac HT; Armac HTD; Leomix HT; Leomix HT Flake
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Manual Registration , Concept
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):8034-97-7, 8034-98-8, 8035-82-3, 8035-83-4, 55599-78-5
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:61790-50-9
+FIELD CA Index Name:Resin acids, potassium salts
+FIELD Other Names:Potassium resinate; Resin acids and Rosin acids, potassium salts; Bandis T 25KP; Bandis T 34K; Dresinate 91; Ediskan 5600; K 25; Rondis K 25; Rondis K 80; Rondis R; Sizepine E
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Manual Registration , Concept
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):67774-70-3, 68153-40-2, 68153-43-5, 68648-58-8, 103470-19-5
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:63-42-3
+FIELD CA Index Name:D-Glucose, 4-O-β-D-galactopyranosyl-
+FIELD Other Names:Lactose (8CI); 4-O-β-D-Galactopyranosyl-D-glucose; (+)-Lactose; AHL; Aletobiose; America Grand Lactose; D-(+)-Lactose; DCL 15; DCl 11; Dairylac 80; Dilactose; DuraLacH; Fast-Flo Lactose; Fast-flo; FlowLac; Flowlac 100; Galactinum; GranuLac; Granulac 140; Granulac 140M; Granulac 70; Hilmar Extra Fine; Hilmar Fine Graind; Inhalac 250; Inhalac 70; LE-PRO LAC 451; Lactin; Lactin (carbohydrate); Lactobiose; Lactohale 100; Lactohale 200; Lactohale 300; Lactose DCL 11; Lactose DCL 21; Lactose Edible 90; Lactose Fast-flo; Lactose anhydride; Lactose anhydrous; Milk sugar; Nonpareil 107; Osmolactan; Pharmatosa DCL 21; Pharmatose 21; Pharmatose 325M; Pharmatose DCL 15; PrenoLakt; Prismalac; Respitose MC 001; Respitose ML 001; Respitose ML 003; Respitose ML 006; Respitose SV 003; Respitose SV 010; Saccharum lactin; Sachelac; Sorbalac 400; Sorbolac 400; Spherolac; Super-Tab; SuperTab 11SD; SuperTab 21AN; Tablettose; Tablettose 100; Tablettose 70; Tablettose 80; Variolac 960; Zeparox EP
+FIELD Formula:C12 H22 O11
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):16984-38-6
+FIELD Deleted Registry Number(s):1336-90-9, 35396-14-6, 36570-80-6, 73824-63-2, 89466-76-2, 200734-90-3, 396716-09-9, 1065027-17-9
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+

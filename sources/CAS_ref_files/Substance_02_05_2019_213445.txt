@@ -1,0 +1,550 @@
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:7778-18-9
+FIELD CA Index Name:Sulfuric acid, calcium salt (1:1)
+FIELD Other Names:Calcium sulfate (6CI); A 30; A 30 (sulfate); Basic calcium sulfate; CA 5; CA 5 (sulfate); CAB 30; CAS 20; CAS 20-4; CaSO4; Calcium sulfate (1:1); Calcium sulfate (CaSO4); Calcium sulphate; Calmatrix; Capset; CoCoat P 80HB; Crysalba; D 1; D 1 (sulfate); D 101A; D 101A (sulfate); Denka Sigma 1000; Drierite; E 541; Franklin Fiber H 45; GR; GR (sulfate); HG 2; HG 2 (sulfate); JAX CS; KemWhite CG 80; NP-M 01; NP-MO 1; NP-S 02; NP-S 04; Oparex 10; Osteoset; Raddichem 27; SK 10; SSS-A; Sulfuric acid calcium salt; Sulfuric acid calcium(2+) salt (1:1); SurgiPlaster; TR 100 (sulfate); Thiolite
+FIELD Formula:Ca . H2 O4 S
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):23296-15-3, 99400-01-8, 146522-67-0, 151621-69-1, 326855-67-8, 871982-24-0, 1314087-18-7, 1428662-16-1
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:7775-19-1
+FIELD CA Index Name:Boric acid (HBO2), sodium salt (1:1)
+FIELD Other Names:Boric acid (HBO2), sodium salt (8CI,9CI); Sodium borate (NaBO2) (6CI); Borosoap; Kodalk; Monosodium metaborate; Sodium borate (Na2(BO2)2); Sodium metaborate; Sodium metaborate (NaBO2)
+FIELD Formula:B H O2 . Na
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):37354-60-2, 161374-81-8, 950582-56-6, 1437319-05-5, 1449469-60-6, 1853278-50-8
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:7775-09-9
+FIELD CA Index Name:Chloric acid, sodium salt (1:1)
+FIELD Other Names:Chloric acid, sodium salt (8CI,9CI); Agrosan; Asex; Atlacide; B-Herbatox; Chlorate SL; Defol 5; Defol 750; Desolet; Evau-Super; Granex O; Kusa-tohru; Oxycil; Shed-A-Leaf; Sodakem; Sodium chlorate; Sodium chlorate (NaClO3); Travex; VAL-DROP
+FIELD Formula:Cl H O3 . Na
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):11096-45-0, 38869-73-7, 38869-74-8
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:7774-34-7
+FIELD CA Index Name:Calcium chloride (CaCl2), hexahydrate (9CI)
+FIELD Other Names:Calcium chloride, hexahydrate (8CI); Calcium dichloride hexahydrate
+FIELD Formula:Ca Cl2 . 6 H2 O
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:7772-99-8
+FIELD CA Index Name:Tin chloride (SnCl2)
+FIELD Other Names:C.I. 77864; Dichlorotin; Niklad 261; Stannous chloride; Stannous dichloride; Stannum dichloride; Tin chloride; Tin dichloride; Tin dichloride (SnCl2); Tin(II) chloride; Uniston CR-HT 200
+FIELD Formula:Cl2 Sn
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):12306-28-4
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:7758-99-8
+FIELD CA Index Name:Sulfuric acid copper(2+) salt (1:1), hydrate (1:5)
+FIELD Other Names:Sulfuric acid copper(2+) salt (1:1), pentahydrate (8CI,9CI); Copper sulfate (CuSO4) pentahydrate; Copper sulfate pentahydrate; Copper(2+) sulfate pentahydrate; Copper(II) sulfate pentahydrate; Cupric sulfate pentahydrate
+FIELD Formula:Cu . H2 O4 S . 5 H2 O
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):17829-58-2, 80867-41-0
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:7758-89-6
+FIELD CA Index Name:Copper chloride (CuCl)
+FIELD Other Names:Copper chloride; Copper chloride (Cu2Cl2); Copper monochloride; Copper(1+) chloride; Copper(I) chloride; Cuprous chloride; Cuprous chloride (Cu2Cl2); Cuprous chloride (CuCl); Dicopper dichloride
+FIELD Formula:Cl Cu
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):11093-68-8, 12258-96-7, 12622-24-1, 53906-70-0, 53906-71-1, 53906-72-2, 53906-73-3
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:7758-87-4
+FIELD CA Index Name:Phosphoric acid, calcium salt (2:3)
+FIELD Other Names:Allogran-R; Apamicron AP 12C; Bonarka; C 13-09; C 13-09SF; Calciresorb; Calcium orthophosphate; Calcium orthophosphate (Ca3(PO4)2); Calcium phosphate; Calcium phosphate (3:2); Calcium phosphate (Ca1.5(PO4)); Calcium phosphate (Ca10.5(PO4)7); Calcium phosphate (Ca3(PO4)2); Calcium phosphate Ca0.75(PO4)0.5; Calcium tertiary phosphate; Calipharm T; Cerasorb; Cerasorb Curasan; Cerasorb M; Ceredex; Coveg; DET 10; Expandia R; JAX TCP; Multifos; Osferion; Osferion G1; Ossaplast; Ostram; Phos Calcium P 24; Phosphoric acid calcium(2+) salt (2:3); Posture; Posture (calcium supplement); SuperPore; Synthograft; Synthos; TCP; TCP 10; TCP 10U; TCP 118FG; Tertiary calcium phosphate; Tetrabones; Tribasic calcium phosphate; TricOs; Tricafos P; Tricalcium diphosphate; Tricalcium orthophosphate; Tricalcium phosphate; Tricalcium phosphate (Ca3(PO4)2); Versacal MP; Vitoss; nanoXIM-TCP 201; α-Ca3(PO4)2; α-Tricalcium phosphate; β-TCP; β-Tricalcium phosphate; β-Whitlockite
+FIELD Formula:Ca . 2/3 H3 O4 P
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):1344-15-6, 123211-19-8, 915772-79-1, 1160697-13-1, 1269629-39-1, 1314234-39-3
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:7758-29-4
+FIELD CA Index Name:Triphosphoric acid, sodium salt (1:5)
+FIELD Other Names:Triphosphoric acid, pentasodium salt (8CI,9CI); Albriphos 50F; Armofos; E 451i; Empiphos STP-D; Freez-Gard FP 19; L 2209; Na5P3O10; Nutriphos 0-88; Pentasodium triphosphate; Pentasodium triphosphate (Na5P3O10); Pentasodium tripolyphosphate; Pentasodium tripolyphosphate (Na5P3O10); Phosphorus sodium oxide (P3Na5O10); Polygon; Polypray H; Polypray STPP; Rhodiaphos A 4010; Rhodiaphos A 70HG; Rhodiaphos C 90H; Rhodiaphos C 90S Blue TX; Rhodiaphos H 5; Rhodiaphos HPA 3.5; Rhodiaphos LV; S 400; S 400 (phosphate); STP; STPP; STPP 20E; Sodium metaphosphate oxide (Na5(PO3)3O); Sodium phosphate (Na5P3O10); Sodium polyphosphate (Na5P3O10); Sodium triphosphate; Sodium triphosphate (Na5P3O10); Sodium tripolyphosphate; Sodium tripolyphosphate (Na5P3O10); Thermphos; Thermphos L 50; Thermphos L 500; Thermphos N; Thermphos NW; Thermphos SPR; Tripolyphosphate soda; Wandetto B
+FIELD Formula:H5 O10 P3 . 5 Na
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):9010-08-6, 187620-23-1, 860389-18-0, 1350716-07-2, 1610338-39-0, 2093160-08-6, 2247930-54-5
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:7757-79-1
+FIELD CA Index Name:Nitric acid potassium salt (1:1)
+FIELD Other Names:Nitric acid potassium salt (8CI,9CI); Potassium nitrate (1:1); Collo-Bo; E 252; Krista K; Krista K Plus; Niter; Nitre; Nitric acid, potassium salt; Nitrokalite; Potassium nitrate; Saltpeter
+FIELD Formula:H N O3 . K
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):96193-83-8
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:7733-02-0
+FIELD CA Index Name:Sulfuric acid, zinc salt (1:1)
+FIELD Other Names:Biolectra Zink; Biosanzink; Bonazen; Bufopto Zinc Sulfate; Complexonat; Honny Fresh 10P; Kreatol; Op-Thal-Zin; Optraex; Solvazinc; Solvezink; Sulfuric acid zinc salt; Verazinc; White vitriol; Z-Span; Zinc sulfate; Zinc sulfate (1:1); Zinc sulfate (ZnSO4); Zinc vitriol; Zinc(II) sulfate; Zincaps; Zincate; Zinco; Zincomed; Zincteral
+FIELD Formula:H2 O4 S . Zn
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):18939-45-2
+FIELD Deleted Registry Number(s):131315-46-3, 139939-71-2, 873788-00-2
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:7727-43-7
+FIELD CA Index Name:Sulfuric acid, barium salt (1:1)
+FIELD Other Names:1012UF; 20HB; 300R; 5AA; 744HB; 801A; A 1; A 15; A 15 (inorganic compound); A 1985; A 200; A 200 (sulfate); AB 1600; AB 3000N1; AD; AY 103W; AY 2; AY-F 100; Actybaryte; Airwhite AW 5; B 1; B 1 (sulfate); B 2; B 20HD; B 30; B 300; B 300 (sulfate); B 30NC; B 31; B 32; B 33; B 34; B 35; B 35T; B 45; B 45 (sulfate); B 54; B 54 (sulfate); B 55; B 55H; BA; BA (sulfate); BAX; BB 02; BB 1; BC; BC (inorganic compound); BF 1; BF 10; BF 10H; BF 1H; BF 1L; BF 20; BF 20P; BF 21; BF 21F; BF 25; BF 30; BF 33; BF 40; BM 110; BM-E; BM/F; BMH; BMH 1; BMH 1 (sulfate); BMH 100; BMH 40; BMH 60; BMH 80; BMH-D; BS 115; BS 286; BS 80; BSM-M; BSP 1; BSP 1 (salt); Bakontal; Bamstar S-200; Bangyi M 8001; Baramite 10; Bariace B 100; Bariace B 30; Bariace B 31; Bariace B 32; Bariace B 33; Bariace B 34; Bariace B 35; Bariace B 35T; Bariace B 54; Bariace B 55; Bariace BF 20; Bariace BMH; Bariclear BF 20FW; Barico 100; Baricon Meal; Baridol; Barifine 100; Barifine BF 1; Barifine BF 10; Barifine BF 1L; Barifine BF 1P; Barifine BF 20; Barifine BF 21; Barifine BF 21F; Barifine BF 25; Barifine BF 40; Bariko 100; Bariko 300; Barita W 2; Barite BA; Barite BC; Barite BD; Barite BNW; Baritogen Deluxe; Baritop; Baritop P; Barium 100; Barium sulfate; Barium sulfate (1:1); Barium sulfate (BaSO4); Barium sulfate 100; Barium sulfate BD; Barium sulphate; Barium white; Barosperse; Barotrast; Bartex 10; Bartex 65; Bartex OWT; Baryta White; Baryte EX; Baryte R 2; Barytes 22; Barytes 290; Barytes Grade B 50; Barytmehl C 901; Bb-Micro SP; Bianco Fisso; Blanc AXE Super F; Blanc Fix; Blanc Fix Super F; Blanc Fixe Micro SP; Blanc Fixe Super F; Blanc fixe; Blanc fixe ABR; Blanc fixe F; Blanc fixe FX; Blanc fixe HD 80; Blanc fixe K 3; Blanc fixe Micro; Blanc fixe N; Blanc fixe NC 30; Blanc fixe NC 50; Blanc fixe SP; Blanc fixe XR-HN; Blanc fixe XR-HR; Blanc fixe XR-HX; Blanfix; Blank Fixe N; Brilliant N; C 14; C 14 (inorganic compound); C 300; C 300 (sulfate); C.I. 77120; C.I. Pigment White 21; C.I. Pigment White 22; CB 1250; CB 1250A; CF 38F; Cherokee Baryte 290; Cimbar BF; Cimbar EX; Cimbar NF; Cimbar PC; Cimbar UF; Cimbar XF; Citobaryum; Diamelia 16; E 340; E-Z-Paque; ECP-B 2; Enamel White; Eweiss; Exbar 4; F 8660; Finemeal; Fixe M; GY 2500; HD; HD (sulfate); HG-LFP; HU-D; HY-A 06; Hombright S; Huberbrite; Huberbrite 1; Huberbrite 10; Huberbrite 7; Huberbrite B 10; Huberbrite HB 10; JLH B7; JM 3B; K 100; K 100 (sulfate); KCB 01; KCB 03; KS-NANFUN; L 100; L 100 (inorganic compound); L 668; LC 330; Lactobaryt; Lakabar SF; Liquibarine; M 8001; Microbar 139; Micropaque; Mikabarium B; Mikabarium F; Mixobar; NFJ 3-1999; Neobalgin; Neobar; Nuocheng E 340; ON 310; P 1; P 1 (sulfate); P 25; P 25 (sulfate); PM 228; PS 07; Perlite Powder FBA; Permanent white; Pigment White 21; Pigment White 22; Polywate 325; Portaryte B 40/10; Portaryte D 150; Precipitated Barium Sulfate; Precipitated Barium Sulfate 300; Prontobario; SS 50; SS 50 (sulfate); SS 60; SS 60 (sulfate); ST; ST (sulfate); ST 1; Sachtleben Micro; Sachtoperse AB-TM 18383; Sachtoperse HP; Sachtoperse HU; Sachtoperse HU-D; Sachtoperse HU-N; Sachtoperse HU-N Spezial; Sachtoperse N 20; Sakai 300R; Solbar; Solvay JM 3B; Sparmite; Sparwite W 10; Sparwite W 5HB; Spezialsorte AI; Supramike; TBY 30; TH; TH (sulfate); TS 2 (barium sulfate); TS 2 (pigment); UD; UD (filler); Umbrasol A; Unibaryt; Velvolux K 3; VoLumen; W 1; W 1 (filler); W 10; W 44HB; W 44HD; W 5HB; W 6; W 6 (sulfate); Zhiyuan L 388
+FIELD Formula:Ba . H2 O4 S
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):29203-54-1
+FIELD Deleted Registry Number(s):8054-35-1, 12751-32-5, 1314087-22-3, 1352053-72-5, 1400694-37-2, 2095567-47-6
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:7722-76-1
+FIELD CA Index Name:Phosphoric acid, ammonium salt (1:1)
+FIELD Other Names:Phosphoric acid, monoammonium salt (8CI,9CI); ABC; ABC (fire extinguisher); ADP; ADP (filter); Ammonium biphosphate; Ammonium diacid phosphate; Ammonium dihydrogen orthophosphate; Ammonium dihydrogen phosphate; Ammonium dihydrogen phosphate ((NH4)H2PO4); Ammonium dihydrophosphate; Ammonium hydrogen phosphate ((NH4)H2PO4); Ammonium monobasic phosphate; Ammonium monobasic phosphate (NH4H2PO4); Ammonium orthophosphate monobasic; Ammonium phosphate; Ammonium phosphate (NH4H2PO4); Ammonium primary phosphate; Dihydrogen ammonium phosphate; Feniks AVS 40; Feniks AVS 70; Furex 770; MAP-B; Monoammonium acid phosphate; Monoammonium dihydrogen orthophosphate; Monoammonium dihydrogen phosphate; Monoammonium dihydrogen phosphate ((NH4)H2PO4); Monoammonium hydrogen phosphate; Monoammonium orthophosphate; Monoammonium phosphate; Monobasic ammonium phosphate; P-FKChS 2; PoliFAM NP 1452; VTI 57; Vekson AVS 25; Vekson AVS 30; Vekson AVS 50
+FIELD Formula:H3 N . H3 O4 P
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):1801523-63-6
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:7720-78-7
+FIELD CA Index Name:Sulfuric acid, iron(2+) salt (1:1)
+FIELD Other Names:Combiron; Copperas; Duretter; Duroferon; Exsiccated ferrous sulfate; Exsiccated ferrous sulphate; Feofol Spansule; Feosol; Feospan; Fer-In-Sol; Ferlim; Fero-Folic 500; Ferogradumet; Ferralyn; Ferro-Gradumet; Ferro-Theron; Ferromel 30; Ferromyn; Ferrosand; Ferrosulfate; Ferrous sulfate; Ferrous sulfate (1:1); Ferrous sulphate; Fersolate; Frost Fe; Green Salts; Green vitriol; Iron monosulfate; Iron sulfate; Iron sulfate (1:1); Iron sulfate (FeSO4); Iron vitriol; Iron(2+) sulfate; Iron(2+) sulfate (1:1); Iron(II) sulfate; Irospan; Kesuka; Microfer Spansule; Obsidan; Odophos; Plastufer; Quickfloc; Quickfloc (salt); SFE 171; Slow-Fe; Sulferrous; Sulfuric acid iron salt (1:1); V 0355
+FIELD Formula:Fe . H2 O4 S
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):8060-18-2, 8063-79-4, 56172-58-8, 139939-63-2
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:7718-54-9
+FIELD CA Index Name:Nickel chloride (NiCl2)
+FIELD Other Names:NSC 254532; Nickel chloride; Nickel dichloride; Nickel dichloride (NiCl2); Nickel(2+) chloride; Nickel(II) chloride; Nickelous chloride
+FIELD Formula:Cl2 Ni
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:7704-73-6
+FIELD CA Index Name:2-Butenedioic acid (2E)-, sodium salt (1:?)
+FIELD Other Names:2-Butenedioic acid (2E)-, sodium salt (9CI); 2-Butenedioic acid (E)-, sodium salt; Fumaric acid, sodium salt (8CI); Sodium fumarate
+FIELD Formula:C4 H4 O4 . x Na
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:7704-34-9
+FIELD CA Index Name:Sulfur
+FIELD Other Names:Agri-Sul; Alphagran S 80; Asulfa-Supra; Atomic sulfur; Bensulfoid; Bostex 378; Bostex 410; Brimstone; Colloidal sulfur; Cosan; Cosan 80; Cosavet; Cosavet Fertis; Crystex; Crystex HD-OT 20; Crystex HS; Crystex HS-OT 20; Crystex N; Crystex OT 20; Crystex OT 33; Crystex Sulfur; DN Neosulphur W; Delmite; Devisulphur; Dispersul; Durasul; EC(RM-S) 80; Elosal; Flowers of sulfur; Flowers of sulphur; GSS; Gofrativ; Gold Flower; Golden Flower; Ground vocle sulphur; H 10; HD 7020; HD-OT 20; HDOT 20; HIS 7020; HK 200-5; HS-OT 20; Heliosoufre; Hexasul; Hosoi 200; IS 60; IS 60 (sulfur); IS 60/G; IS 6005; IS 6010; IS 6030; IS 6033; IS 7020; IS 75; IS 80; IS 90; IS-HS 6033; IS-HS 7020; IS-HS 7520; IS-OT 20; Kolo 100; Kumulus; Kumulus DF; Kumulus FL; Kumulus S; Lansul; Liquamat; MC 98; MXP; Magnetic 6; Mahadhan Bensulf; Micowetsulf; Micronite; Microsulf; Microsulfo; Microthiol; Microthiol Disperss; Microthiol Special; Midas 101; Midas 105; Mitex-S; Mu-cron HS-OT 20; Mu-cron OT; Mu-cron OT 20; Mu-cron OT-F; Mylox; Necator; OT 10; OT 10 (sulfur); OT 20; PMC; PTC; PTC (sulfur); Polsinex 20; Polsinex 33; Polsinex N; Polsulkol Extra; Precipitated sulfur; Precipitated sulphur; RM; RM 104G; RM 98D; RS 6033; Rhenogran IS 60-75; Rhenogran IS 90-65; Rhenogran S 80; Rubermaker's Sulfur 104G; S 80; S 80 (sulfur); S 801 (sulfur); S 9990; SU 120; SU 120 (sulfur); SU 135-75; Safer Garden Sulfur; Sanfel EX; Sastid; Seimi OT; Seimi Sulfur; Seymezal; Share; Shreesul; Siarkol Extra; Sickosul; Sira; Sofril; Soufre H 10; Spersul; Struktol SU 109; Struktol SU 135; Sublimed sulfur; Sublimed sulphur; Sufran; Sufran D; SulFer95; Sulfax 200S; Sulfax 5; Sulfax A; Sulfax PMC; Sulfax PMG; Sulfax PN; Sulfax PS; Sulfax T 10; Sulfex; Sulfidal; Sulflox; Sulfoconcentrol; Sulfur 80; Sulfur SC; Sulfur atom; Sulfur element; Sulfur ointment; Sulfur soap; Sulikol; Sulikol K; Sulphex; Sulphur; Sultaf; Sumpor; Suprotex SGL; Thioben 90; Thiolux; Thiosol; Thiovit; Thiovit Jet; Thiovit S; Thiozol; Thiozol 80; Tiger 90; Tiger 90J; Tiovit; Tiozol 80; Ultra Sulfur; Ultrasofril; Wetsulf; Wettasul; Wettasul 80; Z Sulfur
+FIELD Formula:S
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):9035-99-8
+FIELD Deleted Registry Number(s):7782-45-8, 8050-82-6, 12673-82-4, 12684-31-0, 12767-24-7, 56449-52-6, 56591-09-4, 56645-30-8, 57035-13-9, 63705-05-5, 81032-32-8, 97124-07-7, 1819329-88-8
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:7699-43-6
+FIELD CA Index Name:Zirconium, dichlorooxo-
+FIELD Other Names:Dichlorooxozirconium; Basic zirconium chloride; NSC 115914; Orgatix ZC 126; Oxozirconium(IV) chloride; ZC; Zirconium chloride oxide (ZrCl2O); Zirconium chloride oxide (ZrOCl2); Zirconium chloride, basic; Zirconium dichloride monoxide; Zirconium dichloride oxide; Zirconium dichloride oxide (ZrCl2O); Zirconium oxide chloride (ZrOCl2); Zirconium oxide dichloride; Zirconium oxychloride; Zirconium oxychloride (ZrOCl2); Zirconium oxydichloride; Zirconium(IV) oxychloride; Zirconyl chloride; Zirconyl chloride (ZrOCl2); Zirconyl dichloride; Zircosol ZC; Zircosol ZC 20
+FIELD Formula:Cl2 O Zr
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):12371-05-0, 15169-54-7, 22547-97-3, 23395-03-1, 31411-63-9, 1033044-62-0, 1133021-29-0
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:7681-57-4
+FIELD CA Index Name:Disulfurous acid, sodium salt (1:2)
+FIELD Other Names:Disulfurous acid, disodium salt (9CI); Pyrosulfurous acid, disodium salt (8CI); Campden Tablets; Colorstrip Catalyst 100; Disodium disulfite; Disodium metabisulfite; Disodium pyrosulfite; Disodium pyrosulfite (Na2S2O5); E 223; Fertisilo; NSC 158277; NSC 227243; Sobis; Sobisu; Sodium disulfite (Na2S2O5); Sodium metabisulfite; Sodium metabisulfite (Na2S2O5); Sodium pyrosulfite; Sodium pyrosulfite (Na2S2O5); Sodium sulfur oxide (Na2S2O5)
+FIELD Formula:H2 O5 S2 . 2 Na
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):7757-74-6
+FIELD Deleted Registry Number(s):15771-29-6, 1287784-10-4, 2242622-57-5
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:7681-53-0
+FIELD CA Index Name:Phosphinic acid, sodium salt (1:1)
+FIELD Other Names:Phosphinic acid, sodium salt (8CI,9CI); Sodium hypophosphite (NaH2PO2) (7CI); Crosslink WC 205; Hypophosphorous acid monosodium salt; Monosodium hypophosphite; Phosphinic acid monosodium salt; Sodium hydrogen phosphite (NaH2PO2); Sodium hydrophosphite; Sodium hypophosphite; Sodium phosphate (NaH2PO2); Sodium phosphinate; Sodium phosphinate (NaH2PO2); Sodium phosphinite
+FIELD Formula:H3 O2 P . Na
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):14529-89-6, 15883-32-6, 174571-46-1, 1007476-22-3
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:7681-38-1
+FIELD CA Index Name:Sulfuric acid, sodium salt (1:1)
+FIELD Other Names:Sulfuric acid, monosodium salt (8CI,9CI); Acid sodium sulfate; BIF; Bisulfate of soda; Fanal; Monobasic sodium sulfate; Monosodium hydrogen sulfate; Monosodium sulfate; Niter cake; Nitre cake; Poultry Litter Treatment; Printgen N; SBS Pet; Sodium acid sulfate; Sodium bisulfate; Sodium bisulphate; Sodium hydrogen sulfate; Sodium hydrogen sulfate (NaHSO4); Sodium hydrosulfate; WC 00; WC-Klosettreiniger; WC-Perfect; WC-Super; pHase (sodium bisulfite)
+FIELD Formula:H2 O4 S . Na
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):12262-56-5, 1903778-63-1
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:546-93-0
+FIELD CA Index Name:Carbonic acid, magnesium salt (1:1)
+FIELD Other Names:Magnesium carbonate (6CI,7CI); A 106; Apolda; C.I. 77713; CSC Book Saver; CSC Book Saver Spray; Carbonate magnesium; DCI Light Magnesium Carbonate; Destab; Frimiz MZ 1; GP 20; GP 20 (carbonate); GP 30N; Gold Star; Gold Star (carbonate); Kimboshi; MA 70 (carbonate); MSHP; MSL; MSL-AM; MSPS; MSS; Magfy; Magnesite 33; Magnesite MSS; Magnesium Carbonate Gold Star; Magnesium carbonate (1:1); Magnesium carbonate (MgCO3); PMK 75; SG-MGC 01; Stan-Mag Magnesium Carbonate; TT; TT (carbonate); Upsalite
+FIELD Formula:C H2 O3 . Mg
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):7757-69-9
+FIELD Deleted Registry Number(s):1784-39-0, 183480-27-5, 364320-47-8
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:77-89-4
+FIELD CA Index Name:1,2,3-Propanetricarboxylic acid, 2-(acetyloxy)-, 1,2,3-triethyl ester
+FIELD Other Names:1,2,3-Propanetricarboxylic acid, 2-(acetyloxy)-, triethyl ester (9CI); Citric acid, triethyl ester, acetate (6CI,7CI,8CI); ATEC; Acetyl triethyl citrate; Citroflex A 2; Citrofol A 2; Citrofol AII; Morflex ATEC; NSC 3887; Triethyl 2-acetoxy-1,2,3-propanetricarboxylate; Triethyl acetylcitrate; Triethyl citrate acetate
+FIELD Formula:C14 H22 O8
+FIELD Alternate Formula:
+FIELD Class Identifier:
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:77-71-4
+FIELD CA Index Name:2,4-Imidazolidinedione, 5,5-dimethyl-
+FIELD Other Names:Hydantoin, 5,5-dimethyl- (6CI,7CI,8CI); 5,5-Dimethyl-2,4-imidazolidinedione; 4,4-Dimethyl-2,5-dioxoimidazolidine; 5,5-Dimethylhydantoin; DM Hydantoin; DMH; Dantoin 736; Dantoin DMH; Dimethylhydantoin; Fennosurf 300; NSC 8652
+FIELD Formula:C5 H8 N2 O2
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):25154-41-0
+FIELD Deleted Registry Number(s):1689577-91-0
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:77-49-6
+FIELD CA Index Name:1,3-Propanediol, 2-methyl-2-nitro-
+FIELD Other Names:2-Methyl-2-nitro-1,3-propanediol; 1,1-Dimethylol-1-nitroethane; 2-Nitro-2-methyl-1,3-propanediol; NMPD; NSC 5372; Nitroisobutylglycol
+FIELD Formula:C4 H9 N O4
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+

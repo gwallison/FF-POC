@@ -1,0 +1,550 @@
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:75673-43-7
+FIELD CA Index Name:Oxazolidine, 3,4,4-trimethyl-
+FIELD Other Names:3,4,4-Trimethyloxazolidine
+FIELD Formula:C6 H13 N O
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:74499-34-6
+FIELD CA Index Name:Alcohols, C12-15, propoxylated
+FIELD Other Names:Alcs., C12-15, propoxylated; Alkoxy alcohols, C12-15, propoxylated; C12-15, propoxylated alcs.; Dobanol 25-5; Oxilube 500; Propoxylated, C12-15 alcs.; SAP 949
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Polymer , Manual Registration , Concept
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:7664-93-9
+FIELD CA Index Name:Sulfuric acid
+FIELD Other Names:Aftec 3000; Alkyl sulfates; BOV; Brimstone acid; Contact acid; Dihydrogen sulfate; Dipping acid; NSC 248648; NSC 38965; Oil of vitriol; Ridolene 123; Sulfuric acids; Sulphuric acid; Vitriol brown oil
+FIELD Formula:H2 O4 S
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):119540-51-1, 127529-01-5, 140623-70-7
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:7647-15-6
+FIELD CA Index Name:Sodium bromide (NaBr)
+FIELD Other Names:Sodium bromide (8CI); NSC 77384; Sanibrom 40; Sedoneural
+FIELD Formula:Br Na
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):59217-63-9
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:7646-85-7
+FIELD CA Index Name:Zinc chloride (ZnCl2)
+FIELD Other Names:Zinc chloride (6CI,7CI,8CI); Butter of zinc; Knittex ZH; NSC 529648; Z 0014; Zinc Butter; Zinc dichloride; Zinc(II) chloride
+FIELD Formula:Cl2 Zn
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):53917-99-0, 1162648-93-2
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:7646-79-9
+FIELD CA Index Name:Cobalt chloride (CoCl2)
+FIELD Other Names:Cobalt chloride; Cobalt dichloride; Cobalt dichloride (CoCl2); Cobalt(2+) chloride; Cobalt(II) chloride; Cobaltous chloride; Cobaltous dichloride; Dichlorocobalt; NSC 51149
+FIELD Formula:Cl2 Co
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):1332-82-7
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:7632-50-0
+FIELD CA Index Name:1,2,3-Propanetricarboxylic acid, 2-hydroxy-, ammonium salt (1:?)
+FIELD Other Names:1,2,3-Propanetricarboxylic acid, 2-hydroxy-, ammonium salt (9CI); Citric acid, ammonium salt (8CI); Ammonium citrate
+FIELD Formula:C6 H8 O7 . x H3 N
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:7632-00-0
+FIELD CA Index Name:Nitrous acid, sodium salt (1:1)
+FIELD Other Names:Nitrous acid, sodium salt (8CI,9CI); Anti-Rust; E 250; Erinitrit; Filmerine; M 138C; Nitrous Acid Soda; SNS 40; Sodium nitrite; Sodium nitrite (NaNO2); Synfat 1004
+FIELD Formula:H N O2 . Na
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):32863-15-3, 56227-20-4, 82497-43-6, 82998-40-1
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:7631-99-4
+FIELD CA Index Name:Nitric acid sodium salt (1:1)
+FIELD Other Names:Nitric acid sodium salt (8CI,9CI); Sodium nitrate (1:1); Chile niter; Chile saltpeter; E 251; Niter (Chile); Nitric acid, sodium salt; Saltpeter (Chile); Soda niter; Sodium nitrate
+FIELD Formula:H N O3 . Na
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):862599-22-2, 1401517-04-1
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:7631-95-0
+FIELD CA Index Name:Molybdate (MoO42-), sodium (1:2), (T-4)-
+FIELD Other Names:Molybdate (MoO42-), disodium, (T-4)- (9CI); Molybdic acid (H2MoO4), disodium salt (8CI); Disodium molybdate; Disodium molybdate (Na2MoO4); Disodium tetraoxomolybdate; Disodium tetraoxomolybdate(2-); Molybdenum sodium oxide (MoNa2O4); Molybdenum sodium oxide (Na2MoO4); NSC 77389; Sodium molybdate; Sodium molybdate (Na2MoO4); Sodium molybdenate (Na2MoO4); Sodium molybdenum oxide (Na2MoO4); Sodium tetraoxomolybdate(2-)
+FIELD Formula:Mo O4 . 2 Na
+FIELD Alternate Formula:
+FIELD Class Identifier:Coordination Compound , Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):14666-91-2, 106463-33-6, 1224508-55-7, 1351977-28-0, 2122817-03-0, 2130740-17-7, 2243916-43-8
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:7487-88-9
+FIELD CA Index Name:Sulfuric acid magnesium salt (1:1)
+FIELD Other Names:Magnesium sulfate (1:1); Arrosalt 2327; Epso Top; Epsom salt; Epsom salts; M-HOS; MG 3K; MG-OK 100; MN 00; MN 30; Magnesii sulfas; Magnesium sulfate; Magnesium sulphate; Mg-OK; NP-YW 1; OT-S; OT-S (drying agent); SN 00; Sulfuric acid magnesium salt; Sulfuric acid, magnesium salt (1:1); TC-P; Tomix OT; WS 1S
+FIELD Formula:H2 O4 S . Mg
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):18939-43-0
+FIELD Deleted Registry Number(s):139939-75-6, 849607-35-8
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:7486-39-7
+FIELD CA Index Name:Hexanedioic acid, magnesium salt (1:1)
+FIELD Other Names:Adipic acid, magnesium salt (1:1) (8CI); Magnesium adipate (7CI)
+FIELD Formula:C6 H10 O4 . Mg
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):211316-34-6, 855945-11-8
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:7446-81-3
+FIELD CA Index Name:2-Propenoic acid, sodium salt (1:1)
+FIELD Other Names:2-Propenoic acid, sodium salt (9CI); Acrylic acid, sodium salt (6CI,7CI,8CI); Flexisperse 450N; Sodium 2-propenoate; Sodium acrylate; Webac 240A1
+FIELD Formula:C3 H4 O2 . Na
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):44196-70-5, 65852-59-7, 124740-94-9, 126123-84-0, 138961-78-1, 199453-47-9, 291530-46-6, 1239896-27-5, 1674405-53-8, 1865799-57-0, 2249945-71-7
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:7446-19-7
+FIELD CA Index Name:Sulfuric acid, zinc salt (1:1), monohydrate (8CI,9CI)
+FIELD Other Names:Zinc mesosulfate (ZnH2SO5) (7CI); ZNS 13; Zinc sulfate monohydrate; Zinc(II) sulfate monohydrate
+FIELD Formula:H2 O4 S . H2 O . Zn
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:763-69-9
+FIELD CA Index Name:Propanoic acid, 3-ethoxy-, ethyl ester
+FIELD Other Names:Propionic acid, 3-ethoxy-, ethyl ester (6CI,7CI,8CI); 3-Ethoxypropionic acid ethyl ester; Ektapro EEP; Ethyl 3-ethoxypropanoate; Ethyl 3-ethoxypropionate; Ethyl 4-oxahexanoate; Ethyl ethoxypropionate; Ethyl β-ethoxypropionate; NSC 8870; Sankio EEP; Solfine EP; Ucar Ester EEP
+FIELD Formula:C7 H14 O3
+FIELD Alternate Formula:
+FIELD Class Identifier:
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):1391911-67-3
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:758-12-3
+FIELD CA Index Name:Acetic acid-d (6CI,7CI,8CI,9CI)
+FIELD Other Names:
+FIELD Formula:C2 H3 D O2
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:497-19-8
+FIELD CA Index Name:Carbonic acid sodium salt (1:2)
+FIELD Other Names:Carbonic acid disodium salt (8CI,9CI); Sodium carbonate (6CI,7CI); Sodium carbonate (2:1); Bisodium carbonate; Calcined soda; Carbonic acid sodium salt; Carbonic acid, disodium salt; Dense Ash; Disodium carbonate; Disodium carbonate (Na2CO3); Dynamar 5251Q; Dynamar L 13890; Dynamar RC 5251Q; Light Ash; Lime ash; Na-X; Snowlite 1; Soda; Soda Ash Dense; Soda Ash Light; Soda Ash Light 4P; Soda Light; Soda ash; Soda, calcined; Sodium carbonate (Na2(CO3)); Sodium carbonate, anhydrous; Suprapur 6395; V 20N; V Soda
+FIELD Formula:C H2 O3 . 2 Na
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):7542-12-3
+FIELD Deleted Registry Number(s):1332-57-6, 1314087-39-2, 1977561-09-3
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:75-56-9
+FIELD CA Index Name:Oxirane, 2-methyl-
+FIELD Other Names:Oxirane, methyl- (9CI); Oxypropylene (6CI); Propane, 1,2-epoxy- (7CI); Propylene oxide (8CI); 2-Methyloxirane; (±)-1,2-Epoxypropane; (±)-2-Methyloxirane; (±)-Epoxypropane; (±)-Methyloxirane; (±)-Propylene oxide; 1,2-Epoxypropane; 1,2-Propylene oxide; 2,3-Epoxypropane; AD 6; AD 6 (suspending agent); DL-1,2-Epoxypropane; Epihydrin; Epoxypropane; Methyloxacyclopropane; Methyloxirane; Propene oxide; Propozone; Propylene epoxide; dl-Propylene oxide; rac-Propylene oxide
+FIELD Formula:C3 H6 O
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):16033-71-9
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:75-52-5
+FIELD CA Index Name:Methane, nitro-
+FIELD Other Names:Nitromethane; NM; NSC 428; Nitrocarbol
+FIELD Formula:C H3 N O2
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):104306-48-1
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:75-50-3
+FIELD CA Index Name:Methanamine, N,N-dimethyl-
+FIELD Other Names:Trimethylamine (8CI); N,N-Dimethylmethanamine; N,N,N-Trimethylamine; N-Trimethylamine
+FIELD Formula:C3 H9 N
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):4558-12-7
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:75-31-0
+FIELD CA Index Name:2-Propanamine
+FIELD Other Names:Isopropylamine (8CI); 1-Methylethylamine; 2-Aminopropane; 2-Isopropylamine; 2-Propylamine; Monoisopropylamine; NSC 62775; Propan-2-ylamine; sec-Propylamine
+FIELD Formula:C3 H9 N
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):85404-24-6
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:75-28-5
+FIELD CA Index Name:Propane, 2-methyl-
+FIELD Other Names:2-Methylpropane; 1,1-Dimethylethane; A 31; A 31 (hydrocarbon); Isobutane; Purifrigor Iso 2; Purifrigor Iso 2.5; Purifrigor Iso 3; Purifrigor Iso 3.5; R 600a; Trimethylmethane; iso-Butane
+FIELD Formula:C4 H10
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):70357-15-2, 100494-20-0, 1326305-81-0
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:75-21-8
+FIELD CA Index Name:Oxirane
+FIELD Other Names:Ethylene oxide (8CI); Ethyleneoxy (6CI); 1,2-Epoxyethane; 12/88; Ciba-Geigy 9138; Dihydrooxirene; Dimethylene oxide; ETO; Epoxyethane; Ethene oxide; Mirror Ox; Oxacyclopropane; Oxane; Oxidoethane; Oxirene, dihydro-; Oxyfume; Oxyfume 12; Oxyfume 2002; T-Gas
+FIELD Formula:C2 H4 O
+FIELD Alternate Formula:
+FIELD Class Identifier:Ring Parent , Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):19034-08-3, 37341-05-2, 99932-75-9, 142175-32-4, 184288-32-2, 436859-78-8
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:75-09-2
+FIELD CA Index Name:Methane, dichloro-
+FIELD Other Names:Dichloromethane; A 3000; Aerothene MM; DCM; F 30; F 30 (chlorocarbon); Freon 30; HCC 30; Khladon 30; Metaclen; Methaclean U; Methane dichloride; Methylene chloride; Methylene dichloride; NSC 406122; Narkotil; R 30; R 30 (refrigerant); Solaesthin; Soleana VDA; Solmethine
+FIELD Formula:C H2 Cl2
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:75-08-1
+FIELD CA Index Name:Ethanethiol
+FIELD Other Names:Ethyl hydrosulfide; Ethyl mercaptan; Ethyl thioalcohol; Mercaptoethane; NSC 93877; Thioethanol; Thioethyl alcohol
+FIELD Formula:C2 H6 S
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+

@@ -1,0 +1,550 @@
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:68308-35-0
+FIELD CA Index Name:Shellac, ammonium salt
+FIELD Other Names:Ammonium shellacate; Aqualacca 25; Marcoat; Marcoat 125; Shellaqua
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Manual Registration , Concept
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):910133-05-0
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:68214-24-4
+FIELD CA Index Name:Poly(oxy-1,2-ethanediyl), α,α',α'',α'''-[(1,36-dioxo-1,36-hexacosanediyl)bis(oxy-2,1-ethanediylnitrilodi-2,1-ethanediyl)]tetrakis[ω-hydroxy-
+FIELD Other Names:
+FIELD Formula:(C2 H4 O)n (C2 H4 O)n (C2 H4 O)n (C2 H4 O)n C48 H96 N2 O8
+FIELD Alternate Formula:
+FIELD Class Identifier:Polymer
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:68213-23-0
+FIELD CA Index Name:Alcohols, C12-18, ethoxylated
+FIELD Other Names:Agrimul NRE 1205; Alcohols, C12-18, ethoxylated, fatty; Alcs., C12-18, ethoxylated; Alcs., fatty, C12-18, ethoxylated; Alfonic 1218-70; Alfonic 1218-70L; Alfonic 1218-8; Belite M 3; C12-18 alcs., ethoxylated; C12-18 ethoxylated alcohols; C12-18 ethoxylated alcs.; C12-18 fatty alcs., ethoxylated; Cemulsol DB 311; Dehydol 100; Dehydol LST; Dehydol LST 80/20; Dehydol LT 2; Dehydol LT 4; Dehydol LT 5; Dehydol LT 7; Dehydol LT 8; Dehydol PTA 40; Disponil TA 430; Ethoxylated C12-18-fatty alcohols; Ethoxylated alcohols, C12-18; Ethoxylated alcs., C12-18; Fatty alcs., C12-18, ethoxylated; Foryl 100; Galaxy MW 287; Lutensol A 4N; Marlipal 28/100; PS 10; PS 10 (surfactant); Slovasol SF 3; TA 430
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Polymer , Manual Registration , Concept
+FIELD Editor Note(s):
+FIELD Definition Field:This substance is identified by SDA Substance Name:  C12-C18 alkyl alcohol ethoxylate and SDA Reporting Number:  16-065-00.  Consult SDA Substance Identification Procedure.
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):57916-97-9, 96023-99-3, 115426-34-1, 159814-07-0
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:68188-50-1
+FIELD CA Index Name:Alkenes, C24-28 α-, polymers with maleic anhydride, C20-28-alkyl esters
+FIELD Other Names:
+FIELD Formula:(C4 H2 O3 . Unspecified)x
+FIELD Alternate Formula:Unspecified
+FIELD Class Identifier:Polymer , Manual Registration , Concept
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:68188-40-9
+FIELD CA Index Name:Fatty acids, tall-oil, reaction products with acetophenone, formaldehyde and thiourea, hydrochlorides
+FIELD Other Names:
+FIELD Formula:C8 H8 O . C H4 N2 S . C H2 O . Cl H . Unspecified
+FIELD Alternate Formula:Unspecified
+FIELD Class Identifier:Manual Registration , Concept
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:68187-63-3
+FIELD CA Index Name:1-Propanaminium, 2-hydroxy-N,N,N-trimethyl-, 3-(C12-15-alkyloxy) derivs., chlorides
+FIELD Other Names:
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Manual Registration , Generic Registration
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:68187-17-7
+FIELD CA Index Name:Sulfuric acid, mono-C6-10-alkyl esters, ammonium salts
+FIELD Other Names:
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Manual Registration , Generic Registration
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:68155-37-3
+FIELD CA Index Name:Amines, N-C12-18-alkyltrimethylenedi-
+FIELD Other Names:
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Manual Registration , Concept
+FIELD Editor Note(s):
+FIELD Definition Field:This substance is identified by SDA Substance Name:  N-C12-C18 alkyl propylene diamine and SDA Reporting Number:  16-032-00.  Consult SDA Substance Identification Procedure.
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):2073036-46-9
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:68155-09-9
+FIELD CA Index Name:Amides, coco, N-[3-(dimethylamino)propyl], N-oxides
+FIELD Other Names:Ammonyx CDO; Ammonyx CDO Special; Barlox C; CAO 30; Chemoxide CAW; Coco amides, N-[3-(dimethylamino)propyl], N-oxides; Colalux CAO 35; Empigen OS/A; Incromine oxide C; Jordamox CAPA; Macat Ultra CDO; Mackamine CAO; Monalux CAO; Ninox CA; Oksipav AP 33; Oxidet L 75; Oxidet L 75C; Rewominox B 204; Schercamox C-AA; Standamox CAW; Standamox PW; Varox 1770
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Manual Registration , Concept
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):59763-25-6, 70775-87-0, 130124-27-5, 167679-17-6, 1385042-00-1
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:68153-30-0
+FIELD CA Index Name:Quaternary ammonium compounds, benzylbis(hydrogenated tallow alkyl)methyl, salts with bentonite
+FIELD Other Names:Bentonite, benzylbis(hydrogenated tallow alkyl)methylammonium complex; Quaternary ammonium compounds, benzylbis(hydrogenated tallow alkyl)methyl, chlorides, compds. with bentonite
+FIELD Formula:Unspecified . Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Manual Registration , Concept
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:68140-01-2
+FIELD CA Index Name:Amides, coco, N-[3-(dimethylamino)propyl]
+FIELD Other Names:Alkamide CAP; Armeen APA-C 1; Mazeen CA; N-[3-(dimethylamino)propyl] coco amides
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Manual Registration , Concept
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):68911-64-8, 85631-19-2, 1381933-35-2
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:68139-75-3
+FIELD CA Index Name:Fatty acids, C18-unsatd., dimers, polymers with diethylenetriamine and tall-oil fatty acids
+FIELD Other Names:Fatty acids, tall-oil, polymers with C18-unsatd. fatty acid dimers and diethylenetriamine
+FIELD Formula:(C4 H13 N3 . Unspecified . Unspecified)x
+FIELD Alternate Formula:Unspecified
+FIELD Class Identifier:Polymer , Manual Registration , Concept
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:68131-73-7
+FIELD CA Index Name:Polyamines, polyethylene-
+FIELD Other Names:Amines, polyethylenepoly-; Crude polyamine bottoms; Polyethylene-polyamines; Polyethylenepolyamine; Polyimines, polyethylene-
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Polymer , Component , Manual Registration , Concept
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):37231-61-1, 68551-30-4
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:68131-72-6
+FIELD CA Index Name:Polyphosphoric acids, esters with triethanolamine, sodium salts
+FIELD Other Names:
+FIELD Formula:C6 H15 N O3 . Na . Unspecified
+FIELD Alternate Formula:Unspecified
+FIELD Class Identifier:Manual Registration , Concept
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:68131-71-5
+FIELD CA Index Name:Polyphosphoric acids, esters with triethanolamine
+FIELD Other Names:
+FIELD Formula:C6 H15 N O3 . Unspecified
+FIELD Alternate Formula:Unspecified
+FIELD Class Identifier:Manual Registration , Concept
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:68131-39-5
+FIELD CA Index Name:Alcohols, C12-15, ethoxylated
+FIELD Other Names:AE 25-15A; AE 25-9A; AE 7; AE 7 (polyether); AEO 09; AEO 40; AEO 9; Adekatol SO 160; Alcohols, C12-15-alkyl, ethoxylated; Alcs., C12-15, ethoxylated; Alfonic 1012-40; Anapoe C13E8; BRE 15; Bio-Soft EN 600; Bio-Soft N 25-9; C 1215AE30; C12-15 Pareth 3; C12-15 Pareth-12; C12-15 Pareth-9; Dobanol 25-7; Dobanol 25-9; Dobanox 25I; Emersist 7232; Empilan KCL 9; Enordet AE 1215-30; Enordet AE 1215-9.4; Ethoxylated C12-15 alcohols; Ethoxylated C12-15 alcs.; Ethoxylated alcohols, C12-15; Genapol 26L45; Genapol LA 050; Genapol OX; Genapol OX 030; Genapol OX 060; Genapol OX 070; Genapol OX 100; Genapol OX 130; Imbentin C 125/85; Imbentin L 125/094; Lialet 125/5; Lialet 125/7; Marlipal 025/50; Marlipal 025/70; Marlipal O 25/50; Mulsifan RT 203/80; Musifan RT 203/80; Naroacty CL 40; Neodol 23-5E; Neodol 25-1.8; Neodol 25-12; Neodol 25-3; Neodol 25-7; Neodol 25-7E; Neodol 25-9; Neonol P 1215-12; Neonol P 1215-3; Neonol P 1215-6; Neonol P 1215-8; Neonol P 1215-9; Nonidet R 12; Nonidet R 7; Pareth 25; Pareth 25-12; Pareth 25-7; Pareth 25-9; Pingpingjia 9; Rhodasurf 25-3; Rokanol DB 3; Sandoxylat A 25-7; Serdox NES; Serdox NES 3; Serdox NES 8; Slovasol 2530; Slovasol 257; Slovasol 3520R; Solvasol 2510; Soprophor K 202; T-DET 25-3S; Tergitol 25L; Tergitol 25L12; Tergitol 25L3; Tergitol 25L5; Tergitol 25L7; Tergitol 25L9; Teric 12A; Teric 12A23; Teric 12A23B; Teric 12A3; Teric 12A8; Teric G 12A; Teric G 12A6; Teric G 12A8; Teric LA 4; Teric LA 8; Tomadol 25; Tomadol 25-12; Tomadol 25-3; Tomadol 25-7; Tomadol 25-9
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Manual Registration , Concept
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):9083-40-3, 12680-17-0, 37211-47-5, 39289-06-0, 52504-14-0, 52504-15-1, 53239-78-4, 56274-30-7, 59217-36-6, 59217-37-7, 60098-73-9, 60120-79-8, 66455-12-7, 68511-57-9, 68908-63-4, 76090-65-8, 113285-15-7, 118997-72-1, 147826-40-2, 155421-87-7, 164715-41-7, 196623-73-1, 206565-96-0
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:68130-47-2
+FIELD CA Index Name:Poly(oxy-1,2-ethanediyl), α-hydro-ω-hydroxy-, mono-C8-10-alkyl ethers, phosphates
+FIELD Other Names:
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Polymer , Manual Registration , Generic Registration
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):68585-35-3
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:68071-95-4
+FIELD CA Index Name:Quaternary ammonium compounds, ethylbis(hydroxyethyl)tallow alkyl, ethoxylated, Et sulfates (salts)
+FIELD Other Names:Adogen 66; Ammoeng 102; Crodaquat TES; Crodaquat TES-NV-LQ-MH; Ethoxylated ethylbis(hydroxyethyl)tallow alkylammonium Et sulfates (salts); Ethylbis(hydroxyethyl)tallow alkylammonium Et sulfates (salts), ethoxylated; IL 66; Tego IL-T 16ES; Tetraalkylammonium compounds, ethylbis(hydroxyethyl)tallow alkyl, ethoxylated, Et sulfates (salts); Varstat 66
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Polymer , Manual Registration , Concept
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):68139-31-1, 68188-08-9, 68953-62-8, 307314-58-5, 864467-27-6, 1000069-47-5, 2025376-56-9
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:68037-74-1
+FIELD CA Index Name:Siloxanes and Silicones, di-Me, polymers with Me silsesquioxanes
+FIELD Other Names:Silsesquioxanes, Me, polymers with di-Me siloxanes
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Polymer , Manual Registration , Concept
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:68037-05-8
+FIELD CA Index Name:Poly(oxy-1,2-ethanediyl), α-sulfo-ω-hydroxy-, C6-10-alkyl ethers, ammonium salts
+FIELD Other Names:
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Polymer , Manual Registration , Generic Registration
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):68585-33-1
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:68002-96-0
+FIELD CA Index Name:Alcohols, C16-18, ethoxylated propoxylated
+FIELD Other Names:Adekatol LG 299; Alcs., C16-18, ethoxylated propoxylated; Alkoxy alcohols, C16-18, ethoxylated propoxylated; Alkoxy alcs., C16-18, ethoxylated propoxylated; B 2050-01B; B 2050-01C; B 2050-01F; Bublex 250; Buckman 2349; C16-18 alcs., ethoxylated propoxylated; Ethoxylated alcohols, C16-18, ethoxylated propoxylated; Ethoxylated cetostearyl alcohols, propoxylated; Eumulgin L; LG 299; RD 168369; Wettol LF 700
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Manual Registration , Concept
+FIELD Editor Note(s):
+FIELD Definition Field:This substance is identified by SDA Substance Name:  C16-C18 alkyl alcohol ethoxylate propoxylate and SDA Reporting Number:  19-070-00.  Consult SDA Substance Identification Procedure.
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):101802-11-3
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:67784-80-9
+FIELD CA Index Name:Soybean oil, Me ester
+FIELD Other Names:AEP 102; Agnique 2237; Agriplast; Aureo; Aureo EC 720; Kemester 226; Rizo Oil; Soy Clean; SoyGold 1000; SoyGold 1100; SoyGold 1500; SoyGold 2000; SoyGold 2500; Soybean oil, Me esters; Soybiodiesel B 100; Steposol SB-D; Steposol SB-W; Teksol E-SME
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Manual Registration , Concept
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):1151810-52-4
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:67762-90-7
+FIELD CA Index Name:Siloxanes and Silicones, di-Me, reaction products with silica
+FIELD Other Names:
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Polymer , Manual Registration , Concept
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:67762-38-3
+FIELD CA Index Name:Fatty acids, C16-18 and C18-unsatd., Me esters
+FIELD Other Names:Ecosorb AP 3N; Emerest 2219; Emery 2231; Soyclear 1500
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Manual Registration , Concept
+FIELD Editor Note(s):
+FIELD Definition Field:This substance is identified by SDA Substance Name:  C16-C18 and C18 unsaturated alkyl carboxylic acid methyl ester and SDA Reporting Number:  11-010-00.  Consult SDA Substance Identification Procedure.
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):953049-62-2
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:67762-19-0
+FIELD CA Index Name:Poly(oxy-1,2-ethanediyl), α-sulfo-ω-hydroxy-, C10-16-alkyl ethers, ammonium salts
+FIELD Other Names:Alcohol ethoxysulfate (ammonium salt)
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Polymer , Manual Registration , Generic Registration
+FIELD Editor Note(s):
+FIELD Definition Field:This substance is identified by SDA Substance name:  C10-C16 alkyl (alcohol) ethoxylate sulfuric acid ammonium salt and SDA Reporting Number:  15-067-01.  Consult SDA Substance Identification Procedure.
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+

@@ -1,0 +1,484 @@
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:124465-55-0
+FIELD CA Index Name:Methanone, (2a,3-dihydrobenz[cd]indol-1(2H)-yl)phenyl-
+FIELD Other Names:Benz[cd]indole, 1-benzoyl-1,2,2a,3-tetrahydro- (9CI); Benz[cd]indole, 1-benzoyl-1,2,2a,3-tetrahydro-, (±)-; (2a,3-Dihydrobenz[cd]indol-1(2H)-yl)phenylmethanone; 1-Benzoyl-1,2,2a,3-tetrahydrobenz[cd]indole
+FIELD Formula:C18 H15 N O
+FIELD Alternate Formula:
+FIELD Class Identifier:
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):51867-05-1, 198195-66-3
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:52503-47-6
+FIELD CA Index Name:Oxirane, 2-methyl-, polymer with oxirane, 1,2-ethanediylbis(nitrilodialkylene) ether
+FIELD Other Names:Oxirane, methyl-, polymer with oxirane, 1,2-ethanediylbis(nitrilodialkylene) ether (9CI); Oxirane, polymer with methyloxirane, 1,2-ethanediylbis(nitrilodialkylene) ether (9CI); 450ED; Adeka 25TR913R; EDA 4000-20; EL 450ED; Ethoxylated propoxylated ethylenediamine; Ethylene oxide-propylene oxide copolymer ether with ethylenediamine; Ethylenediamine-propylene oxide-ethylene oxide copolymer; Excenol 450ED; Excenol EX 450ED; Genapol PN 30; Jeffol A 800; Lutensol ED 310; Lutensol ED 370; Multranol E 9181; NL 500; NL 500 (polyoxyalkylene); Polyoxypropylene polyoxyethylene ethylenediamine; Proxamine 385; Tetronic 1120; Unilube 32TY650KB
+FIELD Formula:Unspecified
+FIELD Alternate Formula:
+FIELD Class Identifier:Polymer , Component , Manual Registration
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):26316-40-5
+FIELD Deleted Registry Number(s):9009-43-2, 37199-68-1, 37339-92-7, 52907-72-9, 68518-27-4, 223504-19-6, 348085-68-7, 478305-36-1
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:27193-28-8
+FIELD CA Index Name:Phenol, (1,1,3,3-tetramethylbutyl)-
+FIELD Other Names:Phenol, octyl- (8CI); (1,1,3,3-Tetramethylbutyl)phenol; Octylphenol; tert-Octylphenol
+FIELD Formula:C14 H22 O
+FIELD Alternate Formula:
+FIELD Class Identifier:Incompletely Defined Substance , Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):1322-69-6, 29932-96-5, 30105-54-5, 62744-41-6, 209859-96-1
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:26952-21-6
+FIELD CA Index Name:Isooctanol
+FIELD Other Names:Isooctyl alcohol (6CI,7CI,8CI); Exxal 8
+FIELD Formula:C8 H18 O
+FIELD Alternate Formula:
+FIELD Class Identifier:Incompletely Defined Substance , Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):1341-41-9, 8031-46-7
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:26952-14-7
+FIELD CA Index Name:Hexadecene
+FIELD Other Names:Hexadecylene; n-Hexadecene
+FIELD Formula:C16 H32
+FIELD Alternate Formula:
+FIELD Class Identifier:Incompletely Defined Substance , Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):120522-44-3
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:26677-99-6
+FIELD CA Index Name:2-Propenoic acid, polymer with 2,5-furandione
+FIELD Other Names:Maleic anhydride, polymer with acrylic acid (8CI); 2,5-Furandione, polymer with 2-propenoic acid (9CI); Acrylic acid, polymer with maleic anhydride (8CI); Acrodur 958D; Acrylic acid-2,5-furandione copolymer; Acrylic acid-maleic anhydride copolymer; Acrylic acid-maleic anhydride polymer; B 52; B 52 (acrylic polymer); Chinatan TM; EMH 138; Maleic acid anhydride-acrylic acid copolymer; Maleic anhydride-acrylic acid copolymer; NSC 124031
+FIELD Formula:(C4 H2 O3 . C3 H4 O2)x
+FIELD Alternate Formula:
+FIELD Class Identifier:Polymer , Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):221347-90-6, 1187573-66-5
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:26183-52-8
+FIELD CA Index Name:Poly(oxy-1,2-ethanediyl), α-decyl-ω-hydroxy-
+FIELD Other Names:Alfonic 10/8; Alkasurf DA 3; Biodac 39; Biodac 59; Blaunon EL 1303; C10E10; Cemulsol 860; Chemal DA 4; Conion N 100; Conion N 30; Conion N 60; DeSonic DA 4; DeSonic DA 6; Decanol E3; Deceth; Deceth 10; Deceth 4; Deceth 5; Deceth 6; Deceth 8; Deceth 9; Decyl poly(oxyethylene) ether; Dehydol D 3; Empilan KAS; Emulgin BL 309; Emulphogene DA 630; Enazol DE 4; Enazol ODE 4; Ethal DA 4; Ethal DA 6; Ethoxylated Kalcohl 1098; Ethoxylated decanol; Ethoxylated decyl alcohol; Ethylan 1003; Eumulgin BL 589; Findet 10/15; Findet SE 2249; Finesurf D 1303; Finesurf D 1305; Finesurf D 1307; Finesurf D 1310; Finesurf EL 1303; Greenbentin DE 060; Greenbentin DE 080; H 1110; Iconol DA 4; Iconol DA 9; Ifralan X 1008L; Imbentin 91/35; Imbentin AG 100/040; Imbentin E 100/100; KX-NS 12030; Karawet LOG; LD 654-15; Lauropal 0205; Lutensol ON 110; Lutensol ON 50; Lutensol XL 89; Lutensol XL 99; Makon DA 4; Makon DA 6; Marlox K 158; Noigen SD 400; Noigen SD 70; Noigen XL 1000; Noigen XL 160; Noigen XL 50; Oxetal D 104; PEG decyl ether; Poly(oxyethylene) decyl ether; Poly(oxyethylene) monodecyl ether; Polyethylene glycol 1-decanol monoether; Polyethylene glycol decyl ether; Polyethylene glycol decyl monoether; Polyethylene glycol monodecyl ether; Polyethylene oxide decyl ether; Renex KB; SD 70; SXS; Sanmorin 11; Teric 460; Trycol 5950; Trycol 5953; Trycol 5956; Trycol DA 4; Trycol DA 6; Unifroth 0520; α-Decyl-ω-hydroxy-poly(oxyethylene)
+FIELD Formula:(C2 H4 O)n C10 H22 O
+FIELD Alternate Formula:
+FIELD Class Identifier:Polymer , Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):32168-77-7, 32238-49-6, 70595-16-3, 85946-32-3, 124449-60-1, 184306-23-8, 220880-96-6, 503027-84-7, 635727-49-0, 848146-74-7, 2101835-93-0
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:26172-55-4
+FIELD CA Index Name:3(2H)-Isothiazolone, 5-chloro-2-methyl-
+FIELD Other Names:4-Isothiazolin-3-one, 5-chloro-2-methyl- (8CI); 5-Chloro-2-methyl-3(2H)-isothiazolone; 2-Methyl-5-chloro-3-isothiazolone; 2-Methyl-5-chloroisothiazolin-3-one; 5-Chloro-2-methyl-2H-isothiazol-3-one; 5-Chloro-2-methyl-2H-isothiazolin-3-one; 5-Chloro-2-methyl-3(2H)-isothiazolinone; 5-Chloro-2-methyl-3-isothiazolone; 5-Chloro-2-methyl-4-isothiazolin-3-one; 5-Chloro-2-methyl-4-isothiazoline-3-ketone; 5-Chloro-2-methylisothiazolin-3-one; 5-Chloro-N-methylisothiazolin-3-one; 5-Chloro-N-methylisothiazolone; A 33; A 33 (bactericide); Bioace; CIT; CMIT; HS 818; HS 818 (antiseptic); Kathon CG 5243; Kathon IXE; Methylchloroisothiazolinone; N-Methyl-5-chloroisothiazolin-3-one; N-Methyl-5-chloroisothiazolone; T 360; XL 2; XL 2 (bactericide)
+FIELD Formula:C4 H4 Cl N O S
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):137086-87-4, 137662-59-0
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:26100-51-6
+FIELD CA Index Name:Propanoic acid, 2-hydroxy-, homopolymer
+FIELD Other Names:Lactic acid, polymers (8CI); (±)-2-Hydroxypropanoic acid homopolymer; (±)-Lactic acid homopolymer; (±)-Poly(lactic acid); 2-Hydroxypropanoic acid homopolymer; D,L-polylactic acid; DL-Lactic acid homopolymer; DL-Lactic acid polymer; DL-Polylactic acid; Lactates, polylactates; Lactic acid homopolymer; Lactic acid polymer; Lactic acid, polyesters; NeoOrtho; PLA; Poly(DL-lactic acid); Poly(dl-lactate); Poly(dl-lactic acid); Poly(lactic acid); Polylactate; Polylactates; Polylactic acid
+FIELD Formula:(C3 H6 O3)x
+FIELD Alternate Formula:
+FIELD Class Identifier:Polymer , Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):31587-11-8, 947236-64-8, 1104201-86-6, 1148011-07-7, 1384255-85-9
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:26099-09-2
+FIELD CA Index Name:2-Butenedioic acid (2Z)-, homopolymer
+FIELD Other Names:2-Butenedioic acid (Z)-, homopolymer; Maleic acid, polymers (8CI); Accent T 1107; Acumer 4200; Aron A 6510; Bel 200 premix; Belclene 200; Belclene 200LA; Belclene 710; DP 3328; Dequest P 9000; Maleic acid homopolymer; Maleic acid polymer; Nonpol PMA 50W; Nonpol PWA 50W; Poly(maleic acid); SH 150
+FIELD Formula:(C4 H4 O4)x
+FIELD Alternate Formula:
+FIELD Class Identifier:Polymer , Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):31050-04-1, 1253590-15-6, 1393887-65-4, 1431524-06-9
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:26062-79-3
+FIELD CA Index Name:2-Propen-1-aminium, N,N-dimethyl-N-2-propen-1-yl-, chloride (1:1), homopolymer
+FIELD Other Names:2-Propen-1-aminium, N,N-dimethyl-N-2-propenyl-, chloride, homopolymer (9CI); Ammonium, diallyldimethyl-, chloride, polymers (8CI); 187KH; 261LV; AC 7304; ATC 6140; AX 04; AX 05; AX 05 (polymer); Accepta 2058; Additol VXT 3529; Agefloc WT 20; Agefloc WT 20VHV; Agefloc WT 2206; Agefloc WT 2206-1800; Agefloc WT 35VHV; Agefloc WT 35VLV; Agefloc WT 40; Agefloc WT 40HV; Agefloc WT 40SLV; Agefloc WT 50SLV; Agequat 400; Alcofix 109; Alcofix 110; Alcofix 111; Alcofix 132; Alcofix 159; Alcofix 161; Alcofix 169; Alcofix 182; Alcofix 269; Alcofix 4200; Amerfloc 487; Aquaserv AQ 299; Aronfloc C 70; Auxipon DD 25; B 535; Bufloc 536; Bufloc B 535; CM 100; CM 100 (onium compound); CP 103; CP 1030; CP 105; CP 261; CP 261LV; CP 280; CV 3650; CV 3750; Calgon 261; Calgon 261LV; Calgon 261RV; Calgon CP 1030; Calgon CP 2253; Calgon CP 261XLV; Calgon CP 280; Calgon DMDACC; Calgon E 904; Calgon E 905; Calgon E 921; Calgon Polymer 261; Cartafix VXT; Cartafix VXU; Cartafix VXZ; Cat-Floc; Cat-Floc 71259; Cat-Floc 8102 Plus; Cat-Floc 8108 Plus; Cat-Floc 8799 Plus; Cat-Floc L; Cat-Floc P 112-115; Cat-Floc T 2; Cat-Floc TL; Catiofast BP; Catiofast CS; Catiofast LF Resin DA; Certrex 340; CinFix RDF; Conductive Polymer 261; Croscolor NOFF; Cysep 4022; Cysep 4023; DADMAC homopolymer; DADMAC polymer; DB 45; DB 45VHM; DC 303P; DC 902; DC 902P; DEV 120; DEV 120 (coagulant); DP/CR 2833A; Daidol EC 004; Danfix 707; Danfix F; Diallyldimethylammonium chloride homopolymer; Diallyldimethylammonium chloride polymer; Diallyldimethylammonium chloride-Desmodur 100-Zircosol AC 7 copolymer; Dimethyldiallylammonium chloride homopolymer; Dimethyldiallylammonium chloride polymer; Drewfloc 462; E 261; EC 004; ECCat 2020; EXP-S 192; Eka ATC 6140; FL 4520; FL 45DL; FL 4820; FPA 1000L; FPA 1002L; FPA 100L; Fennofix 40; Fennofix 41; Flo-Beads DB 45SH; Floc 572; Flockstar LD 54; Floerger DB 45; Floerger DB 45SH; Floerger FL 45C; Floerger FL 45CLV; Floquat 4440; Floquat FL 4245; Floquat FL 4440; Floquat FL 4540; Floquat FL 4550; Floquat FL 45C; Floraquatgel; Gen Floc F 71100; Genamin PDAC; Glascol F 207; HOE-S 3529; HP 126A; Highholder 604; Hydraid 2010; Hydraid 2020; Hydrex 6761; Hydrex 6783; Hyperfloc CP 626; Induquat ECR 35L; Jayfloc 842; KR-C 2570; KZ 106K; KZ 63K; KlarAid PC 1192P; Kufloc 100D; Kufloc 200D; Kufloc 300D; Kufloc 400D; L 124; LT 35; LY 1420; Lectrapel; M 40176; ME Polymer H 40W; Mackernium 006; Magnafloc 1697; Magnafloc 368; Magnafloc LT 35; Magnafloc LT 37; Magnafloc LT525; Magnifloc 585C; Magnifloc 587C; Magnifloc 589C; Magnifloc 591C; Makoto 100; Merck 261; Merquat 100; Merquat 100 Dry; Merquat 106; Merquat 200; Milfloc V 27; Mirapol 100; Mirapol 100S; Mobil ED 87/04; N 2020; N 5200; N,N-Diallyl-N,N-dimethylammonium chloride homopolymer; N,N-Dimethyl-N,N-diallylammonium chloride homopolymer; Nalco 2010; Nalco 2020; Nalco 71259; Nalco 8102 Plus; Nalco 8103 Plus; Nalco 8108 Plus; Nalco 8799 Plus; Nalco 8799LS; Nalco CP 261; Nalco LS; Nalkat 2020; Nalkat 7532; Nalkat 8108 Plus; Nisshinfloc D 95; PAS 10L; PAS-H 10; PAS-H 10L; PAS-H 1L; PAS-H 35L; PAS-H 35S; PAS-H 5L; PAS-H 8L; PBK 1; PBK 1 (quaternary compound); PCL 2; PDADMAC; PDDA; PDMDAAC; PDMDAC 50; PKB 1; PRP 4420; PRP 4440; PRP 4520; Pearl River Polymer 4440; Pearl River Polymer 4540; Percol 1620; Percol 1697; Percol 368; Percol 406; Percol 406F; Perform 8717; Poly(N,N-diallyl-N,N-dimethylammonium chloride); Poly(N,N-dimethyldiallylammonium chloride); Poly(N,N'-dimethyl-N,N'-diallylammonium chloride); Poly(N,N'-dimethyldiallylammonium chloride); Poly(diallydimethylammonium chloride); Poly(diallyldimethylammonium chloride); Poly(diallyldimethyldiammonium chloride); Poly(dimethyldiallylammonium chloride); Poly-DMDAAC; PolyDADMAC; Polydadmac 570; Polydadmac RB 2329; Polymer 261; Polymer 261LV; Polypure C 318; Polyquart FDI; Polyquat 40U05; Polyquat 40U05NV; Polyquat 40U10; Polyquat 40U50A; Polyquaternium 6; Ponilit CP 1; Praestol 186K; Praestol 186KH; Praestol 187K; Praestol 187KH; Praestol 40176; Quaternium 40; RB 2329; Reten 203; SC 100; SD 4610; SD 46104; SDDACC; Salcare SC 30; Sedipur CL 920; Shallol 902P; Shallol DC 303P; Shallol DC 402P; Shallol DC 902; Shallol DC 902P; Shallol DC 905P; Suiflock SR 2000; Superfloc 587C; Superfloc 591C; Superfloc C 587; Superfloc C 591; T 732; Taipolymer TC 7400; Tramfloc 552; Tramfloc 635; Tramfloc 723; UNICENCE FPA 1000L; Unisence CP 102; Unisence CP 103; Unisence CP 104; Unisence CP 105; Unisence CP 108; Unisence CP 95; Unisence FPA 1000L; Unisence FPA 1001L; Unisence FPA 1002L; Unisence FPA 100L; Unisence FPA 101L; Unisence FPA 700E; Unisence KZ 63K; VPK 402; Varikem 110; WT 35VHV; WWT-CS 40; Zetag 7122; Zetag 7125; Zetag 7127; Zetag 7131
+FIELD Formula:(C8 H16 N . Cl)x
+FIELD Alternate Formula:
+FIELD Class Identifier:Polymer , Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):9072-48-4, 37293-23-5, 37317-00-3, 37353-76-7, 58252-33-8, 58829-44-0, 63661-21-2, 69431-41-0, 93357-85-8, 114355-07-6, 116811-08-6, 116811-31-5, 117989-81-8, 118998-00-8, 119310-15-5, 125148-30-3, 125148-31-4, 128665-21-4, 139351-49-8, 141092-78-6, 143477-08-1, 152059-59-1, 152689-87-7, 153891-18-0, 182893-02-3, 188596-41-0, 202289-61-0, 245064-24-8, 253594-29-5, 261769-43-1, 398138-41-5, 477780-87-3, 528837-66-3, 532994-19-7, 692756-06-2, 847780-23-8, 876313-84-7, 917234-25-4, 936717-87-2, 951320-67-5, 951773-82-3, 1005485-49-3, 1005486-36-1, 1042439-12-2, 1246954-92-6, 1346504-64-0, 1346504-65-1, 1397285-77-6, 1604836-01-2, 2235366-11-5
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:10468-95-8
+FIELD CA Index Name:Tyrosine, O-[4-hydroxy-3-(2-methylpropyl)phenyl]-3,5-diiodo-
+FIELD Other Names:Alanine, 3-[4-(4-hydroxy-3-isobutylphenoxy)-3,5-diiodophenyl]-, DL- (8CI); DL-Tyrosine, O-[4-hydroxy-3-(2-methylpropyl)phenyl]-3,5-diiodo-; O-[4-Hydroxy-3-(2-methylpropyl)phenyl]-3,5-diiodotyrosine; 3'-Isobutyl-3,5-diiodothyronine
+FIELD Formula:C19 H21 I2 N O4
+FIELD Alternate Formula:
+FIELD Class Identifier:
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):35152-74-0
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:2690-05-3
+FIELD CA Index Name:Pentane, 1,1,1,2,2,3,4,4,5,5,5-undecafluoro-3-(1,1,2,2,2-pentafluoroethyl)-
+FIELD Other Names:Pentane, 1,1,1,2,2,3,4,4,5,5,5-undecafluoro-3-(pentafluoroethyl)- (9CI); Pentane, undecafluoro-3-(pentafluoroethyl)- (7CI,8CI); 1,1,1,2,2,3,4,4,5,5,5-Undecafluoro-3-(1,1,2,2,2-pentafluoroethyl)pentane; 3-(Pentafluoroethyl)undecafluoropentane; Perfluoro-3-ethylpentane
+FIELD Formula:C7 F16
+FIELD Alternate Formula:
+FIELD Class Identifier:
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:2682-20-4
+FIELD CA Index Name:3(2H)-Isothiazolone, 2-methyl-
+FIELD Other Names:4-Isothiazolin-3-one, 2-methyl- (7CI,8CI); 2-Methyl-3(2H)-isothiazolone; 2-Methyl-2H-isothiazol-3-one; 2-Methyl-2H-isothiazolin-3-one; 2-Methyl-3(2H)-isothiazolinone; 2-Methyl-3-isothiazolone; 2-Methyl-4-isothiazolin-3-one; 2-Methyl-4-isothiazoline-3-ketone; 2-Methyl-4-isothiazoline-3-one; Acticide M 10; Acticide M 20; Bestcide 600; KB 838; Kathon CG 243; Kordek 50; Kordek 50C; Kordek 573F; Kordek LX 5000; Kordek MLX; MIT; MIT (biocide); MIT 10; MIT 950; MT 10; Methylisothiazolinone; Microcare MT; N-Methylisothiazolin-3-one; N-Methylisothiazolone; Neolone; Neolone 950; Neolone CapG; Neolone M 10; Neolone M 50; Neolone PE; Optiphen MIT; ProClin 5000; ProClin 950; SPX; ZONEN-MT 10; Zonen MT
+FIELD Formula:C4 H5 N O S
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):125794-71-0, 184720-17-0, 1610617-47-4
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:2680-03-7
+FIELD CA Index Name:2-Propenamide, N,N-dimethyl-
+FIELD Other Names:Acrylamide, N,N-dimethyl- (6CI,7CI,8CI); N,N-Dimethyl-2-propenamide; DMAA; DMAC; N,N-Dimethylacrylamide; N,N-Dimethylpropenamide; NSC 32613; NSC 35191
+FIELD Formula:C5 H9 N O
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):68761-83-1, 1196872-91-9
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:2673-22-5
+FIELD CA Index Name:Butanedioic acid, 2-sulfo-, 1,4-ditridecyl ester, sodium salt (1:1)
+FIELD Other Names:Butanedioic acid, sulfo-, 1,4-ditridecyl ester, sodium salt (9CI); Succinic acid, sulfo-, 1,4-ditridecyl ester, sodium salt (8CI); Succinic acid, sulfo-, ditridecyl ester, S-sodium salt (7CI); Succinic acid, sulfo-, ditridecyl ester, sodium salt (6CI); Aerosol TR; Aerosol TR 70; Aerosol TR 70HG; Aerosol TR-AM; Bis(tridecyl) sodiosulfosuccinate; Bis(tridecyl) sodium sulfosuccinate; Ditridecyl sodiosulfosuccinate; Ditridecyl sodium sulfosuccinate; Edaplan LA 451; LA 451; Monawet MT; Monawet MT 70; NSC 7783; Pelex TRB; Pionin A 51TS; Sodium 1,4-ditridecyl sulfosuccinate; Sodium bis(tridecyl) sulfosuccinate; Sodium ditridecanylsulfosuccinate; Sodium ditridecyl sulfosuccinate; Sodium ditridecyl sulfosuccinate salt; Sodium tridecyl sulfosuccinate; Sulfosuccinic acid bis(tridecyl) ester sodium salt; TR 70
+FIELD Formula:C30 H58 O7 S . Na
+FIELD Alternate Formula:
+FIELD Class Identifier:
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):52624-82-5, 1174678-13-7
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:2634-33-5
+FIELD CA Index Name:1,2-Benzisothiazol-3(2H)-one
+FIELD Other Names:1,2-Benzisothiazolin-3-one (6CI,7CI,8CI); 1,2-Benzisothiazol-3-one; 1,2-Benzisothiazolone; 1,2-Benzoisothiazol-3-one; 2,3-Dihydrobenzisothiazol-3-one; 3-Hydroxy-1,2-benzisothiazole; AQ; AQ (antibacterial); Acticide B 20; Acticide B 20N; Acticide BIT; Acticide BW 20; Apizas AP-DS; B 20; BIT; BIT 10W; BIT 20; BIT 20LE; Benzisothiazolin-3-one; Benzisothiazolinone; Benzisothiazolone; Benzo[d]isothiazol-3(2H)-one; Benzocil; Benzoisothiazol-3-one; Bestcide 200K; Bioban BIT 20DPG; Bioban Ultra BIT 20; Bioban Ultra Bit; Canguard BIT; Canguard BIT 20AS-E; Canguard BIT 20DPG; Canguard Ultra BIT 20LE; Colipa P 96; Denicide BIT; Denicide BIT 20N; GXL; Koralone B 119; Mergal 753; Microcave BIT; Nipacide BIT; Nipacide BIT 10W; Nipacide BIT 20; Nuosept 485; Nuosept 491; Nuosept 495; Nuosept BIT Technical; Parmetol B 70; Parmetol D 11; Preventol BIT 20D; Promex 20D; Proxel AB; Proxel AQ; Proxel BD; Proxel BD 20; Proxel BDN; Proxel CF; Proxel GXL; Proxel GXL(S); Proxel HL 2; Proxel LV; Proxel LV-S; Proxel PL; Proxel Press Paste; Proxel Press Paste D; Proxel TN; Proxel Ultra 5; Proxel XL; Proxel XL 2; Rocima 640; SD 202; SD 202 (bactericide); San-aibac AP; Topcide 600; Troysan 1050; XBINX
+FIELD Formula:C7 H5 N O S
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):40991-37-5, 54392-14-2, 75037-67-1, 101964-01-6, 552320-00-0, 919284-21-2, 934197-15-6, 1094749-54-8, 1148150-72-4, 1376937-61-9, 1399460-92-4, 1813531-93-9
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:533-74-4
+FIELD CA Index Name:2H-1,3,5-Thiadiazine-2-thione, tetrahydro-3,5-dimethyl-
+FIELD Other Names:Tetrahydro-3,5-dimethyl-2H-1,3,5-thiadiazine-2-thione; 2-Thio-3,5-dimethyltetrahydro-1,3,5-thiadiazine; 3,5-Dimethyl-2-thionotetrahydro-1,3,5-thiadiazine; 3,5-Dimethyltetrahydro-1,3,5-2H-thiadiazine-2-thione; 3,5-Dimethyltetrahydro-1,3,5-thiadiazine-2-thione; 3,5-Dimethyltetrahydro-2H-1,3,5-thiadiazine-2-thione; AMA 424; Basamid; Basamid G; Basamid Granular; Basamid P; Basamid-Puder; Busan; Busan 1058; Crag 85W; Crag 974; D 35; DMTT; Dazomet; Dimethylformocarbothialdine; Fennosan B 100; Metasol D 3TA; Mylone; Mylone 85; N 521; NSC 4737; Nalco 5787; Nalcon 243; Nefusan; Nuosept S; Stauffer N 521; Tetrahydro-2H-3,5-dimethyl-1,3,5-thiadiazine-2-thione; Tetrahydro-3,5-dimethyl-1,3,5-thiadiazin-2-thione; Tetrahydro-3,5-dimethyl-2H-1,3,5-thiodiazin-2-thione; Thiazon; Thiazone; UCC 974
+FIELD Formula:C5 H10 N2 S2
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):55146-10-6, 1135442-80-6
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:267-56-1
+FIELD CA Index Name:Benzo[1,2-b:5,4-b']difuran
+FIELD Other Names:
+FIELD Formula:C10 H6 O2
+FIELD Alternate Formula:
+FIELD Class Identifier:Ring Parent
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):
+FIELD Source of Registration:
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:116-53-0
+FIELD CA Index Name:Butanoic acid, 2-methyl-
+FIELD Other Names:Butyric acid, 2-methyl- (6CI,8CI); Butyric acid, α-methyl- (3CI); 2-Methylbutanoic acid; (±)-2-Methylbutanoic acid; (±)-2-Methylbutyric acid; (±)-Methylethylacetic acid; (±)-α-Methylbutyric acid; 2-Ethylpropanoic acid; 2-Methyl-n-butyric acid; 2-Methylbutyric acid; Active valeric acid; DL-2-Methylbutanoic acid; DL-2-Methylbutyric acid; DL-α-Methylbutyric acid; Ethylmethylacetic acid; Hydroangelic acid; Methylethylacetic acid; NSC 7304; α-Methyl-n-butyric acid; α-Methylbutyric acid
+FIELD Formula:C5 H10 O2
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):600-07-7
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:107-21-1
+FIELD CA Index Name:1,2-Ethanediol
+FIELD Other Names:Ethylene glycol (8CI); Glycol (6CI,7CI); 1,2-Dihydroxyethane; 1,2-Ethylene glycol; 146AR; 2-Hydroxyethanol; Dowtherm SR 1; E 600; E 600 (glycol); Ethylene alcohol; Ethylene dihydrate; Fridex; Glycol alcohol; Glysil GS; MEG 100; Macrogol 400 BPC; Monoethylene glycol; NSC 93876; Norkool; Ramp; Tescol; Ucar 17; Union Carbide XL 54 Type I De-icing Fluid; Zerex
+FIELD Formula:C2 H6 O2
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):37221-95-7, 71767-64-1, 1371582-33-0, 2088100-90-5
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
+START_RECORD
+FIELD Database:CAS REGISTRY
+FIELD Copyright:Copyright (C) 2019 American Chemical Society (ACS). All Rights Reserved.
+FIELD Registry Number:67-56-1
+FIELD CA Index Name:Methanol
+FIELD Other Names:Bieleski's solution; Carbinol; Methanol cluster; Methyl alcohol; Methyl hydroxide; Methylol; Monohydroxymethane; NSC 85232; Solutions, Bieleski's; Wood alcohol
+FIELD Formula:C H4 O
+FIELD Alternate Formula:
+FIELD Class Identifier:Component
+FIELD Editor Note(s):
+FIELD Definition Field:
+FIELD Alternate Registry Number(s):
+FIELD Deleted Registry Number(s):54841-71-3, 1173023-83-0
+FIELD Source of Registration:CA
+FIELD Sequence Length:
+FIELD Sequence:
+FIELD Accession Number:
+FIELD Version Number:
+FIELD Definition:
+FIELD Organism:
+END_RECORD
+
