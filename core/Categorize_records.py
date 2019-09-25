@@ -21,9 +21,11 @@ class Categorize_CAS():
     Phase I:    Find records which match CAS authority. 
     Phase II:   Mark the records that are explicitly labeled with some form
                 of 'proprietary' (explicitly hidden) and other hidden labels
-    Phase III:  Mark records that are duplicates within a given event.  These
-                records apparently occur because of the process of translating
-                from the pdf files to the data files, and should be ignored.
+                (implicitly hidden)
+    Phase III:  Mark records that are duplicates *within* a given event.  These
+                records are apparently generated during the process of translating
+                from the pdf files to the data files, and should be ignored. 
+                There are over 70,000 of them.
     
         """
         
@@ -74,7 +76,7 @@ class Categorize_CAS():
     def phaseI(self):
         self._clean_CAS_for_comparison()
         self._mark_if_perfect_match()
-        print(f'Number of perfect matches: {self.cas_field_cat.perfect_match.sum()}')
+        print(f'Number of perfect matches from unique CAS: {self.cas_field_cat.perfect_match.sum()}')
         print(f'Total records affected:    {self.df.perfect_match.sum()}\n')
         self.df.DQ_code = np.where(self.df.perfect_match,
                                    self.df.DQ_code.str[:]+'-P',
@@ -140,7 +142,7 @@ class Categorize_CAS():
                            on='IngredientKey',how='left',validate='m:1')
 
     def phaseIII(self):
-        """ > 75000 records are duplicated within events apparently due to the
+        """ > 70000 records are duplicated within events apparently due to the
         process of converting the pdf files to the bulk download.  These duplicates
         are identifiable by their 'Supplier' and 'Purpose' fields. Here we identify
         all duplicates (by 5 fields) then flag those that have the supplier/purpose
