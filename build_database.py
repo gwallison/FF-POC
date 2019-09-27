@@ -27,7 +27,7 @@ focal_Supplier = 'halliburton' # must match exactly (lower case)
 keep_col = ['UploadKey','IngredientKey','JobEndDate','JobStartDate',
             'OperatorName','TotalBaseWaterVolume','TotalBaseNonWaterVolume',
             'APINumber','StateNumber','StateName','WellName','CountyName','CountyNumber',
-            'Latitude','Longitude','TVD','TradeName','Supplier','Purpose',
+            'Latitude','Longitude','TVD','TradeName','Supplier','Purpose','FFVersion',
             'IngredientName','CASNumber','PercentHFJob','MassIngredient',
             'ingkey','raw_filename']
 ## ------------- end User selections -----------------##
@@ -59,25 +59,26 @@ raw_stats_fn = outdir+'ff_raw_stats.txt'
 
 #### ----------    end File Handles ----------  ####
 
+raw_df = rff.Read_FF(zname=zfilename,make_pickle=make_pickle,
+                     picklefn=raw_pickle_fn).import_raw()
+if rerun_raw_stats:
+    ffstats.FF_stats(raw_df,outfn=raw_stats_fn).calculate_all()
+raw_df = raw_df[keep_col].copy()
+df = parse_raw.Parse_raw().clean_fields(raw_df)
+raw_df = None  # we are done with this monster, get it out of memory
+df = flag_ev.Flag_events().clean_events(df)
+df = cat_rec.Categorize_CAS(df=df,sources=sources,outdir=outdir).do_all()
+df = abc.Add_bg_columns(df,sources=sources).add_all_cols()
+df = proc_mass.Process_mass(df).run()    
+
 # =============================================================================
-# raw_df = rff.Read_FF(zname=zfilename,make_pickle=make_pickle,
-#                      picklefn=raw_pickle_fn).import_raw()
-# if rerun_raw_stats:
-#     ffstats.FF_stats(raw_df,outfn=raw_stats_fn).calculate_all()
-# raw_df = raw_df[keep_col].copy()
-# df = parse_raw.Parse_raw().clean_fields(raw_df)
-# raw_df = None  # we are done with this monster, get it out of memory
-# df = flag_ev.Flag_events().clean_events(df)
-# df = cat_rec.Categorize_CAS(df=df,sources=sources,outdir=outdir).do_all()
-# df = abc.Add_bg_columns(df,sources=sources).add_all_cols()
-# df = proc_mass.Process_mass(df).run()    
 # if make_pickle:
 #     print('Pickling full data set')
 #     df.to_pickle(full_pickle_fn)
 #     
+# 
+# df = pd.read_pickle(full_pickle_fn)
 # =============================================================================
-
-df = pd.read_pickle(full_pickle_fn)
 import core.Make_working_set as mws
 mws.save_master_df(df)
 df = mws.get_filtered_df(df)

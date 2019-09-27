@@ -17,11 +17,11 @@ def save_single_state(df,outdir='./out/',state='ohio'):
     df[df.bgStateName==state].to_csv(outdir+state+'_only.csv')
     
 def get_filtered_df(df,outdir = './out/',
-                    keepcodes = 'M',removecodes= 'R|1|2|4|5',all_cols=False,
+                    keepcodes = 'M|3|A',removecodes= 'R|1|2|4|5',all_cols=False,
                     col_list=['UploadKey','CASNumber','IngredientName','Purpose','OperatorName',
-                               'Supplier','MassIngredient','PercentHFJob','DQ_code',
+                               'Supplier','MassIngredient','PercentHFJob','DQ_code','FFVersion',
                                'bgCAS','bgIngredientName','bgMass','JobStartDate','date','StateName','api10',
-                               'bgSupplier','bgStateName','bgOperatorName']):
+                               'bgSupplier','bgStateName','bgOperatorName','TotalBaseWaterVolume']):
     """return filtered dataset, optionally with a subset of columns"""
     print('Creating filtered version of data set')
     if all_cols: df = df.copy()
