@@ -9,8 +9,12 @@ create a new dataframe that has only cleaned data
 and store it in the output directory as well as return it.
 """
 
+import zipfile
+
 def save_master_df(df,outdir='./out/'):
     df.to_csv(outdir+'full_df.csv')
+    with zipfile.ZipFile(outdir+'full_df.zip','w') as z:
+        z.write(outdir+'full_df.csv',compress_type=zipfile.ZIP_DEFLATED)
     
 def save_single_state(df,outdir='./out/',state='ohio'): 
     """state must be lower case"""
@@ -32,4 +36,6 @@ def get_filtered_df(df,outdir = './out/',
     if removecodes: df = df[~df.DQ_code.str.contains(removecodes)]
     print(f'  after removecodes ({removecodes}): {len(df)}')
     df.to_csv(outdir+'filtered_df.csv')
+    with zipfile.ZipFile(outdir+'filtered_df.zip','w') as z:
+        z.write(outdir+'filtered_df.csv',compress_type=zipfile.ZIP_DEFLATED)
     return df.copy()
