@@ -65,17 +65,6 @@ class Parse_raw():
                                   self.blank_label,df[col])
         return df
     
-# =============================================================================
-#     def _get_csv_df(self,fn):
-#         """ get pandas df from csv with heavy quoting """
-#         return pd.read_csv(fn,quotechar='$', quoting=csv.QUOTE_ALL,
-#                               keep_default_na=False)
-#     
-#     def _put_csv_df(self,df,fn):
-#         """ save pandas df into csv with heavy quoting """
-#         df.to_csv(fn,quotechar='$', quoting=csv.QUOTE_ALL)
-#     
-# =============================================================================
     def _createAPI10(self,raw_df):
         print('Creating api10')
         api_df = raw_df.groupby('UploadKey',as_index=False)['APINumber',

@@ -29,10 +29,10 @@ class Flag_events():
         for removal 
         from the data set we use for analysis. Keeping them in the data set would
         distort any estimates of 'presence/absence' of materials."""
-        raw_df['DQ_code'] = '0' # initialize the 'disqualifying' code field.
-        raw_df.DQ_code = np.where(raw_df.IngredientKey.isna(),
-                                  raw_df.DQ_code.str[:]+'-1',
-                                      raw_df.DQ_code)
+        raw_df['record_flags'] = '0' # initialize the 'disqualifying' code field.
+        raw_df.record_flags = np.where(raw_df.IngredientKey.isna(),
+                                  raw_df.record_flags.str[:]+'-1',
+                                      raw_df.record_flags)
         return raw_df
     
     def _flag_duplicate_events(self,raw_df):
@@ -47,15 +47,15 @@ class Flag_events():
         In this version, we are also not flagging those 'empty events' that are
         already flagged.
         """
-        t = raw_df[raw_df.DQ_code=='0'][['UploadKey','date','api10','ingkey']].copy()
+        t = raw_df[raw_df.record_flags=='0'][['UploadKey','date','api10','ingkey']].copy()
         t = t.groupby(['UploadKey','date','api10'],as_index=False)['ingkey','UploadKey'].first()
         t = t.sort_values(by='ingkey')
         t['dupes'] = t.duplicated(subset=['api10','date'],keep=False)
 
         dupes = list(t[t.dupes].UploadKey.unique())
-        raw_df.DQ_code = np.where(raw_df.UploadKey.isin(dupes),
-                                  raw_df.DQ_code.str[:]+'-2',
-                                  raw_df.DQ_code)
+        raw_df.record_flags = np.where(raw_df.UploadKey.isin(dupes),
+                                  raw_df.record_flags.str[:]+'-2',
+                                  raw_df.record_flags)
         return raw_df
     
 
@@ -63,8 +63,8 @@ class Flag_events():
         print('Finding and flagging empty and duplicate events')
         raw_df = self._flag_empty_events(raw_df)
         raw_df = self._flag_duplicate_events(raw_df)
-        empty_ev = list(raw_df[raw_df.DQ_code.str.contains('1',regex=False)].UploadKey.unique())
-        dup_ev = list(raw_df[raw_df.DQ_code.str.contains('2',regex=False)].UploadKey.unique())
+        empty_ev = list(raw_df[raw_df.record_flags.str.contains('1',regex=False)].UploadKey.unique())
+        dup_ev = list(raw_df[raw_df.record_flags.str.contains('2',regex=False)].UploadKey.unique())
         print(f'Flagged events: \n  -- empty: {len(empty_ev)}\n  -- duplicate: {len(dup_ev)}')
         return raw_df
 

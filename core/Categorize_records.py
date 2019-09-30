@@ -78,9 +78,9 @@ class Categorize_CAS():
         self._mark_if_perfect_match()
         print(f'Number of perfect matches from unique CAS: {self.cas_field_cat.perfect_match.sum()}')
         print(f'Total records affected:    {self.df.perfect_match.sum()}\n')
-        self.df.DQ_code = np.where(self.df.perfect_match,
-                                   self.df.DQ_code.str[:]+'-P',
-                                   self.df.DQ_code)
+        self.df.record_flags = np.where(self.df.perfect_match,
+                                   self.df.record_flags.str[:]+'-P',
+                                   self.df.record_flags)
         
         
 ###  Phase II - Proprietary claims and other hidden labels
@@ -99,15 +99,15 @@ class Categorize_CAS():
         self.df = pd.merge(self.df,tmp,on='CASNumber',how='left',validate='m:1')
 
     def phaseII(self):
-        """DQ_code for explicit proprietary is 3
+        """record_flags for explicit proprietary is 3
                     for non_cas_like CAS Number but with quantity = 4
                     for non_cas_like CAS Number but absent quantity = 5"""
         self._add_proprietary_column()
         print(f'Total Proprietary records= {self.df.proprietary.sum()}')
         
-        self.df.DQ_code = np.where(self.df.proprietary,
-                                   self.df.DQ_code.str[:]+'-3',
-                                   self.df.DQ_code)
+        self.df.record_flags = np.where(self.df.proprietary,
+                                   self.df.record_flags.str[:]+'-3',
+                                   self.df.record_flags)
         
         
         self._add_hiding_column()
@@ -116,14 +116,14 @@ class Categorize_CAS():
         has_quant = cond1 | cond2
         not_quant = ~has_quant
         cond3 = self.df.un_cas_like
-        self.df.DQ_code = np.where(cond3&has_quant,
-                                self.df.DQ_code.str[:]+'-4',
-                                self.df.DQ_code)
-        self.df.DQ_code = np.where(cond3&not_quant,
-                                self.df.DQ_code.str[:]+'-5',
-                                self.df.DQ_code)
-        print(f'Total Non_caslike but quant = {len(self.df[self.df.DQ_code.str.contains("4",regex=False)])}')
-#        print(f'Total Non_caslike but not quant = {len(t[t.DQ_code==5])}')
+        self.df.record_flags = np.where(cond3&has_quant,
+                                self.df.record_flags.str[:]+'-4',
+                                self.df.record_flags)
+        self.df.record_flags = np.where(cond3&not_quant,
+                                self.df.record_flags.str[:]+'-5',
+                                self.df.record_flags)
+        print(f'Total Non_caslike but quant = {len(self.df[self.df.record_flags.str.contains("4",regex=False)])}')
+#        print(f'Total Non_caslike but not quant = {len(t[t.record_flags==5])}')
         
 ### Phase III - check for ingredient duplicates within events
     def _flag_duplicated_records(self):
@@ -131,7 +131,7 @@ class Categorize_CAS():
                                        'CASNumber','MassIngredient','PercentHFJob'],
                                         keep=False)
         c0 = ~self.df.IngredientKey.isna()
-        cP = self.df.DQ_code.str.contains('P',regex=False)
+        cP = self.df.record_flags.str.contains('P',regex=False)
         dups = self.df[(self.df.dup)&(c0)&(cP)].copy()
         c1 = dups.Supplier.str.lower().isin(['listed above'])
         c2 = dups.Purpose.str.lower().str[:9]=='see trade'
@@ -146,12 +146,12 @@ class Categorize_CAS():
         process of converting the pdf files to the bulk download.  These duplicates
         are identifiable by their 'Supplier' and 'Purpose' fields. Here we identify
         all duplicates (by 5 fields) then flag those that have the supplier/purpose
-        characteristic -- DQ_code is R."""
+        characteristic -- record_flags is R."""
         self._flag_duplicated_records()
-        self.df.DQ_code = np.where(self.df.redundant_rec==True,
-                                self.df.DQ_code.str[:]+'-R',
-                                self.df.DQ_code)
-        print(f'Total redundant records flagged: {len(self.df[self.df.DQ_code.str.contains("R",regex=False)])}')
+        self.df.record_flags = np.where(self.df.redundant_rec==True,
+                                self.df.record_flags.str[:]+'-R',
+                                self.df.record_flags)
+        print(f'Total redundant records flagged: {len(self.df[self.df.record_flags.str.contains("R",regex=False)])}')
         
     def do_all(self):
         self.phaseI()

@@ -30,12 +30,12 @@ class Process_mass():
         self.upper_tolerance = 105
         self.lower_tolerance = 95
         
-        # now use DQ_code to label records that are workable
+        # now use record_flags to label records that are workable
         print('Starting the Process_mass phase')
-        self.df['ok'] = self.df.DQ_code.str.contains('P|3') # perfect match or proprietary
-        self.df.ok = np.where(self.df.DQ_code.str.contains('R|1|2|4|5'),
+        self.df['ok'] = self.df.record_flags.str.contains('P|3') # perfect match or proprietary
+        self.df.ok = np.where(self.df.record_flags.str.contains('R|1|2|4|5'),
                               False,self.df.ok)
-        self.df['no_redund'] = ~self.df.DQ_code.str.contains('R')
+        self.df['no_redund'] = ~self.df.record_flags.str.contains('R')
         print(f'Num events: {len(self.df[self.df.ok].UploadKey.unique())}')
         print(f'Total records: {len(self.df[self.df.ok])}')
         
@@ -44,7 +44,7 @@ class Process_mass():
         remove the redundant records first.  All others (including mislabled) 
         are kept in the calculation"""
         
-        cnd1 = ~self.df.DQ_code.str.contains('R')
+        cnd1 = ~self.df.record_flags.str.contains('R')
         # only remove the redundant events - keep mislabeled for total % calculation
         gb = self.df[cnd1].groupby('UploadKey', as_index=False)['PercentHFJob'].sum()
         cnts = pd.cut(gb.PercentHFJob,[0,1,10,90,95,105,110,10000])
@@ -53,9 +53,9 @@ class Process_mass():
         cl = gb.PercentHFJob<=self.upper_tolerance
         ch = gb.PercentHFJob>=self.lower_tolerance
         ulist = list(gb[cl&ch].UploadKey.unique()) # all events within tolerance
-        self.df.DQ_code = np.where(self.df.UploadKey.isin(ulist),
-                                   self.df.DQ_code.str[:]+'-%',
-                                   self.df.DQ_code)
+        self.df.record_flags = np.where(self.df.UploadKey.isin(ulist),
+                                   self.df.record_flags.str[:]+'-%',
+                                   self.df.record_flags)
         
         
     def _get_carrier_names(self):
@@ -77,7 +77,7 @@ class Process_mass():
         self.df = pd.merge(self.df,cn[['Purpose','is_carrier']],on='Purpose',how='left')
         
     def _get_total_event_mass(self):
-        cnd1 = self.df.DQ_code.str.contains('%',regex=False)
+        cnd1 = self.df.record_flags.str.contains('%',regex=False)
         cnd2 = (self.df.PercentHFJob>40) & (self.df.bgCAS=='7732-18-5') 
         cnd3 = self.df.is_carrier
         gb1 = self.df[self.df.ok & cnd1].groupby('UploadKey',as_index=False)['TotalBaseWaterVolume'].first()
@@ -101,12 +101,12 @@ class Process_mass():
                                     (self.df.PercentHFJob/100)*self.df.total_mass,
                                     np.NaN)
         
-        self.df.DQ_code = np.where((self.df.tot_wi_range)&(self.df.PercentHFJob>0),
-                                   self.df.DQ_code.str[:]+'-M',
-                                   self.df.DQ_code)
-        self.df.DQ_code = np.where(self.df.tot_wi_range,
-                           self.df.DQ_code.str[:]+'-A',
-                           self.df.DQ_code)
+        self.df.record_flags = np.where((self.df.tot_wi_range)&(self.df.PercentHFJob>0),
+                                   self.df.record_flags.str[:]+'-M',
+                                   self.df.record_flags)
+        self.df.record_flags = np.where(self.df.tot_wi_range,
+                           self.df.record_flags.str[:]+'-A',
+                           self.df.record_flags)
 
     def run(self):
         self._total_percent_within_range()

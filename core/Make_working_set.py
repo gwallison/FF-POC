@@ -25,7 +25,7 @@ def get_filtered_df(df,outdir = './out/',
                     col_list=['UploadKey','CASNumber','IngredientName',
                               'Purpose','OperatorName',
                                'Supplier','MassIngredient','PercentHFJob',
-                               'DQ_code','FFVersion',
+                               'record_flags','FFVersion',
                                'bgCAS','bgIngredientName','bgMass','JobEndDate',
                                'JobStartDate','date','StateName','api10',
                                'bgSupplier','bgStateName','bgOperatorName',
@@ -35,9 +35,9 @@ def get_filtered_df(df,outdir = './out/',
     if all_cols: df = df.copy()
     else: df = df[col_list].copy()
     print(f'Initial length:           {len(df)}')
-    if keepcodes: df = df[df.DQ_code.str.contains(keepcodes)]
+    if keepcodes: df = df[df.record_flags.str.contains(keepcodes)]
     print(f'  after keepcodes({keepcodes}):   {len(df)}')
-    if removecodes: df = df[~df.DQ_code.str.contains(removecodes)]
+    if removecodes: df = df[~df.record_flags.str.contains(removecodes)]
     print(f'  after removecodes ({removecodes}): {len(df)}')
     df.to_csv(outdir+'filtered_df.csv')
     with zipfile.ZipFile(outdir+'filtered_df.zip','w') as z:
