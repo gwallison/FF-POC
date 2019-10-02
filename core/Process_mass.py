@@ -76,14 +76,24 @@ class Process_mass():
         cn.is_carrier = cn.is_carrier&cn.is_short
         self.df = pd.merge(self.df,cn[['Purpose','is_carrier']],on='Purpose',how='left')
         
+    def _mark_singular_carriers(self):
+        """Many events mark more than one record as a carrier. While sometimes this
+        is understandable, in many cases it muddies exactly what the carrier is and
+        what its percentage is.  To keep things as simple as possible, we mark (and
+        keep) only those event with a single record labeled as carrier. 
+        
+        """
+        gb = self.df.groupby('UploadKey',as_index=False)['is_carrier'].sum() 
+        gb['singular_carrier'] = np.where(gb.is_carrier==1,True,False)
+        self.df = pd.merge(self.df,gb[['UploadKey','singular_carrier']],on='UploadKey',how='left')
+        
     def _get_total_event_mass(self):
         cnd1 = self.df.record_flags.str.contains('%',regex=False)
         cnd2 = (self.df.PercentHFJob>40) & (self.df.bgCAS=='7732-18-5') 
-        cnd3 = self.df.is_carrier
+        cnd3 = self.df.singular_carrier
         gb1 = self.df[self.df.ok & cnd1].groupby('UploadKey',as_index=False)['TotalBaseWaterVolume'].first()
-        #gb2 = self.df[self.df.no_redund & cnd1 & (cnd2 | cnd3)].groupby('UploadKey',as_index=False)['PercentHFJob'].sum()
+        # don't really need sum here as it should be a single record, but...
         gb2 = self.df[self.df.no_redund & cnd1 & cnd2 & cnd3].groupby('UploadKey',as_index=False)['PercentHFJob'].sum()
-        #print(gb1.columns, gb2.columns)
         mg = pd.merge(gb1,gb2,on='UploadKey',how='left')
         mg['carrier_mass'] = mg.TotalBaseWaterVolume * 8.3  # reporting in lbs
         mg['total_mass'] = mg.carrier_mass/(mg.PercentHFJob/100)
@@ -94,7 +104,7 @@ class Process_mass():
         records that have pres/abs.
         """
         # first limit to within reasonable range of 'carrier_mass'
-        totaldf['tot_wi_range'] = (totaldf.PercentHFJob>50) & (totaldf.PercentHFJob<=100)
+        totaldf['tot_wi_range'] = (totaldf.PercentHFJob>40) & (totaldf.PercentHFJob<=100)
         self.df = pd.merge(self.df,totaldf[['UploadKey','total_mass','tot_wi_range']],
                            on='UploadKey',how='left',validate='m:1')
         self.df['bgMass'] = np.where(self.df.tot_wi_range,
@@ -111,6 +121,7 @@ class Process_mass():
     def run(self):
         self._total_percent_within_range()
         self._get_carrier_names()
+        self._mark_singular_carriers()
         totaldf = self._get_total_event_mass()
         self._calc_all_record_masses(totaldf)
         return self.df
