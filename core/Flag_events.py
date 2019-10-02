@@ -29,7 +29,7 @@ class Flag_events():
         for removal 
         from the data set we use for analysis. Keeping them in the data set would
         distort any estimates of 'presence/absence' of materials."""
-        raw_df['record_flags'] = '0' # initialize the 'disqualifying' code field.
+        raw_df['record_flags'] = '0' # initialize the 'flag' code field.
         raw_df.record_flags = np.where(raw_df.IngredientKey.isna(),
                                   raw_df.record_flags.str[:]+'-1',
                                       raw_df.record_flags)

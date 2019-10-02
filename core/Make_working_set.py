@@ -12,6 +12,10 @@ and store it in the output directory as well as return it.
 import zipfile
 
 def save_master_df(df,outdir='./out/'):
+    # first drop temporary fields that are no longer useful
+    df.drop(['perfect_match','proprietary','un_cas_like',
+             'dup','redundant_rec','ok','no_redund','is_carrier','singular_carrier',
+             'total_mass','tot_wi_range'],axis=1,inplace=True)
     df.to_csv(outdir+'full_df.csv')
     with zipfile.ZipFile(outdir+'full_df.zip','w') as z:
         z.write(outdir+'full_df.csv',compress_type=zipfile.ZIP_DEFLATED)
@@ -32,7 +36,12 @@ def get_filtered_df(df,outdir = './out/',
                                'TotalBaseWaterVolume']):
     """return filtered dataset, optionally with a subset of columns"""
     print('Creating filtered version of data set')
-    if all_cols: df = df.copy()
+    if all_cols: 
+            # first drop temporary fields that are no longer useful
+            df.drop(['perfect_match','proprietary','un_cas_like',
+                     'dup','redundant_rec','ok','no_redund','is_carrier','singular_carrier',
+                     'total_mass','tot_wi_range'],axis=1,inplace=True)
+            df = df.copy()
     else: df = df[col_list].copy()
     print(f'Initial length:           {len(df)}')
     if keepcodes: df = df[df.record_flags.str.contains(keepcodes)]

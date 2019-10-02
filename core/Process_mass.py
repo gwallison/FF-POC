@@ -75,6 +75,9 @@ class Process_mass():
         cn['is_short'] = cn.clean.str.len()<50 # long Purposes are multiple and should be excluded
         cn.is_carrier = cn.is_carrier&cn.is_short
         self.df = pd.merge(self.df,cn[['Purpose','is_carrier']],on='Purpose',how='left')
+        self.df.record_flags = np.where(self.df.is_carrier,
+                                        self.df.record_flags.str[:]+'-C',
+                                        self.df.record_flags)
         
     def _mark_singular_carriers(self):
         """Many events mark more than one record as a carrier. While sometimes this
@@ -86,6 +89,9 @@ class Process_mass():
         gb = self.df.groupby('UploadKey',as_index=False)['is_carrier'].sum() 
         gb['singular_carrier'] = np.where(gb.is_carrier==1,True,False)
         self.df = pd.merge(self.df,gb[['UploadKey','singular_carrier']],on='UploadKey',how='left')
+        self.df.record_flags = np.where(self.df.singular_carrier,
+                                        self.df.record_flags.str[:]+'-S',
+                                        self.df.record_flags)
         
     def _get_total_event_mass(self):
         cnd1 = self.df.record_flags.str.contains('%',regex=False)
@@ -101,7 +107,7 @@ class Process_mass():
     
     def _calc_all_record_masses(self,totaldf):
         """apply 'M' to all filtered records that have mass and 'A' to all filtered
-        records that have pres/abs.
+        records that indicate presence of a chemical.
         """
         # first limit to within reasonable range of 'carrier_mass'
         totaldf['tot_wi_range'] = (totaldf.PercentHFJob>40) & (totaldf.PercentHFJob<=100)
