@@ -5,11 +5,10 @@ Created on Wed Apr 17 10:34:50 2019
 @author: GAllison
 
 This script performs the overall task of creating a FracFocus database from
-the raw excel collection and creating the outputs.
+the raw excel collection and creating the output data sets.
 
-run_modes  (edit below):  
-    1 = Create full dataset from scratch including graphs. Runs everything
-    2 = Recreate graphs from new user settings.
+Change the file handles at the top of this code to appropriate directories.
+
     
 """
 
@@ -26,10 +25,11 @@ import core.Make_working_set as mws
 
 #### -----------   File handles  -------------- ####
 
-####### folders
+####### uncomment below for local runs
 outdir = './out/'
 sources = './sources/'
 tempfolder = './tmp/'
+
 ### uncomment below for running on CodeOcean
 #outdir = '../results/'
 #sources = '../data/'
