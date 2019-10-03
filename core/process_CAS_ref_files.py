@@ -19,20 +19,10 @@ artifact of how we performed the manual searches, and is handled by the code.
 Note that 'primary name' is the name used by CAS as the main name for
 a material; it is the first entry in the list of synonyms.
 
-The resulting dictionaries are stored in python pickles in the 'out' directory.
-
-Sample use:
-    after:
-        dic = processAll(...)
-    
-    type:
-        print(dic['50-00-0'])
-    to see the "accepted" synonyms for that material (formaldehyde)
 
 """
 
 import os
-import pickle
 
 inputdir = './sources/CAS_ref_files/'
 outputdir = './out/'
@@ -80,17 +70,3 @@ def processAll(inputdir=inputdir):
     print(f'Number of CAS references collected: {len(cas_ref_dict)}')
     return(cas_ref_dict)
 
-# =============================================================================
-# def make_syn_dict(cas_ref_dict,pkl_syn=False,pklfn=None):
-#     """synonyms are currently not used in the FF_POC so pickling is a option
-#     """
-#     syndict = {}
-#     for cas in cas_ref_dict.keys():
-#         for syn in cas_ref_dict[cas]:
-#             syndict.setdefault(syn.lower(),[]).append(cas)
-#     if pkl_syn:
-#         with open(pklfn,'wb') as f:
-#             pickle.dump(syndict,f)
-#     return syndict   
-# 
-# =============================================================================
