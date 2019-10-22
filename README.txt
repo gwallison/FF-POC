@@ -30,3 +30,16 @@ By removing or cleaning the difficult data from this unique data source,
 I produce a data set that should facilitate more in-depth 
 analyses of chemical use in the fracking industry.
 
+******  Version explanation ******
+
+Version 5:  adjusted the formatting in a number of the figures in the jupyter
+  notebooks to better display x and y axes and, especially, improve the
+  log-based displays.  Some text in those notebooks was changed to reflect
+  the changes in the figures.
+
+Version 4:  added a jupyter notebook that finds the overlap between the
+  filtered FF dataset and the TEDX endocrine disruptor list.  That generated
+  list is deposited in the results section as well as html of the notebook.
+
+Version 3:  corrected a mislabeled figure (the first one) in the 
+  Summary_of_cleaned_FF_data notebook.
